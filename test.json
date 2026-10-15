@@ -1,0 +1,14 @@
+{
+  "name": "沪教牛津版七年级上册",
+  "totalWords": 3,
+  "units": [
+    {
+      "name": "Unit 1",
+      "words": [
+        {"term": "apple", "phonetic": "/ˈæp.əl/", "meaning": "苹果"},
+        {"term": "banana", "phonetic": "/bəˈnɑː.nə/", "meaning": "香蕉"},
+        {"term": "cherry", "phonetic": "/ˈtʃer.i/", "meaning": "樱桃"}
+      ]
+    }
+  ]
+}
