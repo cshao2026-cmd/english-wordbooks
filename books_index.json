@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "updated": "2026-10-16",
+  "books": [
+    {
+      "id": "0084e634",
+      "title": "人教版一年级起点五年级下",
+      "wordCount": 101,
+      "file": "books/0084e634.json"
+    },
+    {
+      "id": "afc1bc15",
+      "title": "人教版三年级起点五年级上",
+      "wordCount": 133,
+      "file": "books/afc1bc15.json"
+    },
+    {
+      "id": "9aebd6a5",
+      "title": "人教版三年级起点六年级上",
+      "wordCount": 147,
+      "file": "books/9aebd6a5.json"
+    },
+    {
+      "id": "ce6ee6e2",
+      "title": "人教版三年级起点六年级下",
+      "wordCount": 92,
+      "file": "books/ce6ee6e2.json"
+    },
+    {
+      "id": "a524d17d",
+      "title": "沪教版牛津英语九年级上册",
+      "wordCount": 262,
+      "file": "books/a524d17d.json"
+    },
+    {
+      "id": "02586999",
+      "title": "沪教版牛津英语九年级下册",
+      "wordCount": 195,
+      "file": "books/02586999.json"
+    }
+  ]
+}

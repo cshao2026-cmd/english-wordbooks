@@ -1,0 +1,564 @@
+{
+  "id": "ce6ee6e2",
+  "title": "人教版三年级起点六年级下",
+  "wordCount": 92,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "younger",
+          "phonetic": "['jʌŋɡə]",
+          "phoneticUS": "[ˈjʌŋɡər]",
+          "meaning": "n. 年纪较小者；幼辈\nadj. 较年轻的"
+        },
+        {
+          "term": "older",
+          "phonetic": "['əʊldə]",
+          "phoneticUS": "[ˈoʊldər]",
+          "meaning": "adj. 年长的；较旧的"
+        },
+        {
+          "term": "taller",
+          "phonetic": "['tɔ:lə(r)]",
+          "phoneticUS": "[ˈtɔːlər]",
+          "meaning": "adj. 更高的；高一点的"
+        },
+        {
+          "term": "shorter",
+          "phonetic": "[ʃɔːtə]",
+          "phoneticUS": "[ˈʃɔːrtər]",
+          "meaning": "adj. 较短的；更短的；更矮的（short的比较级）"
+        },
+        {
+          "term": "longer",
+          "phonetic": "[lɒŋɡə(r)]",
+          "phoneticUS": "[lɔːŋɡər]",
+          "meaning": "长的（long的比较级）"
+        },
+        {
+          "term": "thinner",
+          "phonetic": "[ˈθɪnə(r)]",
+          "phoneticUS": "[ˈθɪnər]",
+          "meaning": "adj. 较薄的；较瘦的；较细的（thin的比较级）\nn. （油漆的）稀释剂；冲淡剂；使变稀薄者，加稀料的制漆工"
+        },
+        {
+          "term": "heavier",
+          "phonetic": "['hevɪə]",
+          "phoneticUS": "[ˈhevɪərðənˈer]",
+          "meaning": "adj. 沉重的；巨大的"
+        },
+        {
+          "term": "bigger",
+          "phonetic": "[bɪgə(r)]",
+          "phoneticUS": "[bɪgə(r)]",
+          "meaning": "adj. 更大的（big的比较级）"
+        },
+        {
+          "term": "smaller",
+          "phonetic": "[smɔ:lə(r)]",
+          "phoneticUS": "[ˈsmɔːlər]",
+          "meaning": "adj. 较小，更小的"
+        },
+        {
+          "term": "stronger",
+          "phonetic": "[strɒŋgə(r)]",
+          "phoneticUS": "[strɔːŋər]",
+          "meaning": "adj. 更强壮的"
+        },
+        {
+          "term": "dinosaur",
+          "phonetic": "[ˈdaɪnəsɔː(r)]",
+          "phoneticUS": "[ˈdaɪnəsɔːr]",
+          "meaning": "n. 恐龙；过时、落伍的人或事物"
+        },
+        {
+          "term": "hall",
+          "phonetic": "[hɔːl]",
+          "phoneticUS": "[hɔːl]",
+          "meaning": "n. 过道，门厅，走廊；会堂；食堂；学生宿舍；大厅，前厅；娱乐中心，会所"
+        },
+        {
+          "term": "metre",
+          "phonetic": "[ˈmiːtə(r)]",
+          "phoneticUS": "[ˈmiːtər]",
+          "meaning": "n. 米；公尺；韵律"
+        },
+        {
+          "term": "meter",
+          "phonetic": "[ˈmiːtə(r)]",
+          "phoneticUS": "[ˈmiːtər]",
+          "meaning": "n. 米；仪表；[计量] 公尺；韵律\nvt. 用仪表测量\nvi. 用表计量"
+        },
+        {
+          "term": "than",
+          "phonetic": "[ðən; ðæn]",
+          "phoneticUS": "[ðən; ðæn]",
+          "meaning": "conj. 比（用于形容词、副词的比较级之后）；除…外（用于other等之后）；与其…（用于 rather等之后）；一…就（用于 no sooner等之后）\nprep. 比；超过"
+        },
+        {
+          "term": "both",
+          "phonetic": "[bəʊθ]",
+          "phoneticUS": "[boʊθ]",
+          "meaning": "conj. 既…且…\nadj. 两个的；两者的\npron. 双方都；两者都\nadv. 并；又；两者皆"
+        },
+        {
+          "term": "kilogram",
+          "phonetic": "[ˈkɪləɡræm]",
+          "phoneticUS": "[ˈkɪləɡræm]",
+          "meaning": "n. 公斤；千克"
+        },
+        {
+          "term": "countryside",
+          "phonetic": "[ˈkʌntrisaɪd]",
+          "phoneticUS": "[ˈkʌntrisaɪd]",
+          "meaning": "n. 农村，乡下；乡下的全体居民"
+        },
+        {
+          "term": "lower",
+          "phonetic": "[ˈləʊə(r)]",
+          "phoneticUS": "[ˈloʊər]",
+          "meaning": "vt. 减弱，减少；放下，降下；贬低\nvi. 降低；减弱；跌落\nadj. 下游的；下级的；下等的"
+        },
+        {
+          "term": "shadow",
+          "phonetic": "[ˈʃædəʊ]",
+          "phoneticUS": "[ˈʃædoʊ]",
+          "meaning": "n. 阴影；影子；幽灵；庇护；隐蔽处\nadj. 影子内阁的\nvt. 遮蔽；使朦胧；尾随；预示\nvi. 渐变；变阴暗"
+        },
+        {
+          "term": "smarter",
+          "phonetic": "['smɑ:tə]",
+          "phoneticUS": "[smɑːrtər]",
+          "meaning": "adj. 聪明的；精明的（smart的比较级）"
+        },
+        {
+          "term": "become",
+          "phonetic": "[bɪˈkʌm]",
+          "phoneticUS": "[bɪˈkʌm]",
+          "meaning": "vt. 适合；相称\nvi. 成为；变得；变成"
+        },
+        {
+          "term": "cleaned",
+          "phonetic": "[kliːnd]",
+          "phoneticUS": "[kliːnd]",
+          "meaning": "v. 打扫（clean的过去式）；把…弄干净\nadj. 净化的"
+        },
+        {
+          "term": "stayed",
+          "phonetic": "[steɪd]",
+          "phoneticUS": "[steɪd]",
+          "meaning": "v. 停留，制止（stay的过去分词形式）"
+        },
+        {
+          "term": "washed",
+          "phonetic": "[wɒʃt]",
+          "phoneticUS": "[wɑːʃt]",
+          "meaning": "v. 洗，洗涤（wash的过去分词）\nadj. 洗过的"
+        },
+        {
+          "term": "watched",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "vt. 观察；注视；看守；警戒\nn. 手表；监视；守护；值班人\nvi. 观看，注视；守侯，看守"
+        },
+        {
+          "term": "had",
+          "phonetic": "[həd; əd; hæd]",
+          "phoneticUS": "[həd; əd; hæd]",
+          "meaning": "v. 有；吃；得到（动词have的过去式和过去分词）\naux. 已经（用于过去完成时和过去完成进行时）"
+        },
+        {
+          "term": "had a cold",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "vbl.伤风,感冒"
+        },
+        {
+          "term": "slept",
+          "phonetic": "[slept]",
+          "phoneticUS": "[slept]",
+          "meaning": "v. 睡觉（sleep的过去式和过去分词）"
+        },
+        {
+          "term": "read",
+          "phonetic": "[riːd]",
+          "phoneticUS": "[riːd]",
+          "meaning": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解"
+        },
+        {
+          "term": "saw",
+          "phonetic": "[sɔː]",
+          "phoneticUS": "[sɔː]",
+          "meaning": "n. 锯子；谚语\nv. see的过去式\nvi. 锯；用锯；将某物锯成小块\nvt. 看见；明白，了解；锯；锯成；锯开"
+        },
+        {
+          "term": "last",
+          "phonetic": "[lɑːst]",
+          "phoneticUS": "[læst]",
+          "meaning": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点"
+        },
+        {
+          "term": "yesterday",
+          "phonetic": "[ˈjestədeɪ]",
+          "phoneticUS": "[ˈjestərdeɪ; ˈjestərdi]",
+          "meaning": "n. 昨天；往昔\nadv. 昨天"
+        },
+        {
+          "term": "before",
+          "phonetic": "[bɪˈfɔː(r)]",
+          "phoneticUS": "[bɪˈfɔːr]",
+          "meaning": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前"
+        },
+        {
+          "term": "drank",
+          "phonetic": "[dræŋk]",
+          "phoneticUS": "[dræŋk]",
+          "meaning": "v. 喝；喝酒（drink的过去式）"
+        },
+        {
+          "term": "show",
+          "phonetic": "[ʃəʊ]",
+          "phoneticUS": "[ʃoʊ]",
+          "meaning": "n. 显示；表演；炫耀\nvt. 显示；说明；演出；展出\nvi. 显示；说明；指示"
+        },
+        {
+          "term": "magazine",
+          "phonetic": "[ˌmæɡəˈziːn]",
+          "phoneticUS": "[ˈmæɡəziːn]",
+          "meaning": "n. 杂志；弹药库；胶卷盒"
+        },
+        {
+          "term": "better",
+          "phonetic": "[ˈbetə(r)]",
+          "phoneticUS": "[ˈbetər]",
+          "meaning": "n. 长辈；较好者；打赌的人（等于bettor）\nadj. 较好的\nvt. 改善；胜过\nadv. 更好的；更多的；较大程度地\nvi. 变得较好"
+        },
+        {
+          "term": "faster",
+          "phonetic": "[fɑ:stə(r)]",
+          "phoneticUS": "['fastə]",
+          "meaning": "adj. 更快的\nadv. 更快地"
+        },
+        {
+          "term": "hotel",
+          "phonetic": "[həʊˈtel]",
+          "phoneticUS": "[hoʊˈtel]",
+          "meaning": "n. 旅馆，饭店；客栈\nvt. 使…在饭店下榻\nvi. 进行旅馆式办公"
+        },
+        {
+          "term": "fixed",
+          "phonetic": "[fɪkst]",
+          "phoneticUS": "[fɪkst]",
+          "meaning": "adj. 确定的；固执的；<美口>处境...的；准备好的\nv. 修理（过去式）"
+        },
+        {
+          "term": "broken",
+          "phonetic": "[ˈbrəʊkən]",
+          "phoneticUS": "[ˈbroʊkən]",
+          "meaning": "v. 折断；打碎；损坏（break的过去分词）\nadj. 破碎的；坏掉的"
+        },
+        {
+          "term": "lamp",
+          "phonetic": "[læmp]",
+          "phoneticUS": "[læmp]",
+          "meaning": "n. 灯；照射器\nvt. 照亮\nvi. 发亮"
+        },
+        {
+          "term": "loud",
+          "phonetic": "[laʊd]",
+          "phoneticUS": "[laʊd]",
+          "meaning": "adj. 大声的，高声的；不断的；喧吵的\nadv. 大声地，高声地，响亮地"
+        },
+        {
+          "term": "enjoy",
+          "phonetic": "[ɪnˈdʒɔɪ]",
+          "phoneticUS": "[ɪnˈdʒɔɪ]",
+          "meaning": "vt. 欣赏，享受；喜爱；使过得快活"
+        },
+        {
+          "term": "stay",
+          "phonetic": "[steɪ]",
+          "phoneticUS": "[steɪ]",
+          "meaning": "n. 逗留；停止；支柱\nvi. 停留；坚持；暂住；停下\nvt. 坚持；暂住；抑制"
+        },
+        {
+          "term": "went",
+          "phonetic": "[went]",
+          "phoneticUS": "[went]",
+          "meaning": "v. 去，过去（go的过去式）"
+        },
+        {
+          "term": "camp",
+          "phonetic": "[kæmp]",
+          "phoneticUS": "[kæmp]",
+          "meaning": "n. 露营\nvt. 扎营；使扎营\nvi. 露营；扎营"
+        },
+        {
+          "term": "went camping",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "fish",
+          "phonetic": "[fɪʃ]",
+          "phoneticUS": "[fɪʃ]",
+          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+        },
+        {
+          "term": "went fishing",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "rode",
+          "phonetic": "[rəʊd]",
+          "phoneticUS": "[roʊd]",
+          "meaning": "v. 骑（ride的过去式）"
+        },
+        {
+          "term": "hurt",
+          "phonetic": "[hɜːt]",
+          "phoneticUS": "[hɜːrt]",
+          "meaning": "n. 痛苦；危害；痛苦的原因\nvt. 使受伤；损害；使疼痛；使痛心\nadj. 受伤的；痛苦的；受损的\nvi. 感到疼痛；有坏处；带来痛苦"
+        },
+        {
+          "term": "ate",
+          "phonetic": "[et; eɪt]",
+          "phoneticUS": "[eɪt]",
+          "meaning": "v. 吃（eat的过去式）"
+        },
+        {
+          "term": "took",
+          "phonetic": "[tʊk]",
+          "phoneticUS": "[tʊk]",
+          "meaning": "v. 拿；取；接受（take的过去式）"
+        },
+        {
+          "term": "took pictures",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "vbl.照像,摄影"
+        },
+        {
+          "term": "bought",
+          "phonetic": "[bɔːt]",
+          "phoneticUS": "[bɔːt]",
+          "meaning": "v. 买（buy的过去式和过去分词）"
+        },
+        {
+          "term": "gift",
+          "phonetic": "[ɡɪft]",
+          "phoneticUS": "[ɡɪft]",
+          "meaning": "n. 礼物；天赋；赠品\nvt. 赋予；向…赠送"
+        },
+        {
+          "term": "fell",
+          "phonetic": "[fel]",
+          "phoneticUS": "[fel]",
+          "meaning": "n. [林] 一季所伐的木材；折缝；兽皮\nv. 掉下；摔倒；下垂；变坏（fall的过去式）\nadj. 凶猛的；毁灭性的\nvt. 砍伐；打倒；击倒"
+        },
+        {
+          "term": "off",
+          "phonetic": "[ɒf]",
+          "phoneticUS": "[ɔːf]",
+          "meaning": "prep. 离开；脱落\nadv. 切断；走开\nadj. 远离的；空闲的"
+        },
+        {
+          "term": "Labour Day",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. (五一国际)劳动节"
+        },
+        {
+          "term": "mule",
+          "phonetic": "[mjuːl]",
+          "phoneticUS": "[mjuːl]",
+          "meaning": "n. 骡；倔强之人，顽固的人；杂交种动物"
+        },
+        {
+          "term": "Turpan",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "吐鲁番（新疆维吾尔自治区）（旧译Turfan）"
+        },
+        {
+          "term": "could",
+          "phonetic": "[kəd]",
+          "phoneticUS": "[kəd; kʊd]",
+          "meaning": "aux. 能够\nv. 能（can的过去式）"
+        },
+        {
+          "term": "till",
+          "phonetic": "[tɪl]",
+          "phoneticUS": "[tɪl]",
+          "meaning": "prep. 直到\nconj. 直到...为止\nn. [地理][水文] 冰碛；放钱的抽屉；备用现金\nvt. 耕种；犁\nvi. 耕种；耕耘"
+        },
+        {
+          "term": "beach",
+          "phonetic": "[biːtʃ]",
+          "phoneticUS": "[biːtʃ]",
+          "meaning": "n. 海滩；湖滨\nvt. 将…拖上岸\nvi. 搁浅；定居"
+        },
+        {
+          "term": "basket",
+          "phonetic": "[ˈbɑːskɪt]",
+          "phoneticUS": "[ˈbæskɪt]",
+          "meaning": "n. 篮子；（篮球比赛的）得分；一篮之量；篮筐\nvt. 装入篮"
+        },
+        {
+          "term": "part",
+          "phonetic": "[pɑːt]",
+          "phoneticUS": "[pɑːrt]",
+          "meaning": "n. 部分；角色；零件；一些；片段\nadj. 部分的\nvt. 分离；分配；分开\nadv. 部分地\nvi. 断裂；分手"
+        },
+        {
+          "term": "licked",
+          "phonetic": "[lɪk]",
+          "phoneticUS": "[lɪk]",
+          "meaning": "vt. 舔；卷过；鞭打\nvt. （非正式）战胜\nvi. 舔；轻轻拍打\nn. 舔；打；少许"
+        },
+        {
+          "term": "laughed",
+          "phonetic": "[lɑːft]",
+          "phoneticUS": "[læft]",
+          "meaning": "笑\n为了开玩笑\n有趣的事\n嘲笑"
+        },
+        {
+          "term": "dining hall",
+          "phonetic": "[ˈdaɪnɪŋ hɔːl]",
+          "phoneticUS": "[ˈdaɪnɪŋ hɔːl]",
+          "meaning": "na. 大餐厅"
+        },
+        {
+          "term": "grass",
+          "phonetic": "[ɡrɑːs]",
+          "phoneticUS": "[ɡræs]",
+          "meaning": "n. 草；草地，草坪\nvt. 放牧；使……长满草；使……吃草\nvi. 长草"
+        },
+        {
+          "term": "gym",
+          "phonetic": "[dʒɪm]",
+          "phoneticUS": "[dʒɪm]",
+          "meaning": "n. 健身房；体育；体育馆"
+        },
+        {
+          "term": "ago",
+          "phonetic": "[əˈɡəʊ]",
+          "phoneticUS": "[əˈɡoʊ]",
+          "meaning": "adj. 以前的；过去的\nadv. 以前，以往"
+        },
+        {
+          "term": "cycling",
+          "phonetic": "[ˈsaɪklɪŋ]",
+          "phoneticUS": "[ˈsaɪklɪŋ]",
+          "meaning": "n. 骑脚踏车消遣；骑脚踏车兜风"
+        },
+        {
+          "term": "go cycling",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去骑自行车；去骑车；去骑单车"
+        },
+        {
+          "term": "ice-skate",
+          "phonetic": "[ˈaɪs skeɪt]",
+          "phoneticUS": "[ˈaɪs skeɪt]",
+          "meaning": "v. 溜冰，滑冰"
+        },
+        {
+          "term": "badminton",
+          "phonetic": "[ˈbædmɪntən]",
+          "phoneticUS": "[ˈbædmɪntən]",
+          "meaning": "n. 羽毛球"
+        },
+        {
+          "term": "star",
+          "phonetic": "[stɑː(r)]",
+          "phoneticUS": "[stɑːr]",
+          "meaning": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角"
+        },
+        {
+          "term": "easy",
+          "phonetic": "[ˈiːzi]",
+          "phoneticUS": "[ˈiːzi]",
+          "meaning": "adj. 容易的；舒适的\nvt. 发出停划命令\nadv. 不费力地，从容地\nvi. 停止划桨"
+        },
+        {
+          "term": "look up",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 查找；查阅；探望；看望"
+        },
+        {
+          "term": "Internet",
+          "phonetic": "[ˈɪntənet]",
+          "phoneticUS": "[ˈɪntərnet]",
+          "meaning": "n. 因特网"
+        },
+        {
+          "term": "different",
+          "phonetic": "[ˈdɪfrənt]",
+          "phoneticUS": "[ˈdɪfrənt]",
+          "meaning": "adj. 不同的；个别的，与众不同的"
+        },
+        {
+          "term": "active",
+          "phonetic": "[ˈæktɪv]",
+          "phoneticUS": "[ˈæktɪv]",
+          "meaning": "n. 主动语态；积极分子\nadj. 积极的；活跃的；主动的；有效的；现役的"
+        },
+        {
+          "term": "race",
+          "phonetic": "[reɪs]",
+          "phoneticUS": "[reɪs]",
+          "meaning": "n. 属，种；种族，人种；家庭，门第\nvt. 使参加比赛；和…竞赛；使急走，使全速行进\nvi. 比速度，参加竞赛；全速行进"
+        },
+        {
+          "term": "nothing",
+          "phonetic": "[ˈnʌθɪŋ]",
+          "phoneticUS": "[ˈnʌθɪŋ]",
+          "meaning": "neg. 没什么；毫不\nn. 无；零；不关紧要之事\nadv. 毫不；决不\npron. 无事；无物\nint. 什么也没有"
+        },
+        {
+          "term": "thought",
+          "phonetic": "[θɔːt]",
+          "phoneticUS": "[θɔːt]",
+          "meaning": "n. 思想；思考；想法；关心\nv. 想，思考；认为（think的过去式和过去分词）"
+        },
+        {
+          "term": "felt",
+          "phonetic": "[felt]",
+          "phoneticUS": "[felt]",
+          "meaning": "n. 毡；毡制品\nv. 感觉（feel的过去式）\nvi. 粘结\nvt. 使粘结；把…制成毡"
+        },
+        {
+          "term": "cheetah",
+          "phonetic": "[ˈtʃiːtə]",
+          "phoneticUS": "[ˈtʃiːtə]",
+          "meaning": "n. [脊椎] 猎豹"
+        },
+        {
+          "term": "trip",
+          "phonetic": "[trɪp]",
+          "phoneticUS": "[trɪp]",
+          "meaning": "n. 旅行；绊倒；差错\nvt. 绊倒；使犯错\nvi. 绊倒；远足；犯错误；轻快地走"
+        },
+        {
+          "term": "woke",
+          "phonetic": "[wəʊk]",
+          "phoneticUS": "[woʊk]",
+          "meaning": "v. 唤醒；激发；使…复活（wake的过去式）"
+        },
+        {
+          "term": "dream",
+          "phonetic": "[driːm]",
+          "phoneticUS": "[driːm]",
+          "meaning": "n. 梦想，愿望；梦\nadj. 梦的；理想的；不切实际的\nvt. 梦想；做梦；想到\nvi. 梦想；做梦，梦见；想到"
+        }
+      ]
+    }
+  ]
+}
