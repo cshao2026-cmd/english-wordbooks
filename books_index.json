@@ -1,7 +1,70 @@
 {
-  "version": "1.1",
+  "version": "2.0",
   "updated": "2026-10-16",
   "books": [
+    {
+      "id": "a95e1fc8",
+      "title": "人教版一年级起点一年级上",
+      "wordCount": 53,
+      "file": "books/a95e1fc8.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点一年级上"
+    },
+    {
+      "id": "594369e1",
+      "title": "人教版一年级起点一年级下",
+      "wordCount": 45,
+      "file": "books/594369e1.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点一年级下"
+    },
+    {
+      "id": "bdcebf6c",
+      "title": "人教版一年级起点三年级上",
+      "wordCount": 104,
+      "file": "books/bdcebf6c.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点三年级上"
+    },
+    {
+      "id": "7f13d32d",
+      "title": "人教版一年级起点三年级下",
+      "wordCount": 84,
+      "file": "books/7f13d32d.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点三年级下"
+    },
+    {
+      "id": "238e2f65",
+      "title": "人教版一年级起点二年级上",
+      "wordCount": 54,
+      "file": "books/238e2f65.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点二年级上"
+    },
+    {
+      "id": "74d09a58",
+      "title": "人教版一年级起点二年级下",
+      "wordCount": 55,
+      "file": "books/74d09a58.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点二年级下"
+    },
+    {
+      "id": "89efced5",
+      "title": "人教版一年级起点五年级上",
+      "wordCount": 66,
+      "file": "books/89efced5.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点五年级上"
+    },
     {
       "id": "0084e634",
       "title": "人教版一年级起点五年级下",
@@ -9,7 +72,61 @@
       "file": "books/0084e634.json",
       "category": "小学",
       "version": "人教版",
-      "description": "一年级起点 · 五年级下册"
+      "description": "人教版一年级起点五年级下"
+    },
+    {
+      "id": "674fe4cd",
+      "title": "人教版一年级起点六年级上",
+      "wordCount": 102,
+      "file": "books/674fe4cd.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点六年级上"
+    },
+    {
+      "id": "9ae9c793",
+      "title": "人教版一年级起点六年级下",
+      "wordCount": 41,
+      "file": "books/9ae9c793.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点六年级下"
+    },
+    {
+      "id": "3964fa8f",
+      "title": "人教版一年级起点四年级上",
+      "wordCount": 116,
+      "file": "books/3964fa8f.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点四年级上"
+    },
+    {
+      "id": "5454a444",
+      "title": "人教版一年级起点四年级下",
+      "wordCount": 87,
+      "file": "books/5454a444.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版一年级起点四年级下"
+    },
+    {
+      "id": "1fbb7595",
+      "title": "人教版三年级起点三年级上",
+      "wordCount": 64,
+      "file": "books/1fbb7595.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版三年级起点三年级上"
+    },
+    {
+      "id": "96ad5389",
+      "title": "人教版三年级起点三年级下",
+      "wordCount": 71,
+      "file": "books/96ad5389.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版三年级起点三年级下"
     },
     {
       "id": "afc1bc15",
@@ -18,7 +135,16 @@
       "file": "books/afc1bc15.json",
       "category": "小学",
       "version": "人教版",
-      "description": "三年级起点 · 五年级上册"
+      "description": "人教版三年级起点五年级上"
+    },
+    {
+      "id": "7c3f47e0",
+      "title": "人教版三年级起点五年级下",
+      "wordCount": 156,
+      "file": "books/7c3f47e0.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版三年级起点五年级下"
     },
     {
       "id": "9aebd6a5",
@@ -27,7 +153,7 @@
       "file": "books/9aebd6a5.json",
       "category": "小学",
       "version": "人教版",
-      "description": "三年级起点 · 六年级上册"
+      "description": "人教版三年级起点六年级上"
     },
     {
       "id": "ce6ee6e2",
@@ -36,25 +162,2797 @@
       "file": "books/ce6ee6e2.json",
       "category": "小学",
       "version": "人教版",
-      "description": "三年级起点 · 六年级下册"
+      "description": "人教版三年级起点六年级下"
+    },
+    {
+      "id": "c2037df1",
+      "title": "人教版三年级起点四年级上",
+      "wordCount": 84,
+      "file": "books/c2037df1.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版三年级起点四年级上"
+    },
+    {
+      "id": "51dbeff6",
+      "title": "人教版三年级起点四年级下",
+      "wordCount": 104,
+      "file": "books/51dbeff6.json",
+      "category": "小学",
+      "version": "人教版",
+      "description": "人教版三年级起点四年级下"
+    },
+    {
+      "id": "f2006673",
+      "title": "人教版初中英语七年级上册",
+      "wordCount": 432,
+      "file": "books/f2006673.json",
+      "category": "初中",
+      "version": "人教版",
+      "description": "人教版初中英语七年级上册"
+    },
+    {
+      "id": "48380d77",
+      "title": "人教版初中英语七年级下册",
+      "wordCount": 536,
+      "file": "books/48380d77.json",
+      "category": "初中",
+      "version": "人教版",
+      "description": "人教版初中英语七年级下册"
+    },
+    {
+      "id": "c982eea4",
+      "title": "人教版初中英语九年级全册",
+      "wordCount": 671,
+      "file": "books/c982eea4.json",
+      "category": "初中",
+      "version": "人教版",
+      "description": "人教版初中英语九年级全册"
+    },
+    {
+      "id": "ab5787df",
+      "title": "人教版初中英语八年级上册",
+      "wordCount": 463,
+      "file": "books/ab5787df.json",
+      "category": "初中",
+      "version": "人教版",
+      "description": "人教版初中英语八年级上册"
+    },
+    {
+      "id": "ddd30cc5",
+      "title": "人教版初中英语八年级下册",
+      "wordCount": 540,
+      "file": "books/ddd30cc5.json",
+      "category": "初中",
+      "version": "人教版",
+      "description": "人教版初中英语八年级下册"
+    },
+    {
+      "id": "f777a1ef",
+      "title": "人教版高中英语1 - 必修",
+      "wordCount": 312,
+      "file": "books/f777a1ef.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语1 - 必修"
+    },
+    {
+      "id": "9bd585e3",
+      "title": "人教版高中英语10 - 选修",
+      "wordCount": 362,
+      "file": "books/9bd585e3.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语10 - 选修"
+    },
+    {
+      "id": "11df2bb4",
+      "title": "人教版高中英语11 - 选修",
+      "wordCount": 310,
+      "file": "books/11df2bb4.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语11 - 选修"
+    },
+    {
+      "id": "42fa2924",
+      "title": "人教版高中英语2 - 必修",
+      "wordCount": 321,
+      "file": "books/42fa2924.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语2 - 必修"
+    },
+    {
+      "id": "626439d1",
+      "title": "人教版高中英语3 - 必修",
+      "wordCount": 367,
+      "file": "books/626439d1.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语3 - 必修"
+    },
+    {
+      "id": "58e6ebc3",
+      "title": "人教版高中英语4 - 必修",
+      "wordCount": 310,
+      "file": "books/58e6ebc3.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语4 - 必修"
+    },
+    {
+      "id": "5d8afdd3",
+      "title": "人教版高中英语5 - 必修",
+      "wordCount": 361,
+      "file": "books/5d8afdd3.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语5 - 必修"
+    },
+    {
+      "id": "bd6b2a00",
+      "title": "人教版高中英语6 - 选修",
+      "wordCount": 394,
+      "file": "books/bd6b2a00.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语6 - 选修"
+    },
+    {
+      "id": "43071657",
+      "title": "人教版高中英语7 - 选修",
+      "wordCount": 387,
+      "file": "books/43071657.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语7 - 选修"
+    },
+    {
+      "id": "93acbbda",
+      "title": "人教版高中英语8 - 选修",
+      "wordCount": 436,
+      "file": "books/93acbbda.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语8 - 选修"
+    },
+    {
+      "id": "5c605d42",
+      "title": "人教版高中英语9 - 选修",
+      "wordCount": 360,
+      "file": "books/5c605d42.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语9 - 选修"
+    },
+    {
+      "id": "660429ac",
+      "title": "人教版高中英语必修第一册",
+      "wordCount": 387,
+      "file": "books/660429ac.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语必修第一册"
+    },
+    {
+      "id": "0cca8ea8",
+      "title": "人教版高中英语必修第三册",
+      "wordCount": 471,
+      "file": "books/0cca8ea8.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语必修第三册"
+    },
+    {
+      "id": "b8e32f38",
+      "title": "人教版高中英语必修第二册",
+      "wordCount": 407,
+      "file": "books/b8e32f38.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语必修第二册"
+    },
+    {
+      "id": "985c6657",
+      "title": "人教版高中英语选择性必修第一册",
+      "wordCount": 379,
+      "file": "books/985c6657.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语选择性必修第一册"
+    },
+    {
+      "id": "b48574d1",
+      "title": "人教版高中英语选择性必修第三册",
+      "wordCount": 357,
+      "file": "books/b48574d1.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语选择性必修第三册"
+    },
+    {
+      "id": "1d9ce048",
+      "title": "人教版高中英语选择性必修第二册",
+      "wordCount": 382,
+      "file": "books/1d9ce048.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语选择性必修第二册"
+    },
+    {
+      "id": "514ee609",
+      "title": "人教版高中英语选择性必修第四册",
+      "wordCount": 348,
+      "file": "books/514ee609.json",
+      "category": "高中",
+      "version": "人教版",
+      "description": "人教版高中英语选择性必修第四册"
+    },
+    {
+      "id": "56fc85ef",
+      "title": "仁爱版初中英语七年级上册",
+      "wordCount": 410,
+      "file": "books/56fc85ef.json",
+      "category": "初中",
+      "version": "仁爱版",
+      "description": "仁爱版初中英语七年级上册"
+    },
+    {
+      "id": "82c701e6",
+      "title": "仁爱版初中英语七年级下册",
+      "wordCount": 486,
+      "file": "books/82c701e6.json",
+      "category": "初中",
+      "version": "仁爱版",
+      "description": "仁爱版初中英语七年级下册"
+    },
+    {
+      "id": "21236805",
+      "title": "仁爱版初中英语九年级上册",
+      "wordCount": 523,
+      "file": "books/21236805.json",
+      "category": "初中",
+      "version": "仁爱版",
+      "description": "仁爱版初中英语九年级上册"
+    },
+    {
+      "id": "76d164c0",
+      "title": "仁爱版初中英语九年级下册",
+      "wordCount": 297,
+      "file": "books/76d164c0.json",
+      "category": "初中",
+      "version": "仁爱版",
+      "description": "仁爱版初中英语九年级下册"
+    },
+    {
+      "id": "c1f7c117",
+      "title": "仁爱版初中英语八年级上册",
+      "wordCount": 498,
+      "file": "books/c1f7c117.json",
+      "category": "初中",
+      "version": "仁爱版",
+      "description": "仁爱版初中英语八年级上册"
+    },
+    {
+      "id": "e27d9b1a",
+      "title": "仁爱版初中英语八年级下册",
+      "wordCount": 431,
+      "file": "books/e27d9b1a.json",
+      "category": "初中",
+      "version": "仁爱版",
+      "description": "仁爱版初中英语八年级下册"
+    },
+    {
+      "id": "0e9dcec0",
+      "title": "冀教版三年级起点七年级上册",
+      "wordCount": 561,
+      "file": "books/0e9dcec0.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点七年级上册"
+    },
+    {
+      "id": "2ce4a720",
+      "title": "冀教版三年级起点七年级下册",
+      "wordCount": 514,
+      "file": "books/2ce4a720.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点七年级下册"
+    },
+    {
+      "id": "8f43c2ec",
+      "title": "冀教版三年级起点三年级上",
+      "wordCount": 75,
+      "file": "books/8f43c2ec.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点三年级上"
+    },
+    {
+      "id": "0eb58c4a",
+      "title": "冀教版三年级起点三年级下",
+      "wordCount": 76,
+      "file": "books/0eb58c4a.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点三年级下"
+    },
+    {
+      "id": "a993905e",
+      "title": "冀教版三年级起点九年级全册",
+      "wordCount": 636,
+      "file": "books/a993905e.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点九年级全册"
+    },
+    {
+      "id": "19ccc08a",
+      "title": "冀教版三年级起点五年级上",
+      "wordCount": 79,
+      "file": "books/19ccc08a.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点五年级上"
+    },
+    {
+      "id": "4b84afc4",
+      "title": "冀教版三年级起点五年级下",
+      "wordCount": 96,
+      "file": "books/4b84afc4.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点五年级下"
+    },
+    {
+      "id": "53399a69",
+      "title": "冀教版三年级起点八年级上册",
+      "wordCount": 420,
+      "file": "books/53399a69.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点八年级上册"
+    },
+    {
+      "id": "341f167c",
+      "title": "冀教版三年级起点八年级下册",
+      "wordCount": 487,
+      "file": "books/341f167c.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点八年级下册"
+    },
+    {
+      "id": "65ceaf6d",
+      "title": "冀教版三年级起点六年级上",
+      "wordCount": 66,
+      "file": "books/65ceaf6d.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点六年级上"
+    },
+    {
+      "id": "73b59f6b",
+      "title": "冀教版三年级起点六年级下",
+      "wordCount": 51,
+      "file": "books/73b59f6b.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点六年级下"
+    },
+    {
+      "id": "bcdd5c61",
+      "title": "冀教版三年级起点四年级上",
+      "wordCount": 78,
+      "file": "books/bcdd5c61.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点四年级上"
+    },
+    {
+      "id": "78fe6dc9",
+      "title": "冀教版三年级起点四年级下",
+      "wordCount": 84,
+      "file": "books/78fe6dc9.json",
+      "category": "小学",
+      "version": "冀教版",
+      "description": "冀教版三年级起点四年级下"
+    },
+    {
+      "id": "5e0ff1b4",
+      "title": "JOIN版剑桥小学英语三年级上册",
+      "wordCount": 232,
+      "file": "books/5e0ff1b4.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语三年级上册"
+    },
+    {
+      "id": "2f15ea9b",
+      "title": "JOIN版剑桥小学英语三年级下册",
+      "wordCount": 171,
+      "file": "books/2f15ea9b.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语三年级下册"
+    },
+    {
+      "id": "224c599d",
+      "title": "JOIN版剑桥小学英语五年级上册",
+      "wordCount": 180,
+      "file": "books/224c599d.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语五年级上册"
+    },
+    {
+      "id": "87f0cee4",
+      "title": "JOIN版剑桥小学英语五年级下册",
+      "wordCount": 168,
+      "file": "books/87f0cee4.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语五年级下册"
+    },
+    {
+      "id": "1ce3ce54",
+      "title": "JOIN版剑桥小学英语六年级上册",
+      "wordCount": 180,
+      "file": "books/1ce3ce54.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语六年级上册"
+    },
+    {
+      "id": "7bc75815",
+      "title": "JOIN版剑桥小学英语六年级下册",
+      "wordCount": 125,
+      "file": "books/7bc75815.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语六年级下册"
+    },
+    {
+      "id": "081b599d",
+      "title": "JOIN版剑桥小学英语四年级上册",
+      "wordCount": 256,
+      "file": "books/081b599d.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语四年级上册"
+    },
+    {
+      "id": "d93234c7",
+      "title": "JOIN版剑桥小学英语四年级下册",
+      "wordCount": 144,
+      "file": "books/d93234c7.json",
+      "category": "小学",
+      "version": "剑桥版",
+      "description": "JOIN版剑桥小学英语四年级下册"
+    },
+    {
+      "id": "69f79db0",
+      "title": "北京版一年级起点一年级上",
+      "wordCount": 39,
+      "file": "books/69f79db0.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点一年级上"
+    },
+    {
+      "id": "e43def39",
+      "title": "北京版一年级起点一年级下",
+      "wordCount": 48,
+      "file": "books/e43def39.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点一年级下"
+    },
+    {
+      "id": "1dc041be",
+      "title": "北京版一年级起点三年级上",
+      "wordCount": 91,
+      "file": "books/1dc041be.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点三年级上"
+    },
+    {
+      "id": "8590b197",
+      "title": "北京版一年级起点三年级下",
+      "wordCount": 70,
+      "file": "books/8590b197.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点三年级下"
+    },
+    {
+      "id": "8d23dc0f",
+      "title": "北京版一年级起点二年级上",
+      "wordCount": 78,
+      "file": "books/8d23dc0f.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点二年级上"
+    },
+    {
+      "id": "31a5c1f7",
+      "title": "北京版一年级起点二年级下",
+      "wordCount": 79,
+      "file": "books/31a5c1f7.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点二年级下"
+    },
+    {
+      "id": "1f6b77e8",
+      "title": "北京版一年级起点五年级上",
+      "wordCount": 69,
+      "file": "books/1f6b77e8.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点五年级上"
+    },
+    {
+      "id": "a1d7b94a",
+      "title": "北京版一年级起点五年级下",
+      "wordCount": 65,
+      "file": "books/a1d7b94a.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点五年级下"
+    },
+    {
+      "id": "c6aac436",
+      "title": "北京版一年级起点六年级上",
+      "wordCount": 68,
+      "file": "books/c6aac436.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点六年级上"
+    },
+    {
+      "id": "b4a90e1f",
+      "title": "北京版一年级起点六年级下",
+      "wordCount": 70,
+      "file": "books/b4a90e1f.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点六年级下"
+    },
+    {
+      "id": "68a7c174",
+      "title": "北京版一年级起点四年级上",
+      "wordCount": 65,
+      "file": "books/68a7c174.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点四年级上"
+    },
+    {
+      "id": "f2fad355",
+      "title": "北京版一年级起点四年级下",
+      "wordCount": 66,
+      "file": "books/f2fad355.json",
+      "category": "小学",
+      "version": "北京版",
+      "description": "北京版一年级起点四年级下"
+    },
+    {
+      "id": "4b21990e",
+      "title": "北师大版一年级起点一年级上",
+      "wordCount": 74,
+      "file": "books/4b21990e.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点一年级上"
+    },
+    {
+      "id": "f119da32",
+      "title": "北师大版一年级起点一年级下",
+      "wordCount": 64,
+      "file": "books/f119da32.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点一年级下"
+    },
+    {
+      "id": "47b2e051",
+      "title": "北师大版一年级起点三年级上",
+      "wordCount": 73,
+      "file": "books/47b2e051.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点三年级上"
+    },
+    {
+      "id": "36471ee9",
+      "title": "北师大版一年级起点三年级下",
+      "wordCount": 66,
+      "file": "books/36471ee9.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点三年级下"
+    },
+    {
+      "id": "7f655f17",
+      "title": "北师大版一年级起点二年级上",
+      "wordCount": 55,
+      "file": "books/7f655f17.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点二年级上"
+    },
+    {
+      "id": "2fde4143",
+      "title": "北师大版一年级起点二年级下",
+      "wordCount": 81,
+      "file": "books/2fde4143.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点二年级下"
+    },
+    {
+      "id": "de4e2f1b",
+      "title": "北师大版一年级起点五年级上",
+      "wordCount": 93,
+      "file": "books/de4e2f1b.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点五年级上"
+    },
+    {
+      "id": "797a9685",
+      "title": "北师大版一年级起点五年级下",
+      "wordCount": 88,
+      "file": "books/797a9685.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点五年级下"
+    },
+    {
+      "id": "38a0edff",
+      "title": "北师大版一年级起点六年级上",
+      "wordCount": 111,
+      "file": "books/38a0edff.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点六年级上"
+    },
+    {
+      "id": "5f4c1180",
+      "title": "北师大版一年级起点六年级下",
+      "wordCount": 70,
+      "file": "books/5f4c1180.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点六年级下"
+    },
+    {
+      "id": "7930d2e4",
+      "title": "北师大版一年级起点四年级上",
+      "wordCount": 79,
+      "file": "books/7930d2e4.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点四年级上"
+    },
+    {
+      "id": "09903cf0",
+      "title": "北师大版一年级起点四年级下",
+      "wordCount": 71,
+      "file": "books/09903cf0.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版一年级起点四年级下"
+    },
+    {
+      "id": "edf0af8b",
+      "title": "北师大版三年级起点三年级上",
+      "wordCount": 67,
+      "file": "books/edf0af8b.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点三年级上"
+    },
+    {
+      "id": "9a8a41a4",
+      "title": "北师大版三年级起点三年级下",
+      "wordCount": 77,
+      "file": "books/9a8a41a4.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点三年级下"
+    },
+    {
+      "id": "6436fe22",
+      "title": "北师大版三年级起点五年级上",
+      "wordCount": 89,
+      "file": "books/6436fe22.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点五年级上"
+    },
+    {
+      "id": "55129061",
+      "title": "北师大版三年级起点五年级下",
+      "wordCount": 79,
+      "file": "books/55129061.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点五年级下"
+    },
+    {
+      "id": "64dd1169",
+      "title": "北师大版三年级起点六年级上",
+      "wordCount": 136,
+      "file": "books/64dd1169.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点六年级上"
+    },
+    {
+      "id": "b871ea3c",
+      "title": "北师大版三年级起点六年级下",
+      "wordCount": 47,
+      "file": "books/b871ea3c.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点六年级下"
+    },
+    {
+      "id": "50c146b9",
+      "title": "北师大版三年级起点四年级上",
+      "wordCount": 106,
+      "file": "books/50c146b9.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点四年级上"
+    },
+    {
+      "id": "61316225",
+      "title": "北师大版三年级起点四年级下",
+      "wordCount": 98,
+      "file": "books/61316225.json",
+      "category": "小学",
+      "version": "北师大",
+      "description": "北师大版三年级起点四年级下"
+    },
+    {
+      "id": "275a08b7",
+      "title": "北师大版初中英语七年级上册",
+      "wordCount": 547,
+      "file": "books/275a08b7.json",
+      "category": "初中",
+      "version": "北师大",
+      "description": "北师大版初中英语七年级上册"
+    },
+    {
+      "id": "230d515d",
+      "title": "北师大版初中英语七年级下册",
+      "wordCount": 503,
+      "file": "books/230d515d.json",
+      "category": "初中",
+      "version": "北师大",
+      "description": "北师大版初中英语七年级下册"
+    },
+    {
+      "id": "08271889",
+      "title": "北师大版初中英语九年级全一册",
+      "wordCount": 492,
+      "file": "books/08271889.json",
+      "category": "初中",
+      "version": "北师大",
+      "description": "北师大版初中英语九年级全一册"
+    },
+    {
+      "id": "09058321",
+      "title": "北师大版初中英语八年级上册",
+      "wordCount": 405,
+      "file": "books/09058321.json",
+      "category": "初中",
+      "version": "北师大",
+      "description": "北师大版初中英语八年级上册"
+    },
+    {
+      "id": "a0837662",
+      "title": "北师大版初中英语八年级下册",
+      "wordCount": 398,
+      "file": "books/a0837662.json",
+      "category": "初中",
+      "version": "北师大",
+      "description": "北师大版初中英语八年级下册"
+    },
+    {
+      "id": "0a08b857",
+      "title": "北师大版高中英语必修一",
+      "wordCount": 361,
+      "file": "books/0a08b857.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修一"
+    },
+    {
+      "id": "8162fb4a",
+      "title": "北师大版高中英语必修三",
+      "wordCount": 275,
+      "file": "books/8162fb4a.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修三"
+    },
+    {
+      "id": "81db6a61",
+      "title": "北师大版高中英语必修二",
+      "wordCount": 316,
+      "file": "books/81db6a61.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修二"
+    },
+    {
+      "id": "df3de19d",
+      "title": "北师大版高中英语必修模块1",
+      "wordCount": 320,
+      "file": "books/df3de19d.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修模块1"
+    },
+    {
+      "id": "cb0bc4f3",
+      "title": "北师大版高中英语必修模块2",
+      "wordCount": 299,
+      "file": "books/cb0bc4f3.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修模块2"
+    },
+    {
+      "id": "e3f13c63",
+      "title": "北师大版高中英语必修模块3",
+      "wordCount": 342,
+      "file": "books/e3f13c63.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修模块3"
+    },
+    {
+      "id": "59a0530e",
+      "title": "北师大版高中英语必修模块4",
+      "wordCount": 406,
+      "file": "books/59a0530e.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修模块4"
+    },
+    {
+      "id": "c6bb9faf",
+      "title": "北师大版高中英语必修模块5",
+      "wordCount": 357,
+      "file": "books/c6bb9faf.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语必修模块5"
+    },
+    {
+      "id": "9b39ec40",
+      "title": "北师大版高中英语选修模块10",
+      "wordCount": 280,
+      "file": "books/9b39ec40.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选修模块10"
+    },
+    {
+      "id": "c7af73fb",
+      "title": "北师大版高中英语选修模块11",
+      "wordCount": 353,
+      "file": "books/c7af73fb.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选修模块11"
+    },
+    {
+      "id": "0af54e9e",
+      "title": "北师大版高中英语选修模块6",
+      "wordCount": 273,
+      "file": "books/0af54e9e.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选修模块6"
+    },
+    {
+      "id": "70d0eec1",
+      "title": "北师大版高中英语选修模块7",
+      "wordCount": 340,
+      "file": "books/70d0eec1.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选修模块7"
+    },
+    {
+      "id": "4ffbd708",
+      "title": "北师大版高中英语选修模块8",
+      "wordCount": 370,
+      "file": "books/4ffbd708.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选修模块8"
+    },
+    {
+      "id": "c9d0bb5c",
+      "title": "北师大版高中英语选修模块9",
+      "wordCount": 317,
+      "file": "books/c9d0bb5c.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选修模块9"
+    },
+    {
+      "id": "e3d0c66f",
+      "title": "北师大版高中英语选择性必修一",
+      "wordCount": 308,
+      "file": "books/e3d0c66f.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选择性必修一"
+    },
+    {
+      "id": "58d92226",
+      "title": "北师大版高中英语选择性必修三",
+      "wordCount": 309,
+      "file": "books/58d92226.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选择性必修三"
+    },
+    {
+      "id": "11461165",
+      "title": "北师大版高中英语选择性必修二",
+      "wordCount": 344,
+      "file": "books/11461165.json",
+      "category": "高中",
+      "version": "北师大",
+      "description": "北师大版高中英语选择性必修二"
+    },
+    {
+      "id": "ae5de988",
+      "title": "外研版一年级起点一年级上",
+      "wordCount": 138,
+      "file": "books/ae5de988.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点一年级上"
+    },
+    {
+      "id": "569341f5",
+      "title": "外研版一年级起点一年级下",
+      "wordCount": 118,
+      "file": "books/569341f5.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点一年级下"
+    },
+    {
+      "id": "d755c962",
+      "title": "外研版一年级起点三年级上",
+      "wordCount": 82,
+      "file": "books/d755c962.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点三年级上"
+    },
+    {
+      "id": "08a883e2",
+      "title": "外研版一年级起点三年级下",
+      "wordCount": 106,
+      "file": "books/08a883e2.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点三年级下"
+    },
+    {
+      "id": "7f1e9fa8",
+      "title": "外研版一年级起点二年级上",
+      "wordCount": 118,
+      "file": "books/7f1e9fa8.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点二年级上"
+    },
+    {
+      "id": "c5cd5716",
+      "title": "外研版一年级起点二年级下",
+      "wordCount": 110,
+      "file": "books/c5cd5716.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点二年级下"
+    },
+    {
+      "id": "0b962e74",
+      "title": "外研版一年级起点五年级上",
+      "wordCount": 80,
+      "file": "books/0b962e74.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点五年级上"
+    },
+    {
+      "id": "133b9de1",
+      "title": "外研版一年级起点五年级下",
+      "wordCount": 72,
+      "file": "books/133b9de1.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点五年级下"
+    },
+    {
+      "id": "13376da4",
+      "title": "外研版一年级起点六年级上",
+      "wordCount": 61,
+      "file": "books/13376da4.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点六年级上"
+    },
+    {
+      "id": "29f79c8a",
+      "title": "外研版一年级起点六年级下",
+      "wordCount": 91,
+      "file": "books/29f79c8a.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点六年级下"
+    },
+    {
+      "id": "b32ff309",
+      "title": "外研版一年级起点四年级上",
+      "wordCount": 116,
+      "file": "books/b32ff309.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点四年级上"
+    },
+    {
+      "id": "c1f99f07",
+      "title": "外研版一年级起点四年级下",
+      "wordCount": 78,
+      "file": "books/c1f99f07.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版一年级起点四年级下"
+    },
+    {
+      "id": "047967af",
+      "title": "外研版三年级起点三年级上",
+      "wordCount": 155,
+      "file": "books/047967af.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点三年级上"
+    },
+    {
+      "id": "1f73fcfe",
+      "title": "外研版三年级起点三年级下",
+      "wordCount": 175,
+      "file": "books/1f73fcfe.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点三年级下"
+    },
+    {
+      "id": "488962ba",
+      "title": "外研版三年级起点五年级上",
+      "wordCount": 161,
+      "file": "books/488962ba.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点五年级上"
+    },
+    {
+      "id": "8daefa8e",
+      "title": "外研版三年级起点五年级下",
+      "wordCount": 164,
+      "file": "books/8daefa8e.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点五年级下"
+    },
+    {
+      "id": "c41ae028",
+      "title": "外研版三年级起点六年级上",
+      "wordCount": 84,
+      "file": "books/c41ae028.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点六年级上"
+    },
+    {
+      "id": "1273d87e",
+      "title": "外研版三年级起点六年级下",
+      "wordCount": 112,
+      "file": "books/1273d87e.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点六年级下"
+    },
+    {
+      "id": "9dfcf5f7",
+      "title": "外研版三年级起点四年级上",
+      "wordCount": 149,
+      "file": "books/9dfcf5f7.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点四年级上"
+    },
+    {
+      "id": "317b2e25",
+      "title": "外研版三年级起点四年级下",
+      "wordCount": 157,
+      "file": "books/317b2e25.json",
+      "category": "小学",
+      "version": "外研版",
+      "description": "外研版三年级起点四年级下"
+    },
+    {
+      "id": "f5be06ab",
+      "title": "外研版初中英语七年级上册",
+      "wordCount": 641,
+      "file": "books/f5be06ab.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研版初中英语七年级上册"
+    },
+    {
+      "id": "e559d9c7",
+      "title": "外研版初中英语七年级下册",
+      "wordCount": 445,
+      "file": "books/e559d9c7.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研版初中英语七年级下册"
+    },
+    {
+      "id": "1f5661aa",
+      "title": "外研版初中英语九年级上册",
+      "wordCount": 383,
+      "file": "books/1f5661aa.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研版初中英语九年级上册"
+    },
+    {
+      "id": "94c446a9",
+      "title": "外研版初中英语九年级下册",
+      "wordCount": 128,
+      "file": "books/94c446a9.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研版初中英语九年级下册"
+    },
+    {
+      "id": "bf45649e",
+      "title": "外研版初中英语八年级上册",
+      "wordCount": 320,
+      "file": "books/bf45649e.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研版初中英语八年级上册"
+    },
+    {
+      "id": "7758bfaf",
+      "title": "外研版初中英语八年级下册",
+      "wordCount": 268,
+      "file": "books/7758bfaf.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研版初中英语八年级下册"
+    },
+    {
+      "id": "caabfd67",
+      "title": "外研版高中英语 必修1",
+      "wordCount": 256,
+      "file": "books/caabfd67.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 必修1"
+    },
+    {
+      "id": "862a45fd",
+      "title": "外研版高中英语 必修2",
+      "wordCount": 238,
+      "file": "books/862a45fd.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 必修2"
+    },
+    {
+      "id": "39a4213c",
+      "title": "外研版高中英语 必修3",
+      "wordCount": 237,
+      "file": "books/39a4213c.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 必修3"
+    },
+    {
+      "id": "d9c99738",
+      "title": "外研版高中英语 必修4",
+      "wordCount": 303,
+      "file": "books/d9c99738.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 必修4"
+    },
+    {
+      "id": "a1b6af88",
+      "title": "外研版高中英语 必修5",
+      "wordCount": 307,
+      "file": "books/a1b6af88.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 必修5"
+    },
+    {
+      "id": "d161099f",
+      "title": "外研版高中英语 选修10",
+      "wordCount": 328,
+      "file": "books/d161099f.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 选修10"
+    },
+    {
+      "id": "d593a269",
+      "title": "外研版高中英语 选修11",
+      "wordCount": 306,
+      "file": "books/d593a269.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 选修11"
+    },
+    {
+      "id": "05c218c9",
+      "title": "外研版高中英语 选修6",
+      "wordCount": 590,
+      "file": "books/05c218c9.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 选修6"
+    },
+    {
+      "id": "1e8de1f2",
+      "title": "外研版高中英语 选修7",
+      "wordCount": 525,
+      "file": "books/1e8de1f2.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 选修7"
+    },
+    {
+      "id": "4ad623f3",
+      "title": "外研版高中英语 选修8",
+      "wordCount": 536,
+      "file": "books/4ad623f3.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 选修8"
+    },
+    {
+      "id": "44716dea",
+      "title": "外研版高中英语 选修9",
+      "wordCount": 365,
+      "file": "books/44716dea.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语 选修9"
+    },
+    {
+      "id": "0d0cd1a7",
+      "title": "外研版高中英语必修第一册",
+      "wordCount": 411,
+      "file": "books/0d0cd1a7.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语必修第一册"
+    },
+    {
+      "id": "03a6c35c",
+      "title": "外研版高中英语必修第三册",
+      "wordCount": 281,
+      "file": "books/03a6c35c.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语必修第三册"
+    },
+    {
+      "id": "d19deb1b",
+      "title": "外研版高中英语必修第二册",
+      "wordCount": 363,
+      "file": "books/d19deb1b.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语必修第二册"
+    },
+    {
+      "id": "16c24efa",
+      "title": "外研版高中英语选择性必修第一册",
+      "wordCount": 262,
+      "file": "books/16c24efa.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语选择性必修第一册"
+    },
+    {
+      "id": "19388067",
+      "title": "外研版高中英语选择性必修第二册",
+      "wordCount": 345,
+      "file": "books/19388067.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研版高中英语选择性必修第二册"
+    },
+    {
+      "id": "33f91766",
+      "title": "外研社初中英语七年级上册",
+      "wordCount": 641,
+      "file": "books/33f91766.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研社初中英语七年级上册"
+    },
+    {
+      "id": "e1286e9c",
+      "title": "外研社初中英语七年级下册",
+      "wordCount": 445,
+      "file": "books/e1286e9c.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研社初中英语七年级下册"
+    },
+    {
+      "id": "804dd5bf",
+      "title": "外研社初中英语九年级上册",
+      "wordCount": 383,
+      "file": "books/804dd5bf.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研社初中英语九年级上册"
+    },
+    {
+      "id": "ca5f942e",
+      "title": "外研社初中英语九年级下册",
+      "wordCount": 128,
+      "file": "books/ca5f942e.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研社初中英语九年级下册"
+    },
+    {
+      "id": "df218d13",
+      "title": "外研社初中英语八年级上册",
+      "wordCount": 320,
+      "file": "books/df218d13.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研社初中英语八年级上册"
+    },
+    {
+      "id": "38d3f145",
+      "title": "外研社初中英语八年级下册",
+      "wordCount": 268,
+      "file": "books/38d3f145.json",
+      "category": "初中",
+      "version": "外研版",
+      "description": "外研社初中英语八年级下册"
+    },
+    {
+      "id": "017784a0",
+      "title": "外研社高中英语 必修1",
+      "wordCount": 256,
+      "file": "books/017784a0.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 必修1"
+    },
+    {
+      "id": "910d3152",
+      "title": "外研社高中英语 必修2",
+      "wordCount": 238,
+      "file": "books/910d3152.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 必修2"
+    },
+    {
+      "id": "13a74b7c",
+      "title": "外研社高中英语 必修3",
+      "wordCount": 237,
+      "file": "books/13a74b7c.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 必修3"
+    },
+    {
+      "id": "5f239135",
+      "title": "外研社高中英语 必修4",
+      "wordCount": 303,
+      "file": "books/5f239135.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 必修4"
+    },
+    {
+      "id": "8ca29687",
+      "title": "外研社高中英语 必修5",
+      "wordCount": 307,
+      "file": "books/8ca29687.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 必修5"
+    },
+    {
+      "id": "5b0ac7d7",
+      "title": "外研社高中英语 选修10",
+      "wordCount": 328,
+      "file": "books/5b0ac7d7.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 选修10"
+    },
+    {
+      "id": "48b96e13",
+      "title": "外研社高中英语 选修11",
+      "wordCount": 306,
+      "file": "books/48b96e13.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 选修11"
+    },
+    {
+      "id": "a4632fe2",
+      "title": "外研社高中英语 选修6",
+      "wordCount": 590,
+      "file": "books/a4632fe2.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 选修6"
+    },
+    {
+      "id": "a4221ca3",
+      "title": "外研社高中英语 选修7",
+      "wordCount": 525,
+      "file": "books/a4221ca3.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 选修7"
+    },
+    {
+      "id": "1b7de35b",
+      "title": "外研社高中英语 选修8",
+      "wordCount": 536,
+      "file": "books/1b7de35b.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 选修8"
+    },
+    {
+      "id": "098a0827",
+      "title": "外研社高中英语 选修9",
+      "wordCount": 365,
+      "file": "books/098a0827.json",
+      "category": "高中",
+      "version": "外研版",
+      "description": "外研社高中英语 选修9"
+    },
+    {
+      "id": "d11c75a4",
+      "title": "广东版三年级起点三年级上",
+      "wordCount": 118,
+      "file": "books/d11c75a4.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点三年级上"
+    },
+    {
+      "id": "6d896b5b",
+      "title": "广东版三年级起点三年级下",
+      "wordCount": 83,
+      "file": "books/6d896b5b.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点三年级下"
+    },
+    {
+      "id": "f080335f",
+      "title": "广东版三年级起点五年级上",
+      "wordCount": 87,
+      "file": "books/f080335f.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点五年级上"
+    },
+    {
+      "id": "591db285",
+      "title": "广东版三年级起点五年级下",
+      "wordCount": 84,
+      "file": "books/591db285.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点五年级下"
+    },
+    {
+      "id": "660f33ae",
+      "title": "广东版三年级起点六年级上",
+      "wordCount": 96,
+      "file": "books/660f33ae.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点六年级上"
+    },
+    {
+      "id": "aedca20e",
+      "title": "广东版三年级起点六年级下",
+      "wordCount": 96,
+      "file": "books/aedca20e.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点六年级下"
+    },
+    {
+      "id": "e28e7e3c",
+      "title": "广东版三年级起点四年级上",
+      "wordCount": 94,
+      "file": "books/e28e7e3c.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点四年级上"
+    },
+    {
+      "id": "9eb732f9",
+      "title": "广东版三年级起点四年级下",
+      "wordCount": 83,
+      "file": "books/9eb732f9.json",
+      "category": "小学",
+      "version": "广东版",
+      "description": "广东版三年级起点四年级下"
+    },
+    {
+      "id": "c82466bc",
+      "title": "广州版三年级起点三年级上",
+      "wordCount": 166,
+      "file": "books/c82466bc.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点三年级上"
+    },
+    {
+      "id": "efe75366",
+      "title": "广州版三年级起点三年级下",
+      "wordCount": 116,
+      "file": "books/efe75366.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点三年级下"
+    },
+    {
+      "id": "350b61cc",
+      "title": "广州版三年级起点五年级上",
+      "wordCount": 174,
+      "file": "books/350b61cc.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点五年级上"
+    },
+    {
+      "id": "2a66e2dd",
+      "title": "广州版三年级起点五年级下",
+      "wordCount": 157,
+      "file": "books/2a66e2dd.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点五年级下"
+    },
+    {
+      "id": "ee8d0213",
+      "title": "广州版三年级起点六年级上",
+      "wordCount": 155,
+      "file": "books/ee8d0213.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点六年级上"
+    },
+    {
+      "id": "cdcb0e80",
+      "title": "广州版三年级起点六年级下",
+      "wordCount": 166,
+      "file": "books/cdcb0e80.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点六年级下"
+    },
+    {
+      "id": "dbbca58f",
+      "title": "广州版三年级起点四年级上",
+      "wordCount": 181,
+      "file": "books/dbbca58f.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点四年级上"
+    },
+    {
+      "id": "6046aa59",
+      "title": "广州版三年级起点四年级下",
+      "wordCount": 153,
+      "file": "books/6046aa59.json",
+      "category": "小学",
+      "version": "广州版",
+      "description": "广州版三年级起点四年级下"
+    },
+    {
+      "id": "a0c882b1",
+      "title": "教科版EEC三年级起点三年级上",
+      "wordCount": 174,
+      "file": "books/a0c882b1.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点三年级上"
+    },
+    {
+      "id": "8aa1ba24",
+      "title": "教科版EEC三年级起点三年级下",
+      "wordCount": 129,
+      "file": "books/8aa1ba24.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点三年级下"
+    },
+    {
+      "id": "b89ebe7e",
+      "title": "教科版EEC三年级起点五年级上",
+      "wordCount": 110,
+      "file": "books/b89ebe7e.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点五年级上"
+    },
+    {
+      "id": "9e31630d",
+      "title": "教科版EEC三年级起点五年级下",
+      "wordCount": 187,
+      "file": "books/9e31630d.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点五年级下"
+    },
+    {
+      "id": "f4b8f802",
+      "title": "教科版EEC三年级起点六年级上",
+      "wordCount": 153,
+      "file": "books/f4b8f802.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点六年级上"
+    },
+    {
+      "id": "8e0226c0",
+      "title": "教科版EEC三年级起点六年级下",
+      "wordCount": 121,
+      "file": "books/8e0226c0.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点六年级下"
+    },
+    {
+      "id": "5087556b",
+      "title": "教科版EEC三年级起点四年级上",
+      "wordCount": 97,
+      "file": "books/5087556b.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点四年级上"
+    },
+    {
+      "id": "a7873aa0",
+      "title": "教科版EEC三年级起点四年级下",
+      "wordCount": 122,
+      "file": "books/a7873aa0.json",
+      "category": "小学",
+      "version": "教科版",
+      "description": "教科版EEC三年级起点四年级下"
+    },
+    {
+      "id": "6d14da18",
+      "title": "沪教版三年级起点三年级上",
+      "wordCount": 106,
+      "file": "books/6d14da18.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点三年级上"
+    },
+    {
+      "id": "3e8aee66",
+      "title": "沪教版三年级起点三年级下",
+      "wordCount": 114,
+      "file": "books/3e8aee66.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点三年级下"
+    },
+    {
+      "id": "6e913d6b",
+      "title": "沪教版三年级起点五年级上",
+      "wordCount": 164,
+      "file": "books/6e913d6b.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点五年级上"
+    },
+    {
+      "id": "fe43009b",
+      "title": "沪教版三年级起点五年级下",
+      "wordCount": 165,
+      "file": "books/fe43009b.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点五年级下"
+    },
+    {
+      "id": "b64ae8d2",
+      "title": "沪教版三年级起点六年级上",
+      "wordCount": 135,
+      "file": "books/b64ae8d2.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点六年级上"
+    },
+    {
+      "id": "b05644bf",
+      "title": "沪教版三年级起点六年级下",
+      "wordCount": 137,
+      "file": "books/b05644bf.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点六年级下"
+    },
+    {
+      "id": "5d035545",
+      "title": "沪教版三年级起点四年级上",
+      "wordCount": 139,
+      "file": "books/5d035545.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点四年级上"
+    },
+    {
+      "id": "6f000b81",
+      "title": "沪教版三年级起点四年级下",
+      "wordCount": 151,
+      "file": "books/6f000b81.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版三年级起点四年级下"
+    },
+    {
+      "id": "b6d15823",
+      "title": "沪教版牛津英语七年级上册",
+      "wordCount": 222,
+      "file": "books/b6d15823.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版牛津英语七年级上册"
+    },
+    {
+      "id": "2a730c32",
+      "title": "沪教版牛津英语七年级下册",
+      "wordCount": 232,
+      "file": "books/2a730c32.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版牛津英语七年级下册"
     },
     {
       "id": "a524d17d",
       "title": "沪教版牛津英语九年级上册",
       "wordCount": 262,
       "file": "books/a524d17d.json",
-      "category": "初中",
+      "category": "小学",
       "version": "沪教版",
-      "description": "牛津英语 · 九年级上册"
+      "description": "沪教版牛津英语九年级上册"
     },
     {
       "id": "02586999",
       "title": "沪教版牛津英语九年级下册",
       "wordCount": 195,
       "file": "books/02586999.json",
-      "category": "初中",
+      "category": "小学",
       "version": "沪教版",
-      "description": "牛津英语 · 九年级下册"
+      "description": "沪教版牛津英语九年级下册"
+    },
+    {
+      "id": "450701b3",
+      "title": "沪教版牛津英语八年级上册",
+      "wordCount": 232,
+      "file": "books/450701b3.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版牛津英语八年级上册"
+    },
+    {
+      "id": "3d86f27e",
+      "title": "沪教版牛津英语八年级下册",
+      "wordCount": 257,
+      "file": "books/3d86f27e.json",
+      "category": "小学",
+      "version": "沪教版",
+      "description": "沪教版牛津英语八年级下册"
+    },
+    {
+      "id": "a5321805",
+      "title": "湘少版三年级起点三年级上",
+      "wordCount": 102,
+      "file": "books/a5321805.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点三年级上"
+    },
+    {
+      "id": "f5f0a4bf",
+      "title": "湘少版三年级起点三年级下",
+      "wordCount": 93,
+      "file": "books/f5f0a4bf.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点三年级下"
+    },
+    {
+      "id": "07e504a1",
+      "title": "湘少版三年级起点五年级上",
+      "wordCount": 98,
+      "file": "books/07e504a1.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点五年级上"
+    },
+    {
+      "id": "fae56e9f",
+      "title": "湘少版三年级起点五年级下",
+      "wordCount": 106,
+      "file": "books/fae56e9f.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点五年级下"
+    },
+    {
+      "id": "859e97bb",
+      "title": "湘少版三年级起点六年级上",
+      "wordCount": 81,
+      "file": "books/859e97bb.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点六年级上"
+    },
+    {
+      "id": "a58be04f",
+      "title": "湘少版三年级起点六年级下",
+      "wordCount": 41,
+      "file": "books/a58be04f.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点六年级下"
+    },
+    {
+      "id": "c548f5e3",
+      "title": "湘少版三年级起点四年级上",
+      "wordCount": 93,
+      "file": "books/c548f5e3.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点四年级上"
+    },
+    {
+      "id": "f7e2c5e1",
+      "title": "湘少版三年级起点四年级下",
+      "wordCount": 84,
+      "file": "books/f7e2c5e1.json",
+      "category": "小学",
+      "version": "湘少版",
+      "description": "湘少版三年级起点四年级下"
+    },
+    {
+      "id": "792f489d",
+      "title": "牛津上海版一年级上册",
+      "wordCount": 50,
+      "file": "books/792f489d.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版一年级上册"
+    },
+    {
+      "id": "571caec0",
+      "title": "牛津上海版一年级下册",
+      "wordCount": 47,
+      "file": "books/571caec0.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版一年级下册"
+    },
+    {
+      "id": "babad1dd",
+      "title": "牛津上海版七年级上册",
+      "wordCount": 208,
+      "file": "books/babad1dd.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版七年级上册"
+    },
+    {
+      "id": "3f772a64",
+      "title": "牛津上海版七年级下册",
+      "wordCount": 214,
+      "file": "books/3f772a64.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版七年级下册"
+    },
+    {
+      "id": "78a5c000",
+      "title": "牛津上海版三年级上册",
+      "wordCount": 82,
+      "file": "books/78a5c000.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版三年级上册"
+    },
+    {
+      "id": "faba5f7b",
+      "title": "牛津上海版三年级下册",
+      "wordCount": 68,
+      "file": "books/faba5f7b.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版三年级下册"
+    },
+    {
+      "id": "169a5060",
+      "title": "牛津上海版九年级上册",
+      "wordCount": 218,
+      "file": "books/169a5060.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版九年级上册"
+    },
+    {
+      "id": "5b41741a",
+      "title": "牛津上海版九年级下册",
+      "wordCount": 168,
+      "file": "books/5b41741a.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版九年级下册"
+    },
+    {
+      "id": "0e09e367",
+      "title": "牛津上海版二年级上册",
+      "wordCount": 41,
+      "file": "books/0e09e367.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版二年级上册"
+    },
+    {
+      "id": "9025ff70",
+      "title": "牛津上海版二年级下册",
+      "wordCount": 55,
+      "file": "books/9025ff70.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版二年级下册"
+    },
+    {
+      "id": "1426ce16",
+      "title": "牛津上海版五年级上册",
+      "wordCount": 95,
+      "file": "books/1426ce16.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版五年级上册"
+    },
+    {
+      "id": "16dff96d",
+      "title": "牛津上海版五年级下册",
+      "wordCount": 116,
+      "file": "books/16dff96d.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版五年级下册"
+    },
+    {
+      "id": "ee400b01",
+      "title": "牛津上海版八年级上册",
+      "wordCount": 240,
+      "file": "books/ee400b01.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版八年级上册"
+    },
+    {
+      "id": "a372b6ee",
+      "title": "牛津上海版八年级下册",
+      "wordCount": 242,
+      "file": "books/a372b6ee.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版八年级下册"
+    },
+    {
+      "id": "ca791d74",
+      "title": "牛津上海版六年级上册",
+      "wordCount": 182,
+      "file": "books/ca791d74.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版六年级上册"
+    },
+    {
+      "id": "a8c5eca9",
+      "title": "牛津上海版六年级下册",
+      "wordCount": 231,
+      "file": "books/a8c5eca9.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版六年级下册"
+    },
+    {
+      "id": "671dc748",
+      "title": "牛津上海版四年级上册",
+      "wordCount": 121,
+      "file": "books/671dc748.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版四年级上册"
+    },
+    {
+      "id": "d9fabdb3",
+      "title": "牛津上海版四年级下册",
+      "wordCount": 98,
+      "file": "books/d9fabdb3.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版四年级下册"
+    },
+    {
+      "id": "ba786550",
+      "title": "牛津上海版高一上",
+      "wordCount": 193,
+      "file": "books/ba786550.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版高一上"
+    },
+    {
+      "id": "6a4159f0",
+      "title": "牛津上海版高一下",
+      "wordCount": 213,
+      "file": "books/6a4159f0.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版高一下"
+    },
+    {
+      "id": "ecd1e88d",
+      "title": "牛津上海版高三上",
+      "wordCount": 223,
+      "file": "books/ecd1e88d.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版高三上"
+    },
+    {
+      "id": "f2d34838",
+      "title": "牛津上海版高三下",
+      "wordCount": 204,
+      "file": "books/f2d34838.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版高三下"
+    },
+    {
+      "id": "3a9c61e0",
+      "title": "牛津上海版高二上",
+      "wordCount": 287,
+      "file": "books/3a9c61e0.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版高二上"
+    },
+    {
+      "id": "c5b39d76",
+      "title": "牛津上海版高二下",
+      "wordCount": 280,
+      "file": "books/c5b39d76.json",
+      "category": "小学",
+      "version": "牛津版",
+      "description": "牛津上海版高二下"
+    },
+    {
+      "id": "e7aaabee",
+      "title": "牛津高中英语（模块一）",
+      "wordCount": 184,
+      "file": "books/e7aaabee.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块一）"
+    },
+    {
+      "id": "933b7107",
+      "title": "牛津高中英语（模块七）",
+      "wordCount": 247,
+      "file": "books/933b7107.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块七）"
+    },
+    {
+      "id": "15242076",
+      "title": "牛津高中英语（模块三）",
+      "wordCount": 244,
+      "file": "books/15242076.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块三）"
+    },
+    {
+      "id": "685c169d",
+      "title": "牛津高中英语（模块九）",
+      "wordCount": 266,
+      "file": "books/685c169d.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块九）"
+    },
+    {
+      "id": "91b8785f",
+      "title": "牛津高中英语（模块二）",
+      "wordCount": 210,
+      "file": "books/91b8785f.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块二）"
+    },
+    {
+      "id": "559f351b",
+      "title": "牛津高中英语（模块五）",
+      "wordCount": 218,
+      "file": "books/559f351b.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块五）"
+    },
+    {
+      "id": "9615708e",
+      "title": "牛津高中英语（模块八）",
+      "wordCount": 275,
+      "file": "books/9615708e.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块八）"
+    },
+    {
+      "id": "00dcc600",
+      "title": "牛津高中英语（模块六）",
+      "wordCount": 271,
+      "file": "books/00dcc600.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块六）"
+    },
+    {
+      "id": "522cc4ca",
+      "title": "牛津高中英语（模块十一）",
+      "wordCount": 224,
+      "file": "books/522cc4ca.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块十一）"
+    },
+    {
+      "id": "3bfd520b",
+      "title": "牛津高中英语（模块十）",
+      "wordCount": 223,
+      "file": "books/3bfd520b.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块十）"
+    },
+    {
+      "id": "404956de",
+      "title": "牛津高中英语（模块四）",
+      "wordCount": 244,
+      "file": "books/404956de.json",
+      "category": "高中",
+      "version": "牛津版",
+      "description": "牛津高中英语（模块四）"
+    },
+    {
+      "id": "f78b353d",
+      "title": "科普版三年级起点三年级上",
+      "wordCount": 82,
+      "file": "books/f78b353d.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点三年级上"
+    },
+    {
+      "id": "496042e0",
+      "title": "科普版三年级起点三年级下",
+      "wordCount": 91,
+      "file": "books/496042e0.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点三年级下"
+    },
+    {
+      "id": "26673cfd",
+      "title": "科普版三年级起点五年级上",
+      "wordCount": 117,
+      "file": "books/26673cfd.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点五年级上"
+    },
+    {
+      "id": "1bfde259",
+      "title": "科普版三年级起点五年级下",
+      "wordCount": 117,
+      "file": "books/1bfde259.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点五年级下"
+    },
+    {
+      "id": "16f10693",
+      "title": "科普版三年级起点六年级上",
+      "wordCount": 94,
+      "file": "books/16f10693.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点六年级上"
+    },
+    {
+      "id": "a96f0680",
+      "title": "科普版三年级起点六年级下",
+      "wordCount": 80,
+      "file": "books/a96f0680.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点六年级下"
+    },
+    {
+      "id": "442f70ec",
+      "title": "科普版三年级起点四年级上",
+      "wordCount": 80,
+      "file": "books/442f70ec.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点四年级上"
+    },
+    {
+      "id": "8d3cf199",
+      "title": "科普版三年级起点四年级下",
+      "wordCount": 111,
+      "file": "books/8d3cf199.json",
+      "category": "小学",
+      "version": "科普版",
+      "description": "科普版三年级起点四年级下"
+    },
+    {
+      "id": "2c2e57cb",
+      "title": "PASS高中英语同步词汇译林版",
+      "wordCount": 4536,
+      "file": "books/2c2e57cb.json",
+      "category": "高中",
+      "version": "译林版",
+      "description": "PASS高中英语同步词汇译林版"
+    },
+    {
+      "id": "3adba74a",
+      "title": "星火高中英语同步词汇译林版",
+      "wordCount": 2606,
+      "file": "books/3adba74a.json",
+      "category": "高中",
+      "version": "译林版",
+      "description": "星火高中英语同步词汇译林版"
+    },
+    {
+      "id": "64f5c574",
+      "title": "译林版一年级上",
+      "wordCount": 68,
+      "file": "books/64f5c574.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版一年级上"
+    },
+    {
+      "id": "0cca3527",
+      "title": "译林版一年级下",
+      "wordCount": 68,
+      "file": "books/0cca3527.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版一年级下"
+    },
+    {
+      "id": "1abae4ce",
+      "title": "译林版三年级起点三年级上",
+      "wordCount": 91,
+      "file": "books/1abae4ce.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点三年级上"
+    },
+    {
+      "id": "bc29b6aa",
+      "title": "译林版三年级起点三年级下",
+      "wordCount": 122,
+      "file": "books/bc29b6aa.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点三年级下"
+    },
+    {
+      "id": "8dabe404",
+      "title": "译林版三年级起点五年级上",
+      "wordCount": 146,
+      "file": "books/8dabe404.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点五年级上"
+    },
+    {
+      "id": "19094bb8",
+      "title": "译林版三年级起点五年级下",
+      "wordCount": 152,
+      "file": "books/19094bb8.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点五年级下"
+    },
+    {
+      "id": "b7693e8b",
+      "title": "译林版三年级起点六年级上",
+      "wordCount": 165,
+      "file": "books/b7693e8b.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点六年级上"
+    },
+    {
+      "id": "30af54d2",
+      "title": "译林版三年级起点六年级下",
+      "wordCount": 117,
+      "file": "books/30af54d2.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点六年级下"
+    },
+    {
+      "id": "aa99a248",
+      "title": "译林版三年级起点四年级上",
+      "wordCount": 124,
+      "file": "books/aa99a248.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点四年级上"
+    },
+    {
+      "id": "f1e26bed",
+      "title": "译林版三年级起点四年级下",
+      "wordCount": 119,
+      "file": "books/f1e26bed.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版三年级起点四年级下"
+    },
+    {
+      "id": "0f625cd6",
+      "title": "译林版二年级上",
+      "wordCount": 75,
+      "file": "books/0f625cd6.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版二年级上"
+    },
+    {
+      "id": "5732ed47",
+      "title": "译林版二年级下",
+      "wordCount": 44,
+      "file": "books/5732ed47.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版二年级下"
+    },
+    {
+      "id": "d83b3092",
+      "title": "译林版牛津小学英语1A",
+      "wordCount": 37,
+      "file": "books/d83b3092.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津小学英语1A"
+    },
+    {
+      "id": "07ffe86f",
+      "title": "译林版牛津小学英语1B",
+      "wordCount": 39,
+      "file": "books/07ffe86f.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津小学英语1B"
+    },
+    {
+      "id": "c31775ae",
+      "title": "译林版牛津小学英语2A",
+      "wordCount": 44,
+      "file": "books/c31775ae.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津小学英语2A"
+    },
+    {
+      "id": "04e1ea70",
+      "title": "译林版牛津小学英语2B",
+      "wordCount": 43,
+      "file": "books/04e1ea70.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津小学英语2B"
+    },
+    {
+      "id": "6e56e185",
+      "title": "译林版牛津英语七年级上册",
+      "wordCount": 380,
+      "file": "books/6e56e185.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津英语七年级上册"
+    },
+    {
+      "id": "a879778b",
+      "title": "译林版牛津英语七年级下册",
+      "wordCount": 473,
+      "file": "books/a879778b.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津英语七年级下册"
+    },
+    {
+      "id": "00dfe194",
+      "title": "译林版牛津英语九年级上册",
+      "wordCount": 454,
+      "file": "books/00dfe194.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津英语九年级上册"
+    },
+    {
+      "id": "f3249137",
+      "title": "译林版牛津英语九年级下册",
+      "wordCount": 193,
+      "file": "books/f3249137.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津英语九年级下册"
+    },
+    {
+      "id": "fe2fb489",
+      "title": "译林版牛津英语八年级上册",
+      "wordCount": 505,
+      "file": "books/fe2fb489.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津英语八年级上册"
+    },
+    {
+      "id": "5c420909",
+      "title": "译林版牛津英语八年级下册",
+      "wordCount": 406,
+      "file": "books/5c420909.json",
+      "category": "小学",
+      "version": "译林版",
+      "description": "译林版牛津英语八年级下册"
+    },
+    {
+      "id": "f3cd48c3",
+      "title": "译林版高中英语必修第一册",
+      "wordCount": 277,
+      "file": "books/f3cd48c3.json",
+      "category": "高中",
+      "version": "译林版",
+      "description": "译林版高中英语必修第一册"
+    },
+    {
+      "id": "44982041",
+      "title": "译林版高中英语必修第三册",
+      "wordCount": 298,
+      "file": "books/44982041.json",
+      "category": "高中",
+      "version": "译林版",
+      "description": "译林版高中英语必修第三册"
+    },
+    {
+      "id": "474111d2",
+      "title": "译林版高中英语必修第二册",
+      "wordCount": 296,
+      "file": "books/474111d2.json",
+      "category": "高中",
+      "version": "译林版",
+      "description": "译林版高中英语必修第二册"
+    },
+    {
+      "id": "a1b087c0",
+      "title": "闽教版三年级起点三年级上",
+      "wordCount": 127,
+      "file": "books/a1b087c0.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点三年级上"
+    },
+    {
+      "id": "b79ef427",
+      "title": "闽教版三年级起点三年级下",
+      "wordCount": 83,
+      "file": "books/b79ef427.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点三年级下"
+    },
+    {
+      "id": "d4440132",
+      "title": "闽教版三年级起点五年级上",
+      "wordCount": 95,
+      "file": "books/d4440132.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点五年级上"
+    },
+    {
+      "id": "13b6b5b0",
+      "title": "闽教版三年级起点五年级下",
+      "wordCount": 100,
+      "file": "books/13b6b5b0.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点五年级下"
+    },
+    {
+      "id": "19f156f2",
+      "title": "闽教版三年级起点六年级上",
+      "wordCount": 101,
+      "file": "books/19f156f2.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点六年级上"
+    },
+    {
+      "id": "a5c0bb28",
+      "title": "闽教版三年级起点六年级下",
+      "wordCount": 74,
+      "file": "books/a5c0bb28.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点六年级下"
+    },
+    {
+      "id": "f904b2b8",
+      "title": "闽教版三年级起点四年级上",
+      "wordCount": 94,
+      "file": "books/f904b2b8.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点四年级上"
+    },
+    {
+      "id": "8dae1bef",
+      "title": "闽教版三年级起点四年级下",
+      "wordCount": 90,
+      "file": "books/8dae1bef.json",
+      "category": "小学",
+      "version": "闽教版",
+      "description": "闽教版三年级起点四年级下"
+    },
+    {
+      "id": "314f59c5",
+      "title": "陕西版三年级起点三年级上",
+      "wordCount": 119,
+      "file": "books/314f59c5.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点三年级上"
+    },
+    {
+      "id": "eedb47d7",
+      "title": "陕西版三年级起点三年级下",
+      "wordCount": 98,
+      "file": "books/eedb47d7.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点三年级下"
+    },
+    {
+      "id": "1d746abd",
+      "title": "陕西版三年级起点五年级上",
+      "wordCount": 101,
+      "file": "books/1d746abd.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点五年级上"
+    },
+    {
+      "id": "20967b4a",
+      "title": "陕西版三年级起点五年级下",
+      "wordCount": 136,
+      "file": "books/20967b4a.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点五年级下"
+    },
+    {
+      "id": "9db9e0fe",
+      "title": "陕西版三年级起点六年级上",
+      "wordCount": 121,
+      "file": "books/9db9e0fe.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点六年级上"
+    },
+    {
+      "id": "fe2357e2",
+      "title": "陕西版三年级起点六年级下",
+      "wordCount": 111,
+      "file": "books/fe2357e2.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点六年级下"
+    },
+    {
+      "id": "ca55ca0f",
+      "title": "陕西版三年级起点四年级上",
+      "wordCount": 105,
+      "file": "books/ca55ca0f.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点四年级上"
+    },
+    {
+      "id": "b7ecf75c",
+      "title": "陕西版三年级起点四年级下",
+      "wordCount": 118,
+      "file": "books/b7ecf75c.json",
+      "category": "小学",
+      "version": "陕西版",
+      "description": "陕西版三年级起点四年级下"
+    },
+    {
+      "id": "06987f05",
+      "title": "鲁教版五四学制七年级上册",
+      "wordCount": 401,
+      "file": "books/06987f05.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制七年级上册"
+    },
+    {
+      "id": "b34b1547",
+      "title": "鲁教版五四学制七年级下册",
+      "wordCount": 396,
+      "file": "books/b34b1547.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制七年级下册"
+    },
+    {
+      "id": "89aab146",
+      "title": "鲁教版五四学制九年级全册",
+      "wordCount": 459,
+      "file": "books/89aab146.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制九年级全册"
+    },
+    {
+      "id": "e9e9f87c",
+      "title": "鲁教版五四学制八年级上册",
+      "wordCount": 411,
+      "file": "books/e9e9f87c.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制八年级上册"
+    },
+    {
+      "id": "9b9c106e",
+      "title": "鲁教版五四学制八年级下册",
+      "wordCount": 367,
+      "file": "books/9b9c106e.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制八年级下册"
+    },
+    {
+      "id": "fe280ea9",
+      "title": "鲁教版五四学制六年级上册",
+      "wordCount": 365,
+      "file": "books/fe280ea9.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制六年级上册"
+    },
+    {
+      "id": "c9f1d4bf",
+      "title": "鲁教版五四学制六年级下册",
+      "wordCount": 431,
+      "file": "books/c9f1d4bf.json",
+      "category": "小学",
+      "version": "鲁教版",
+      "description": "鲁教版五四学制六年级下册"
+    },
+    {
+      "id": "7c55192b",
+      "title": "鲁科版五四学制三年级上册",
+      "wordCount": 118,
+      "file": "books/7c55192b.json",
+      "category": "小学",
+      "version": "鲁科版",
+      "description": "鲁科版五四学制三年级上册"
+    },
+    {
+      "id": "79b2cc47",
+      "title": "鲁科版五四学制三年级下册",
+      "wordCount": 105,
+      "file": "books/79b2cc47.json",
+      "category": "小学",
+      "version": "鲁科版",
+      "description": "鲁科版五四学制三年级下册"
+    },
+    {
+      "id": "debe8042",
+      "title": "鲁科版五四学制五年级上册",
+      "wordCount": 145,
+      "file": "books/debe8042.json",
+      "category": "小学",
+      "version": "鲁科版",
+      "description": "鲁科版五四学制五年级上册"
+    },
+    {
+      "id": "fb37821b",
+      "title": "鲁科版五四学制五年级下册",
+      "wordCount": 143,
+      "file": "books/fb37821b.json",
+      "category": "小学",
+      "version": "鲁科版",
+      "description": "鲁科版五四学制五年级下册"
+    },
+    {
+      "id": "8c50e06e",
+      "title": "鲁科版五四学制四年级上册",
+      "wordCount": 103,
+      "file": "books/8c50e06e.json",
+      "category": "小学",
+      "version": "鲁科版",
+      "description": "鲁科版五四学制四年级上册"
+    },
+    {
+      "id": "46b86bb0",
+      "title": "鲁科版五四学制四年级下册",
+      "wordCount": 94,
+      "file": "books/46b86bb0.json",
+      "category": "小学",
+      "version": "鲁科版",
+      "description": "鲁科版五四学制四年级下册"
     }
   ]
 }

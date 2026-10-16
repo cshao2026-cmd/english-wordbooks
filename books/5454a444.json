@@ -1,0 +1,534 @@
+{
+  "id": "5454a444",
+  "title": "人教版一年级起点四年级下",
+  "wordCount": 87,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "across from",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 在…的正对面"
+        },
+        {
+          "term": "next to",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "prep. 紧邻；在…近旁；仅次于；紧接"
+        },
+        {
+          "term": "between",
+          "phonetic": "[bɪˈtwiːn]",
+          "phoneticUS": "[bɪˈtwiːn]",
+          "meaning": "prep. 在…之间\nadv. 在中间"
+        },
+        {
+          "term": "restaurant",
+          "phonetic": "[ˈrestrɒnt]",
+          "phoneticUS": "[ˈrestrɑːnt; ˈrestərɑːnt]",
+          "meaning": "n. 餐馆；[经] 饭店"
+        },
+        {
+          "term": "post office",
+          "phonetic": "[ˈpəust ɔfis]",
+          "phoneticUS": "[ˈpost ɔfɪs]",
+          "meaning": "n. 邮局；邮政部门；邮政系统；邮差敲门游戏（儿童用假托的信件换取亲吻）"
+        },
+        {
+          "term": "bank",
+          "phonetic": "[bæŋk]",
+          "phoneticUS": "[bæŋk]",
+          "meaning": "n. 银行；岸；浅滩；储库\nvt. 将…存入银行；倾斜转弯\nvi. 堆积；倾斜转弯"
+        },
+        {
+          "term": "grocery",
+          "phonetic": "[ˈɡrəʊsəri]",
+          "phoneticUS": "[ˈɡroʊsəri]",
+          "meaning": "n. 食品杂货店\n食品杂货"
+        },
+        {
+          "term": "turn left",
+          "phonetic": "[tɜ:n left]",
+          "phoneticUS": "[tɝ​n lɛft]",
+          "meaning": "un. 向左转"
+        },
+        {
+          "term": "turn right",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 转往右面"
+        },
+        {
+          "term": "go straight",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 笔直走"
+        },
+        {
+          "term": "crossroads",
+          "phonetic": "[ˈkrɒsrəʊdz]",
+          "phoneticUS": "[ˈkrɔːsroʊdz]",
+          "meaning": "n. 十字路口；交叉路口；聚会的中心地点（crossroad的复数形式）"
+        },
+        {
+          "term": "neighbourhood",
+          "phonetic": "[ˈneɪbəhʊd]",
+          "phoneticUS": "[ˈneɪbərhʊd]",
+          "meaning": "n. 邻近；周围；邻居关系；附近一带"
+        },
+        {
+          "term": "send",
+          "phonetic": "[send]",
+          "phoneticUS": "[send]",
+          "meaning": "n. 上升运动\nvi. 派人；寄信\nvt. 发送，寄；派遣；使进入；发射"
+        },
+        {
+          "term": "get",
+          "phonetic": "[ɡet]",
+          "phoneticUS": "[ɡet]",
+          "meaning": "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得；获得；受到；变成"
+        },
+        {
+          "term": "money",
+          "phonetic": "[ˈmʌni]",
+          "phoneticUS": "[ˈmʌni]",
+          "meaning": "n. 钱；货币；财富"
+        },
+        {
+          "term": "get to",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 接触到；开始；〈美口〉收买"
+        },
+        {
+          "term": "before",
+          "phonetic": "[bɪˈfɔː(r)]",
+          "phoneticUS": "[bɪˈfɔːr]",
+          "meaning": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前"
+        },
+        {
+          "term": "leave",
+          "phonetic": "[liːv]",
+          "phoneticUS": "[liːv]",
+          "meaning": "vt. 离开；留下；遗忘；委托\nvi. 离开，出发；留下\nn. 许可，同意；休假"
+        },
+        {
+          "term": "toy",
+          "phonetic": "[tɔɪ]",
+          "phoneticUS": "[tɔɪ]",
+          "meaning": "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待"
+        },
+        {
+          "term": "hospital",
+          "phonetic": "[ˈhɒspɪt(ə)l]",
+          "phoneticUS": "[ˈhɑːspɪtl]",
+          "meaning": "n. 医院"
+        },
+        {
+          "term": "bookshop",
+          "phonetic": "[ˈbʊkʃɒp]",
+          "phoneticUS": "[ˈbʊkʃɑːp]",
+          "meaning": "n. 书店"
+        },
+        {
+          "term": "school",
+          "phonetic": "[skuːl]",
+          "phoneticUS": "[skuːl]",
+          "meaning": "n. 学校；学院；学派；鱼群\nvt. 教育"
+        },
+        {
+          "term": "supermarket",
+          "phonetic": "[ˈsuːpəmɑːkɪt]",
+          "phoneticUS": "[ˈsuːpərmɑːrkɪt]",
+          "meaning": "n. 超级市场；自助售货商店"
+        },
+        {
+          "term": "ball",
+          "phonetic": "[bɔːl]",
+          "phoneticUS": "[bɔːl]",
+          "meaning": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块"
+        },
+        {
+          "term": "city",
+          "phonetic": "[ˈsɪti]",
+          "phoneticUS": "[ˈsɪti]",
+          "meaning": "n. 城市，都市\nadj. 城市的；都会的"
+        },
+        {
+          "term": "street",
+          "phonetic": "[striːt]",
+          "phoneticUS": "[striːt]",
+          "meaning": "n. 街道\nadj. 街道的"
+        },
+        {
+          "term": "sports centre",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "体育运动中心, 运动场"
+        },
+        {
+          "term": "hotel",
+          "phonetic": "[həʊˈtel]",
+          "phoneticUS": "[hoʊˈtel]",
+          "meaning": "n. 旅馆，饭店；客栈\nvt. 使…在饭店下榻\nvi. 进行旅馆式办公"
+        },
+        {
+          "term": "square",
+          "phonetic": "[skweə(r)]",
+          "phoneticUS": "[skwer]",
+          "meaning": "n. 平方；广场；正方形\nadj. 平方的；正方形的；直角的；正直的\nvt. 使成方形；与…一致\nvi. 一致；成方形\nadv. 成直角地"
+        },
+        {
+          "term": "buy toys",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "see a film",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "看电影；去看电影；去电影院看电影"
+        },
+        {
+          "term": "go boating",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 乘船〔尤指划船〕游玩"
+        },
+        {
+          "term": "busy",
+          "phonetic": "[ˈbɪzi]",
+          "phoneticUS": "[ˈbɪzi]",
+          "meaning": "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于"
+        },
+        {
+          "term": "station",
+          "phonetic": "[ˈsteɪʃ(ə)n]",
+          "phoneticUS": "[ˈsteɪʃn]",
+          "meaning": "n. 车站；驻地；地位；身份\nvt. 配置；安置；驻扎"
+        },
+        {
+          "term": "place",
+          "phonetic": "[pleɪs]",
+          "phoneticUS": "[pleɪs]",
+          "meaning": "n. 地方；住所；座位\nvt. 放置；任命；寄予\nvi. 名列前茅；取得名次"
+        },
+        {
+          "term": "thing",
+          "phonetic": "[θɪŋ]",
+          "phoneticUS": "[θɪŋ]",
+          "meaning": "n. 事情；东西；事物；情况"
+        },
+        {
+          "term": "stay",
+          "phonetic": "[steɪ]",
+          "phoneticUS": "[steɪ]",
+          "meaning": "n. 逗留；停止；支柱\nvi. 停留；坚持；暂住；停下\nvt. 坚持；暂住；抑制"
+        },
+        {
+          "term": "star",
+          "phonetic": "[stɑː(r)]",
+          "phoneticUS": "[stɑːr]",
+          "meaning": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角"
+        },
+        {
+          "term": "king",
+          "phonetic": "[kɪŋ]",
+          "phoneticUS": "[kɪŋ]",
+          "meaning": "n. 国王；最有势力者；王棋\nvi. 统治；做国王\nvt. 立…为王\nadj. 主要的，最重要的，最大的"
+        },
+        {
+          "term": "central",
+          "phonetic": "[ˈsentrəl]",
+          "phoneticUS": "[ˈsentrəl]",
+          "meaning": "n. 电话总机\nadj. 中心的；主要的；中枢的"
+        },
+        {
+          "term": "take photos",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "照相；拍照；拍照片"
+        },
+        {
+          "term": "museum",
+          "phonetic": "[mjuˈziːəm]",
+          "phoneticUS": "[mjuˈziːəm]",
+          "meaning": "n. 博物馆"
+        },
+        {
+          "term": "dream",
+          "phonetic": "[driːm]",
+          "phoneticUS": "[driːm]",
+          "meaning": "n. 梦想，愿望；梦\nadj. 梦的；理想的；不切实际的\nvt. 梦想；做梦；想到\nvi. 梦想；做梦，梦见；想到"
+        },
+        {
+          "term": "sea",
+          "phonetic": "[siː]",
+          "phoneticUS": "[siː]",
+          "meaning": "n. 海；海洋；许多；大量"
+        },
+        {
+          "term": "ski",
+          "phonetic": "[skiː]",
+          "phoneticUS": "[skiː]",
+          "meaning": "n. 滑雪橇\nvi. 滑雪\nadj. 滑雪（用）的"
+        },
+        {
+          "term": "eat seafood",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "visit the Mogao Caves",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "West Lake",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "西湖；杭州西湖；浙江杭州"
+        },
+        {
+          "term": "row a boat",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "划船；摇船；划船最好用"
+        },
+        {
+          "term": "the Great Wall",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "长城；万里长城；中国万里长城"
+        },
+        {
+          "term": "take photos",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "照相；拍照；拍照片"
+        },
+        {
+          "term": "summer vacation",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 暑假"
+        },
+        {
+          "term": "travel",
+          "phonetic": "[ˈtræv(ə)l]",
+          "phoneticUS": "[ˈtrævl]",
+          "meaning": "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往"
+        },
+        {
+          "term": "reading",
+          "phonetic": "[ˈriːdɪŋ]",
+          "phoneticUS": "[ˈriːdɪŋ]",
+          "meaning": "n. 阅读，朗读；读物；读数\nv. 阅读（read的ing形式）\nadj. 阅读的"
+        },
+        {
+          "term": "skateboarding",
+          "phonetic": "[ˈskeɪtbɔːdɪŋ]",
+          "phoneticUS": "[ˈskeɪtbɔːrdɪŋ]",
+          "meaning": "n. 滑板运动"
+        },
+        {
+          "term": "singing",
+          "phonetic": "[ˈsɪŋɪŋ]",
+          "phoneticUS": "[ˈsɪŋɪŋ]",
+          "meaning": "n. 歌唱；歌声；耳鸣；振鸣\nv. 唱歌（sing的ing形式）\nadj. 唱歌的；音乐般的"
+        },
+        {
+          "term": "dancing",
+          "phonetic": "[ˈdɑːnsɪŋ]",
+          "phoneticUS": "[ˈdænsɪŋ]",
+          "meaning": "n. 跳舞；舞蹈\nv. 跳舞；摇晃（dance的ing形式）"
+        },
+        {
+          "term": "doing jigsaw puzzles",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "making models",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "collecting erasers",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "different",
+          "phonetic": "[ˈdɪfrənt]",
+          "phoneticUS": "[ˈdɪfrənt]",
+          "meaning": "adj. 不同的；个别的，与众不同的"
+        },
+        {
+          "term": "hobby",
+          "phonetic": "[ˈhɒbi]",
+          "phoneticUS": "[ˈhɑːbi]",
+          "meaning": "n. 嗜好；业余爱好"
+        },
+        {
+          "term": "stamp",
+          "phonetic": "[stæmp]",
+          "phoneticUS": "[stæmp]",
+          "meaning": "n. 邮票；印记；标志；跺脚\nvt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏\nvi. 跺脚；捣碎；毁掉"
+        },
+        {
+          "term": "catch",
+          "phonetic": "[kætʃ]",
+          "phoneticUS": "[kætʃ]",
+          "meaning": "n. 捕捉；捕获物；窗钩\nvt. 赶上；抓住；感染；了解\nvi. 赶上；抓住"
+        },
+        {
+          "term": "go for a picnic",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去野餐；去野炊；出去野炊"
+        },
+        {
+          "term": "play the violin",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "拉小提琴；弹小提琴；演奏小提琴"
+        },
+        {
+          "term": "go skating",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去滑冰；去溜冰；滑雪"
+        },
+        {
+          "term": "go camping",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去野营；去露营；宿营"
+        },
+        {
+          "term": "do the housework",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "做家务；做家务活；料理家务"
+        },
+        {
+          "term": "free",
+          "phonetic": "[friː]",
+          "phoneticUS": "[friː]",
+          "meaning": "adj. 免费的；自由的，不受约束的；[化学] 游离的\nvt. 使自由，解放；释放\nadv. 自由地；免费"
+        },
+        {
+          "term": "never",
+          "phonetic": "[ˈnevə(r)]",
+          "phoneticUS": "[ˈnevər]",
+          "meaning": "adv. 从未；决不"
+        },
+        {
+          "term": "once a week",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "一周一次；每周一次；一星期一次"
+        },
+        {
+          "term": "twice a week",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "一周两次；每周两次；一星期两次"
+        },
+        {
+          "term": "three times a week",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "一周三次；每周三次；一星期三次"
+        },
+        {
+          "term": "Canada",
+          "phonetic": "[ˈkænədə]",
+          "phoneticUS": "[ˈkænədə]",
+          "meaning": "n. 加拿大（北美洲国家）"
+        },
+        {
+          "term": "Australia",
+          "phonetic": "[ɒˈstreɪliə]",
+          "phoneticUS": "[ɔːˈstreɪliə]",
+          "meaning": "n. 澳大利亚，澳洲"
+        },
+        {
+          "term": "the UK",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "（等于the United Kingdom）英国"
+        },
+        {
+          "term": "the USA",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "美国；美利坚合众国；现在我们有美国的大哥"
+        },
+        {
+          "term": "China",
+          "phonetic": "[ˈtʃaɪnə]",
+          "phoneticUS": "[ˈtʃaɪnə]",
+          "meaning": "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的"
+        },
+        {
+          "term": "koala",
+          "phonetic": "[kəʊˈɑːlə]",
+          "phoneticUS": "[koʊˈɑːlə]",
+          "meaning": "n. 树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+        },
+        {
+          "term": "maple leaves",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "枫叶；枫树叶子；枫树留下"
+        },
+        {
+          "term": "Big Ben",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 英国伦敦议会大厦顶的大钟, 美国得州西南部的国立大本德公园(Big Bend National Park)"
+        },
+        {
+          "term": "Disneyland",
+          "phonetic": "[ˈdɪznilænd]",
+          "phoneticUS": "[ˈdɪznilænd]",
+          "meaning": "n. 迪斯尼乐园；幻想世界"
+        },
+        {
+          "term": "campfire",
+          "phonetic": "[ˈkæmpfaɪə(r)]",
+          "phoneticUS": "[ˈkæmpfaɪər]",
+          "meaning": "n. 营火；营火会"
+        },
+        {
+          "term": "cute",
+          "phonetic": "[kjuːt]",
+          "phoneticUS": "[kjuːt]",
+          "meaning": "adj. 可爱的；漂亮的；聪明的，伶俐的"
+        },
+        {
+          "term": "country",
+          "phonetic": "[ˈkʌntri]",
+          "phoneticUS": "[ˈkʌntri]",
+          "meaning": "n. 国家，国土；国民；乡下，农村；乡村；故乡\nadj. 祖国的，故乡的；地方的，乡村的；国家的；粗鲁的；乡村音乐的"
+        },
+        {
+          "term": "pretty",
+          "phonetic": "[ˈprɪti]",
+          "phoneticUS": "[ˈprɪti]",
+          "meaning": "n. 有吸引力的事物（尤指饰品）；漂亮的人\nadj. 漂亮的；可爱的；优美的\nadv. 相当地；颇"
+        }
+      ]
+    }
+  ]
+}

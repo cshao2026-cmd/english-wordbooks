@@ -1,0 +1,828 @@
+{
+  "id": "64dd1169",
+  "title": "北师大版三年级起点六年级上",
+  "wordCount": 136,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "spaceship",
+          "phonetic": "[ˈspeɪsʃɪp]",
+          "phoneticUS": "[ˈspeɪsʃɪp]",
+          "meaning": "n. [航] 宇宙飞船"
+        },
+        {
+          "term": "moon",
+          "phonetic": "[muːn]",
+          "phoneticUS": "[muːn]",
+          "meaning": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度"
+        },
+        {
+          "term": "astronaut",
+          "phonetic": "[ˈæstrənɔːt]",
+          "phoneticUS": "[ˈæstrənɔːt]",
+          "meaning": "n. 宇航员，航天员；太空旅行者"
+        },
+        {
+          "term": "have",
+          "phonetic": "[həv]",
+          "phoneticUS": "[həv; əv; hæv]",
+          "meaning": "aux. 已经\nvt. 有；让；拿；从事；允许"
+        },
+        {
+          "term": "has",
+          "phonetic": "[həz]",
+          "phoneticUS": "[həz; əz; hæz]",
+          "meaning": "v. 有，吃，得到，从事，允许，雇用，享有（have的第三人称单数）；（亲属关系中）接受；拿；买到"
+        },
+        {
+          "term": "had",
+          "phonetic": "[həd; əd; hæd]",
+          "phoneticUS": "[həd; əd; hæd]",
+          "meaning": "v. 有；吃；得到（动词have的过去式和过去分词）\naux. 已经（用于过去完成时和过去完成进行时）"
+        },
+        {
+          "term": "dream",
+          "phonetic": "[driːm]",
+          "phoneticUS": "[driːm]",
+          "meaning": "n. 梦想，愿望；梦\nadj. 梦的；理想的；不切实际的\nvt. 梦想；做梦；想到\nvi. 梦想；做梦，梦见；想到"
+        },
+        {
+          "term": "last night",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 昨晚；最后一夜"
+        },
+        {
+          "term": "am",
+          "phonetic": "[əm; æm]",
+          "phoneticUS": "[əm; æm]",
+          "meaning": "abbr. 调幅\nv. 是"
+        },
+        {
+          "term": "is",
+          "phonetic": "[ɪz]",
+          "phoneticUS": "[ɪz]",
+          "meaning": "v. 是（be的三单形式）\nn. 存在"
+        },
+        {
+          "term": "was",
+          "phonetic": "[wəz; wɒz]",
+          "phoneticUS": "[wəz; wʌz]",
+          "meaning": "be的第一和第三人称单数过去式"
+        },
+        {
+          "term": "are",
+          "phonetic": "[ɑ:(r)]",
+          "phoneticUS": "[ər; ɑːr; er]",
+          "meaning": "v. 是（be的第二人称单复数现在式）\nn. 公亩"
+        },
+        {
+          "term": "were",
+          "phonetic": "[wə(r); wɜː(r)]",
+          "phoneticUS": "[wər; wɜːr]",
+          "meaning": "v. 是，在（are的过去式）"
+        },
+        {
+          "term": "air",
+          "phonetic": "[eə(r)]",
+          "phoneticUS": "[er]",
+          "meaning": "n. 空气，大气；天空；样子；曲调\nvt. 使通风，晾干；夸耀\nvi. 通风"
+        },
+        {
+          "term": "friendly",
+          "phonetic": "[ˈfrendli]",
+          "phoneticUS": "[ˈfrendli]",
+          "meaning": "adj. 友好的；亲切的；支持的；融洽的，和睦的\nadv. 友善地；温和地"
+        },
+        {
+          "term": "Earth",
+          "phonetic": "[ɜːθ]",
+          "phoneticUS": "[ɜːrθ]",
+          "meaning": "n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴\nvt. 把（电线）[电] 接地；盖（土）；追赶入洞穴\nvi. 躲进地洞"
+        },
+        {
+          "term": "yesterday",
+          "phonetic": "[ˈjestədeɪ]",
+          "phoneticUS": "[ˈjestərdeɪ; ˈjestərdi]",
+          "meaning": "n. 昨天；往昔\nadv. 昨天"
+        },
+        {
+          "term": "swimming pool",
+          "phonetic": "[ˈswɪmɪŋ puːl]",
+          "phoneticUS": "[ˈswɪmɪŋ puːl]",
+          "meaning": "n. 游泳池；游泳场；游泳馆"
+        },
+        {
+          "term": "clean",
+          "phonetic": "[kliːn]",
+          "phoneticUS": "[kliːn]",
+          "meaning": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地"
+        },
+        {
+          "term": "cleaned",
+          "phonetic": "[kliːnd]",
+          "phoneticUS": "[kliːnd]",
+          "meaning": "v. 打扫（clean的过去式）；把…弄干净\nadj. 净化的"
+        },
+        {
+          "term": "film",
+          "phonetic": "[fɪlm]",
+          "phoneticUS": "[fɪlm]",
+          "meaning": "n. 电影；薄膜；胶卷；轻烟\nvt. 在…上覆以薄膜；把…拍成电影\nvi. 摄制电影；生薄膜；变得朦胧"
+        },
+        {
+          "term": "visit",
+          "phonetic": "[ˈvɪzɪt]",
+          "phoneticUS": "[ˈvɪzɪt]",
+          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+        },
+        {
+          "term": "visited",
+          "phonetic": "['vɪzɪtɪd]",
+          "phoneticUS": "[ˈvɪzɪtɪd]",
+          "meaning": "v. 拜访，访问（visit的过去式）"
+        },
+        {
+          "term": "go",
+          "phonetic": "[ɡəʊ]",
+          "phoneticUS": "[ɡoʊ]",
+          "meaning": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]"
+        },
+        {
+          "term": "went",
+          "phonetic": "[went]",
+          "phoneticUS": "[went]",
+          "meaning": "v. 去，过去（go的过去式）"
+        },
+        {
+          "term": "slowly",
+          "phonetic": "[ˈsləʊli]",
+          "phoneticUS": "[ˈsloʊli]",
+          "meaning": "adv. 缓慢地，慢慢地"
+        },
+        {
+          "term": "want",
+          "phonetic": "[wɒnt]",
+          "phoneticUS": "[wɑːnt]",
+          "meaning": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少"
+        },
+        {
+          "term": "wanted",
+          "phonetic": "[ˈwɒntɪd]",
+          "phoneticUS": "[ˈwɑːntɪd]",
+          "meaning": "v. 缺少( want的过去式和过去分词 )；应该；打算；需要…在场\nadj. 受通缉的；被征求的"
+        },
+        {
+          "term": "pass",
+          "phonetic": "[pɑːs]",
+          "phoneticUS": "[pæs]",
+          "meaning": "n. 及格；经过；护照；途径；传球\nvt. 通过；经过；传递\nvi. 经过；传递；变化；终止"
+        },
+        {
+          "term": "passed",
+          "phonetic": "[pɑːst]",
+          "phoneticUS": "[pæst]",
+          "meaning": "v. 通过；传递（pass的过去分词）；超过\nadj. 已经通过的；已经过去的；已被传递的"
+        },
+        {
+          "term": "eat",
+          "phonetic": "[iːt]",
+          "phoneticUS": "[iːt]",
+          "meaning": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀"
+        },
+        {
+          "term": "ate",
+          "phonetic": "[et; eɪt]",
+          "phoneticUS": "[eɪt]",
+          "meaning": "v. 吃（eat的过去式）"
+        },
+        {
+          "term": "quickly",
+          "phonetic": "[ˈkwɪkli]",
+          "phoneticUS": "[ˈkwɪkli]",
+          "meaning": "adv. 迅速地；很快地"
+        },
+        {
+          "term": "another",
+          "phonetic": "[əˈnʌðə(r)]",
+          "phoneticUS": "[əˈnʌðər]",
+          "meaning": "prep. 另一个；另一个人\nadj. 又一，另一；另外的；不同的\npron. 另一个；又一个"
+        },
+        {
+          "term": "suddenly",
+          "phonetic": "[ˈsʌd(ə)nli]",
+          "phoneticUS": "[ˈsʌdənli]",
+          "meaning": "adv. 突然地；忽然"
+        },
+        {
+          "term": "look",
+          "phonetic": "[lʊk]",
+          "phoneticUS": "[lʊk]",
+          "meaning": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容"
+        },
+        {
+          "term": "looked",
+          "phonetic": "[lʊkt]",
+          "phoneticUS": "[lʊkt]",
+          "meaning": "v. 看，瞧( look的过去式和过去分词 )；注意；面向；寻找"
+        },
+        {
+          "term": "sick",
+          "phonetic": "[sɪk]",
+          "phoneticUS": "[sɪk]",
+          "meaning": "adj. 厌恶的；病态的；不舒服；渴望的；恶心的 ；生病的\nn. 病人\nvt. 使狗去咬；呕吐；追击"
+        },
+        {
+          "term": "cough",
+          "phonetic": "[kɒf]",
+          "phoneticUS": "[kɔːf]",
+          "meaning": "n. 咳嗽，咳嗽声；咳嗽病\nvt. 咳出\nvi. 咳嗽"
+        },
+        {
+          "term": "coughed",
+          "phonetic": "[kɒf]",
+          "phoneticUS": "[kɔːf]",
+          "meaning": "v. 咳嗽( cough的过去式和过去分词 ); （从喉咙或肺中）咳出; （突然）发出刺耳的噪音"
+        },
+        {
+          "term": "everywhere",
+          "phonetic": "[ˈevriweə(r)]",
+          "phoneticUS": "[ˈevriwer]",
+          "meaning": "n. 每个地方\nadv. 到处"
+        },
+        {
+          "term": "help",
+          "phonetic": "[help]",
+          "phoneticUS": "[help]",
+          "meaning": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待"
+        },
+        {
+          "term": "helped",
+          "phonetic": "[helpt]",
+          "phoneticUS": "[helpt]",
+          "meaning": "v. 帮助（help的过去分词）"
+        },
+        {
+          "term": "careful",
+          "phonetic": "[ˈkeəf(ə)l]",
+          "phoneticUS": "[ˈkerfl]",
+          "meaning": "adj. 仔细的，小心的"
+        },
+        {
+          "term": "first",
+          "phonetic": "[fɜːst]",
+          "phoneticUS": "[fɜːrst]",
+          "meaning": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿"
+        },
+        {
+          "term": "second",
+          "phonetic": "[ˈsekənd]",
+          "phoneticUS": "[ˈsekənd; sɪˈkɑːnd]",
+          "meaning": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位"
+        },
+        {
+          "term": "third",
+          "phonetic": "[θɜːd]",
+          "phoneticUS": "[θɜːrd]",
+          "meaning": "num. 第三；三分之一\nadj. 第三的；三分之一的"
+        },
+        {
+          "term": "fourth",
+          "phonetic": "[fɔːθ]",
+          "phoneticUS": "[fɔːrθ]",
+          "meaning": "num. 第四\nn. 第四，月的第四日；四分之一\nadj. 第四的，第四个的；四分之一的"
+        },
+        {
+          "term": "fifth",
+          "phonetic": "[fɪfθ]",
+          "phoneticUS": "[fɪfθ]",
+          "meaning": "num. 第五\nn. 第五；五分之一\nadj. 第五的；五分之一的"
+        },
+        {
+          "term": "run",
+          "phonetic": "[rʌn]",
+          "phoneticUS": "[rʌn]",
+          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
+        },
+        {
+          "term": "ran",
+          "phonetic": "[ræn]",
+          "phoneticUS": "[ræn]",
+          "meaning": "v. 跑（run的过去式）"
+        },
+        {
+          "term": "race",
+          "phonetic": "[reɪs]",
+          "phoneticUS": "[reɪs]",
+          "meaning": "n. 属，种；种族，人种；家庭，门第\nvt. 使参加比赛；和…竞赛；使急走，使全速行进\nvi. 比速度，参加竞赛；全速行进"
+        },
+        {
+          "term": "meter",
+          "phonetic": "[ˈmiːtə(r)]",
+          "phoneticUS": "[ˈmiːtər]",
+          "meaning": "n. 米；仪表；[计量] 公尺；韵律\nvt. 用仪表测量\nvi. 用表计量"
+        },
+        {
+          "term": "win",
+          "phonetic": "[wɪn]",
+          "phoneticUS": "[wɪn]",
+          "meaning": "n. 赢；胜利\nvt. 赢得；在…中获胜；劝诱\nvi. 赢；获胜；成功"
+        },
+        {
+          "term": "won",
+          "phonetic": "[wʌn]",
+          "phoneticUS": "[wʌn]",
+          "meaning": "vt. 赢得（win的过去式和过去分词）"
+        },
+        {
+          "term": "excited",
+          "phonetic": "[ɪkˈsaɪtɪd]",
+          "phoneticUS": "[ɪkˈsaɪtɪd]",
+          "meaning": "v. 激动；唤起（excite的过去分词）\nadj. 兴奋的；激动的；活跃的"
+        },
+        {
+          "term": "last",
+          "phonetic": "[lɑːst]",
+          "phoneticUS": "[læst]",
+          "meaning": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点"
+        },
+        {
+          "term": "prize",
+          "phonetic": "[praɪz]",
+          "phoneticUS": "[praɪz]",
+          "meaning": "n. 奖品；奖赏；战利品\nadj. 获奖的\nvt. 珍视；捕获；估价"
+        },
+        {
+          "term": "sad",
+          "phonetic": "[sæd]",
+          "phoneticUS": "[sæd]",
+          "meaning": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
+        },
+        {
+          "term": "decide",
+          "phonetic": "[dɪˈsaɪd]",
+          "phoneticUS": "[dɪˈsaɪd]",
+          "meaning": "vi. 决定，下决心\nvt. 决定；解决；判决"
+        },
+        {
+          "term": "decided",
+          "phonetic": "[dɪˈsaɪdɪd]",
+          "phoneticUS": "[dɪˈsaɪdɪd]",
+          "meaning": "vt. 决定（decide的过去式）\nadj. 明确的；显然的；坚决的，果断的"
+        },
+        {
+          "term": "high",
+          "phonetic": "[haɪ]",
+          "phoneticUS": "[haɪ]",
+          "meaning": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地"
+        },
+        {
+          "term": "happy",
+          "phonetic": "[ˈhæpi]",
+          "phoneticUS": "[ˈhæpi]",
+          "meaning": "adj. 幸福的；高兴的；巧妙的"
+        },
+        {
+          "term": "sixth",
+          "phonetic": "[sɪksθ]",
+          "phoneticUS": "[sɪksθ]",
+          "meaning": "n. 月的第六日，（与the连用的）第六个；六分之一\nadj. （与 the 连用）第六的，第六个的；六分之一的"
+        },
+        {
+          "term": "seventh",
+          "phonetic": "[ˈsev(ə)nθ]",
+          "phoneticUS": "[ˈsevnθ]",
+          "meaning": "n. 第七；七分之一\nadj. 第七的；七分之一的\nadv. 居第七位地"
+        },
+        {
+          "term": "eighth",
+          "phonetic": "[eɪtθ]",
+          "phoneticUS": "[eɪtθ]",
+          "meaning": "num. 第八；八分之一\nadj. 第八的；八分之一的"
+        },
+        {
+          "term": "ninth",
+          "phonetic": "[naɪnθ]",
+          "phoneticUS": "[naɪnθ]",
+          "meaning": "num. 第九\nadj. 第九的；九分之一的\nn. 九分之一"
+        },
+        {
+          "term": "tenth",
+          "phonetic": "[tenθ]",
+          "phoneticUS": "[tenθ]",
+          "meaning": "num. 第十；十分之一\nadj. 十分之一的；第十个的"
+        },
+        {
+          "term": "birthday",
+          "phonetic": "[ˈbɜːθdeɪ]",
+          "phoneticUS": "[ˈbɜːrθdeɪ]",
+          "meaning": "n. 生日，诞辰；诞生的日子"
+        },
+        {
+          "term": "June",
+          "phonetic": "[dʒuːn]",
+          "phoneticUS": "[dʒuːn]",
+          "meaning": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+        },
+        {
+          "term": "May",
+          "phonetic": "[meɪ]",
+          "phoneticUS": "[meɪ]",
+          "meaning": "aux. 可以，能够；可能，也许；祝，愿；会，能"
+        },
+        {
+          "term": "September",
+          "phonetic": "[sepˈtembə(r)]",
+          "phoneticUS": "[sepˈtembər]",
+          "meaning": "n. 九月"
+        },
+        {
+          "term": "November",
+          "phonetic": "[nəʊˈvembə(r)]",
+          "phoneticUS": "[noʊˈvembər]",
+          "meaning": "n. 十一月"
+        },
+        {
+          "term": "July",
+          "phonetic": "[dʒʊˈlaɪ]",
+          "phoneticUS": "[dʒʊˈlaɪ]",
+          "meaning": "n. 七月"
+        },
+        {
+          "term": "spring",
+          "phonetic": "[sprɪŋ]",
+          "phoneticUS": "[sprɪŋ]",
+          "meaning": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开"
+        },
+        {
+          "term": "March",
+          "phonetic": "[mɑːtʃ]",
+          "phoneticUS": "[mɑːrtʃ]",
+          "meaning": "n. 三月"
+        },
+        {
+          "term": "check",
+          "phonetic": "[tʃek]",
+          "phoneticUS": "[tʃek]",
+          "meaning": "n. <美>支票；制止，抑制；检验，核对\nvi. 核实，查核；中止；打勾；[象棋]将一军\nvt. 检查，核对；制止，抑制；在…上打勾"
+        },
+        {
+          "term": "checked",
+          "phonetic": "[tʃekt]",
+          "phoneticUS": "[tʃekt]",
+          "meaning": "v. 检查（check的过去式和过去分词）\nadj. 选中的；格子花纹的"
+        },
+        {
+          "term": "autumn",
+          "phonetic": "[ˈɔːtəm]",
+          "phoneticUS": "[ˈɔːtəm; ˈɑːtəm]",
+          "meaning": "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的"
+        },
+        {
+          "term": "either",
+          "phonetic": "[ˈaɪðə(r)]",
+          "phoneticUS": "[ˈiːðər]",
+          "meaning": "conj. 也（用于否定句或否定词组后）；根本\nprep. 任何一个\nadj. 两者之中任一的；两者之中每一的\npron. 任一，两方，随便哪一个；两者中的一个或另一个"
+        },
+        {
+          "term": "call",
+          "phonetic": "[kɔːl]",
+          "phoneticUS": "[kɔːl]",
+          "meaning": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集"
+        },
+        {
+          "term": "called",
+          "phonetic": "[kɔːld]",
+          "phoneticUS": "[kɔːld]",
+          "meaning": "v. 打电话、称呼（call的过去式）；[通信] 呼叫；访问\nadj. 被呼叫的"
+        },
+        {
+          "term": "talk",
+          "phonetic": "[tɔːk]",
+          "phoneticUS": "[tɔːk]",
+          "meaning": "n. 谈话；演讲；空谈\nvi. 谈话；说闲话\nvt. 说；谈话；讨论"
+        },
+        {
+          "term": "talked",
+          "phonetic": "[tɔːkt]",
+          "phoneticUS": "[tɔːkt]",
+          "meaning": "交谈"
+        },
+        {
+          "term": "December",
+          "phonetic": "[dɪˈsembə(r)]",
+          "phoneticUS": "[dɪˈsembər]",
+          "meaning": "n. 十二月"
+        },
+        {
+          "term": "summer",
+          "phonetic": "[ˈsʌmə(r)]",
+          "phoneticUS": "[ˈsʌmər]",
+          "meaning": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天"
+        },
+        {
+          "term": "October",
+          "phonetic": "[ɒkˈtəʊbə(r)]",
+          "phoneticUS": "[ɑːkˈtoʊbər]",
+          "meaning": "n. [天] 十月"
+        },
+        {
+          "term": "January",
+          "phonetic": "[ˈdʒænjuəri]",
+          "phoneticUS": "[ˈdʒænjueri]",
+          "meaning": "n. 一月"
+        },
+        {
+          "term": "February",
+          "phonetic": "[ˈfebruəri]",
+          "phoneticUS": "[ˈfebrueri]",
+          "meaning": "n. 二月"
+        },
+        {
+          "term": "April",
+          "phonetic": "[ˈeɪprəl]",
+          "phoneticUS": "[ˈeɪprəl]",
+          "meaning": "n. 四月"
+        },
+        {
+          "term": "August",
+          "phonetic": "[ˈɔːɡəst]",
+          "phoneticUS": "[ˈɔːɡəst]",
+          "meaning": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的"
+        },
+        {
+          "term": "winter",
+          "phonetic": "[ˈwɪntə(r)]",
+          "phoneticUS": "[ˈwɪntər]",
+          "meaning": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬"
+        },
+        {
+          "term": "season",
+          "phonetic": "[ˈsiːzn]",
+          "phoneticUS": "[ˈsiːzn]",
+          "meaning": "n. 时期；季节；赛季\nvt. 给…调味；使适应\nvi. 变得成熟；变干燥"
+        },
+        {
+          "term": "height",
+          "phonetic": "[haɪt]",
+          "phoneticUS": "[haɪt]",
+          "meaning": "n. 高地；高度；身高；顶点"
+        },
+        {
+          "term": "weight",
+          "phonetic": "[weɪt]",
+          "phoneticUS": "[weɪt]",
+          "meaning": "n. 重量，重力；负担；砝码；重要性\nvt. 加重量于，使变重"
+        },
+        {
+          "term": "centimeter",
+          "phonetic": "[ˈsentɪmiːtə(r)]",
+          "phoneticUS": "[ˈsentɪmiːtər]",
+          "meaning": "n. [计量] 厘米；[计量] 公分"
+        },
+        {
+          "term": "weigh",
+          "phonetic": "[weɪ]",
+          "phoneticUS": "[weɪ]",
+          "meaning": "n. 权衡；称重量\nvt. 权衡；考虑；称…重量\nvi. 重量为…；具有重要性；成为…的重荷；起锚"
+        },
+        {
+          "term": "kilogram",
+          "phonetic": "[ˈkɪləɡræm]",
+          "phoneticUS": "[ˈkɪləɡræm]",
+          "meaning": "n. 公斤；千克"
+        },
+        {
+          "term": "take",
+          "phonetic": "[teɪk]",
+          "phoneticUS": "[teɪk]",
+          "meaning": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额"
+        },
+        {
+          "term": "took",
+          "phonetic": "[tʊk]",
+          "phoneticUS": "[tʊk]",
+          "meaning": "v. 拿；取；接受（take的过去式）"
+        },
+        {
+          "term": "center",
+          "phonetic": "[ˈsentə(r)]",
+          "phoneticUS": "[ˈsentər]",
+          "meaning": "n. 中心，中央；中锋；中心点\nadj. 中央的，位在正中的\nvt. 集中，使聚集在一点；定中心\nvi. 居中，被置于中心"
+        },
+        {
+          "term": "tall",
+          "phonetic": "[tɔːl]",
+          "phoneticUS": "[tɔːl]",
+          "meaning": "adj. 高的；长的；过分的；夸大的\nadv. 夸大地"
+        },
+        {
+          "term": "taller",
+          "phonetic": "['tɔ:lə(r)]",
+          "phoneticUS": "[ˈtɔːlər]",
+          "meaning": "adj. 更高的；高一点的"
+        },
+        {
+          "term": "tallest",
+          "phonetic": "[tɔlɪst]",
+          "phoneticUS": "[tɔːlɪst]",
+          "meaning": "adj. 最高的"
+        },
+        {
+          "term": "short",
+          "phonetic": "[ʃɔːt]",
+          "phoneticUS": "[ʃɔːrt]",
+          "meaning": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地"
+        },
+        {
+          "term": "shorter",
+          "phonetic": "[ʃɔːtə]",
+          "phoneticUS": "[ˈʃɔːrtər]",
+          "meaning": "adj. 较短的；更短的；更矮的（short的比较级）"
+        },
+        {
+          "term": "shortest",
+          "phonetic": "[ʃɔ:tɪst]",
+          "phoneticUS": "[ʃɔrtɪst]",
+          "meaning": "adj. 最短的"
+        },
+        {
+          "term": "than",
+          "phonetic": "[ðən; ðæn]",
+          "phoneticUS": "[ðən; ðæn]",
+          "meaning": "conj. 比（用于形容词、副词的比较级之后）；除…外（用于other等之后）；与其…（用于 rather等之后）；一…就（用于 no sooner等之后）\nprep. 比；超过"
+        },
+        {
+          "term": "heavy",
+          "phonetic": "[ˈhevi]",
+          "phoneticUS": "[ˈhevi]",
+          "meaning": "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地"
+        },
+        {
+          "term": "heavier",
+          "phonetic": "['hevɪə]",
+          "phoneticUS": "[ˈhevɪərðənˈer]",
+          "meaning": "adj. 沉重的；巨大的"
+        },
+        {
+          "term": "heaviest",
+          "phonetic": "['hevist]",
+          "phoneticUS": "['hevist]",
+          "meaning": "adj. 最重的（heavy的最高级）"
+        },
+        {
+          "term": "something",
+          "phonetic": "[ˈsʌmθɪŋ]",
+          "phoneticUS": "[ˈsʌmθɪŋ]",
+          "meaning": "n. 重要的人；值得重视的事\nadj. 大约；有点象\nadv. 非常；有点；大约\npron. 某事；某物"
+        },
+        {
+          "term": "wrong",
+          "phonetic": "[rɒŋ]",
+          "phoneticUS": "[rɔːŋ]",
+          "meaning": "n. 坏事；不公正\nadj. 错误的；失常的；不适当的\nvt. 委屈；无理地对待；诽谤\nadv. 错误地；邪恶地，不正当地"
+        },
+        {
+          "term": "big",
+          "phonetic": "[bɪɡ]",
+          "phoneticUS": "[bɪɡ]",
+          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+        },
+        {
+          "term": "bigger",
+          "phonetic": "[bɪgə(r)]",
+          "phoneticUS": "[bɪgə(r)]",
+          "meaning": "adj. 更大的（big的比较级）"
+        },
+        {
+          "term": "biggest",
+          "phonetic": "[bɪgɪst]",
+          "phoneticUS": "[bɪgɪst]",
+          "meaning": "adj. 最大的（big的最高级）"
+        },
+        {
+          "term": "small",
+          "phonetic": "[smɔːl]",
+          "phoneticUS": "[smɔːl]",
+          "meaning": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地"
+        },
+        {
+          "term": "smaller",
+          "phonetic": "[smɔ:lə(r)]",
+          "phoneticUS": "[ˈsmɔːlər]",
+          "meaning": "adj. 较小，更小的"
+        },
+        {
+          "term": "smallest",
+          "phonetic": "[smɔ:lɪst]",
+          "phoneticUS": "[smɔːlɪst]",
+          "meaning": "adj. 最小的（small的最高级）"
+        },
+        {
+          "term": "long",
+          "phonetic": "[lɒŋ]",
+          "phoneticUS": "[lɔːŋ]",
+          "meaning": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终"
+        },
+        {
+          "term": "longer",
+          "phonetic": "[lɒŋɡə(r)]",
+          "phoneticUS": "[lɔːŋɡər]",
+          "meaning": "长的（long的比较级）"
+        },
+        {
+          "term": "longest",
+          "phonetic": "[ˈlɒŋɡɪst]",
+          "phoneticUS": "[ˈlɔŋɡɪst]",
+          "meaning": "adj. 最长的"
+        },
+        {
+          "term": "young",
+          "phonetic": "[jʌŋ]",
+          "phoneticUS": "[jʌŋ]",
+          "meaning": "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的"
+        },
+        {
+          "term": "younger",
+          "phonetic": "['jʌŋɡə]",
+          "phoneticUS": "[ˈjʌŋɡər]",
+          "meaning": "n. 年纪较小者；幼辈\nadj. 较年轻的"
+        },
+        {
+          "term": "youngest",
+          "phonetic": "[ˈjʌŋɡɪst]",
+          "phoneticUS": "['jʌŋɡist]",
+          "meaning": "n. 最小的儿子；年纪最小的人\nadj. 最年轻的"
+        },
+        {
+          "term": "old",
+          "phonetic": "[əʊld]",
+          "phoneticUS": "[oʊld]",
+          "meaning": "adj. 陈旧的，古老的；年老的\nn. 古时"
+        },
+        {
+          "term": "older",
+          "phonetic": "['əʊldə]",
+          "phoneticUS": "[ˈoʊldər]",
+          "meaning": "adj. 年长的；较旧的"
+        },
+        {
+          "term": "oldest",
+          "phonetic": "[ˈəʊldɪst]",
+          "phoneticUS": "[oldɪst]",
+          "meaning": "adj. 最老的（old的最高级）；最旧的"
+        },
+        {
+          "term": "thin",
+          "phonetic": "[θɪn]",
+          "phoneticUS": "[θɪn]",
+          "meaning": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地"
+        },
+        {
+          "term": "thinner",
+          "phonetic": "[ˈθɪnə(r)]",
+          "phoneticUS": "[ˈθɪnər]",
+          "meaning": "adj. 较薄的；较瘦的；较细的（thin的比较级）\nn. （油漆的）稀释剂；冲淡剂；使变稀薄者，加稀料的制漆工"
+        },
+        {
+          "term": "thinnest",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adj. 薄的，瘦的"
+        },
+        {
+          "term": "date",
+          "phonetic": "[deɪt]",
+          "phoneticUS": "[deɪt]",
+          "meaning": "n. 日期；约会；年代；枣椰子\nvt. 确定…年代；和…约会\nvi. 过时；注明日期；始于（某一历史时期）"
+        },
+        {
+          "term": "around",
+          "phonetic": "[əˈraʊnd]",
+          "phoneticUS": "[əˈraʊnd]",
+          "meaning": "prep. 四处；在…周围\nadv. 大约；到处；在附近"
+        },
+        {
+          "term": "planet",
+          "phonetic": "[ˈplænɪt]",
+          "phoneticUS": "[ˈplænɪt]",
+          "meaning": "n. 行星"
+        },
+        {
+          "term": "sun",
+          "phonetic": "[sʌn]",
+          "phoneticUS": "[sʌn]",
+          "meaning": "n. 太阳\nvt. 使晒\nvi. 晒太阳"
+        },
+        {
+          "term": "American",
+          "phonetic": "[əˈmerɪkən]",
+          "phoneticUS": "[əˈmerɪkən]",
+          "meaning": "n. 美国人，美洲人；美国英语\nadj. 美国的，美洲的；地道美国式的"
+        }
+      ]
+    }
+  ]
+}

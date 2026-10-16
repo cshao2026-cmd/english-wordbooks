@@ -1,0 +1,570 @@
+{
+  "id": "de4e2f1b",
+  "title": "北师大版一年级起点五年级上",
+  "wordCount": 93,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "have",
+          "phonetic": "[həv]",
+          "phoneticUS": "[həv; əv; hæv]",
+          "meaning": "aux. 已经\nvt. 有；让；拿；从事；允许"
+        },
+        {
+          "term": "has",
+          "phonetic": "[həz]",
+          "phoneticUS": "[həz; əz; hæz]",
+          "meaning": "v. 有，吃，得到，从事，允许，雇用，享有（have的第三人称单数）；（亲属关系中）接受；拿；买到"
+        },
+        {
+          "term": "had",
+          "phonetic": "[həd; əd; hæd]",
+          "phoneticUS": "[həd; əd; hæd]",
+          "meaning": "v. 有；吃；得到（动词have的过去式和过去分词）\naux. 已经（用于过去完成时和过去完成进行时）"
+        },
+        {
+          "term": "dream",
+          "phonetic": "[driːm]",
+          "phoneticUS": "[driːm]",
+          "meaning": "n. 梦想，愿望；梦\nadj. 梦的；理想的；不切实际的\nvt. 梦想；做梦；想到\nvi. 梦想；做梦，梦见；想到"
+        },
+        {
+          "term": "last night",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 昨晚；最后一夜"
+        },
+        {
+          "term": "astronaut",
+          "phonetic": "[ˈæstrənɔːt]",
+          "phoneticUS": "[ˈæstrənɔːt]",
+          "meaning": "n. 宇航员，航天员；太空旅行者"
+        },
+        {
+          "term": "am",
+          "phonetic": "[əm; æm]",
+          "phoneticUS": "[əm; æm]",
+          "meaning": "abbr. 调幅\nv. 是"
+        },
+        {
+          "term": "is",
+          "phonetic": "[ɪz]",
+          "phoneticUS": "[ɪz]",
+          "meaning": "v. 是（be的三单形式）\nn. 存在"
+        },
+        {
+          "term": "was",
+          "phonetic": "[wəz; wɒz]",
+          "phoneticUS": "[wəz; wʌz]",
+          "meaning": "be的第一和第三人称单数过去式"
+        },
+        {
+          "term": "are",
+          "phonetic": "[ɑ:(r)]",
+          "phoneticUS": "[ər; ɑːr; er]",
+          "meaning": "v. 是（be的第二人称单复数现在式）\nn. 公亩"
+        },
+        {
+          "term": "were",
+          "phonetic": "[wə(r); wɜː(r)]",
+          "phoneticUS": "[wər; wɜːr]",
+          "meaning": "v. 是，在（are的过去式）"
+        },
+        {
+          "term": "spaceship",
+          "phonetic": "[ˈspeɪsʃɪp]",
+          "phoneticUS": "[ˈspeɪsʃɪp]",
+          "meaning": "n. [航] 宇宙飞船"
+        },
+        {
+          "term": "space",
+          "phonetic": "[speɪs]",
+          "phoneticUS": "[speɪs]",
+          "meaning": "n. 空间；太空；距离\nvt. 隔开\nvi. 留间隔"
+        },
+        {
+          "term": "star",
+          "phonetic": "[stɑː(r)]",
+          "phoneticUS": "[stɑːr]",
+          "meaning": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角"
+        },
+        {
+          "term": "planet",
+          "phonetic": "[ˈplænɪt]",
+          "phoneticUS": "[ˈplænɪt]",
+          "meaning": "n. 行星"
+        },
+        {
+          "term": "air",
+          "phonetic": "[eə(r)]",
+          "phoneticUS": "[er]",
+          "meaning": "n. 空气，大气；天空；样子；曲调\nvt. 使通风，晾干；夸耀\nvi. 通风"
+        },
+        {
+          "term": "be afraid of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 怕"
+        },
+        {
+          "term": "earth",
+          "phonetic": "[ɜːθ]",
+          "phoneticUS": "[ɜːrθ]",
+          "meaning": "n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴\nvt. 把（电线）[电] 接地；盖（土）；追赶入洞穴\nvi. 躲进地洞"
+        },
+        {
+          "term": "moon",
+          "phonetic": "[muːn]",
+          "phoneticUS": "[muːn]",
+          "meaning": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度"
+        },
+        {
+          "term": "yesterday",
+          "phonetic": "[ˈjestədeɪ]",
+          "phoneticUS": "[ˈjestərdeɪ; ˈjestərdi]",
+          "meaning": "n. 昨天；往昔\nadv. 昨天"
+        },
+        {
+          "term": "come",
+          "phonetic": "[kʌm]",
+          "phoneticUS": "[kʌm]",
+          "meaning": "vi. 来；开始；出现；发生；变成；到达\nvt. 做；假装；将满（…岁）\nint. 嗨！"
+        },
+        {
+          "term": "came",
+          "phonetic": "[keɪm]",
+          "phoneticUS": "[keɪm]",
+          "meaning": "v. come的过去式"
+        },
+        {
+          "term": "give",
+          "phonetic": "[ɡɪv]",
+          "phoneticUS": "[ɡɪv]",
+          "meaning": "n. 弹性；弯曲；伸展性\nvi. 捐赠；面向；有弹性；气候转暖\nvt. 给；产生；让步；举办；授予"
+        },
+        {
+          "term": "gave",
+          "phonetic": "[ɡeɪv]",
+          "phoneticUS": "[ɡeɪv]",
+          "meaning": "v. 给予（give的过去式）"
+        },
+        {
+          "term": "eat",
+          "phonetic": "[iːt]",
+          "phoneticUS": "[iːt]",
+          "meaning": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀"
+        },
+        {
+          "term": "ate",
+          "phonetic": "[et; eɪt]",
+          "phoneticUS": "[eɪt]",
+          "meaning": "v. 吃（eat的过去式）"
+        },
+        {
+          "term": "happen",
+          "phonetic": "[ˈhæpən]",
+          "phoneticUS": "[ˈhæpən]",
+          "meaning": "vi. 发生；碰巧；偶然遇到"
+        },
+        {
+          "term": "make",
+          "phonetic": "[meɪk]",
+          "phoneticUS": "[meɪk]",
+          "meaning": "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成\nvi. 开始；前进；增大；被制造\nn. 制造；构造；性情"
+        },
+        {
+          "term": "made",
+          "phonetic": "[meɪd]",
+          "phoneticUS": "[meɪd]",
+          "meaning": "adj. 成功的；创造的\nv. 做，使，安排（make的过去式和过去分词）"
+        },
+        {
+          "term": "cough",
+          "phonetic": "[kɒf]",
+          "phoneticUS": "[kɔːf]",
+          "meaning": "n. 咳嗽，咳嗽声；咳嗽病\nvt. 咳出\nvi. 咳嗽"
+        },
+        {
+          "term": "pat",
+          "phonetic": "[pæt]",
+          "phoneticUS": "[pæt]",
+          "meaning": "n. 轻拍；小块；轻拍声\nadj. 恰好的；熟练的；合适的\nvt. 轻拍\nadv. 恰好；熟记地\nvi. 轻拍"
+        },
+        {
+          "term": "patted",
+          "phonetic": "[ˈpætɪd]",
+          "phoneticUS": "[ˈpætɪd]",
+          "meaning": "轻拍"
+        },
+        {
+          "term": "clean",
+          "phonetic": "[kliːn]",
+          "phoneticUS": "[kliːn]",
+          "meaning": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地"
+        },
+        {
+          "term": "visit",
+          "phonetic": "[ˈvɪzɪt]",
+          "phoneticUS": "[ˈvɪzɪt]",
+          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+        },
+        {
+          "term": "go",
+          "phonetic": "[ɡəʊ]",
+          "phoneticUS": "[ɡoʊ]",
+          "meaning": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]"
+        },
+        {
+          "term": "went",
+          "phonetic": "[went]",
+          "phoneticUS": "[went]",
+          "meaning": "v. 去，过去（go的过去式）"
+        },
+        {
+          "term": "do",
+          "phonetic": "[duː; də; du; dəʊ]",
+          "phoneticUS": "[duː; də; du; doʊ]",
+          "meaning": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情"
+        },
+        {
+          "term": "did",
+          "phonetic": "[dɪd]",
+          "phoneticUS": "[dɪd]",
+          "meaning": "v. 做（do的过去式）"
+        },
+        {
+          "term": "race",
+          "phonetic": "[reɪs]",
+          "phoneticUS": "[reɪs]",
+          "meaning": "n. 属，种；种族，人种；家庭，门第\nvt. 使参加比赛；和…竞赛；使急走，使全速行进\nvi. 比速度，参加竞赛；全速行进"
+        },
+        {
+          "term": "run",
+          "phonetic": "[rʌn]",
+          "phoneticUS": "[rʌn]",
+          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
+        },
+        {
+          "term": "ran",
+          "phonetic": "[ræn]",
+          "phoneticUS": "[ræn]",
+          "meaning": "v. 跑（run的过去式）"
+        },
+        {
+          "term": "first",
+          "phonetic": "[fɜːst]",
+          "phoneticUS": "[fɜːrst]",
+          "meaning": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿"
+        },
+        {
+          "term": "win",
+          "phonetic": "[wɪn]",
+          "phoneticUS": "[wɪn]",
+          "meaning": "n. 赢；胜利\nvt. 赢得；在…中获胜；劝诱\nvi. 赢；获胜；成功"
+        },
+        {
+          "term": "won",
+          "phonetic": "[wʌn]",
+          "phoneticUS": "[wʌn]",
+          "meaning": "vt. 赢得（win的过去式和过去分词）"
+        },
+        {
+          "term": "second",
+          "phonetic": "[ˈsekənd]",
+          "phoneticUS": "[ˈsekənd; sɪˈkɑːnd]",
+          "meaning": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位"
+        },
+        {
+          "term": "third",
+          "phonetic": "[θɜːd]",
+          "phoneticUS": "[θɜːrd]",
+          "meaning": "num. 第三；三分之一\nadj. 第三的；三分之一的"
+        },
+        {
+          "term": "prize",
+          "phonetic": "[praɪz]",
+          "phoneticUS": "[praɪz]",
+          "meaning": "n. 奖品；奖赏；战利品\nadj. 获奖的\nvt. 珍视；捕获；估价"
+        },
+        {
+          "term": "because",
+          "phonetic": "[bɪˈkəz, bɪˈkɒz]",
+          "phoneticUS": "[bɪˈkəz, bɪˈkɔːz]",
+          "meaning": "conj. 因为"
+        },
+        {
+          "term": "fourth",
+          "phonetic": "[fɔːθ]",
+          "phoneticUS": "[fɔːrθ]",
+          "meaning": "num. 第四\nn. 第四，月的第四日；四分之一\nadj. 第四的，第四个的；四分之一的"
+        },
+        {
+          "term": "fifth",
+          "phonetic": "[fɪfθ]",
+          "phoneticUS": "[fɪfθ]",
+          "meaning": "num. 第五\nn. 第五；五分之一\nadj. 第五的；五分之一的"
+        },
+        {
+          "term": "sixth",
+          "phonetic": "[sɪksθ]",
+          "phoneticUS": "[sɪksθ]",
+          "meaning": "n. 月的第六日，（与the连用的）第六个；六分之一\nadj. （与 the 连用）第六的，第六个的；六分之一的"
+        },
+        {
+          "term": "seventh",
+          "phonetic": "[ˈsev(ə)nθ]",
+          "phoneticUS": "[ˈsevnθ]",
+          "meaning": "n. 第七；七分之一\nadj. 第七的；七分之一的\nadv. 居第七位地"
+        },
+        {
+          "term": "eighth",
+          "phonetic": "[eɪtθ]",
+          "phoneticUS": "[eɪtθ]",
+          "meaning": "num. 第八；八分之一\nadj. 第八的；八分之一的"
+        },
+        {
+          "term": "ninth",
+          "phonetic": "[naɪnθ]",
+          "phoneticUS": "[naɪnθ]",
+          "meaning": "num. 第九\nadj. 第九的；九分之一的\nn. 九分之一"
+        },
+        {
+          "term": "tenth",
+          "phonetic": "[tenθ]",
+          "phoneticUS": "[tenθ]",
+          "meaning": "num. 第十；十分之一\nadj. 十分之一的；第十个的"
+        },
+        {
+          "term": "get",
+          "phonetic": "[ɡet]",
+          "phoneticUS": "[ɡet]",
+          "meaning": "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得；获得；受到；变成"
+        },
+        {
+          "term": "got",
+          "phonetic": "[ɡɒt]",
+          "phoneticUS": "[ɡɑːt]",
+          "meaning": "v. 得到，明白（get的过去式和过去分词）"
+        },
+        {
+          "term": "birthday",
+          "phonetic": "[ˈbɜːθdeɪ]",
+          "phoneticUS": "[ˈbɜːrθdeɪ]",
+          "meaning": "n. 生日，诞辰；诞生的日子"
+        },
+        {
+          "term": "gift",
+          "phonetic": "[ɡɪft]",
+          "phoneticUS": "[ɡɪft]",
+          "meaning": "n. 礼物；天赋；赠品\nvt. 赋予；向…赠送"
+        },
+        {
+          "term": "spring",
+          "phonetic": "[sprɪŋ]",
+          "phoneticUS": "[sprɪŋ]",
+          "meaning": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开"
+        },
+        {
+          "term": "March",
+          "phonetic": "[mɑːtʃ]",
+          "phoneticUS": "[mɑːrtʃ]",
+          "meaning": "n. 三月"
+        },
+        {
+          "term": "see",
+          "phonetic": "[siː]",
+          "phoneticUS": "[siː]",
+          "meaning": "vi. 看；看见；领会\nvt. 看见；理解；领会"
+        },
+        {
+          "term": "saw",
+          "phonetic": "[sɔː]",
+          "phoneticUS": "[sɔː]",
+          "meaning": "n. 锯子；谚语\nv. see的过去式\nvi. 锯；用锯；将某物锯成小块\nvt. 看见；明白，了解；锯；锯成；锯开"
+        },
+        {
+          "term": "say",
+          "phonetic": "[seɪ]",
+          "phoneticUS": "[seɪ]",
+          "meaning": "vt. 讲；说明；例如；声称；假设；指明\nvi. 讲；表示；念；假定；背诵"
+        },
+        {
+          "term": "said",
+          "phonetic": "[sed]",
+          "phoneticUS": "[sed]",
+          "meaning": "v. 说（say的过去式和过去分词）\nadj. 上述的，该"
+        },
+        {
+          "term": "calendar",
+          "phonetic": "[ˈkælɪndə(r)]",
+          "phoneticUS": "[ˈkælɪndər]",
+          "meaning": "n. 日历；[天] 历法；日程表\nvt. 将…列入表中；将…排入日程表"
+        },
+        {
+          "term": "check",
+          "phonetic": "[tʃek]",
+          "phoneticUS": "[tʃek]",
+          "meaning": "n. <美>支票；制止，抑制；检验，核对\nvi. 核实，查核；中止；打勾；[象棋]将一军\nvt. 检查，核对；制止，抑制；在…上打勾"
+        },
+        {
+          "term": "autumn",
+          "phonetic": "[ˈɔːtəm]",
+          "phoneticUS": "[ˈɔːtəm; ˈɑːtəm]",
+          "meaning": "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的"
+        },
+        {
+          "term": "September",
+          "phonetic": "[sepˈtembə(r)]",
+          "phoneticUS": "[sepˈtembər]",
+          "meaning": "n. 九月"
+        },
+        {
+          "term": "October",
+          "phonetic": "[ɒkˈtəʊbə(r)]",
+          "phoneticUS": "[ɑːkˈtoʊbər]",
+          "meaning": "n. [天] 十月"
+        },
+        {
+          "term": "forget",
+          "phonetic": "[fəˈɡet]",
+          "phoneticUS": "[fərˈɡet]",
+          "meaning": "vi. 忘记\nvt. 忘记；忽略"
+        },
+        {
+          "term": "forgot",
+          "phonetic": "[fəˈɡɒt]",
+          "phoneticUS": "[fərˈɡɑːt]",
+          "meaning": "v. 忘记；轻忽；遗漏（forget的过去式）"
+        },
+        {
+          "term": "call",
+          "phonetic": "[kɔːl]",
+          "phoneticUS": "[kɔːl]",
+          "meaning": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集"
+        },
+        {
+          "term": "January",
+          "phonetic": "[ˈdʒænjuəri]",
+          "phoneticUS": "[ˈdʒænjueri]",
+          "meaning": "n. 一月"
+        },
+        {
+          "term": "February",
+          "phonetic": "[ˈfebruəri]",
+          "phoneticUS": "[ˈfebrueri]",
+          "meaning": "n. 二月"
+        },
+        {
+          "term": "April",
+          "phonetic": "[ˈeɪprəl]",
+          "phoneticUS": "[ˈeɪprəl]",
+          "meaning": "n. 四月"
+        },
+        {
+          "term": "June",
+          "phonetic": "[dʒuːn]",
+          "phoneticUS": "[dʒuːn]",
+          "meaning": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+        },
+        {
+          "term": "July",
+          "phonetic": "[dʒʊˈlaɪ]",
+          "phoneticUS": "[dʒʊˈlaɪ]",
+          "meaning": "n. 七月"
+        },
+        {
+          "term": "August",
+          "phonetic": "[ˈɔːɡəst]",
+          "phoneticUS": "[ˈɔːɡəst]",
+          "meaning": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的"
+        },
+        {
+          "term": "November",
+          "phonetic": "[nəʊˈvembə(r)]",
+          "phoneticUS": "[noʊˈvembər]",
+          "meaning": "n. 十一月"
+        },
+        {
+          "term": "December",
+          "phonetic": "[dɪˈsembə(r)]",
+          "phoneticUS": "[dɪˈsembər]",
+          "meaning": "n. 十二月"
+        },
+        {
+          "term": "summer",
+          "phonetic": "[ˈsʌmə(r)]",
+          "phoneticUS": "[ˈsʌmər]",
+          "meaning": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天"
+        },
+        {
+          "term": "winter",
+          "phonetic": "[ˈwɪntə(r)]",
+          "phoneticUS": "[ˈwɪntər]",
+          "meaning": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬"
+        },
+        {
+          "term": "than",
+          "phonetic": "[ðən; ðæn]",
+          "phoneticUS": "[ðən; ðæn]",
+          "meaning": "conj. 比（用于形容词、副词的比较级之后）；除…外（用于other等之后）；与其…（用于 rather等之后）；一…就（用于 no sooner等之后）\nprep. 比；超过"
+        },
+        {
+          "term": "height",
+          "phonetic": "[haɪt]",
+          "phoneticUS": "[haɪt]",
+          "meaning": "n. 高地；高度；身高；顶点"
+        },
+        {
+          "term": "weight",
+          "phonetic": "[weɪt]",
+          "phoneticUS": "[weɪt]",
+          "meaning": "n. 重量，重力；负担；砝码；重要性\nvt. 加重量于，使变重"
+        },
+        {
+          "term": "centimeter",
+          "phonetic": "[ˈsentɪmiːtə(r)]",
+          "phoneticUS": "[ˈsentɪmiːtər]",
+          "meaning": "n. [计量] 厘米；[计量] 公分"
+        },
+        {
+          "term": "weigh",
+          "phonetic": "[weɪ]",
+          "phoneticUS": "[weɪ]",
+          "meaning": "n. 权衡；称重量\nvt. 权衡；考虑；称…重量\nvi. 重量为…；具有重要性；成为…的重荷；起锚"
+        },
+        {
+          "term": "kilogram",
+          "phonetic": "[ˈkɪləɡræm]",
+          "phoneticUS": "[ˈkɪləɡræm]",
+          "meaning": "n. 公斤；千克"
+        },
+        {
+          "term": "heavy",
+          "phonetic": "[ˈhevi]",
+          "phoneticUS": "[ˈhevi]",
+          "meaning": "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地"
+        },
+        {
+          "term": "photo",
+          "phonetic": "[ˈfəʊtəʊ]",
+          "phoneticUS": "[ˈfoʊtoʊ]",
+          "meaning": "n. 照片"
+        },
+        {
+          "term": "take",
+          "phonetic": "[teɪk]",
+          "phoneticUS": "[teɪk]",
+          "meaning": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额"
+        },
+        {
+          "term": "took",
+          "phonetic": "[tʊk]",
+          "phoneticUS": "[tʊk]",
+          "meaning": "v. 拿；取；接受（take的过去式）"
+        }
+      ]
+    }
+  ]
+}

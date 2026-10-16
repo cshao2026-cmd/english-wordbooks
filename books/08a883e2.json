@@ -1,0 +1,648 @@
+{
+  "id": "08a883e2",
+  "title": "外研版一年级起点三年级下",
+  "wordCount": 106,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "nice",
+          "phonetic": "[naɪs]",
+          "phoneticUS": "[naɪs]",
+          "meaning": "adj. 精密的；美好的；细微的；和蔼的"
+        },
+        {
+          "term": "always",
+          "phonetic": "[ˈɔːlweɪz]",
+          "phoneticUS": "[ˈɔːlweɪz]",
+          "meaning": "adv. 永远，一直；总是；常常"
+        },
+        {
+          "term": "a bit",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 有点儿〔作副词用〕"
+        },
+        {
+          "term": "shy",
+          "phonetic": "[ʃaɪ]",
+          "phoneticUS": "[ʃaɪ]",
+          "meaning": "n. 投掷；惊跳\nadj. 害羞的；畏缩的，胆怯的\nvi. 投；畏缩；惊退；厌恶\nvt. 投；乱掷"
+        },
+        {
+          "term": "e-card",
+          "phonetic": "[ˈiː kɑːd]",
+          "phoneticUS": "[ˈiː kɑːrd]",
+          "meaning": "n. 电子贺卡；电子名片"
+        },
+        {
+          "term": "quiet",
+          "phonetic": "[ˈkwaɪət]",
+          "phoneticUS": "[ˈkwaɪət]",
+          "meaning": "n. 安静；和平\nadj. 安静的；安定的；不动的；温顺的\nvt. 使平息；安慰\nvi. 平静下来"
+        },
+        {
+          "term": "another",
+          "phonetic": "[əˈnʌðə(r)]",
+          "phoneticUS": "[əˈnʌðər]",
+          "meaning": "prep. 另一个；另一个人\nadj. 又一，另一；另外的；不同的\npron. 另一个；又一个"
+        },
+        {
+          "term": "him",
+          "phonetic": "[hɪm; ɪm]",
+          "phoneticUS": "[hɪm; ɪm]",
+          "meaning": "pron. 他（宾格）"
+        },
+        {
+          "term": "parrot",
+          "phonetic": "[ˈpærət]",
+          "phoneticUS": "[ˈpærət]",
+          "meaning": "n. 鹦鹉；学舌者，应声虫；机械模仿别人的人\nvt. 机械地模仿"
+        },
+        {
+          "term": "twenty",
+          "phonetic": "[ˈtwenti]",
+          "phoneticUS": "[ˈtwenti]",
+          "meaning": "num. 二十\nn. 二十；二十年代\nadj. 二十的"
+        },
+        {
+          "term": "helpful",
+          "phonetic": "[ˈhelpfl]",
+          "phoneticUS": "[ˈhelpfl]",
+          "meaning": "adj. 有帮助的；有益的"
+        },
+        {
+          "term": "maths",
+          "phonetic": "[mæθs]",
+          "phoneticUS": "[mæθs]",
+          "meaning": "n. 数学（等于mathematics）"
+        },
+        {
+          "term": "plus",
+          "phonetic": "[plʌs]",
+          "phoneticUS": "[plʌs]",
+          "meaning": "prep. 加，加上\nn. 正号，加号；好处；附加额\nadj. 正的；附加的"
+        },
+        {
+          "term": "more",
+          "phonetic": "[mɔː(r)]",
+          "phoneticUS": "[mɔːr]",
+          "meaning": "adv. 更多；此外；更大程度地\nadj. 更多的；附加的\npron. 更多的数量\nn. 更多"
+        },
+        {
+          "term": "about",
+          "phonetic": "[əˈbaʊt]",
+          "phoneticUS": "[əˈbaʊt]",
+          "meaning": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处"
+        },
+        {
+          "term": "river",
+          "phonetic": "[ˈrɪvə(r)]",
+          "phoneticUS": "[ˈrɪvər]",
+          "meaning": "n. 河，江"
+        },
+        {
+          "term": "wide",
+          "phonetic": "[waɪd]",
+          "phoneticUS": "[waɪd]",
+          "meaning": "n. 大千世界\nadj. 广泛的；宽的，广阔的；张大的；远离目标的\nadv. 广泛地；广阔地；充分地"
+        },
+        {
+          "term": "old",
+          "phonetic": "[əʊld]",
+          "phoneticUS": "[oʊld]",
+          "meaning": "adj. 陈旧的，古老的；年老的\nn. 古时"
+        },
+        {
+          "term": "clock",
+          "phonetic": "[klɒk]",
+          "phoneticUS": "[klɑːk]",
+          "meaning": "n. 时钟；计时器\nvt. 记录；记时\nvi. 打卡；记录时间"
+        },
+        {
+          "term": "wheel",
+          "phonetic": "[wiːl]",
+          "phoneticUS": "[wiːl]",
+          "meaning": "n. 车轮；方向盘；转动\nvt. 转动；使变换方向；给…装轮子\nvi. 旋转；突然转变方向；盘旋飞行"
+        },
+        {
+          "term": "round",
+          "phonetic": "[raʊnd]",
+          "phoneticUS": "[raʊnd]",
+          "meaning": "n. 圆；循环；一回合；圆形物\nprep. 附近；绕过；大约；在…周围\nadj. 圆的；完全的；大概的；肥胖的\nvt. 完成；围捕；绕行；弄圆\nadv. 在周围；迂回地；朝反方向；挨个\nvi. 进展；变圆；环行；发胖"
+        },
+        {
+          "term": "will",
+          "phonetic": "[wɪl]",
+          "phoneticUS": "[wɪl]",
+          "meaning": "n. 意志；决心；情感；遗嘱；意图；心愿\nvt. 决心要；遗赠；用意志力使\nvi. 愿意；下决心\naux. 将；愿意；必须"
+        },
+        {
+          "term": "you'll",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "你将（you will）"
+        },
+        {
+          "term": "tower",
+          "phonetic": "[ˈtaʊə(r)]",
+          "phoneticUS": "[ˈtaʊər]",
+          "meaning": "n. 塔；高楼；堡垒\nvi. 高耸；超越"
+        },
+        {
+          "term": "bridge",
+          "phonetic": "[brɪdʒ]",
+          "phoneticUS": "[brɪdʒ]",
+          "meaning": "n. 桥；桥牌；桥接器；船桥\nvt. 架桥；渡过"
+        },
+        {
+          "term": "won't",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "[澳大利亚、新西兰口语]厌恶；不能容忍；= will not"
+        },
+        {
+          "term": "will not",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "countryside",
+          "phonetic": "[ˈkʌntrisaɪd]",
+          "phoneticUS": "[ˈkʌntrisaɪd]",
+          "meaning": "n. 农村，乡下；乡下的全体居民"
+        },
+        {
+          "term": "farmer",
+          "phonetic": "[ˈfɑːmə(r)]",
+          "phoneticUS": "[ˈfɑːrmər]",
+          "meaning": "n. 农夫，农民"
+        },
+        {
+          "term": "there",
+          "phonetic": "[ðeə(r)]",
+          "phoneticUS": "[ðer]",
+          "meaning": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧"
+        },
+        {
+          "term": "lots of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adj. 许多；很多"
+        },
+        {
+          "term": "breakfast",
+          "phonetic": "[ˈbrekfəst]",
+          "phoneticUS": "[ˈbrekfəst]",
+          "meaning": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐"
+        },
+        {
+          "term": "have breakfast",
+          "phonetic": "[hæv 'brekfəst]",
+          "phoneticUS": "[hæv ˈbrekfəst]",
+          "meaning": "吃早饭；吃早餐；吃早点"
+        },
+        {
+          "term": "tea",
+          "phonetic": "[tiː]",
+          "phoneticUS": "[tiː]",
+          "meaning": "n. 茶叶；茶树；茶点\nvt. 给…沏茶\nvi. 喝茶；进茶点"
+        },
+        {
+          "term": "tea party",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 茶话会；(下午) 茶会；在美国各地抗议高额税收"
+        },
+        {
+          "term": "pick",
+          "phonetic": "[pɪk]",
+          "phoneticUS": "[pɪk]",
+          "meaning": "n. 选择；鹤嘴锄；挖；掩护\nvi. 挑选；采摘；挖\nvt. 拾取；精选；采摘；掘"
+        },
+        {
+          "term": "fourteen",
+          "phonetic": "[ˌfɔːˈtiːn]",
+          "phoneticUS": "[ˌfɔːrˈtiːn]",
+          "meaning": "num. 十四；十四个；第十四\nn. 十四的记号；十四岁；十四点钟；十五世纪"
+        },
+        {
+          "term": "sixteen",
+          "phonetic": "[ˌsɪksˈtiːn]",
+          "phoneticUS": "[ˌsɪksˈtiːn]",
+          "meaning": "num. 十六\nadj. 十六的，十六个的"
+        },
+        {
+          "term": "eighteen",
+          "phonetic": "[ˌeɪˈtiːn]",
+          "phoneticUS": "[ˌeɪˈtiːn]",
+          "meaning": "n. 十八，十八个\nnum. 十八\nadj. 十八个的，十八的"
+        },
+        {
+          "term": "thirteen",
+          "phonetic": "[ˌθɜːˈtiːn]",
+          "phoneticUS": "[ˌθɜːrˈtiːn]",
+          "meaning": "n. 十三；十三岁；十三个\nnum. 十三\nadj. 十三的；十三个的"
+        },
+        {
+          "term": "fifteen",
+          "phonetic": "[ˌfɪfˈtiːn]",
+          "phoneticUS": "[ˌfɪfˈtiːn]",
+          "meaning": "n. 十五；十五个；十五人组成的橄榄球队\nnum. 十五\nadj. 十五的"
+        },
+        {
+          "term": "seventeen",
+          "phonetic": "[ˌsev(ə)nˈtiːn]",
+          "phoneticUS": "[ˌsevnˈtiːn]",
+          "meaning": "n. 十七，十七个\nnum. 十七\nadj. 十七岁的；十七的，十七个的"
+        },
+        {
+          "term": "nineteen",
+          "phonetic": "[ˌnaɪnˈtiːn]",
+          "phoneticUS": "[ˌnaɪnˈtiːn]",
+          "meaning": "num. 十九"
+        },
+        {
+          "term": "afraid",
+          "phonetic": "[əˈfreɪd]",
+          "phoneticUS": "[əˈfreɪd]",
+          "meaning": "adj. 害怕的；恐怕；担心的"
+        },
+        {
+          "term": "feel",
+          "phonetic": "[fiːl]",
+          "phoneticUS": "[fiːl]",
+          "meaning": "n. 感觉；触摸\nvi. 觉得；摸索\nvt. 感觉；认为；触摸；试探"
+        },
+        {
+          "term": "all right",
+          "phonetic": "[ˌɔːl ˈraɪt]",
+          "phoneticUS": "[ɔːl raɪt]",
+          "meaning": "adj. 可接受（的）；满意（的）；安全健康（的）；平安无恙（的）\nint. 是不是；（表示同意）好；没什么；（引起注意）哎"
+        },
+        {
+          "term": "tomorrow",
+          "phonetic": "[təˈmɒrəʊ]",
+          "phoneticUS": "[təˈmɑːroʊ]",
+          "meaning": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）"
+        },
+        {
+          "term": "Monday",
+          "phonetic": "[ˈmʌndeɪ]",
+          "phoneticUS": "[ˈmʌndeɪ]",
+          "meaning": "n. 星期一"
+        },
+        {
+          "term": "why",
+          "phonetic": "[waɪ]",
+          "phoneticUS": "[waɪ]",
+          "meaning": "int. 哎呀！什么？\nadv. 为什么"
+        },
+        {
+          "term": "Why not?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 为什么不好[不行]"
+        },
+        {
+          "term": "Tuesday",
+          "phonetic": "[ˈtjuːzdeɪ]",
+          "phoneticUS": "[ˈtuːzdeɪ]",
+          "meaning": "n. 星期二"
+        },
+        {
+          "term": "Wednesday",
+          "phonetic": "[ˈwenzdeɪ]",
+          "phoneticUS": "[ˈwenzdeɪ]",
+          "meaning": "n. 星期三"
+        },
+        {
+          "term": "Thursday",
+          "phonetic": "[ˈθɜːzdeɪ]",
+          "phoneticUS": "[ˈθɜːrzdeɪ]",
+          "meaning": "n. 星期四"
+        },
+        {
+          "term": "next",
+          "phonetic": "[nekst]",
+          "phoneticUS": "[nekst]",
+          "meaning": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后"
+        },
+        {
+          "term": "week",
+          "phonetic": "[wiːk]",
+          "phoneticUS": "[wiːk]",
+          "meaning": "n. 周，星期"
+        },
+        {
+          "term": "stamp",
+          "phonetic": "[stæmp]",
+          "phoneticUS": "[stæmp]",
+          "meaning": "n. 邮票；印记；标志；跺脚\nvt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏\nvi. 跺脚；捣碎；毁掉"
+        },
+        {
+          "term": "computer",
+          "phonetic": "[kəmˈpjuːtə(r)]",
+          "phoneticUS": "[kəmˈpjuːtər]",
+          "meaning": "n. 计算机；电脑；电子计算机"
+        },
+        {
+          "term": "shall",
+          "phonetic": "[ʃəl; ʃæl]",
+          "phoneticUS": "[ʃəl; ʃæl]",
+          "meaning": "aux. 应；会；将；必须"
+        },
+        {
+          "term": "arm",
+          "phonetic": "[ɑːm]",
+          "phoneticUS": "[ɑːrm]",
+          "meaning": "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来"
+        },
+        {
+          "term": "class",
+          "phonetic": "[klɑːs]",
+          "phoneticUS": "[klæs]",
+          "meaning": "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）"
+        },
+        {
+          "term": "any",
+          "phonetic": "[ˈeni]",
+          "phoneticUS": "[ˈeni]",
+          "meaning": "adj. 任何的；所有的；丝毫\npron. 任何；任何一个；若干\nadv. 稍微；少许"
+        },
+        {
+          "term": "ask",
+          "phonetic": "[ɑːsk]",
+          "phoneticUS": "[æsk]",
+          "meaning": "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求"
+        },
+        {
+          "term": "question",
+          "phonetic": "[ˈkwestʃən]",
+          "phoneticUS": "[ˈkwestʃən]",
+          "meaning": "n. 问题，疑问；询问；疑问句\nvt. 询问；怀疑；审问\nvi. 询问；怀疑；审问"
+        },
+        {
+          "term": "forty",
+          "phonetic": "[ˈfɔːti]",
+          "phoneticUS": "[ˈfɔːrti]",
+          "meaning": "n. 四十\nadj. 四十的；四十个的"
+        },
+        {
+          "term": "so",
+          "phonetic": "[səʊ]",
+          "phoneticUS": "[soʊ]",
+          "meaning": "conj. 所以；因此\nadv. 如此，这么；确是如此\npron. 这样"
+        },
+        {
+          "term": "about",
+          "phonetic": "[əˈbaʊt]",
+          "phoneticUS": "[əˈbaʊt]",
+          "meaning": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处"
+        },
+        {
+          "term": "thirty",
+          "phonetic": "[ˈθɜːti]",
+          "phoneticUS": "[ˈθɜːrti]",
+          "meaning": "num. 三十\nn. 三十年代\nadj. 三十个的"
+        },
+        {
+          "term": "hard",
+          "phonetic": "[hɑːd]",
+          "phoneticUS": "[hɑːrd]",
+          "meaning": "adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的\nadv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地"
+        },
+        {
+          "term": "lazy",
+          "phonetic": "[ˈleɪzi]",
+          "phoneticUS": "[ˈleɪzi]",
+          "meaning": "adj. 懒惰的；懒洋洋的；怠惰的；慢吞吞的"
+        },
+        {
+          "term": "parent",
+          "phonetic": "[ˈpeərənt]",
+          "phoneticUS": "[ˈperənt]",
+          "meaning": "n. 父亲（或母亲）；父母亲；根源"
+        },
+        {
+          "term": "Parents' Day",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "speak",
+          "phonetic": "[spiːk]",
+          "phoneticUS": "[spiːk]",
+          "meaning": "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演"
+        },
+        {
+          "term": "with",
+          "phonetic": "[wɪð]",
+          "phoneticUS": "[wɪð; wɪθ]",
+          "meaning": "prep. 用；随着；支持；和…在一起"
+        },
+        {
+          "term": "quite",
+          "phonetic": "[kwaɪt]",
+          "phoneticUS": "[kwaɪt]",
+          "meaning": "adv. 很；相当；完全"
+        },
+        {
+          "term": "good at",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 擅长；一清二楚；拿手的；精明的"
+        },
+        {
+          "term": "English",
+          "phonetic": "[ˈɪŋɡlɪʃ]",
+          "phoneticUS": "[ˈɪŋɡlɪʃ]",
+          "meaning": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语"
+        },
+        {
+          "term": "PE",
+          "phonetic": "[peɪ]",
+          "phoneticUS": "[peɪ]",
+          "meaning": "abbr. 体育课，体能训练（physical education）"
+        },
+        {
+          "term": "physical education",
+          "phonetic": "[ˌfɪzɪk(ə)l edʒuˈkeɪʃ(ə)n]",
+          "phoneticUS": "[ˌfɪzɪkl edʒuˈkeɪʃn]",
+          "meaning": "n. 〔体〕体育教学"
+        },
+        {
+          "term": "Chinese",
+          "phonetic": "[ˌtʃaɪˈniːz]",
+          "phoneticUS": "[ˌtʃaɪˈniːz]",
+          "meaning": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的"
+        },
+        {
+          "term": "art",
+          "phonetic": "[ɑːt]",
+          "phoneticUS": "[ɑːrt]",
+          "meaning": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的"
+        },
+        {
+          "term": "report",
+          "phonetic": "[rɪˈpɔːt]",
+          "phoneticUS": "[rɪˈpɔːrt]",
+          "meaning": "n. 报告；报道；成绩单\nvt. 报告；报导；使报到\nvi. 报告；报到；写报导"
+        },
+        {
+          "term": "try",
+          "phonetic": "[traɪ]",
+          "phoneticUS": "[traɪ]",
+          "meaning": "n. 尝试；努力；试验\nvt. 试图，努力；试验；审判；考验\nvi. 尝试；努力；试验"
+        },
+        {
+          "term": "were",
+          "phonetic": "[wə(r); wɜː(r)]",
+          "phoneticUS": "[wər; wɜːr]",
+          "meaning": "v. 是，在（are的过去式）"
+        },
+        {
+          "term": "young",
+          "phonetic": "[jʌŋ]",
+          "phoneticUS": "[jʌŋ]",
+          "meaning": "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的"
+        },
+        {
+          "term": "beautiful",
+          "phonetic": "[ˈbjuːtɪf(ə)l]",
+          "phoneticUS": "[ˈbjuːtɪf(ə)l]",
+          "meaning": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地"
+        },
+        {
+          "term": "was",
+          "phonetic": "[wəz; wɒz]",
+          "phoneticUS": "[wəz; wʌz]",
+          "meaning": "be的第一和第三人称单数过去式"
+        },
+        {
+          "term": "also",
+          "phonetic": "[ˈɔːlsəʊ]",
+          "phoneticUS": "[ˈɔːlsoʊ]",
+          "meaning": "conj. 并且；另外\nadv. 也；而且；同样"
+        },
+        {
+          "term": "then",
+          "phonetic": "[ðen]",
+          "phoneticUS": "[ðen]",
+          "meaning": "conj. 然后，当时\nn. 那时\nadv. 然后；那么；于是；当时；此外"
+        },
+        {
+          "term": "who",
+          "phonetic": "[huː]",
+          "phoneticUS": "[huː]",
+          "meaning": "pron. 谁；什么人"
+        },
+        {
+          "term": "grandparent",
+          "phonetic": "[ˈɡrænpeərənt]",
+          "phoneticUS": "[ˈɡrænperənt]",
+          "meaning": "n. 祖父母；祖父或祖母；外祖父母；外祖父或外祖母"
+        },
+        {
+          "term": "old",
+          "phonetic": "[əʊld]",
+          "phoneticUS": "[oʊld]",
+          "meaning": "adj. 陈旧的，古老的；年老的\nn. 古时"
+        },
+        {
+          "term": "yesterday",
+          "phonetic": "[ˈjestədeɪ]",
+          "phoneticUS": "[ˈjestərdeɪ; ˈjestərdi]",
+          "meaning": "n. 昨天；往昔\nadv. 昨天"
+        },
+        {
+          "term": "weren't",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "没有（were not 的简写，were是be的第二人称单数过去式）\n不是（were not 的简写，were是be的第二人称单数过去式）"
+        },
+        {
+          "term": "were not",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "wasn't",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "prep. 不是（等于was not）"
+        },
+        {
+          "term": "was not",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "不是；不在世；还不是"
+        },
+        {
+          "term": "fun",
+          "phonetic": "[fʌn]",
+          "phoneticUS": "[fʌn]",
+          "meaning": "n. 乐趣；玩笑；有趣的人或事\nadj. 供娱乐用的\nvi. 开玩笑"
+        },
+        {
+          "term": "second",
+          "phonetic": "[ˈsekənd]",
+          "phoneticUS": "[ˈsekənd; sɪˈkɑːnd]",
+          "meaning": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位"
+        },
+        {
+          "term": "floor",
+          "phonetic": "[flɔː(r)]",
+          "phoneticUS": "[flɔːr]",
+          "meaning": "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒"
+        },
+        {
+          "term": "worried",
+          "phonetic": "[ˈwʌrid]",
+          "phoneticUS": "[ˈwɜːrid]",
+          "meaning": "adj. 担心的"
+        },
+        {
+          "term": "find",
+          "phonetic": "[faɪnd]",
+          "phoneticUS": "[faɪnd]",
+          "meaning": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得"
+        },
+        {
+          "term": "first",
+          "phonetic": "[fɜːst]",
+          "phoneticUS": "[fɜːrst]",
+          "meaning": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿"
+        },
+        {
+          "term": "remember",
+          "phonetic": "[rɪˈmembə(r)]",
+          "phoneticUS": "[rɪˈmembər]",
+          "meaning": "vi. 记得，记起\nvt. 记得；牢记；纪念；代…问好"
+        },
+        {
+          "term": "Mother's Day",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. (美国和加拿大的)母亲节"
+        },
+        {
+          "term": "vegetable",
+          "phonetic": "[ˈvedʒtəb(ə)l]",
+          "phoneticUS": "[ˈvedʒtəbl]",
+          "meaning": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的"
+        },
+        {
+          "term": "last",
+          "phonetic": "[lɑːst]",
+          "phoneticUS": "[læst]",
+          "meaning": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点"
+        }
+      ]
+    }
+  ]
+}

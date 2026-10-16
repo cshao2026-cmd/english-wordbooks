@@ -1,0 +1,420 @@
+{
+  "id": "0cca3527",
+  "title": "译林版一年级下",
+  "wordCount": 68,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "let's",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "让我们（let us的简写）"
+        },
+        {
+          "term": "let us",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "让我们；让我们自己；让我们一起"
+        },
+        {
+          "term": "count",
+          "phonetic": "[kaʊnt]",
+          "phoneticUS": "[kaʊnt]",
+          "meaning": "n. 计数；计算；伯爵\nvt. 计算；认为\nvi. 计数；有价值"
+        },
+        {
+          "term": "Cool!",
+          "phonetic": "[kuːl]",
+          "phoneticUS": "[kuːl]",
+          "meaning": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地"
+        },
+        {
+          "term": "how many",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 多少"
+        },
+        {
+          "term": "marble",
+          "phonetic": "[ˈmɑːb(ə)l]",
+          "phoneticUS": "[ˈmɑːrbl]",
+          "meaning": "n. 大理石；大理石制品；弹珠\nadj. 大理石的；冷酷无情的"
+        },
+        {
+          "term": "one",
+          "phonetic": "[wʌn]",
+          "phoneticUS": "[wʌn]",
+          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
+        },
+        {
+          "term": "two",
+          "phonetic": "[tuː]",
+          "phoneticUS": "[tuː]",
+          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+        },
+        {
+          "term": "three",
+          "phonetic": "[θriː]",
+          "phoneticUS": "[θriː]",
+          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+        },
+        {
+          "term": "four",
+          "phonetic": "[fɔː(r)]",
+          "phoneticUS": "[fɔːr]",
+          "meaning": "num. 四；四个\nadj. 四的；四个的"
+        },
+        {
+          "term": "yellow",
+          "phonetic": "[ˈjeləʊ]",
+          "phoneticUS": "[ˈjeloʊ]",
+          "meaning": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄"
+        },
+        {
+          "term": "five",
+          "phonetic": "[faɪv]",
+          "phoneticUS": "[faɪv]",
+          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
+        },
+        {
+          "term": "pencil",
+          "phonetic": "[ˈpens(ə)l]",
+          "phoneticUS": "[ˈpensl]",
+          "meaning": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状"
+        },
+        {
+          "term": "Ouch!",
+          "phonetic": "[aʊtʃ]",
+          "phoneticUS": "[aʊtʃ]",
+          "meaning": "n. 扣环\nint. 哎哟（突然疼痛时发出的声音）"
+        },
+        {
+          "term": "I'm sorry.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "抱歉"
+        },
+        {
+          "term": "That's OK.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "不用了；可以；没有关系"
+        },
+        {
+          "term": "book",
+          "phonetic": "[bʊk]",
+          "phoneticUS": "[bʊk]",
+          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
+        },
+        {
+          "term": "ruler",
+          "phonetic": "[ˈruːlə(r)]",
+          "phoneticUS": "[ˈruːlər]",
+          "meaning": "n. 尺；统治者；[测] 划线板，划线的人"
+        },
+        {
+          "term": "rubber",
+          "phonetic": "[ˈrʌbə(r)]",
+          "phoneticUS": "[ˈrʌbər]",
+          "meaning": "n. 橡胶；橡皮；合成橡胶；按摩师\nadj. 橡胶制成的\nvt. 涂橡胶于；用橡胶制造\nvi. 扭转脖子看；好奇地引颈而望"
+        },
+        {
+          "term": "like",
+          "phonetic": "[laɪk]",
+          "phoneticUS": "[laɪk]",
+          "meaning": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像"
+        },
+        {
+          "term": "carrot",
+          "phonetic": "[ˈkærət]",
+          "phoneticUS": "[ˈkærət]",
+          "meaning": "n. 胡萝卜\n诱饵"
+        },
+        {
+          "term": "Me too.",
+          "phonetic": "[mi: tu:]",
+          "phoneticUS": "[ˌmiː ˈtuː]",
+          "meaning": "adj. 〈美口〉行仿效计策的\nv. 同意(对方的政见等)"
+        },
+        {
+          "term": "onion",
+          "phonetic": "[ˈʌnjən]",
+          "phoneticUS": "[ˈʌnjən]",
+          "meaning": "n. 洋葱；洋葱头"
+        },
+        {
+          "term": "No, thanks.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "谢谢；不用，谢谢；不用谢"
+        },
+        {
+          "term": "pea",
+          "phonetic": "[piː]",
+          "phoneticUS": "[piː]",
+          "meaning": "n. 豌豆"
+        },
+        {
+          "term": "Yes, please.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "是的；是的谢谢；那就麻烦你了"
+        },
+        {
+          "term": "we",
+          "phonetic": "[wi; wiː]",
+          "phoneticUS": "[wi]",
+          "meaning": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
+        },
+        {
+          "term": "all",
+          "phonetic": "[ɔːl]",
+          "phoneticUS": "[ɔːl]",
+          "meaning": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部"
+        },
+        {
+          "term": "pepper",
+          "phonetic": "[ˈpepə(r)]",
+          "phoneticUS": "[ˈpepər]",
+          "meaning": "n. 胡椒；辣椒；胡椒粉\nvt. 加胡椒粉于；使布满"
+        },
+        {
+          "term": "spring",
+          "phonetic": "[sprɪŋ]",
+          "phoneticUS": "[sprɪŋ]",
+          "meaning": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开"
+        },
+        {
+          "term": "the",
+          "phonetic": "[ðə]",
+          "phoneticUS": "[ðə; ði; ðiː]",
+          "meaning": "art. 这；那\nadv. 更加（用于比较级，最高级前）"
+        },
+        {
+          "term": "tree",
+          "phonetic": "[triː]",
+          "phoneticUS": "[triː]",
+          "meaning": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树"
+        },
+        {
+          "term": "they're",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "= they are"
+        },
+        {
+          "term": "they are",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "flower",
+          "phonetic": "[ˈflaʊə(r)]",
+          "phoneticUS": "[ˈflaʊər]",
+          "meaning": "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛"
+        },
+        {
+          "term": "beautiful",
+          "phonetic": "[ˈbjuːtɪf(ə)l]",
+          "phoneticUS": "[ˈbjuːtɪf(ə)l]",
+          "meaning": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地"
+        },
+        {
+          "term": "bird",
+          "phonetic": "[bɜːd]",
+          "phoneticUS": "[bɜːrd]",
+          "meaning": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟"
+        },
+        {
+          "term": "happy",
+          "phonetic": "[ˈhæpi]",
+          "phoneticUS": "[ˈhæpi]",
+          "meaning": "adj. 幸福的；高兴的；巧妙的"
+        },
+        {
+          "term": "kite",
+          "phonetic": "[kaɪt]",
+          "phoneticUS": "[kaɪt]",
+          "meaning": "n. 风筝\nvi. 使用空头支票；像风筝一样飞；轻快地移动\nvt. 骗钱；涂改（支票）"
+        },
+        {
+          "term": "colourful",
+          "phonetic": "[ˈkʌləf(ə)l]",
+          "phoneticUS": "[ˈkʌlərfl]",
+          "meaning": "adj. 鲜艳的；生动的；色彩丰富的；富有趣味的"
+        },
+        {
+          "term": "what's",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "…是什么（等于what is）；…有什么（等于what has）"
+        },
+        {
+          "term": "what is",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "[计] whatis命令"
+        },
+        {
+          "term": "What's this?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "这是什么；这个是什么；这个是什麽"
+        },
+        {
+          "term": "ladybird",
+          "phonetic": "[ˈleɪdibɜːd]",
+          "phoneticUS": "[ˈleɪdibɜːrd]",
+          "meaning": "n. 瓢虫"
+        },
+        {
+          "term": "cute",
+          "phonetic": "[kjuːt]",
+          "phoneticUS": "[kjuːt]",
+          "meaning": "adj. 可爱的；漂亮的；聪明的，伶俐的"
+        },
+        {
+          "term": "cicada",
+          "phonetic": "[sɪˈkɑːdə]",
+          "phoneticUS": "[sɪˈkeɪdə]",
+          "meaning": "n. 蝉"
+        },
+        {
+          "term": "butterfly",
+          "phonetic": "[ˈbʌtəflaɪ]",
+          "phoneticUS": "[ˈbʌtərflaɪ]",
+          "meaning": "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人"
+        },
+        {
+          "term": "dragonfly",
+          "phonetic": "[ˈdræɡənflaɪ]",
+          "phoneticUS": "[ˈdræɡənflaɪ]",
+          "meaning": "n. [昆] 蜻蜓"
+        },
+        {
+          "term": "Are you ready?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "准备好了吗；你准备好了吗；你们准备好了吗"
+        },
+        {
+          "term": "run",
+          "phonetic": "[rʌn]",
+          "phoneticUS": "[rʌn]",
+          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
+        },
+        {
+          "term": "jump",
+          "phonetic": "[dʒʌmp]",
+          "phoneticUS": "[dʒʌmp]",
+          "meaning": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增"
+        },
+        {
+          "term": "Well done!",
+          "phonetic": "[ˌwel ˈdʌn]",
+          "phoneticUS": "[ˌwel ˈdʌn]",
+          "meaning": "adj. 熟透的；煮透了的；烧烂了的"
+        },
+        {
+          "term": "hop",
+          "phonetic": "[hɒp]",
+          "phoneticUS": "[hɑːp]",
+          "meaning": "vt. 搭乘\nv. 单足跳跃〔跳行〕\nvi. 双足或齐足跳行\nn. 蹦跳,跳跃；跳舞；一次飞行的距离"
+        },
+        {
+          "term": "walk",
+          "phonetic": "[wɔːk]",
+          "phoneticUS": "[wɔːk]",
+          "meaning": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过"
+        },
+        {
+          "term": "What's that?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "那是什么；什么原因；这是什么"
+        },
+        {
+          "term": "Shh!",
+          "phonetic": "[ʃ]",
+          "phoneticUS": "[ʃ]",
+          "meaning": "int. 嘘；安静一点"
+        },
+        {
+          "term": "pig",
+          "phonetic": "[pɪɡ]",
+          "phoneticUS": "[pɪɡ]",
+          "meaning": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）"
+        },
+        {
+          "term": "Baa!",
+          "phonetic": "[bɑː]",
+          "phoneticUS": "[bɑː]",
+          "meaning": "n. 咩（羊叫声）\nvi. （羊）咩咩叫"
+        },
+        {
+          "term": "lamb",
+          "phonetic": "[læm]",
+          "phoneticUS": "[læm]",
+          "meaning": "n. 羔羊，小羊；羔羊肉\nvt. 生小羊，产羔羊\nvi. 生小羊，产羔羊"
+        },
+        {
+          "term": "Quack!",
+          "phonetic": "[kwæk]",
+          "phoneticUS": "[kwæk]",
+          "meaning": "n. 庸医；鸭叫声\nadj. 骗人的；冒牌医生的\nvi. （鸭子）嘎嘎叫；吹嘘；大声闲聊"
+        },
+        {
+          "term": "duck",
+          "phonetic": "[dʌk]",
+          "phoneticUS": "[dʌk]",
+          "meaning": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中"
+        },
+        {
+          "term": "cow",
+          "phonetic": "[kaʊ]",
+          "phoneticUS": "[kaʊ]",
+          "meaning": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓"
+        },
+        {
+          "term": "in",
+          "phonetic": "[ɪn]",
+          "phoneticUS": "[ɪn]",
+          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+        },
+        {
+          "term": "bottle",
+          "phonetic": "[ˈbɒt(ə)l]",
+          "phoneticUS": "[ˈbɑːtl]",
+          "meaning": "n. 瓶子；一瓶的容量\nvt. 控制；把…装入瓶中\nvi. （街头艺人演出后）收拢钱币"
+        },
+        {
+          "term": "hankie",
+          "phonetic": "[ˈhæŋki]",
+          "phoneticUS": "[ˈhæŋki]",
+          "meaning": "n. 手帕（等于handkerchief）"
+        },
+        {
+          "term": "and",
+          "phonetic": "[ənd]",
+          "phoneticUS": "[ənd; ən; n; ænd]",
+          "meaning": "conj. 和，与；就；而且；但是；然后"
+        },
+        {
+          "term": "sticker",
+          "phonetic": "[ˈstɪkə(r)]",
+          "phoneticUS": "[ˈstɪkər]",
+          "meaning": "n. 尖刀；难题；张贴物；坚持不懈的人\nvt. 给…贴上标签价\nadj. 汽车价目标签的；汽车标签价的"
+        },
+        {
+          "term": "yo-yo",
+          "phonetic": "[ˈjəʊ jəʊ]",
+          "phoneticUS": "[ˈjoʊ joʊ]",
+          "meaning": "n. 溜溜球（一种线轴般的玩具）；优柔寡断\nadj. 上下起落的；摇摆不定的\nvi. 摇摆不定；上下起落"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "id": "1dc041be",
+  "title": "北京版一年级起点三年级上",
+  "wordCount": 91,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "boy",
+          "phonetic": "[bɔɪ]",
+          "phoneticUS": "[bɔɪ]",
+          "meaning": "n. 男孩；男人"
+        },
+        {
+          "term": "girl",
+          "phonetic": "[ɡɜːl]",
+          "phoneticUS": "[ɡɜːrl]",
+          "meaning": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔"
+        },
+        {
+          "term": "Miss",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）"
+        },
+        {
+          "term": "first",
+          "phonetic": "[fɜːst]",
+          "phoneticUS": "[fɜːrst]",
+          "meaning": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿"
+        },
+        {
+          "term": "September",
+          "phonetic": "[sepˈtembə(r)]",
+          "phoneticUS": "[sepˈtembər]",
+          "meaning": "n. 九月"
+        },
+        {
+          "term": "second",
+          "phonetic": "[ˈsekənd]",
+          "phoneticUS": "[ˈsekənd; sɪˈkɑːnd]",
+          "meaning": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位"
+        },
+        {
+          "term": "third",
+          "phonetic": "[θɜːd]",
+          "phoneticUS": "[θɜːrd]",
+          "meaning": "num. 第三；三分之一\nadj. 第三的；三分之一的"
+        },
+        {
+          "term": "fourth",
+          "phonetic": "[fɔːθ]",
+          "phoneticUS": "[fɔːrθ]",
+          "meaning": "num. 第四\nn. 第四，月的第四日；四分之一\nadj. 第四的，第四个的；四分之一的"
+        },
+        {
+          "term": "pupil",
+          "phonetic": "[ˈpjuːp(ə)l]",
+          "phoneticUS": "[ˈpjuːpl]",
+          "meaning": "n. 学生；[解剖] 瞳孔；未成年人"
+        },
+        {
+          "term": "hi",
+          "phonetic": "[haɪ]",
+          "phoneticUS": "[haɪ]",
+          "meaning": "int. 嗨！（表示问候或用以唤起注意）"
+        },
+        {
+          "term": "name",
+          "phonetic": "[neɪm]",
+          "phoneticUS": "[neɪm]",
+          "meaning": "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的"
+        },
+        {
+          "term": "meet",
+          "phonetic": "[miːt]",
+          "phoneticUS": "[miːt]",
+          "meaning": "vt. 满足；遇见；对付\nvi. 相遇；接触\nn. 集会\nadj. 合适的；适宜的"
+        },
+        {
+          "term": "fifth",
+          "phonetic": "[fɪfθ]",
+          "phoneticUS": "[fɪfθ]",
+          "meaning": "num. 第五\nn. 第五；五分之一\nadj. 第五的；五分之一的"
+        },
+        {
+          "term": "sixth",
+          "phonetic": "[sɪksθ]",
+          "phoneticUS": "[sɪksθ]",
+          "meaning": "n. 月的第六日，（与the连用的）第六个；六分之一\nadj. （与 the 连用）第六的，第六个的；六分之一的"
+        },
+        {
+          "term": "seventh",
+          "phonetic": "[ˈsev(ə)nθ]",
+          "phoneticUS": "[ˈsevnθ]",
+          "meaning": "n. 第七；七分之一\nadj. 第七的；七分之一的\nadv. 居第七位地"
+        },
+        {
+          "term": "teacher",
+          "phonetic": "[ˈtiːtʃə(r)]",
+          "phoneticUS": "[ˈtiːtʃər]",
+          "meaning": "n. 教师；导师"
+        },
+        {
+          "term": "card",
+          "phonetic": "[kɑːd]",
+          "phoneticUS": "[kɑːrd]",
+          "meaning": "n. 卡片；纸牌；明信片\nvt. 记于卡片上"
+        },
+        {
+          "term": "tenth",
+          "phonetic": "[tenθ]",
+          "phoneticUS": "[tenθ]",
+          "meaning": "num. 第十；十分之一\nadj. 十分之一的；第十个的"
+        },
+        {
+          "term": "eighth",
+          "phonetic": "[eɪtθ]",
+          "phoneticUS": "[eɪtθ]",
+          "meaning": "num. 第八；八分之一\nadj. 第八的；八分之一的"
+        },
+        {
+          "term": "ninth",
+          "phonetic": "[naɪnθ]",
+          "phoneticUS": "[naɪnθ]",
+          "meaning": "num. 第九\nadj. 第九的；九分之一的\nn. 九分之一"
+        },
+        {
+          "term": "month",
+          "phonetic": "[mʌnθ]",
+          "phoneticUS": "[mʌnθ]",
+          "meaning": "n. 月，一个月的时间"
+        },
+        {
+          "term": "October",
+          "phonetic": "[ɒkˈtəʊbə(r)]",
+          "phoneticUS": "[ɑːkˈtoʊbər]",
+          "meaning": "n. [天] 十月"
+        },
+        {
+          "term": "eleventh",
+          "phonetic": "[ɪˈlev(ə)nθ]",
+          "phoneticUS": "[ɪˈlevnθ]",
+          "meaning": "num. 第十一；十一分之一\nn. 第十一；十一分之一\nadj. 第十一的；十一分之一的"
+        },
+        {
+          "term": "November",
+          "phonetic": "[nəʊˈvembə(r)]",
+          "phoneticUS": "[noʊˈvembər]",
+          "meaning": "n. 十一月"
+        },
+        {
+          "term": "right",
+          "phonetic": "[raɪt]",
+          "phoneticUS": "[raɪt]",
+          "meaning": "n. 正确；右边；正义\nadj. 正确的；直接的；右方的\nvt. 纠正\nadv. 正确地；恰当地；彻底地\nvi. 复正；恢复平稳"
+        },
+        {
+          "term": "twelfth",
+          "phonetic": "[twelfθ]",
+          "phoneticUS": "[twelfθ]",
+          "meaning": "n. 第十二；月的第十二日\nadj. 第十二的，第十二个的；十二分之一的"
+        },
+        {
+          "term": "December",
+          "phonetic": "[dɪˈsembə(r)]",
+          "phoneticUS": "[dɪˈsembər]",
+          "meaning": "n. 十二月"
+        },
+        {
+          "term": "date",
+          "phonetic": "[deɪt]",
+          "phoneticUS": "[deɪt]",
+          "meaning": "n. 日期；约会；年代；枣椰子\nvt. 确定…年代；和…约会\nvi. 过时；注明日期；始于（某一历史时期）"
+        },
+        {
+          "term": "today",
+          "phonetic": "[təˈdeɪ]",
+          "phoneticUS": "[təˈdeɪ]",
+          "meaning": "n. 今天；现今\nadv. 今天；现今"
+        },
+        {
+          "term": "thirteenth",
+          "phonetic": "[ˌθɜːˈtiːnθ]",
+          "phoneticUS": "[ˌθɜːrˈtiːnθ]",
+          "meaning": "n. 第十三；十三分之一\nadj. 第十三的；十三分之一的"
+        },
+        {
+          "term": "football",
+          "phonetic": "[ˈfʊtbɔːl]",
+          "phoneticUS": "[ˈfʊtbɔːl]",
+          "meaning": "n. 足球，橄榄球\nvi. 踢足球；打橄榄球"
+        },
+        {
+          "term": "seventeenth",
+          "phonetic": "[ˌsev(ə)nˈtiːnθ]",
+          "phoneticUS": "[ˌsevnˈtiːnθ]",
+          "meaning": "n. 第十七日；十七分之一\nnum. 第十七\nadj. 第十七的，第十七个的；十七分之一的"
+        },
+        {
+          "term": "eighteenth",
+          "phonetic": "[ˌeɪˈtiːnθ]",
+          "phoneticUS": "[ˌeɪˈtiːnθ]",
+          "meaning": "num. 第十八；十八分之一\nadj. 第十八的，第十八个的；十八分之一的"
+        },
+        {
+          "term": "nineteenth",
+          "phonetic": "[ˌnaɪnˈtiːnθ]",
+          "phoneticUS": "[ˌnaɪnˈtiːnθ]",
+          "meaning": "num. 第十九；十九分之一"
+        },
+        {
+          "term": "sport",
+          "phonetic": "[spɔːt]",
+          "phoneticUS": "[spɔːrt]",
+          "meaning": "n. 运动；游戏；娱乐；运动会；玩笑\nadj. 运动的\nvt. 游戏；参加体育运动；夸耀\nvi. 游戏"
+        },
+        {
+          "term": "run",
+          "phonetic": "[rʌn]",
+          "phoneticUS": "[rʌn]",
+          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
+        },
+        {
+          "term": "race",
+          "phonetic": "[reɪs]",
+          "phoneticUS": "[reɪs]",
+          "meaning": "n. 属，种；种族，人种；家庭，门第\nvt. 使参加比赛；和…竞赛；使急走，使全速行进\nvi. 比速度，参加竞赛；全速行进"
+        },
+        {
+          "term": "high",
+          "phonetic": "[haɪ]",
+          "phoneticUS": "[haɪ]",
+          "meaning": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地"
+        },
+        {
+          "term": "jump",
+          "phonetic": "[dʒʌmp]",
+          "phoneticUS": "[dʒʌmp]",
+          "meaning": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增"
+        },
+        {
+          "term": "January",
+          "phonetic": "[ˈdʒænjuəri]",
+          "phoneticUS": "[ˈdʒænjueri]",
+          "meaning": "n. 一月"
+        },
+        {
+          "term": "March",
+          "phonetic": "[mɑːtʃ]",
+          "phoneticUS": "[mɑːrtʃ]",
+          "meaning": "n. 三月"
+        },
+        {
+          "term": "February",
+          "phonetic": "[ˈfebruəri]",
+          "phoneticUS": "[ˈfebrueri]",
+          "meaning": "n. 二月"
+        },
+        {
+          "term": "every",
+          "phonetic": "[ˈevri]",
+          "phoneticUS": "[ˈevri]",
+          "meaning": "adj. 每一的，每个的；每隔…的"
+        },
+        {
+          "term": "April",
+          "phonetic": "[ˈeɪprəl]",
+          "phoneticUS": "[ˈeɪprəl]",
+          "meaning": "n. 四月"
+        },
+        {
+          "term": "August",
+          "phonetic": "[ˈɔːɡəst]",
+          "phoneticUS": "[ˈɔːɡəst]",
+          "meaning": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的"
+        },
+        {
+          "term": "born",
+          "phonetic": "[bɔːn]",
+          "phoneticUS": "[bɔːrn]",
+          "meaning": "v. 出世（bear的过去分词）\nadj. 天生的"
+        },
+        {
+          "term": "May",
+          "phonetic": "[meɪ]",
+          "phoneticUS": "[meɪ]",
+          "meaning": "aux. 可以，能够；可能，也许；祝，愿；会，能"
+        },
+        {
+          "term": "June",
+          "phonetic": "[dʒuːn]",
+          "phoneticUS": "[dʒuːn]",
+          "meaning": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+        },
+        {
+          "term": "fifteenth",
+          "phonetic": "[ˌfɪfˈtiːnθ]",
+          "phoneticUS": "[ˌfɪfˈtiːnθ]",
+          "meaning": "adj. 第十五的；十五分之一的\nnum. 第十五"
+        },
+        {
+          "term": "fourteenth",
+          "phonetic": "[ˌfɔːˈtiːnθ]",
+          "phoneticUS": "[ˌfɔːrˈtiːnθ]",
+          "meaning": "num. 第十四\nn. 第十四；月的第十四日；十四分之一\nadj. 第十四的；第十四个的"
+        },
+        {
+          "term": "How old ...?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "conj. 多少岁"
+        },
+        {
+          "term": "July",
+          "phonetic": "[dʒʊˈlaɪ]",
+          "phoneticUS": "[dʒʊˈlaɪ]",
+          "meaning": "n. 七月"
+        },
+        {
+          "term": "weather",
+          "phonetic": "[ˈweðə(r)]",
+          "phoneticUS": "[ˈweðər]",
+          "meaning": "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨"
+        },
+        {
+          "term": "like",
+          "phonetic": "[laɪk]",
+          "phoneticUS": "[laɪk]",
+          "meaning": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像"
+        },
+        {
+          "term": "sunny",
+          "phonetic": "[ˈsʌni]",
+          "phoneticUS": "[ˈsʌni]",
+          "meaning": "adj. 阳光充足的，和煦的；快活的；性情开朗的"
+        },
+        {
+          "term": "warm",
+          "phonetic": "[wɔːm]",
+          "phoneticUS": "[wɔːrm]",
+          "meaning": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖"
+        },
+        {
+          "term": "hot",
+          "phonetic": "[hɒt]",
+          "phoneticUS": "[hɑːt]",
+          "meaning": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热"
+        },
+        {
+          "term": "cool",
+          "phonetic": "[kuːl]",
+          "phoneticUS": "[kuːl]",
+          "meaning": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地"
+        },
+        {
+          "term": "rainy",
+          "phonetic": "[ˈreɪni]",
+          "phoneticUS": "[ˈreɪni]",
+          "meaning": "adj. 下雨的；多雨的"
+        },
+        {
+          "term": "can",
+          "phonetic": "[kən; kæn]",
+          "phoneticUS": "[kən; kæn]",
+          "meaning": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存"
+        },
+        {
+          "term": "windy",
+          "phonetic": "[ˈwɪndi]",
+          "phoneticUS": "[ˈwɪndi]",
+          "meaning": "adj. 多风的，有风的；腹胀的；吹牛的"
+        },
+        {
+          "term": "cloudy",
+          "phonetic": "[ˈklaʊdi]",
+          "phoneticUS": "[ˈklaʊdi]",
+          "meaning": "adj. 多云的；阴天的；愁容满面的"
+        },
+        {
+          "term": "over",
+          "phonetic": "[ˈəʊvə(r)]",
+          "phoneticUS": "[ˈoʊvər]",
+          "meaning": "adv. 结束；越过；从头到尾\nprep. 越过；在…之上；遍于…之上\nadj. 结束的；上面的\nvt. 越过"
+        },
+        {
+          "term": "snowy",
+          "phonetic": "[ˈsnəʊi]",
+          "phoneticUS": "[ˈsnoʊi]",
+          "meaning": "adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的"
+        },
+        {
+          "term": "rain",
+          "phonetic": "[reɪn]",
+          "phoneticUS": "[reɪn]",
+          "meaning": "n. 雨；下雨；雨天；雨季\nvt. 大量地给；使大量落下\nvi. 下雨；降雨"
+        },
+        {
+          "term": "borrow",
+          "phonetic": "[ˈbɒrəʊ]",
+          "phoneticUS": "[ˈbɔːroʊ]",
+          "meaning": "vt. 借；借用\nvi. 借；借用；从其他语言中引入"
+        },
+        {
+          "term": "marker",
+          "phonetic": "[ˈmɑːkə(r)]",
+          "phoneticUS": "[ˈmɑːrkər]",
+          "meaning": "n. 记分员；书签；标识物；作记号的人"
+        },
+        {
+          "term": "pencil",
+          "phonetic": "[ˈpens(ə)l]",
+          "phoneticUS": "[ˈpensl]",
+          "meaning": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状"
+        },
+        {
+          "term": "eraser",
+          "phonetic": "[ɪˈreɪzə(r)]",
+          "phoneticUS": "[ɪˈreɪsər]",
+          "meaning": "n. 橡皮；擦除器；[计] 清除器"
+        },
+        {
+          "term": "sixty",
+          "phonetic": "[ˈsɪksti]",
+          "phoneticUS": "[ˈsɪksti]",
+          "meaning": "num. 六十；六十个"
+        },
+        {
+          "term": "ruler",
+          "phonetic": "[ˈruːlə(r)]",
+          "phoneticUS": "[ˈruːlər]",
+          "meaning": "n. 尺；统治者；[测] 划线板，划线的人"
+        },
+        {
+          "term": "forty",
+          "phonetic": "[ˈfɔːti]",
+          "phoneticUS": "[ˈfɔːrti]",
+          "meaning": "n. 四十\nadj. 四十的；四十个的"
+        },
+        {
+          "term": "blackboard",
+          "phonetic": "[ˈblækbɔːd]",
+          "phoneticUS": "[ˈblækbɔːrd]",
+          "meaning": "n. 黑板"
+        },
+        {
+          "term": "seventy",
+          "phonetic": "[ˈsev(ə)nti]",
+          "phoneticUS": "[ˈsev(ə)nti]",
+          "meaning": "n. 七十；七十个；七十岁；七十年代\nnum. 七十\nadj. 七十的；七十个的；七十岁的"
+        },
+        {
+          "term": "eighty",
+          "phonetic": "[ˈeɪti]",
+          "phoneticUS": "[ˈeɪti]",
+          "meaning": "num. 八十\nn. 八十；八十岁；八十年代\nadj. 八十的，八十个的；八十岁的"
+        },
+        {
+          "term": "ninety",
+          "phonetic": "[ˈnaɪnti]",
+          "phoneticUS": "[ˈnaɪnti]",
+          "meaning": "n. 九十\nadj. 九十的；九十岁的\nnum. 九十"
+        },
+        {
+          "term": "hundred",
+          "phonetic": "[ˈhʌndrəd]",
+          "phoneticUS": "[ˈhʌndrəd]",
+          "meaning": "num. 百；百个\nn. 一百；许多\nadj. 一百的；许多的"
+        },
+        {
+          "term": "holiday",
+          "phonetic": "[ˈhɒlədeɪ]",
+          "phoneticUS": "[ˈhɑːlədeɪ]",
+          "meaning": "n. 假日；节日；休息日\nvi. 外出度假"
+        },
+        {
+          "term": "Christmas",
+          "phonetic": "[ˈkrɪsməs]",
+          "phoneticUS": "[ˈkrɪsməs]",
+          "meaning": "n. 圣诞节；圣诞节期间"
+        },
+        {
+          "term": "know",
+          "phonetic": "[nəʊ]",
+          "phoneticUS": "[noʊ]",
+          "meaning": "vt. 知道；认识；懂得\nvi. 了解；熟悉；确信"
+        },
+        {
+          "term": "Chinese",
+          "phonetic": "[ˌtʃaɪˈniːz]",
+          "phoneticUS": "[ˌtʃaɪˈniːz]",
+          "meaning": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的"
+        },
+        {
+          "term": "ball",
+          "phonetic": "[bɔːl]",
+          "phoneticUS": "[bɔːl]",
+          "meaning": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块"
+        },
+        {
+          "term": "gold",
+          "phonetic": "[ɡəʊld]",
+          "phoneticUS": "[ɡoʊld]",
+          "meaning": "n. 金，黄金；金色；金币\nadj. 金的，金制的；金色的"
+        },
+        {
+          "term": "gift",
+          "phonetic": "[ɡɪft]",
+          "phoneticUS": "[ɡɪft]",
+          "meaning": "n. 礼物；天赋；赠品\nvt. 赋予；向…赠送"
+        },
+        {
+          "term": "pink",
+          "phonetic": "[pɪŋk]",
+          "phoneticUS": "[pɪŋk]",
+          "meaning": "n. 粉红色；化身，典范；石竹花；头面人物\nadj. 粉红的；比较激进的；石竹科的；脸色发红的\nvt. 扎，刺，戳；使…变粉红色；使…面红耳赤\nvi. 变粉红色"
+        },
+        {
+          "term": "star",
+          "phonetic": "[stɑː(r)]",
+          "phoneticUS": "[stɑːr]",
+          "meaning": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角"
+        },
+        {
+          "term": "bell",
+          "phonetic": "[bel]",
+          "phoneticUS": "[bel]",
+          "meaning": "n. 铃，钟；钟声，铃声；钟状物\nvt. 装钟于，系铃于\nvi. 鸣钟；成钟状鼓起"
+        },
+        {
+          "term": "together",
+          "phonetic": "[təˈɡeðə(r)]",
+          "phoneticUS": "[təˈɡeðər]",
+          "meaning": "adj. 新潮的；情绪稳定的，做事有效率的\nadv. 一起；同时；相互；连续地；总共"
+        },
+        {
+          "term": "bright",
+          "phonetic": "[braɪt]",
+          "phoneticUS": "[braɪt]",
+          "meaning": "n. 车头灯光\nadj. 明亮的，鲜明的；聪明的；愉快的\nadv. 明亮地；光明地；欢快地"
+        },
+        {
+          "term": "house",
+          "phonetic": "[haʊs]",
+          "phoneticUS": "[haʊs]",
+          "meaning": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住"
+        },
+        {
+          "term": "same",
+          "phonetic": "[seɪm]",
+          "phoneticUS": "[seɪm]",
+          "meaning": "adj. 相同的；同一的；上述的（通常与the连用）；无变化的\nadv. 同样地（通常与the连用）\npron. 同样的事物或人（通常与the连用）"
+        }
+      ]
+    }
+  ]
+}

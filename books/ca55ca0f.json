@@ -1,0 +1,642 @@
+{
+  "id": "ca55ca0f",
+  "title": "陕西版三年级起点四年级上",
+  "wordCount": 105,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "cook",
+          "phonetic": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "farmer",
+          "phonetic": "n. 农夫，农民",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "doctor",
+          "phonetic": "vt. 修理；篡改，伪造；为…治病；授以博士学位\nn. 医生；博士\nvi. 就医；行医",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "worker",
+          "phonetic": "n. 工人；劳动者；职蚁",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "driver",
+          "phonetic": "n. 驾驶员；驱动程序；起子；传动器",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "policeman",
+          "phonetic": "n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "want",
+          "phonetic": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "be",
+          "phonetic": "vt. 是； 有，存在； 做，成为； 发生",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "man",
+          "phonetic": "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "farm",
+          "phonetic": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "pig",
+          "phonetic": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "horse",
+          "phonetic": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "cow",
+          "phonetic": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "sheep",
+          "phonetic": "n. 羊，绵羊；胆小鬼",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "duck",
+          "phonetic": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "hen",
+          "phonetic": "n. 母鸡；女人；雌禽",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "really",
+          "phonetic": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "many",
+          "phonetic": "pron. 许多；许多人\nadj. 许多的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "any",
+          "phonetic": "adj. 任何的；所有的；丝毫\npron. 任何；任何一个；若干\nadv. 稍微；少许",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "for",
+          "phonetic": "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "breakfast",
+          "phonetic": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "lunch",
+          "phonetic": "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "rice",
+          "phonetic": "n. 稻；米饭\nvt. 把…捣成米糊状",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "noodles",
+          "phonetic": "n. 面条，挂面（noodle的复数形式)",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "soup",
+          "phonetic": "n. 汤，羹；马力\nvt. 加速；增加马力",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "dumplings",
+          "phonetic": "n. 饺子（dumpling的复数）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "meat",
+          "phonetic": "n. 肉，肉类（食用）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "chicken",
+          "phonetic": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "we",
+          "phonetic": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "great",
+          "phonetic": "n. 大师；大人物；伟人们\nadj. 伟大",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "very",
+          "phonetic": "adv. 非常，很；完全\nadj. 恰好是，正是；甚至；十足的；特有的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "aunt",
+          "phonetic": "n. 阿姨；姑妈；伯母；舅妈",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "welcome",
+          "phonetic": "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "dinner",
+          "phonetic": "n. 晚餐，晚宴；宴会；正餐",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "ready",
+          "phonetic": "n. 现款；预备好的状态\nadj. 准备好；现成的；迅速的；情愿的；快要…的\nvt. 使准备好\nadv. 迅速地；预先",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "very little",
+          "phonetic": "很少；极少；无几",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "when",
+          "phonetic": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "class",
+          "phonetic": "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "get up",
+          "phonetic": "na. 起床；起身；站起来；叫…起床",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "have a class",
+          "phonetic": "上课；学生上课",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "have lunch",
+          "phonetic": "吃午饭；吃午餐；吃中饭",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "play",
+          "phonetic": "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "game",
+          "phonetic": "n. 游戏；比赛\nadj. 勇敢的\nvi. 赌博",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "play games",
+          "phonetic": "做游戏；玩游戏；捣鬼",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "watch",
+          "phonetic": "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "watch TV",
+          "phonetic": "v. 看电视",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "bed",
+          "phonetic": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "go to bed",
+          "phonetic": "na. 睡；同床；【印】付印",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "at",
+          "phonetic": "prep. 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；达；因为；朝；忙于\nn. 阿特（老挝货币基本单位att）；[化]砹（极不稳定放射性元素）\nabbr. 密封的（airtight）；气温（air temperature）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "early",
+          "phonetic": "adj. 早期的；早熟的\nadv. 提早；在初期",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "late",
+          "phonetic": "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "our",
+          "phonetic": "pron. 我们的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "library",
+          "phonetic": "n. 图书馆，藏书室；文库",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "garden",
+          "phonetic": "n. 花园；菜园\nvt. 栽培花木\nvi. 从事园艺；在园中种植",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "playground",
+          "phonetic": "n. 运动场，操场；游乐场",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "toilet",
+          "phonetic": "n. 厕所，盥洗室；梳妆，打扮\nvt. 给…梳妆打扮\nvi. 梳妆，打扮",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "computer",
+          "phonetic": "n. 计算机；电脑；电子计算机",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "office",
+          "phonetic": "n. 办公室；政府机关；官职；营业处",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "teachers' office",
+          "phonetic": "无",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "gate",
+          "phonetic": "n. 大门；出入口；门道\nvt. 给…装大门",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "school gate",
+          "phonetic": "校门；学校大门；校门口",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "of course",
+          "phonetic": "na. 当然",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "subject",
+          "phonetic": "n. 主题；科目；[语] 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Math",
+          "phonetic": "n. 数学（等于mathematics）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "PE",
+          "phonetic": "abbr. 体育课，体能训练（physical education）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Music",
+          "phonetic": "n. 音乐，乐曲",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Chinese",
+          "phonetic": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "English",
+          "phonetic": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Science",
+          "phonetic": "n. 科学；技术；学科；理科",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Art",
+          "phonetic": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "let",
+          "phonetic": "vt. 允许，让；出租；假设；妨碍\nvi. 出租；被承包\nn. 障碍；出租屋",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "be good at",
+          "phonetic": "v. 善于",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "drawing",
+          "phonetic": "n. 图画；牵引；素描术\nv. 绘画；吸引（draw的ing形式）；拖曳",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "not",
+          "phonetic": "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Tuesday",
+          "phonetic": "n. 星期二",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Sunday",
+          "phonetic": "n. 星期日；礼拜日",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Monday",
+          "phonetic": "n. 星期一",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Wednesday",
+          "phonetic": "n. 星期三",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Thursday",
+          "phonetic": "n. 星期四",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Friday",
+          "phonetic": "n. 星期五",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "Saturday",
+          "phonetic": "n. 星期六",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "week",
+          "phonetic": "n. 周，星期",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "day",
+          "phonetic": "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "today",
+          "phonetic": "n. 今天；现今\nadv. 今天；现今",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "draw",
+          "phonetic": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "picture",
+          "phonetic": "n. 照片，图画；影片；景色；化身\nvt. 画；想像；描写",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "draw pictures",
+          "phonetic": "画画；画图画；画儿",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "play ball",
+          "phonetic": "na. 打球；开始活动；合作；行事公道",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "run",
+          "phonetic": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "swim",
+          "phonetic": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "dance",
+          "phonetic": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "jump",
+          "phonetic": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "rope",
+          "phonetic": "n. 绳，绳索\nvt. 捆，绑\nvi. 拧成绳状",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "jump rope",
+          "phonetic": "v. 跳绳",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "basketball",
+          "phonetic": "n. 篮球；篮球运动",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "play basketball",
+          "phonetic": "打篮球；玩篮球；篮球锻炼知多少",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "sing",
+          "phonetic": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "song",
+          "phonetic": "n. 歌曲；歌唱；诗歌；鸣声",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "sing songs",
+          "phonetic": "n. 歌咏",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "after",
+          "phonetic": "conj. 在……之后\nprep. 在……之后\nadj. 以后的\nadv. 后来，以后",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "after class",
+          "phonetic": "n. 下课后",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "together",
+          "phonetic": "adj. 新潮的；情绪稳定的，做事有效率的\nadv. 一起；同时；相互；连续地；总共",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "OK",
+          "phonetic": "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "every",
+          "phonetic": "adj. 每一的，每个的；每隔…的",
+          "phoneticUS": "",
+          "meaning": ""
+        },
+        {
+          "term": "often",
+          "phonetic": "adv. 常常，时常",
+          "phoneticUS": "",
+          "meaning": ""
+        }
+      ]
+    }
+  ]
+}

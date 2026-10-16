@@ -1,0 +1,276 @@
+{
+  "id": "5732ed47",
+  "title": "译林版二年级下",
+  "wordCount": 44,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "on",
+          "phonetic": "[ɒn]",
+          "phoneticUS": "[ɑːn]",
+          "meaning": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中"
+        },
+        {
+          "term": "under",
+          "phonetic": "[ˈʌndə(r)]",
+          "phoneticUS": "[ˈʌndər]",
+          "meaning": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方"
+        },
+        {
+          "term": "behind",
+          "phonetic": "[bɪˈhaɪnd]",
+          "phoneticUS": "[bɪˈhaɪnd]",
+          "meaning": "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处"
+        },
+        {
+          "term": "in",
+          "phonetic": "[ɪn]",
+          "phoneticUS": "[ɪn]",
+          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+        },
+        {
+          "term": "a sofa",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "a vase",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "a basket",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "篮；篮子；一篮子"
+        },
+        {
+          "term": "rice",
+          "phonetic": "[raɪs]",
+          "phoneticUS": "[raɪs]",
+          "meaning": "n. 稻；米饭\nvt. 把…捣成米糊状"
+        },
+        {
+          "term": "broccoli",
+          "phonetic": "[ˈbrɒkəli]",
+          "phoneticUS": "[ˈbrɑːkəli]",
+          "meaning": "n. 花椰菜；西兰花"
+        },
+        {
+          "term": "fish",
+          "phonetic": "[fɪʃ]",
+          "phoneticUS": "[fɪʃ]",
+          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+        },
+        {
+          "term": "soup",
+          "phonetic": "[suːp]",
+          "phoneticUS": "[suːp]",
+          "meaning": "n. 汤，羹；马力\nvt. 加速；增加马力"
+        },
+        {
+          "term": "meat",
+          "phonetic": "[miːt]",
+          "phoneticUS": "[miːt]",
+          "meaning": "n. 肉，肉类（食用）"
+        },
+        {
+          "term": "noodles",
+          "phonetic": "[ˈnuːd(ə)lz]",
+          "phoneticUS": "[ˈnuːd(ə)lz]",
+          "meaning": "n. 面条，挂面（noodle的复数形式)"
+        },
+        {
+          "term": "Maths",
+          "phonetic": "[mæθs]",
+          "phoneticUS": "[mæθs]",
+          "meaning": "n. 数学（等于mathematics）"
+        },
+        {
+          "term": "Chinese",
+          "phonetic": "[ˌtʃaɪˈniːz]",
+          "phoneticUS": "[ˌtʃaɪˈniːz]",
+          "meaning": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的"
+        },
+        {
+          "term": "English",
+          "phonetic": "[ˈɪŋɡlɪʃ]",
+          "phoneticUS": "[ˈɪŋɡlɪʃ]",
+          "meaning": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语"
+        },
+        {
+          "term": "PE",
+          "phonetic": "[peɪ]",
+          "phoneticUS": "[peɪ]",
+          "meaning": "abbr. 体育课，体能训练（physical education）"
+        },
+        {
+          "term": "Art",
+          "phonetic": "[ɑːt]",
+          "phoneticUS": "[ɑːrt]",
+          "meaning": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的"
+        },
+        {
+          "term": "Music",
+          "phonetic": "[ˈmjuːzɪk]",
+          "phoneticUS": "[ˈmjuːzɪk]",
+          "meaning": "n. 音乐，乐曲"
+        },
+        {
+          "term": "ear",
+          "phonetic": "[ɪə(r)]",
+          "phoneticUS": "[ɪr]",
+          "meaning": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗"
+        },
+        {
+          "term": "hair",
+          "phonetic": "[heə(r)]",
+          "phoneticUS": "[her]",
+          "meaning": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维"
+        },
+        {
+          "term": "eye",
+          "phonetic": "[aɪ]",
+          "phoneticUS": "[aɪ]",
+          "meaning": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看"
+        },
+        {
+          "term": "mouth",
+          "phonetic": "[maʊθ]",
+          "phoneticUS": "[maʊθ]",
+          "meaning": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话"
+        },
+        {
+          "term": "face",
+          "phonetic": "[feɪs]",
+          "phoneticUS": "[feɪs]",
+          "meaning": "n. 脸；表面；面子；面容；外观；威信\nvi. 向；朝\nvt. 面对；面向；承认；抹盖"
+        },
+        {
+          "term": "nose",
+          "phonetic": "[nəʊz]",
+          "phoneticUS": "[noʊz]",
+          "meaning": "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问"
+        },
+        {
+          "term": "skip",
+          "phonetic": "[skɪp]",
+          "phoneticUS": "[skɪp]",
+          "meaning": "n. 跳跃；跳读\nvt. 跳过；遗漏\nvi. 跳跃；跳绳；遗漏；跳读"
+        },
+        {
+          "term": "ride a bike",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "骑自行车；骑车；骑单车"
+        },
+        {
+          "term": "skate",
+          "phonetic": "[skeɪt]",
+          "phoneticUS": "[skeɪt]",
+          "meaning": "n. 溜冰；冰鞋\nvi. 滑冰；滑过"
+        },
+        {
+          "term": "swim",
+          "phonetic": "[swɪm]",
+          "phoneticUS": "[swɪm]",
+          "meaning": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起"
+        },
+        {
+          "term": "a dress",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "你的英文地址；地址值；总部地址"
+        },
+        {
+          "term": "a skirt",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "裙子；一条短裙；短裙"
+        },
+        {
+          "term": "shorts",
+          "phonetic": "[ʃɔːts]",
+          "phoneticUS": "[ʃɔːrts]",
+          "meaning": "n. 短裤"
+        },
+        {
+          "term": "a T-shirt",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "a blouse",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "a hat",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "帽子；一顶帽子；有沿的帽"
+        },
+        {
+          "term": "beach",
+          "phonetic": "[biːtʃ]",
+          "phoneticUS": "[biːtʃ]",
+          "meaning": "n. 海滩；湖滨\nvt. 将…拖上岸\nvi. 搁浅；定居"
+        },
+        {
+          "term": "pool",
+          "phonetic": "[puːl]",
+          "phoneticUS": "[puːl]",
+          "meaning": "n. 联营；撞球；水塘；共同资金\nvt. 合伙经营\nvi. 联营，合伙经营"
+        },
+        {
+          "term": "ice cream",
+          "phonetic": "[ˈaɪs kriːm]",
+          "phoneticUS": "[ˈaɪs kriːm]",
+          "meaning": "n. 【食】冰淇淋"
+        },
+        {
+          "term": "orange juice",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 柑桔汁；橙汁"
+        },
+        {
+          "term": "queue up",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 长队；车队；辫子\nv. 把(头发)梳成辫子；〈英〉排(成)队"
+        },
+        {
+          "term": "clean up",
+          "phonetic": "[ˈkliːn ʌp]",
+          "phoneticUS": "[ˈkliːn ʌp]",
+          "meaning": "na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利"
+        },
+        {
+          "term": "push",
+          "phonetic": "[pʊʃ]",
+          "phoneticUS": "[pʊʃ]",
+          "meaning": "n. 推，决心；大规模攻势；矢志的追求\nvi. 推进；增加；努力争取\nvt. 推动，增加；对…施加压力，逼迫；按；说服"
+        },
+        {
+          "term": "talk",
+          "phonetic": "[tɔːk]",
+          "phoneticUS": "[tɔːk]",
+          "meaning": "n. 谈话；演讲；空谈\nvi. 谈话；说闲话\nvt. 说；谈话；讨论"
+        },
+        {
+          "term": "shout",
+          "phonetic": "[ʃaʊt]",
+          "phoneticUS": "[ʃaʊt]",
+          "meaning": "n. 呼喊；呼叫\nvi. 呼喊；喊叫；大声说\nvt. 呼喊；大声说"
+        }
+      ]
+    }
+  ]
+}
