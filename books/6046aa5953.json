@@ -1,0 +1,930 @@
+{
+  "id": "6046aa5953",
+  "title": "广州版三年级起点四年级下",
+  "wordCount": 153,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "look like",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "看起来与（某人或某物）相像[相似]; 很可能出现[引起]（某事、做某事）; 伣; 似"
+        },
+        {
+          "term": "which",
+          "phonetic": "[wɪtʃ]",
+          "phoneticUS": "[wɪtʃ]",
+          "meaning": "adj. 哪一个；哪一些\npron. 哪/那一个；哪/那一些"
+        },
+        {
+          "term": "with",
+          "phonetic": "[wɪð]",
+          "phoneticUS": "[wɪð; wɪθ]",
+          "meaning": "prep. 用；随着；支持；和…在一起"
+        },
+        {
+          "term": "glasses",
+          "phonetic": "[ˈɡlɑːsɪz]",
+          "phoneticUS": "[ˈɡlæsɪz]",
+          "meaning": "n. [轻] 眼镜；玻璃（glass的复数形式）；双筒望远镜\nv. 把…装入玻璃容器内；给…装上玻璃（glass的第三人称单数形式）"
+        },
+        {
+          "term": "her",
+          "phonetic": "[hə(r)]",
+          "phoneticUS": "[hər; ɜːr; ər; hɜːr]",
+          "meaning": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）"
+        },
+        {
+          "term": "know",
+          "phonetic": "[nəʊ]",
+          "phoneticUS": "[noʊ]",
+          "meaning": "vt. 知道；认识；懂得\nvi. 了解；熟悉；确信"
+        },
+        {
+          "term": "him",
+          "phonetic": "[hɪm; ɪm]",
+          "phoneticUS": "[hɪm; ɪm]",
+          "meaning": "pron. 他（宾格）"
+        },
+        {
+          "term": "policewoman",
+          "phonetic": "[pəˈliːswʊmən]",
+          "phoneticUS": "[pəˈliːswʊmən]",
+          "meaning": "n. 女警察；女警官"
+        },
+        {
+          "term": "policewomen",
+          "phonetic": "[pə'li:s,wimin]",
+          "phoneticUS": "[pəˈliːswɪmɪn]",
+          "meaning": "n. 女警察( policewoman的名词复数 )"
+        },
+        {
+          "term": "uniform",
+          "phonetic": "[ˈjuːnɪfɔːm]",
+          "phoneticUS": "[ˈjuːnɪfɔːrm]",
+          "meaning": "n. 制服\nadj. 统一的；一致的；相同的；均衡的；始终如一的\nvt. 使穿制服；使成一样"
+        },
+        {
+          "term": "its",
+          "phonetic": "[ɪts]",
+          "phoneticUS": "[ɪts]",
+          "meaning": "pron. 它的"
+        },
+        {
+          "term": "their",
+          "phonetic": "[ðeə(r)]",
+          "phoneticUS": "[ðer]",
+          "meaning": "pron. 他们的，她们的；它们的"
+        },
+        {
+          "term": "kind",
+          "phonetic": "[kaɪnd]",
+          "phoneticUS": "[kaɪnd]",
+          "meaning": "n. 种类；性质\nadj. 和蔼的；宽容的；令人感激的"
+        },
+        {
+          "term": "What is ... like?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "怎么说；怎麽说；还是什么样"
+        },
+        {
+          "term": "shy",
+          "phonetic": "[ʃaɪ]",
+          "phoneticUS": "[ʃaɪ]",
+          "meaning": "n. 投掷；惊跳\nadj. 害羞的；畏缩的，胆怯的\nvi. 投；畏缩；惊退；厌恶\nvt. 投；乱掷"
+        },
+        {
+          "term": "round",
+          "phonetic": "[raʊnd]",
+          "phoneticUS": "[raʊnd]",
+          "meaning": "n. 圆；循环；一回合；圆形物\nprep. 附近；绕过；大约；在…周围\nadj. 圆的；完全的；大概的；肥胖的\nvt. 完成；围捕；绕行；弄圆\nadv. 在周围；迂回地；朝反方向；挨个\nvi. 进展；变圆；环行；发胖"
+        },
+        {
+          "term": "friendly",
+          "phonetic": "[ˈfrendli]",
+          "phoneticUS": "[ˈfrendli]",
+          "meaning": "adj. 友好的；亲切的；支持的；融洽的，和睦的\nadv. 友善地；温和地"
+        },
+        {
+          "term": "daily",
+          "phonetic": "[ˈdeɪli]",
+          "phoneticUS": "[ˈdeɪli]",
+          "meaning": "n. 日报；朝来夜去的女佣\nadj. 日常的；每日的\nadv. 日常地；每日；天天"
+        },
+        {
+          "term": "routine",
+          "phonetic": "[ruːˈtiːn]",
+          "phoneticUS": "[ruːˈtiːn]",
+          "meaning": "n. [计] 程序；日常工作；例行公事\nadj. 日常的；例行的"
+        },
+        {
+          "term": "time",
+          "phonetic": "[taɪm]",
+          "phoneticUS": "[taɪm]",
+          "meaning": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度"
+        },
+        {
+          "term": "It's time to ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "该是……的时候了；是时候了；现在是时候"
+        },
+        {
+          "term": "It's time for ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "up",
+          "phonetic": "[ʌp]",
+          "phoneticUS": "[ʌp]",
+          "meaning": "prep. 在…之上；向…的较高处\nn. 上升；繁荣\nadj. 涨的；起床的；向上的\nadv. 起来；上涨；向上"
+        },
+        {
+          "term": "get up",
+          "phonetic": "[ɡet ʌp]",
+          "phoneticUS": "[ɡet ʌp]",
+          "meaning": "na. 起床；起身；站起来；叫…起床"
+        },
+        {
+          "term": "o'clock",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "abbr. …点钟（等于of the clock）"
+        },
+        {
+          "term": "half",
+          "phonetic": "[hɑːf]",
+          "phoneticUS": "[hæf]",
+          "meaning": "n. 一半；半场；半学年\nadj. 一半的；不完全的；半途的\nadv. 一半地；部分地"
+        },
+        {
+          "term": "past",
+          "phonetic": "[pɑːst]",
+          "phoneticUS": "[pæst]",
+          "meaning": "n. 过去；往事\nprep. 越过；晚于\nadj. 过去的；结束的\nadv. 过；经过"
+        },
+        {
+          "term": "half past ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "点半；半点；踏半"
+        },
+        {
+          "term": "quarter",
+          "phonetic": "[ˈkwɔːtə(r)]",
+          "phoneticUS": "[ˈkwɔːrtər]",
+          "meaning": "num. 四分之一\nn. 四分之一；地区；季度；一刻钟；两角五分；节\nvt. 将…四等分；供某人住宿\nvi. 住宿；驻扎"
+        },
+        {
+          "term": "to",
+          "phonetic": "[tə]",
+          "phoneticUS": "[tə; tu; tuː]",
+          "meaning": "prep. 到；向；（表示时间、方向）朝…方向\nadv. 向前；（门等）关上"
+        },
+        {
+          "term": "a quarter to ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "sleep",
+          "phonetic": "[sliːp]",
+          "phoneticUS": "[sliːp]",
+          "meaning": "n. 睡眠\nvi. 睡，睡觉"
+        },
+        {
+          "term": "tired",
+          "phonetic": "[ˈtaɪəd]",
+          "phoneticUS": "[ˈtaɪərd]",
+          "meaning": "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的"
+        },
+        {
+          "term": "lunch",
+          "phonetic": "[lʌntʃ]",
+          "phoneticUS": "[lʌntʃ]",
+          "meaning": "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐"
+        },
+        {
+          "term": "back",
+          "phonetic": "[bæk]",
+          "phoneticUS": "[bæk]",
+          "meaning": "n. 后面；背部；靠背；足球等的后卫；书报等的末尾\nadj. 后面的；过去的；拖欠的\nvt. 支持；后退；背书；下赌注\nadv. 以前；向后地；来回地；上溯；回来；回原处\nvi. 后退；背靠；倒退"
+        },
+        {
+          "term": "home",
+          "phonetic": "[həʊm]",
+          "phoneticUS": "[hoʊm]",
+          "meaning": "n. 家，住宅；产地；家乡；避难所\nadj. 国内的，家庭的；有效的\nvt. 归巢，回家\nadv. 在家，回家；深入地"
+        },
+        {
+          "term": "dinner",
+          "phonetic": "[ˈdɪnə(r)]",
+          "phoneticUS": "[ˈdɪnər]",
+          "meaning": "n. 晚餐，晚宴；宴会；正餐"
+        },
+        {
+          "term": "teach",
+          "phonetic": "[tiːtʃ]",
+          "phoneticUS": "[tiːtʃ]",
+          "meaning": "vt. 教；教授；教导\nvi. 教授；讲授；当老师"
+        },
+        {
+          "term": "paint",
+          "phonetic": "[peɪnt]",
+          "phoneticUS": "[peɪnt]",
+          "meaning": "vt. 油漆；绘画；装饰；涂色于；描绘；（用语言，文字等）描写；擦脂粉等\nvi. 油漆；描绘；绘画；化妆\nn. 油漆；颜料，涂料；绘画作品；胭脂等化妆品；色彩，装饰"
+        },
+        {
+          "term": "have class",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "上课；指上课；该上课了"
+        },
+        {
+          "term": "usually",
+          "phonetic": "[ˈjuːʒuəli]",
+          "phoneticUS": "[ˈjuːʒuəli; ˈjuːʒəli]",
+          "meaning": "adv. 通常，经常"
+        },
+        {
+          "term": "well",
+          "phonetic": "[wel]",
+          "phoneticUS": "[wel]",
+          "meaning": "n. 井；源泉\nadj. 良好的；健康的；适宜的\nadv. 很好地；充分地；满意地；适当地\nv. 涌出"
+        },
+        {
+          "term": "day",
+          "phonetic": "[deɪ]",
+          "phoneticUS": "[deɪ]",
+          "meaning": "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地"
+        },
+        {
+          "term": "breakfast",
+          "phonetic": "[ˈbrekfəst]",
+          "phoneticUS": "[ˈbrekfəst]",
+          "meaning": "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐"
+        },
+        {
+          "term": "from",
+          "phonetic": "[frəm; frɒm]",
+          "phoneticUS": "[frəm; frʌm; frɑːm]",
+          "meaning": "prep. 来自，从；由于；今后"
+        },
+        {
+          "term": "from ... to ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "从到；从什么到什么；起止时间"
+        },
+        {
+          "term": "hmmm ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "六甲氧基三聚氰胺树脂"
+        },
+        {
+          "term": "exercise",
+          "phonetic": "[ˈeksəsaɪz]",
+          "phoneticUS": "[ˈeksərsaɪz]",
+          "meaning": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习"
+        },
+        {
+          "term": "take exercise",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 运动"
+        },
+        {
+          "term": "run",
+          "phonetic": "[rʌn]",
+          "phoneticUS": "[rʌn]",
+          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
+        },
+        {
+          "term": "go running",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去跑步；去做某事；在早上我通常跑步半小时"
+        },
+        {
+          "term": "swim",
+          "phonetic": "[swɪm]",
+          "phoneticUS": "[swɪm]",
+          "meaning": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起"
+        },
+        {
+          "term": "go swimming",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 去游泳"
+        },
+        {
+          "term": "week",
+          "phonetic": "[wiːk]",
+          "phoneticUS": "[wiːk]",
+          "meaning": "n. 周，星期"
+        },
+        {
+          "term": "today",
+          "phonetic": "[təˈdeɪ]",
+          "phoneticUS": "[təˈdeɪ]",
+          "meaning": "n. 今天；现今\nadv. 今天；现今"
+        },
+        {
+          "term": "Wednesday",
+          "phonetic": "[ˈwenzdeɪ]",
+          "phoneticUS": "[ˈwenzdeɪ]",
+          "meaning": "n. 星期三"
+        },
+        {
+          "term": "Thursday",
+          "phonetic": "[ˈθɜːzdeɪ]",
+          "phoneticUS": "[ˈθɜːrzdeɪ]",
+          "meaning": "n. 星期四"
+        },
+        {
+          "term": "why",
+          "phonetic": "[waɪ]",
+          "phoneticUS": "[waɪ]",
+          "meaning": "int. 哎呀！什么？\nadv. 为什么"
+        },
+        {
+          "term": "Sunday",
+          "phonetic": "[ˈsʌndeɪ]",
+          "phoneticUS": "[ˈsʌndeɪ]",
+          "meaning": "n. 星期日；礼拜日"
+        },
+        {
+          "term": "Monday",
+          "phonetic": "[ˈmʌndeɪ]",
+          "phoneticUS": "[ˈmʌndeɪ]",
+          "meaning": "n. 星期一"
+        },
+        {
+          "term": "Tuesday",
+          "phonetic": "[ˈtjuːzdeɪ]",
+          "phoneticUS": "[ˈtuːzdeɪ]",
+          "meaning": "n. 星期二"
+        },
+        {
+          "term": "Friday",
+          "phonetic": "[ˈfraɪdeɪ]",
+          "phoneticUS": "[ˈfraɪdeɪ]",
+          "meaning": "n. 星期五"
+        },
+        {
+          "term": "Saturday",
+          "phonetic": "[ˈsætədeɪ]",
+          "phoneticUS": "[ˈsætərdeɪ]",
+          "meaning": "n. 星期六"
+        },
+        {
+          "term": "always",
+          "phonetic": "[ˈɔːlweɪz]",
+          "phoneticUS": "[ˈɔːlweɪz]",
+          "meaning": "adv. 永远，一直；总是；常常"
+        },
+        {
+          "term": "parent",
+          "phonetic": "[ˈpeərənt]",
+          "phoneticUS": "[ˈperənt]",
+          "meaning": "n. 父亲（或母亲）；父母亲；根源"
+        },
+        {
+          "term": "housework",
+          "phonetic": "[ˈhaʊswɜːk]",
+          "phoneticUS": "[ˈhaʊswɜːrk]",
+          "meaning": "n. 家务事"
+        },
+        {
+          "term": "never",
+          "phonetic": "[ˈnevə(r)]",
+          "phoneticUS": "[ˈnevər]",
+          "meaning": "adv. 从未；决不"
+        },
+        {
+          "term": "often",
+          "phonetic": "[ˈɒf(ə)n]",
+          "phoneticUS": "[ˈɔːf(ə)n]",
+          "meaning": "adv. 常常，时常"
+        },
+        {
+          "term": "go shopping",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 去买东西"
+        },
+        {
+          "term": "park",
+          "phonetic": "[pɑːk]",
+          "phoneticUS": "[pɑːrk]",
+          "meaning": "n. 公园；[交] 停车场\nvt. 停放；放置；寄存\nvi. 停放车辆"
+        },
+        {
+          "term": "visit",
+          "phonetic": "[ˈvɪzɪt]",
+          "phoneticUS": "[ˈvɪzɪt]",
+          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+        },
+        {
+          "term": "film",
+          "phonetic": "[fɪlm]",
+          "phoneticUS": "[fɪlm]",
+          "meaning": "n. 电影；薄膜；胶卷；轻烟\nvt. 在…上覆以薄膜；把…拍成电影\nvi. 摄制电影；生薄膜；变得朦胧"
+        },
+        {
+          "term": "activity",
+          "phonetic": "[ækˈtɪvəti]",
+          "phoneticUS": "[ækˈtɪvəti]",
+          "meaning": "n. 活动；行动；活跃"
+        },
+        {
+          "term": "free",
+          "phonetic": "[friː]",
+          "phoneticUS": "[friː]",
+          "meaning": "adj. 免费的；自由的，不受约束的；[化学] 游离的\nvt. 使自由，解放；释放\nadv. 自由地；免费"
+        },
+        {
+          "term": "feel",
+          "phonetic": "[fiːl]",
+          "phoneticUS": "[fiːl]",
+          "meaning": "n. 感觉；触摸\nvi. 觉得；摸索\nvt. 感觉；认为；触摸；试探"
+        },
+        {
+          "term": "bored",
+          "phonetic": "[bɔːd]",
+          "phoneticUS": "[bɔːrd]",
+          "meaning": "v. 使厌烦（bore的过去式）；烦扰\nadj. 无聊的；无趣的；烦人的"
+        },
+        {
+          "term": "Me too.",
+          "phonetic": "[mi: tu:]",
+          "phoneticUS": "[ˌmiː ˈtuː]",
+          "meaning": "adj. 〈美口〉行仿效计策的\nv. 同意(对方的政见等)"
+        },
+        {
+          "term": "do some reading",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "阅读；读书；读点书"
+        },
+        {
+          "term": "interesting",
+          "phonetic": "[ˈɪntrəstɪŋ]",
+          "phoneticUS": "[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",
+          "meaning": "adj. 有趣的；引起兴趣的，令人关注的"
+        },
+        {
+          "term": "cartoon",
+          "phonetic": "[kɑːˈtuːn]",
+          "phoneticUS": "[kɑːrˈtuːn]",
+          "meaning": "n. 卡通片，[电影] 动画片；连环漫画\nvt. 为…画漫画\nvi. 画漫画"
+        },
+        {
+          "term": "shall",
+          "phonetic": "[ʃəl; ʃæl]",
+          "phoneticUS": "[ʃəl; ʃæl]",
+          "meaning": "aux. 应；会；将；必须"
+        },
+        {
+          "term": "Shall we ...?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "我们…好吗；我们去…好吗；要这样吗"
+        },
+        {
+          "term": "king",
+          "phonetic": "[kɪŋ]",
+          "phoneticUS": "[kɪŋ]",
+          "meaning": "n. 国王；最有势力者；王棋\nvi. 统治；做国王\nvt. 立…为王\nadj. 主要的，最重要的，最大的"
+        },
+        {
+          "term": "Monkey King",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "美猴王；孙悟空；西游记"
+        },
+        {
+          "term": "take photos",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "照相；拍照；拍照片"
+        },
+        {
+          "term": "listen",
+          "phonetic": "[ˈlɪs(ə)n]",
+          "phoneticUS": "[ˈlɪsn]",
+          "meaning": "vi. 听，倾听；听从，听信\nn. 听，倾听"
+        },
+        {
+          "term": "listen to ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 听"
+        },
+        {
+          "term": "email",
+          "phonetic": "[ˈiːmeɪl]",
+          "phoneticUS": "[ˈiːmeɪl]",
+          "meaning": "n. 电子信函\nvt. 给…发电子邮件"
+        },
+        {
+          "term": "picnic",
+          "phonetic": "[ˈpɪknɪk]",
+          "phoneticUS": "[ˈpɪknɪk]",
+          "meaning": "n. 野餐\nvi. 去野餐"
+        },
+        {
+          "term": "have a look",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 看一看"
+        },
+        {
+          "term": "fish",
+          "phonetic": "[fɪʃ]",
+          "phoneticUS": "[fɪʃ]",
+          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+        },
+        {
+          "term": "fly",
+          "phonetic": "[flaɪ]",
+          "phoneticUS": "[flaɪ]",
+          "meaning": "n. 飞行；苍蝇；两翼昆虫\nadj. 敏捷的\nvi. 飞；驾驶飞机；飘扬\nvt. 飞行；飞越；使飘扬"
+        },
+        {
+          "term": "dance",
+          "phonetic": "[dɑːns]",
+          "phoneticUS": "[dæns]",
+          "meaning": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬"
+        },
+        {
+          "term": "fun",
+          "phonetic": "[fʌn]",
+          "phoneticUS": "[fʌn]",
+          "meaning": "n. 乐趣；玩笑；有趣的人或事\nadj. 供娱乐用的\nvi. 开玩笑"
+        },
+        {
+          "term": "basketball",
+          "phonetic": "[ˈbɑːskɪtbɔːl]",
+          "phoneticUS": "[ˈbæskɪtbɔːl]",
+          "meaning": "n. 篮球；篮球运动"
+        },
+        {
+          "term": "football",
+          "phonetic": "[ˈfʊtbɔːl]",
+          "phoneticUS": "[ˈfʊtbɔːl]",
+          "meaning": "n. 足球，橄榄球\nvi. 踢足球；打橄榄球"
+        },
+        {
+          "term": "kung fu",
+          "phonetic": "[,kʌŋ'fu:]",
+          "phoneticUS": "[ˌkʌŋ ˈfuː]",
+          "meaning": "n. 功夫（中国拳术）\nv. 用功夫击打(对手)"
+        },
+        {
+          "term": "think",
+          "phonetic": "[θɪŋk]",
+          "phoneticUS": "[θɪŋk]",
+          "meaning": "n. 想；想法\nadj. 思想的\nvi. 想；认为\nvt. 想；认为；想起；想像；打算"
+        },
+        {
+          "term": "skate",
+          "phonetic": "[skeɪt]",
+          "phoneticUS": "[skeɪt]",
+          "meaning": "n. 溜冰；冰鞋\nvi. 滑冰；滑过"
+        },
+        {
+          "term": "try",
+          "phonetic": "[traɪ]",
+          "phoneticUS": "[traɪ]",
+          "meaning": "n. 尝试；努力；试验\nvt. 试图，努力；试验；审判；考验\nvi. 尝试；努力；试验"
+        },
+        {
+          "term": "table tennis",
+          "phonetic": "['teɪb(ə)l'tenɪs]",
+          "phoneticUS": "[ˈteɪbl tenɪs]",
+          "meaning": "n. 乒乓球运动"
+        },
+        {
+          "term": "jump",
+          "phonetic": "[dʒʌmp]",
+          "phoneticUS": "[dʒʌmp]",
+          "meaning": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增"
+        },
+        {
+          "term": "the long jump",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 跳远"
+        },
+        {
+          "term": "high",
+          "phonetic": "[haɪ]",
+          "phoneticUS": "[haɪ]",
+          "meaning": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地"
+        },
+        {
+          "term": "the high jump",
+          "phonetic": "[ðə ˈhaɪ dʒʌmp]",
+          "phoneticUS": "[ðə ˈhaɪ dʒʌmp]",
+          "meaning": "n. 跳高"
+        },
+        {
+          "term": "tennis",
+          "phonetic": "[ˈtenɪs]",
+          "phoneticUS": "[ˈtenɪs]",
+          "meaning": "n. 网球（运动）"
+        },
+        {
+          "term": "chess",
+          "phonetic": "[tʃes]",
+          "phoneticUS": "[tʃes]",
+          "meaning": "n. 国际象棋，西洋棋"
+        },
+        {
+          "term": "arm",
+          "phonetic": "[ɑːm]",
+          "phoneticUS": "[ɑːrm]",
+          "meaning": "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来"
+        },
+        {
+          "term": "volleyball",
+          "phonetic": "[ˈvɒlibɔːl]",
+          "phoneticUS": "[ˈvɑːlibɔːl]",
+          "meaning": "n. 排球"
+        },
+        {
+          "term": "fast",
+          "phonetic": "[fɑːst]",
+          "phoneticUS": "[fæst]",
+          "meaning": "n. 斋戒；绝食\nadj. 快速的，迅速的；紧的，稳固的\nadv. 迅速地；紧紧地；彻底地\nvi. 禁食，斋戒"
+        },
+        {
+          "term": "water",
+          "phonetic": "[ˈwɔːtə(r)]",
+          "phoneticUS": "[ˈwɔːtər]",
+          "meaning": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水"
+        },
+        {
+          "term": "bath",
+          "phonetic": "[bɑːθ]",
+          "phoneticUS": "[bæθ]",
+          "meaning": "n. 沐浴；浴室；浴盆\nvt. 洗澡\nvi. 洗澡"
+        },
+        {
+          "term": "take a bath",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. “have a bath”的变体"
+        },
+        {
+          "term": "clever",
+          "phonetic": "[ˈklevə(r)]",
+          "phoneticUS": "[ˈklevər]",
+          "meaning": "adj. 聪明的；机灵的；熟练的\n[ 比较级cleverer 最高级 cleverest ]"
+        },
+        {
+          "term": "badminton",
+          "phonetic": "[ˈbædmɪntən]",
+          "phoneticUS": "[ˈbædmɪntən]",
+          "meaning": "n. 羽毛球"
+        },
+        {
+          "term": "celebration",
+          "phonetic": "[ˌselɪˈbreɪʃn]",
+          "phoneticUS": "[ˌselɪˈbreɪʃn]",
+          "meaning": "n. 庆典，庆祝会；庆祝；颂扬"
+        },
+        {
+          "term": "was",
+          "phonetic": "[wəz; wɒz]",
+          "phoneticUS": "[wəz; wʌz]",
+          "meaning": "be的第一和第三人称单数过去式"
+        },
+        {
+          "term": "be born ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 出生"
+        },
+        {
+          "term": "January",
+          "phonetic": "[ˈdʒænjuəri]",
+          "phoneticUS": "[ˈdʒænjueri]",
+          "meaning": "n. 一月"
+        },
+        {
+          "term": "present",
+          "phonetic": "[ˈprez(ə)nt]",
+          "phoneticUS": "[ˈpreznt]",
+          "meaning": "n. 现在；礼物；瞄准\nadj. 现在的；出席的\nvt. 提出；介绍；呈现；赠送\nvi. 举枪瞄准"
+        },
+        {
+          "term": "card",
+          "phonetic": "[kɑːd]",
+          "phoneticUS": "[kɑːrd]",
+          "meaning": "n. 卡片；纸牌；明信片\nvt. 记于卡片上"
+        },
+        {
+          "term": "go on",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 往前走；继续…下去 (with； doing)；日子过得"
+        },
+        {
+          "term": "party",
+          "phonetic": "[ˈpɑːti]",
+          "phoneticUS": "[ˈpɑːrti]",
+          "meaning": "n. 政党，党派；聚会，派对；当事人 [复数 parties]\nvi. 参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]"
+        },
+        {
+          "term": "candle",
+          "phonetic": "[ˈkænd(ə)l]",
+          "phoneticUS": "[ˈkændl]",
+          "meaning": "n. 蜡烛；烛光；烛形物\nvt. 对着光检查"
+        },
+        {
+          "term": "cake",
+          "phonetic": "[keɪk]",
+          "phoneticUS": "[keɪk]",
+          "meaning": "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状"
+        },
+        {
+          "term": "February",
+          "phonetic": "[ˈfebruəri]",
+          "phoneticUS": "[ˈfebrueri]",
+          "meaning": "n. 二月"
+        },
+        {
+          "term": "March",
+          "phonetic": "[mɑːtʃ]",
+          "phoneticUS": "[mɑːrtʃ]",
+          "meaning": "n. 三月"
+        },
+        {
+          "term": "April",
+          "phonetic": "[ˈeɪprəl]",
+          "phoneticUS": "[ˈeɪprəl]",
+          "meaning": "n. 四月"
+        },
+        {
+          "term": "August",
+          "phonetic": "[ˈɔːɡəst]",
+          "phoneticUS": "[ˈɔːɡəst]",
+          "meaning": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的"
+        },
+        {
+          "term": "June",
+          "phonetic": "[dʒuːn]",
+          "phoneticUS": "[dʒuːn]",
+          "meaning": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+        },
+        {
+          "term": "November",
+          "phonetic": "[nəʊˈvembə(r)]",
+          "phoneticUS": "[noʊˈvembər]",
+          "meaning": "n. 十一月"
+        },
+        {
+          "term": "Christmas",
+          "phonetic": "[ˈkrɪsməs]",
+          "phoneticUS": "[ˈkrɪsməs]",
+          "meaning": "n. 圣诞节；圣诞节期间"
+        },
+        {
+          "term": "December",
+          "phonetic": "[dɪˈsembə(r)]",
+          "phoneticUS": "[dɪˈsembər]",
+          "meaning": "n. 十二月"
+        },
+        {
+          "term": "already",
+          "phonetic": "[ɔːlˈredi]",
+          "phoneticUS": "[ɔːlˈredi]",
+          "meaning": "adv. 已经，早已；先前"
+        },
+        {
+          "term": "soon",
+          "phonetic": "[suːn]",
+          "phoneticUS": "[suːn]",
+          "meaning": "adv. 快；不久，一会儿；立刻；宁愿"
+        },
+        {
+          "term": "lot",
+          "phonetic": "[lɒt]",
+          "phoneticUS": "[lɑːt]",
+          "meaning": "n. 份额；许多；命运；阄\nadv. （与形容词和副词连用）很，非常；（与动词连用）非常\npron. 大量，许多\nvt. 分组，把…划分（常与out连用）；把（土地）划分成块\nvi. 抽签，拈阄"
+        },
+        {
+          "term": "lots of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adj. 许多；很多"
+        },
+        {
+          "term": "dress",
+          "phonetic": "[dres]",
+          "phoneticUS": "[dres]",
+          "meaning": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣"
+        },
+        {
+          "term": "as",
+          "phonetic": "[əz]",
+          "phoneticUS": "[əz; æz]",
+          "meaning": "conj. 因为；随着；虽然；依照；当…时\nprep. 如同；当作；以…的身份\nadv. 同样地；和…一样的"
+        },
+        {
+          "term": "dress up as",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "打扮成；装扮成；打扮成为"
+        },
+        {
+          "term": "Father Christmas",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 圣诞老人"
+        },
+        {
+          "term": "July",
+          "phonetic": "[dʒʊˈlaɪ]",
+          "phoneticUS": "[dʒʊˈlaɪ]",
+          "meaning": "n. 七月"
+        },
+        {
+          "term": "summer",
+          "phonetic": "[ˈsʌmə(r)]",
+          "phoneticUS": "[ˈsʌmər]",
+          "meaning": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天"
+        },
+        {
+          "term": "holiday",
+          "phonetic": "[ˈhɒlədeɪ]",
+          "phoneticUS": "[ˈhɑːlədeɪ]",
+          "meaning": "n. 假日；节日；休息日\nvi. 外出度假"
+        },
+        {
+          "term": "May",
+          "phonetic": "[meɪ]",
+          "phoneticUS": "[meɪ]",
+          "meaning": "aux. 可以，能够；可能，也许；祝，愿；会，能"
+        },
+        {
+          "term": "Mother's Day",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. (美国和加拿大的)母亲节"
+        },
+        {
+          "term": "September",
+          "phonetic": "[sepˈtembə(r)]",
+          "phoneticUS": "[sepˈtembər]",
+          "meaning": "n. 九月"
+        },
+        {
+          "term": "Teachers' Day",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 教师节"
+        },
+        {
+          "term": "October",
+          "phonetic": "[ɒkˈtəʊbə(r)]",
+          "phoneticUS": "[ɑːkˈtoʊbər]",
+          "meaning": "n. [天] 十月"
+        },
+        {
+          "term": "Halloween",
+          "phonetic": "[ˌhæləʊˈiːn]",
+          "phoneticUS": "[ˌhæloʊˈiːn]",
+          "meaning": "n. 万圣节前夕（指十月三十一日夜晚）"
+        },
+        {
+          "term": "spring",
+          "phonetic": "[sprɪŋ]",
+          "phoneticUS": "[sprɪŋ]",
+          "meaning": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开"
+        },
+        {
+          "term": "festival",
+          "phonetic": "[ˈfestɪv(ə)l]",
+          "phoneticUS": "[ˈfestɪvl]",
+          "meaning": "n. 节日；庆祝，纪念活动；欢乐\nadj. 节日的，喜庆的；快乐的"
+        },
+        {
+          "term": "Spring Festival",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 春节"
+        }
+      ]
+    }
+  ]
+}

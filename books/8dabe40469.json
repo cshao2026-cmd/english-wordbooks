@@ -1,0 +1,888 @@
+{
+  "id": "8dabe40469",
+  "title": "译林版三年级起点五年级上",
+  "wordCount": 146,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "bear",
+          "phonetic": "[beə(r)]",
+          "phoneticUS": "[ber]",
+          "meaning": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑"
+        },
+        {
+          "term": "forest",
+          "phonetic": "[ˈfɒrɪst]",
+          "phoneticUS": "[ˈfɔːrɪst]",
+          "meaning": "n. 森林\nvt. 植树于，使成为森林"
+        },
+        {
+          "term": "there",
+          "phonetic": "[ðeə(r)]",
+          "phoneticUS": "[ðer]",
+          "meaning": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧"
+        },
+        {
+          "term": "house",
+          "phonetic": "[haʊs]",
+          "phoneticUS": "[haʊs]",
+          "meaning": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住"
+        },
+        {
+          "term": "soup",
+          "phonetic": "[suːp]",
+          "phoneticUS": "[suːp]",
+          "meaning": "n. 汤，羹；马力\nvt. 加速；增加马力"
+        },
+        {
+          "term": "just right",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "恰好, 正好; 不失毫厘; 不差毫发; 初写黄庭"
+        },
+        {
+          "term": "room",
+          "phonetic": "[ruːm]",
+          "phoneticUS": "[ruːm; rʊm]",
+          "meaning": "n. 房间；空间；余地；机会；房间里所有的人\nvt. 为…提供住处；租房，合住；投宿，住宿；留…住宿\nvi. 居住；住宿"
+        },
+        {
+          "term": "hard",
+          "phonetic": "[hɑːd]",
+          "phoneticUS": "[hɑːrd]",
+          "meaning": "adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的\nadv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地"
+        },
+        {
+          "term": "soft",
+          "phonetic": "[sɒft]",
+          "phoneticUS": "[sɔːft]",
+          "meaning": "n. 柔性；柔软的东西；柔软部分\nadj. 软的，柔软的；温柔的，温和的；软弱的；笨的\nadv. 柔软地；温和地"
+        },
+        {
+          "term": "afraid",
+          "phonetic": "[əˈfreɪd]",
+          "phoneticUS": "[əˈfreɪd]",
+          "meaning": "adj. 害怕的；恐怕；担心的"
+        },
+        {
+          "term": "in front of",
+          "phonetic": "[ɪn frʌnt əv]",
+          "phoneticUS": "[ɪn frʌnt ʌv]",
+          "meaning": "na. 在…的前面"
+        },
+        {
+          "term": "her",
+          "phonetic": "[hə(r)]",
+          "phoneticUS": "[hər; ɜːr; ər; hɜːr]",
+          "meaning": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）"
+        },
+        {
+          "term": "Help!",
+          "phonetic": "[help]",
+          "phoneticUS": "[help]",
+          "meaning": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待"
+        },
+        {
+          "term": "beside",
+          "phonetic": "[bɪˈsaɪd]",
+          "phoneticUS": "[bɪˈsaɪd]",
+          "meaning": "prep. 在旁边；与…相比；和…无关"
+        },
+        {
+          "term": "between",
+          "phonetic": "[bɪˈtwiːn]",
+          "phoneticUS": "[bɪˈtwiːn]",
+          "meaning": "prep. 在…之间\nadv. 在中间"
+        },
+        {
+          "term": "really",
+          "phonetic": "[ˈriːəli]",
+          "phoneticUS": "[ˈriːəli]",
+          "meaning": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）"
+        },
+        {
+          "term": "then",
+          "phonetic": "[ðen]",
+          "phoneticUS": "[ðen]",
+          "meaning": "conj. 然后，当时\nn. 那时\nadv. 然后；那么；于是；当时；此外"
+        },
+        {
+          "term": "find",
+          "phonetic": "[faɪnd]",
+          "phoneticUS": "[faɪnd]",
+          "meaning": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得"
+        },
+        {
+          "term": "their",
+          "phonetic": "[ðeə(r)]",
+          "phoneticUS": "[ðer]",
+          "meaning": "pron. 他们的，她们的；它们的"
+        },
+        {
+          "term": "student",
+          "phonetic": "[ˈstjuːdnt]",
+          "phoneticUS": "[ˈstuːdnt]",
+          "meaning": "n. 学生；学者"
+        },
+        {
+          "term": "show ... around",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 带…参观"
+        },
+        {
+          "term": "classroom",
+          "phonetic": "[ˈklɑːsruːm]",
+          "phoneticUS": "[ˈklæsruːm; ˈklæsrʊm]",
+          "meaning": "n. 教室"
+        },
+        {
+          "term": "second",
+          "phonetic": "[ˈsekənd]",
+          "phoneticUS": "[ˈsekənd; sɪˈkɑːnd]",
+          "meaning": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位"
+        },
+        {
+          "term": "floor",
+          "phonetic": "[flɔː(r)]",
+          "phoneticUS": "[flɔːr]",
+          "meaning": "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒"
+        },
+        {
+          "term": "computer",
+          "phonetic": "[kəmˈpjuːtə(r)]",
+          "phoneticUS": "[kəmˈpjuːtər]",
+          "meaning": "n. 计算机；电脑；电子计算机"
+        },
+        {
+          "term": "third",
+          "phonetic": "[θɜːd]",
+          "phoneticUS": "[θɜːrd]",
+          "meaning": "num. 第三；三分之一\nadj. 第三的；三分之一的"
+        },
+        {
+          "term": "first",
+          "phonetic": "[fɜːst]",
+          "phoneticUS": "[fɜːrst]",
+          "meaning": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿"
+        },
+        {
+          "term": "swing",
+          "phonetic": "[swɪŋ]",
+          "phoneticUS": "[swɪŋ]",
+          "meaning": "n. 摇摆；摆动；秋千；音律；涨落\nadj. 旋转的；悬挂的；强节奏爵士音乐的\nvt. 使旋转；挥舞；悬挂\nvi. 摇摆；转向；悬挂；大摇大摆地行走"
+        },
+        {
+          "term": "push",
+          "phonetic": "[pʊʃ]",
+          "phoneticUS": "[pʊʃ]",
+          "meaning": "n. 推，决心；大规模攻势；矢志的追求\nvi. 推进；增加；努力争取\nvt. 推动，增加；对…施加压力，逼迫；按；说服"
+        },
+        {
+          "term": "heavy",
+          "phonetic": "[ˈhevi]",
+          "phoneticUS": "[ˈhevi]",
+          "meaning": "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地"
+        },
+        {
+          "term": "stop",
+          "phonetic": "[stɒp]",
+          "phoneticUS": "[stɑːp]",
+          "meaning": "n. 停止；车站；障碍；逗留\nvi. 停止；中止；逗留；被塞住\nvt. 停止；堵塞；断绝"
+        },
+        {
+          "term": "high",
+          "phonetic": "[haɪ]",
+          "phoneticUS": "[haɪ]",
+          "meaning": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地"
+        },
+        {
+          "term": "great",
+          "phonetic": "[ɡreɪt]",
+          "phoneticUS": "[ɡreɪt]",
+          "meaning": "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的"
+        },
+        {
+          "term": "one ..., the other ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "一个…另一个；其他中的一个；一套的"
+        },
+        {
+          "term": "body",
+          "phonetic": "[ˈbɒdi]",
+          "phoneticUS": "[ˈbɑːdi]",
+          "meaning": "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体"
+        },
+        {
+          "term": "no",
+          "phonetic": "[nəʊ]",
+          "phoneticUS": "[noʊ]",
+          "meaning": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号"
+        },
+        {
+          "term": "leg",
+          "phonetic": "[leɡ]",
+          "phoneticUS": "[leɡ]",
+          "meaning": "n. 腿；支柱"
+        },
+        {
+          "term": "or",
+          "phonetic": "[ɔː(r)]",
+          "phoneticUS": "[ɔːr]",
+          "meaning": "conj. 或，或者；还是"
+        },
+        {
+          "term": "arm",
+          "phonetic": "[ɑːm]",
+          "phoneticUS": "[ɑːrm]",
+          "meaning": "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来"
+        },
+        {
+          "term": "wing",
+          "phonetic": "[wɪŋ]",
+          "phoneticUS": "[wɪŋ]",
+          "meaning": "n. 翼；翅膀；飞翔；派别；侧厅，耳房，厢房\nvt. 使飞；飞过；空运；增加…速度；装以翼\nvi. 飞行"
+        },
+        {
+          "term": "foot",
+          "phonetic": "[fʊt]",
+          "phoneticUS": "[fʊt]",
+          "meaning": "n. 脚；英尺；步调；末尾\nvt. 支付；给……换底\nvi. 步行；跳舞；总计"
+        },
+        {
+          "term": "rabbit",
+          "phonetic": "[ˈræbɪt]",
+          "phoneticUS": "[ˈræbɪt]",
+          "meaning": "n. 兔子，野兔\nvt. 让…见鬼去吧\nvi. 猎兔"
+        },
+        {
+          "term": "give",
+          "phonetic": "[ɡɪv]",
+          "phoneticUS": "[ɡɪv]",
+          "meaning": "n. 弹性；弯曲；伸展性\nvi. 捐赠；面向；有弹性；气候转暖\nvt. 给；产生；让步；举办；授予"
+        },
+        {
+          "term": "finger",
+          "phonetic": "[ˈfɪŋɡə(r)]",
+          "phoneticUS": "[ˈfɪŋɡər]",
+          "meaning": "n. 手指；指针，指状物\nvt. 伸出；用手指拨弄\nvi. 用指触摸；拨弄"
+        },
+        {
+          "term": "hobby",
+          "phonetic": "[ˈhɒbi]",
+          "phoneticUS": "[ˈhɑːbi]",
+          "meaning": "n. 嗜好；业余爱好"
+        },
+        {
+          "term": "be good at",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 善于"
+        },
+        {
+          "term": "with",
+          "phonetic": "[wɪð]",
+          "phoneticUS": "[wɪð; wɪθ]",
+          "meaning": "prep. 用；随着；支持；和…在一起"
+        },
+        {
+          "term": "also",
+          "phonetic": "[ˈɔːlsəʊ]",
+          "phoneticUS": "[ˈɔːlsoʊ]",
+          "meaning": "conj. 并且；另外\nadv. 也；而且；同样"
+        },
+        {
+          "term": "read",
+          "phonetic": "[riːd]",
+          "phoneticUS": "[riːd]",
+          "meaning": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解"
+        },
+        {
+          "term": "story",
+          "phonetic": "[ˈstɔːri]",
+          "phoneticUS": "[ˈstɔːri]",
+          "meaning": "n. 故事；小说；新闻报道；来历；假话\nvt. 用历史故事画装饰\nvi. 说谎"
+        },
+        {
+          "term": "a lot of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "det. 许多"
+        },
+        {
+          "term": "play the piano",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 弹钢琴"
+        },
+        {
+          "term": "dance",
+          "phonetic": "[dɑːns]",
+          "phoneticUS": "[dæns]",
+          "meaning": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬"
+        },
+        {
+          "term": "watch films",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "both",
+          "phonetic": "[bəʊθ]",
+          "phoneticUS": "[boʊθ]",
+          "meaning": "conj. 既…且…\nadj. 两个的；两者的\npron. 双方都；两者都\nadv. 并；又；两者皆"
+        },
+        {
+          "term": "sing",
+          "phonetic": "[sɪŋ]",
+          "phoneticUS": "[sɪŋ]",
+          "meaning": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号"
+        },
+        {
+          "term": "group",
+          "phonetic": "[ɡruːp]",
+          "phoneticUS": "[ɡruːp]",
+          "meaning": "n. 组；团体\nadj. 群的；团体的\nvt. 把…聚集；把…分组\nvi. 聚合"
+        },
+        {
+          "term": "about",
+          "phonetic": "[əˈbaʊt]",
+          "phoneticUS": "[əˈbaʊt]",
+          "meaning": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处"
+        },
+        {
+          "term": "idea",
+          "phonetic": "[aɪˈdɪə]",
+          "phoneticUS": "[aɪˈdiːə]",
+          "meaning": "n. 想法；主意；概念"
+        },
+        {
+          "term": "ice",
+          "phonetic": "[aɪs]",
+          "phoneticUS": "[aɪs]",
+          "meaning": "n. 冰；冰淇淋；矜持；（俚）钻石\nadj. 冰的\nvt. 冰镇；结冰\nvi. 结冰"
+        },
+        {
+          "term": "hole",
+          "phonetic": "[həʊl]",
+          "phoneticUS": "[hoʊl]",
+          "meaning": "n. 洞，孔；洞穴，穴；突破口\nvt. 凿洞\nvi. 凿洞，穿孔；（高尔夫球等）进洞"
+        },
+        {
+          "term": "Look out!",
+          "phonetic": "[lʊk aʊt]",
+          "phoneticUS": "[lʊk aʊt]",
+          "meaning": "(look 看+ out 出，外)"
+        },
+        {
+          "term": "wet",
+          "phonetic": "[wet]",
+          "phoneticUS": "[wet]",
+          "meaning": "n. 雨天；湿气\nadj. [气象][物] 潮湿的；有雨的\nvt. 弄湿\nvi. 变湿"
+        },
+        {
+          "term": "teacher",
+          "phonetic": "[ˈtiːtʃə(r)]",
+          "phoneticUS": "[ˈtiːtʃər]",
+          "meaning": "n. 教师；导师"
+        },
+        {
+          "term": "teach",
+          "phonetic": "[tiːtʃ]",
+          "phoneticUS": "[tiːtʃ]",
+          "meaning": "vt. 教；教授；教导\nvi. 教授；讲授；当老师"
+        },
+        {
+          "term": "writer",
+          "phonetic": "[ˈraɪtə(r)]",
+          "phoneticUS": "[ˈraɪtər]",
+          "meaning": "n. 作家；作者"
+        },
+        {
+          "term": "write",
+          "phonetic": "[raɪt]",
+          "phoneticUS": "[raɪt]",
+          "meaning": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述"
+        },
+        {
+          "term": "work",
+          "phonetic": "[wɜːk]",
+          "phoneticUS": "[wɜːrk]",
+          "meaning": "n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品\nvt. 使工作；操作；经营；使缓慢前进\nvi. 工作；运作；起作用"
+        },
+        {
+          "term": "at home",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 在家；安适；在家接待客人；在本国 (opp. abroad)"
+        },
+        {
+          "term": "doctor",
+          "phonetic": "[ˈdɒktə(r)]",
+          "phoneticUS": "[ˈdɑːktər]",
+          "meaning": "vt. 修理；篡改，伪造；为…治病；授以博士学位\nn. 医生；博士\nvi. 就医；行医"
+        },
+        {
+          "term": "help",
+          "phonetic": "[help]",
+          "phoneticUS": "[help]",
+          "meaning": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待"
+        },
+        {
+          "term": "sick",
+          "phonetic": "[sɪk]",
+          "phoneticUS": "[sɪk]",
+          "meaning": "adj. 厌恶的；病态的；不舒服；渴望的；恶心的 ；生病的\nn. 病人\nvt. 使狗去咬；呕吐；追击"
+        },
+        {
+          "term": "people",
+          "phonetic": "[ˈpiːp(ə)l]",
+          "phoneticUS": "[ˈpiːpl]",
+          "meaning": "n. 人；人类；民族；公民\nvt. 居住于；使住满人"
+        },
+        {
+          "term": "factory",
+          "phonetic": "[ˈfæktri; ˈfæktəri]",
+          "phoneticUS": "[ˈfæktri; ˈfæktəri]",
+          "meaning": "n. 工厂；制造厂；代理店"
+        },
+        {
+          "term": "worker",
+          "phonetic": "[ˈwɜːkə(r)]",
+          "phoneticUS": "[ˈwɜːrkər]",
+          "meaning": "n. 工人；劳动者；职蚁"
+        },
+        {
+          "term": "cook",
+          "phonetic": "[kʊk]",
+          "phoneticUS": "[kʊk]",
+          "meaning": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜"
+        },
+        {
+          "term": "driver",
+          "phonetic": "[ˈdraɪvə(r)]",
+          "phoneticUS": "[ˈdraɪvər]",
+          "meaning": "n. 驾驶员；驱动程序；起子；传动器"
+        },
+        {
+          "term": "farmer",
+          "phonetic": "[ˈfɑːmə(r)]",
+          "phoneticUS": "[ˈfɑːrmər]",
+          "meaning": "n. 农夫，农民"
+        },
+        {
+          "term": "nurse",
+          "phonetic": "[nɜːs]",
+          "phoneticUS": "[nɜːrs]",
+          "meaning": "vt. 看护，护理；照顾；培养；给…喂奶\nvi. 照料，护理；喂奶；当保姆\nn. 护士；奶妈，保姆"
+        },
+        {
+          "term": "policeman",
+          "phonetic": "[pəˈliːsmən]",
+          "phoneticUS": "[pəˈliːsmən]",
+          "meaning": "n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）"
+        },
+        {
+          "term": "e-friend",
+          "phonetic": "[ˈiː frend]",
+          "phoneticUS": "[ˈiː frend]",
+          "meaning": "= e-pal"
+        },
+        {
+          "term": "Wait a minute.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. “wait a minute/second”的变体"
+        },
+        {
+          "term": "send",
+          "phonetic": "[send]",
+          "phoneticUS": "[send]",
+          "meaning": "n. 上升运动\nvi. 派人；寄信\nvt. 发送，寄；派遣；使进入；发射"
+        },
+        {
+          "term": "email",
+          "phonetic": "[ˈiːmeɪl]",
+          "phoneticUS": "[ˈiːmeɪl]",
+          "meaning": "n. 电子信函\nvt. 给…发电子邮件"
+        },
+        {
+          "term": "to",
+          "phonetic": "[tə]",
+          "phoneticUS": "[tə; tu; tuː]",
+          "meaning": "prep. 到；向；（表示时间、方向）朝…方向\nadv. 向前；（门等）关上"
+        },
+        {
+          "term": "live",
+          "phonetic": "[lɪv; laɪv]",
+          "phoneticUS": "[lɪv; laɪv]",
+          "meaning": "adj. 活的；生动的；实况转播的；精力充沛的\nvt. 经历；度过\nvi. 活；居住；生存"
+        },
+        {
+          "term": "UK",
+          "phonetic": "[ˌjuː ˈkeɪ]",
+          "phoneticUS": "[ˌjuː ˈkeɪ]",
+          "meaning": "n. 英国\nabbr. 联合王国（United Kingdom）"
+        },
+        {
+          "term": "... years old",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "岁；年龄；当我八岁时"
+        },
+        {
+          "term": "study",
+          "phonetic": "[ˈstʌdi]",
+          "phoneticUS": "[ˈstʌdi]",
+          "meaning": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功"
+        },
+        {
+          "term": "Australia",
+          "phonetic": "[ɒˈstreɪliə]",
+          "phoneticUS": "[ɔːˈstreɪliə]",
+          "meaning": "n. 澳大利亚，澳洲"
+        },
+        {
+          "term": "Canada",
+          "phonetic": "[ˈkænədə]",
+          "phoneticUS": "[ˈkænədə]",
+          "meaning": "n. 加拿大（北美洲国家）"
+        },
+        {
+          "term": "China",
+          "phonetic": "[ˈtʃaɪnə]",
+          "phoneticUS": "[ˈtʃaɪnə]",
+          "meaning": "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的"
+        },
+        {
+          "term": "US",
+          "phonetic": "[ˌjuː ˈes]",
+          "phoneticUS": "[ˌjuː ˈes]",
+          "meaning": "pron. 我们"
+        },
+        {
+          "term": "go fishing",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去钓鱼；垂钓；我以前常去钓鱼"
+        },
+        {
+          "term": "tomorrow",
+          "phonetic": "[təˈmɒrəʊ]",
+          "phoneticUS": "[təˈmɑːroʊ]",
+          "meaning": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）"
+        },
+        {
+          "term": "fishing",
+          "phonetic": "[ˈfɪʃɪŋ]",
+          "phoneticUS": "[ˈfɪʃɪŋ]",
+          "meaning": "n. 渔业；捕鱼（术）；试探；装配\nadj. 钓鱼的；钓鱼用的\nv. 捕鱼（fish的ing形式）"
+        },
+        {
+          "term": "Don't worry.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "别担心；不要担心；别着急"
+        },
+        {
+          "term": "sit",
+          "phonetic": "[sɪt]",
+          "phoneticUS": "[sɪt]",
+          "meaning": "vi. 坐；位于\nvt. 使就座"
+        },
+        {
+          "term": "by ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "-通过"
+        },
+        {
+          "term": "wait",
+          "phonetic": "[weɪt]",
+          "phoneticUS": "[weɪt]",
+          "meaning": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓"
+        },
+        {
+          "term": "at weekends",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "在周末；每逢周末；生在周末"
+        },
+        {
+          "term": "visit",
+          "phonetic": "[ˈvɪzɪt]",
+          "phoneticUS": "[ˈvɪzɪt]",
+          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+        },
+        {
+          "term": "grandparent",
+          "phonetic": "[ˈɡrænpeərənt]",
+          "phoneticUS": "[ˈɡrænperənt]",
+          "meaning": "n. 祖父母；祖父或祖母；外祖父母；外祖父或外祖母"
+        },
+        {
+          "term": "play with",
+          "phonetic": "[pleɪ wɪð]",
+          "phoneticUS": "[pleɪ wɪð]",
+          "meaning": "na. 玩弄(火等)；以…自娱"
+        },
+        {
+          "term": "very much",
+          "phonetic": "[ˈveri mʌtʃ]",
+          "phoneticUS": "[ˈveri mʌtʃ]",
+          "meaning": "adv. 非常"
+        },
+        {
+          "term": "often",
+          "phonetic": "[ˈɒf(ə)n]",
+          "phoneticUS": "[ˈɔːf(ə)n]",
+          "meaning": "adv. 常常，时常"
+        },
+        {
+          "term": "chat",
+          "phonetic": "[tʃæt]",
+          "phoneticUS": "[tʃæt]",
+          "meaning": "n. 聊天；闲谈\nvt. 与…搭讪；与…攀谈\nvi. 聊天；闲谈"
+        },
+        {
+          "term": "Internet",
+          "phonetic": "[ˈɪntənet]",
+          "phoneticUS": "[ˈɪntərnet]",
+          "meaning": "n. 因特网"
+        },
+        {
+          "term": "always",
+          "phonetic": "[ˈɔːlweɪz]",
+          "phoneticUS": "[ˈɔːlweɪz]",
+          "meaning": "adv. 永远，一直；总是；常常"
+        },
+        {
+          "term": "sometimes",
+          "phonetic": "[ˈsʌmtaɪmz]",
+          "phoneticUS": "[ˈsʌmtaɪmz]",
+          "meaning": "adv. 有时，间或"
+        },
+        {
+          "term": "go to the cinema",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "去看电影；去电影院；上电影院"
+        },
+        {
+          "term": "there",
+          "phonetic": "[ðeə(r)]",
+          "phoneticUS": "[ðer]",
+          "meaning": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧"
+        },
+        {
+          "term": "a lot",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 许多\nadv. 常"
+        },
+        {
+          "term": "come out",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 出来"
+        },
+        {
+          "term": "get out",
+          "phonetic": "[ˈɡet aʊt]",
+          "phoneticUS": "[ɡet aʊt]",
+          "meaning": "na. 摆脱；走出；〔命令语气〕出去!"
+        },
+        {
+          "term": "Christmas",
+          "phonetic": "[ˈkrɪsməs]",
+          "phoneticUS": "[ˈkrɪsməs]",
+          "meaning": "n. 圣诞节；圣诞节期间"
+        },
+        {
+          "term": "buy",
+          "phonetic": "[baɪ]",
+          "phoneticUS": "[baɪ]",
+          "meaning": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂"
+        },
+        {
+          "term": "present",
+          "phonetic": "[ˈprez(ə)nt]",
+          "phoneticUS": "[ˈpreznt]",
+          "meaning": "n. 现在；礼物；瞄准\nadj. 现在的；出席的\nvt. 提出；介绍；呈现；赠送\nvi. 举枪瞄准"
+        },
+        {
+          "term": "Christmas tree",
+          "phonetic": "[ˈkrɪsməs triː]",
+          "phoneticUS": "[ˈkrɪsməs triː]",
+          "meaning": "n. 【节】圣诞树"
+        },
+        {
+          "term": "Father Christmas",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 圣诞老人"
+        },
+        {
+          "term": "next",
+          "phonetic": "[nekst]",
+          "phoneticUS": "[nekst]",
+          "meaning": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后"
+        },
+        {
+          "term": "put",
+          "phonetic": "[pʊt]",
+          "phoneticUS": "[pʊt]",
+          "meaning": "n. 掷；笨蛋；投击；怪人\nadj. 固定不动的\nvi. 出发；击；航行；发芽\nvt. 放；表达；移动；安置；赋予"
+        },
+        {
+          "term": "pretty",
+          "phonetic": "[ˈprɪti]",
+          "phoneticUS": "[ˈprɪti]",
+          "meaning": "n. 有吸引力的事物（尤指饰品）；漂亮的人\nadj. 漂亮的；可爱的；优美的\nadv. 相当地；颇"
+        },
+        {
+          "term": "thing",
+          "phonetic": "[θɪŋ]",
+          "phoneticUS": "[θɪŋ]",
+          "meaning": "n. 事情；东西；事物；情况"
+        },
+        {
+          "term": "look",
+          "phonetic": "[lʊk]",
+          "phoneticUS": "[lʊk]",
+          "meaning": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容"
+        },
+        {
+          "term": "Christmas Eve",
+          "phonetic": "[ˌkrɪsməs ˈiːv]",
+          "phoneticUS": "[ˌkrɪsməs ˈiːv]",
+          "meaning": "n. 【节】圣诞节前夕；圣诞节前夜"
+        },
+        {
+          "term": "stocking",
+          "phonetic": "[ˈstɒkɪŋ]",
+          "phoneticUS": "[ˈstɑːkɪŋ]",
+          "meaning": "n. 长袜"
+        },
+        {
+          "term": "wait for",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 等；等待"
+        },
+        {
+          "term": "finally",
+          "phonetic": "[ˈfaɪnəli]",
+          "phoneticUS": "[ˈfaɪnəli]",
+          "meaning": "adv. 最后；终于；决定性地"
+        },
+        {
+          "term": "Christmas Day",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 【宗,基督】圣诞节；圣诞节时期"
+        },
+        {
+          "term": "early",
+          "phonetic": "[ˈɜːli]",
+          "phoneticUS": "[ˈɜːrli]",
+          "meaning": "adj. 早期的；早熟的\nadv. 提早；在初期"
+        },
+        {
+          "term": "turkey",
+          "phonetic": "[ˈtɜːki]",
+          "phoneticUS": "[ˈtɜːrki]",
+          "meaning": "n. 土耳其（横跨欧亚两洲的国家）"
+        },
+        {
+          "term": "pudding",
+          "phonetic": "[ˈpʊdɪŋ]",
+          "phoneticUS": "[ˈpʊdɪŋ]",
+          "meaning": "n. 布丁"
+        },
+        {
+          "term": "all",
+          "phonetic": "[ɔːl]",
+          "phoneticUS": "[ɔːl]",
+          "meaning": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部"
+        },
+        {
+          "term": "have a good time",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 过得愉快；很愉快"
+        },
+        {
+          "term": "card",
+          "phonetic": "[kɑːd]",
+          "phoneticUS": "[kɑːrd]",
+          "meaning": "n. 卡片；纸牌；明信片\nvt. 记于卡片上"
+        },
+        {
+          "term": "children",
+          "phonetic": "[ˈtʃɪldrən]",
+          "phoneticUS": "[ˈtʃɪldrən]",
+          "meaning": "n. 孩子们（child的复数）"
+        },
+        {
+          "term": "message",
+          "phonetic": "[ˈmesɪdʒ]",
+          "phoneticUS": "[ˈmesɪdʒ]",
+          "meaning": "n. 消息；差使；启示；预言；广告词\nvi. 报信，报告；[通信] 报文\nvt. 通知"
+        },
+        {
+          "term": "Merry Christmas!",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 圣诞快乐"
+        },
+        {
+          "term": "song",
+          "phonetic": "[sɒŋ]",
+          "phoneticUS": "[sɔŋ]",
+          "meaning": "n. 歌曲；歌唱；诗歌；鸣声"
+        },
+        {
+          "term": "What's wrong with ...?",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "怎么了；怎么啦；有什麽不对"
+        },
+        {
+          "term": "him",
+          "phonetic": "[hɪm; ɪm]",
+          "phoneticUS": "[hɪm; ɪm]",
+          "meaning": "pron. 他（宾格）"
+        },
+        {
+          "term": "us",
+          "phonetic": "[əs; ʌs]",
+          "phoneticUS": "[əs; ʌs]",
+          "meaning": "pron. 我们"
+        },
+        {
+          "term": "letter",
+          "phonetic": "[ˈletə(r)]",
+          "phoneticUS": "[ˈletər]",
+          "meaning": "n. 信；字母，文字；证书；文学，学问；字面意义\nvt. 写字母于\nvi. 写印刷体字母"
+        },
+        {
+          "term": "storybook",
+          "phonetic": "[ˈstɔːribʊk]",
+          "phoneticUS": "[ˈstɔːribʊk]",
+          "meaning": "n. 故事书；小说"
+        },
+        {
+          "term": "after",
+          "phonetic": "[ˈɑːftə(r)]",
+          "phoneticUS": "[ˈæftər]",
+          "meaning": "conj. 在……之后\nprep. 在……之后\nadj. 以后的\nadv. 后来，以后"
+        }
+      ]
+    }
+  ]
+}

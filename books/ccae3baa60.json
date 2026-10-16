@@ -1,0 +1,402 @@
+{
+  "id": "ccae3baa60",
+  "title": "2020年新型冠状病毒疫情",
+  "wordCount": 65,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "coronavirus",
+          "phonetic": "[kəˈrəʊnəvaɪrəs]",
+          "phoneticUS": "[kəˈroʊnəvaɪrəs]",
+          "meaning": "n. 冠状病毒；日冕形病毒"
+        },
+        {
+          "term": "novel coronavirus",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "2019-nCoV",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "reservoir for virus",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "pneumonia",
+          "phonetic": "[njuːˈməʊniə]",
+          "phoneticUS": "[nuːˈmoʊniə]",
+          "meaning": "n. 肺炎"
+        },
+        {
+          "term": "novel coronavirus pneumonia",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "NCP",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "[计] 网络控制程序"
+        },
+        {
+          "term": "contagious",
+          "phonetic": "[kənˈteɪdʒəs]",
+          "phoneticUS": "[kənˈteɪdʒəs]",
+          "meaning": "adj. 感染性的；会蔓延的"
+        },
+        {
+          "term": "infectious",
+          "phonetic": "[ɪnˈfekʃəs]",
+          "phoneticUS": "[ɪnˈfekʃəs]",
+          "meaning": "adj. 传染的；传染性的；易传染的"
+        },
+        {
+          "term": "outbreak",
+          "phonetic": "[ˈaʊtbreɪk]",
+          "phoneticUS": "[ˈaʊtbreɪk]",
+          "meaning": "n. （战争的）爆发；（疾病的）发作\nvi. 爆发"
+        },
+        {
+          "term": "human-to-human transmission",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "《英汉医学词典》human-to-human transmission\n人与人之间的传染"
+        },
+        {
+          "term": "droplet transmission",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "飞沫传播"
+        },
+        {
+          "term": "imported case",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "confirmed case",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "确认病例"
+        },
+        {
+          "term": "suspected case",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 可疑病例"
+        },
+        {
+          "term": "secondary infection case",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "incubation period",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "孵化期，（接种后的微生物）保温培养期，发酵周期; 潜伏期; 潜育期"
+        },
+        {
+          "term": "asymptomatic infection",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无症状感染"
+        },
+        {
+          "term": "symptomless spreader",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "close contact",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 紧密接触"
+        },
+        {
+          "term": "patient in critical condition",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "fatality rate",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 致死率"
+        },
+        {
+          "term": "death toll",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. （事故、战争、灾难等的）死亡人数"
+        },
+        {
+          "term": "symptom",
+          "phonetic": "[ˈsɪmptəm]",
+          "phoneticUS": "[ˈsɪmptəm]",
+          "meaning": "n. [临床] 症状；征兆"
+        },
+        {
+          "term": "fever",
+          "phonetic": "[ˈfiːvə(r)]",
+          "phoneticUS": "[ˈfiːvər]",
+          "meaning": "n. 发烧，发热；狂热\nvt. 使发烧；使狂热；使患热病\nvi. 发烧；狂热；患热病"
+        },
+        {
+          "term": "dry cough",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 干咳"
+        },
+        {
+          "term": "shortness of breath",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 喘气"
+        },
+        {
+          "term": "breathing difficulty",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "respiratory infection",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 呼吸道传染"
+        },
+        {
+          "term": "fever, cough and difficulty in breathing",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "acute respiratory infection symptom",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "seafood market",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "ground zero",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. （核弹的）爆心投影点"
+        },
+        {
+          "term": "illegal wild animals transaction",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "contain the spread",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "contain the outbreak",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "combat the virus",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "first-level public health emergency response",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "epidemic prevention and control",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "Public Health Emergency of International Concern",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "PHEIC",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "makeshift hospital",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "临时医院"
+        },
+        {
+          "term": "mobile cabin hospital",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "the lockdown of a city",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "a city is on lockdown",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "seal off the city",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "evacuate diplomats",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "be under medical observation",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "quarantine",
+          "phonetic": "[ˈkwɒrəntiːn]",
+          "phoneticUS": "[ˈkwɔːrəntiːn]",
+          "meaning": "n. 检疫；隔离；检疫期；封锁\nvt. 检疫；隔离；使隔离\nvi. 实行隔离"
+        },
+        {
+          "term": "medical supplies",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "医疗用品；医药用品；医用耗材"
+        },
+        {
+          "term": "vaccine",
+          "phonetic": "[ˈvæksiːn]",
+          "phoneticUS": "[vækˈsiːn]",
+          "meaning": "n. 疫苗；牛痘苗\nadj. 疫苗的；牛痘的"
+        },
+        {
+          "term": "cure",
+          "phonetic": "[kjʊə(r)]",
+          "phoneticUS": "[kjʊr]",
+          "meaning": "n. 治疗；治愈；[临床] 疗法\nvt. 治疗；治愈；使硫化；加工处理\nvi. 治病；痊愈；受治疗；被硫化；被加工处理"
+        },
+        {
+          "term": "mask",
+          "phonetic": "[mɑːsk]",
+          "phoneticUS": "[mæsk]",
+          "meaning": "n. 面具；口罩；掩饰\nvi. 掩饰；戴面具；化装\nvt. 掩饰；戴面具；使模糊"
+        },
+        {
+          "term": "face mask",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 面罩；面模"
+        },
+        {
+          "term": "protective clothing",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 防毒服"
+        },
+        {
+          "term": "protective suits",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "goggles",
+          "phonetic": "[ˈɡɒɡ(ə)lz]",
+          "phoneticUS": "[ˈɡɑːɡlz]",
+          "meaning": "n. [安全] 护目镜；防护眼镜；瞪视（goggle的复数）\nv. 瞪大眼睛看；转动眼珠（goggle的三单形式）"
+        },
+        {
+          "term": "disposable gloves",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "一次性手套；用后可弃手套；抛弃式手套"
+        },
+        {
+          "term": "National Health Commission",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "NHC",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "[医][=national health council]全国卫生理事会，全国卫生协会"
+        },
+        {
+          "term": "World Health Organization",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 世界卫生组织"
+        },
+        {
+          "term": "WHO",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "pron. 谁；什么人"
+        },
+        {
+          "term": "Chinese Center for Disease Control and Prevention",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "《英汉医学词典》Chinese Center for Disease Control and Prevention\n中国疾病预防控制中心"
+        },
+        {
+          "term": "National Healthcare Security Administration",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "medical institution",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 医疗机构"
+        }
+      ]
+    }
+  ]
+}

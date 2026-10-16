@@ -1,0 +1,588 @@
+{
+  "id": "36cbfb3316",
+  "title": "新概念英语青少版入门级A",
+  "wordCount": 96,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "ball",
+          "phonetic": "[bɔːl]",
+          "phoneticUS": "[bɔːl]",
+          "meaning": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块"
+        },
+        {
+          "term": "cat",
+          "phonetic": "[kæt]",
+          "phoneticUS": "[kæt]",
+          "meaning": "n. 猫，猫科动物"
+        },
+        {
+          "term": "dog",
+          "phonetic": "[dɒɡ]",
+          "phoneticUS": "[dɔːɡ]",
+          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
+        },
+        {
+          "term": "fish",
+          "phonetic": "[fɪʃ]",
+          "phoneticUS": "[fɪʃ]",
+          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+        },
+        {
+          "term": "apple",
+          "phonetic": "[ˈæp(ə)l]",
+          "phoneticUS": "[ˈæpl]",
+          "meaning": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+        },
+        {
+          "term": "egg",
+          "phonetic": "[eɡ]",
+          "phoneticUS": "[eɡ]",
+          "meaning": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿"
+        },
+        {
+          "term": "girl",
+          "phonetic": "[ɡɜːl]",
+          "phoneticUS": "[ɡɜːrl]",
+          "meaning": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔"
+        },
+        {
+          "term": "hat",
+          "phonetic": "[hæt]",
+          "phoneticUS": "[hæt]",
+          "meaning": "n. 帽子\nvt. 给……戴上帽子\nvi. 供应帽子；制造帽子"
+        },
+        {
+          "term": "insect",
+          "phonetic": "[ˈɪnsekt]",
+          "phoneticUS": "[ˈɪnsekt]",
+          "meaning": "n. 昆虫；卑鄙的人"
+        },
+        {
+          "term": "jelly",
+          "phonetic": "[ˈdʒeli]",
+          "phoneticUS": "[ˈdʒeli]",
+          "meaning": "n. 果冻；胶状物\nvi. 成胶状\nvt. 使结冻"
+        },
+        {
+          "term": "kite",
+          "phonetic": "[kaɪt]",
+          "phoneticUS": "[kaɪt]",
+          "meaning": "n. 风筝\nvi. 使用空头支票；像风筝一样飞；轻快地移动\nvt. 骗钱；涂改（支票）"
+        },
+        {
+          "term": "green",
+          "phonetic": "[ɡriːn]",
+          "phoneticUS": "[ɡriːn]",
+          "meaning": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色"
+        },
+        {
+          "term": "red",
+          "phonetic": "[red]",
+          "phoneticUS": "[red]",
+          "meaning": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的"
+        },
+        {
+          "term": "blue",
+          "phonetic": "[bluː]",
+          "phoneticUS": "[bluː]",
+          "meaning": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于"
+        },
+        {
+          "term": "leg",
+          "phonetic": "[leɡ]",
+          "phoneticUS": "[leɡ]",
+          "meaning": "n. 腿；支柱"
+        },
+        {
+          "term": "mouth",
+          "phonetic": "[maʊθ]",
+          "phoneticUS": "[maʊθ]",
+          "meaning": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话"
+        },
+        {
+          "term": "nose",
+          "phonetic": "[nəʊz]",
+          "phoneticUS": "[noʊz]",
+          "meaning": "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问"
+        },
+        {
+          "term": "yellow",
+          "phonetic": "[ˈjeləʊ]",
+          "phoneticUS": "[ˈjeloʊ]",
+          "meaning": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄"
+        },
+        {
+          "term": "orange",
+          "phonetic": "[ˈɒrɪndʒ]",
+          "phoneticUS": "[ˈɔrɪndʒ]",
+          "meaning": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子"
+        },
+        {
+          "term": "pig",
+          "phonetic": "[pɪɡ]",
+          "phoneticUS": "[pɪɡ]",
+          "meaning": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）"
+        },
+        {
+          "term": "boy",
+          "phonetic": "[bɔɪ]",
+          "phoneticUS": "[bɔɪ]",
+          "meaning": "n. 男孩；男人"
+        },
+        {
+          "term": "sun",
+          "phonetic": "[sʌn]",
+          "phoneticUS": "[sʌn]",
+          "meaning": "n. 太阳\nvt. 使晒\nvi. 晒太阳"
+        },
+        {
+          "term": "table",
+          "phonetic": "[ˈteɪb(ə)l]",
+          "phoneticUS": "[ˈteɪbl]",
+          "meaning": "n. 桌子；表格；平地层\nvt. 制表；搁置；嵌合\nadj. 桌子的"
+        },
+        {
+          "term": "umbrella",
+          "phonetic": "[ʌmˈbrelə]",
+          "phoneticUS": "[ʌmˈbrelə]",
+          "meaning": "n. 雨伞；保护伞；庇护；伞形结构"
+        },
+        {
+          "term": "king",
+          "phonetic": "[kɪŋ]",
+          "phoneticUS": "[kɪŋ]",
+          "meaning": "n. 国王；最有势力者；王棋\nvi. 统治；做国王\nvt. 立…为王\nadj. 主要的，最重要的，最大的"
+        },
+        {
+          "term": "queen",
+          "phonetic": "[kwiːn]",
+          "phoneticUS": "[kwiːn]",
+          "meaning": "n. 女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王\nvt. 使…成为女王或王后\nvi. 做女王"
+        },
+        {
+          "term": "monkey",
+          "phonetic": "[ˈmʌŋki]",
+          "phoneticUS": "[ˈmʌŋki]",
+          "meaning": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄"
+        },
+        {
+          "term": "panda",
+          "phonetic": "[ˈpændə]",
+          "phoneticUS": "[ˈpændə]",
+          "meaning": "n. 熊猫；猫熊"
+        },
+        {
+          "term": "zebra",
+          "phonetic": "[ˈzebrə]",
+          "phoneticUS": "[ˈziːbrə]",
+          "meaning": "n. [脊椎] 斑马\nadj. 有斑纹的"
+        },
+        {
+          "term": "zoo",
+          "phonetic": "[zuː]",
+          "phoneticUS": "[zuː]",
+          "meaning": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
+        },
+        {
+          "term": "violin",
+          "phonetic": "[ˌvaɪəˈlɪn]",
+          "phoneticUS": "[ˌvaɪəˈlɪn]",
+          "meaning": "n. 小提琴；小提琴手"
+        },
+        {
+          "term": "window",
+          "phonetic": "[ˈwɪndəʊ]",
+          "phoneticUS": "[ˈwɪndoʊ]",
+          "meaning": "n. 窗；窗口；窗户"
+        },
+        {
+          "term": "xylophone",
+          "phonetic": "[ˈzaɪləfəʊn]",
+          "phoneticUS": "[ˈzaɪləfoʊn]",
+          "meaning": "n. 木琴"
+        },
+        {
+          "term": "family",
+          "phonetic": "[ˈfæməli]",
+          "phoneticUS": "[ˈfæməli]",
+          "meaning": "n. 家庭；亲属；家族；子女；[生]科；语族；[化]族\nadj. 家庭的；家族的；适合于全家的"
+        },
+        {
+          "term": "mum",
+          "phonetic": "[mʌm]",
+          "phoneticUS": "[mʌm]",
+          "meaning": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话"
+        },
+        {
+          "term": "dad",
+          "phonetic": "[dæd]",
+          "phoneticUS": "[dæd]",
+          "meaning": "n. 爸爸；爹爹"
+        },
+        {
+          "term": "sister",
+          "phonetic": "[ˈsɪstə(r)]",
+          "phoneticUS": "[ˈsɪstər]",
+          "meaning": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的"
+        },
+        {
+          "term": "brother",
+          "phonetic": "[ˈbrʌðə(r)]",
+          "phoneticUS": "[ˈbrʌðər]",
+          "meaning": "n. 兄弟；同事；战友\nint. 我的老兄！"
+        },
+        {
+          "term": "friend",
+          "phonetic": "[frend]",
+          "phoneticUS": "[frend]",
+          "meaning": "n. 朋友；助手；赞助者"
+        },
+        {
+          "term": "bike",
+          "phonetic": "[baɪk]",
+          "phoneticUS": "[baɪk]",
+          "meaning": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）"
+        },
+        {
+          "term": "car",
+          "phonetic": "[kɑː(r)]",
+          "phoneticUS": "[kɑːr]",
+          "meaning": "n. 汽车；车厢"
+        },
+        {
+          "term": "doll",
+          "phonetic": "[dɒl]",
+          "phoneticUS": "[dɑːl]",
+          "meaning": "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展"
+        },
+        {
+          "term": "robot",
+          "phonetic": "[ˈrəʊbɒt]",
+          "phoneticUS": "[ˈroʊbɑːt]",
+          "meaning": "n. 机器人；遥控设备，自动机械；机械般工作的人"
+        },
+        {
+          "term": "train",
+          "phonetic": "[treɪn]",
+          "phoneticUS": "[treɪn]",
+          "meaning": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准"
+        },
+        {
+          "term": "van",
+          "phonetic": "[væn]",
+          "phoneticUS": "[væn]",
+          "meaning": "n. 先锋；厢式货车；增值网\nvt. 用车搬运"
+        },
+        {
+          "term": "book",
+          "phonetic": "[bʊk]",
+          "phoneticUS": "[bʊk]",
+          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
+        },
+        {
+          "term": "pen",
+          "phonetic": "[pen]",
+          "phoneticUS": "[pen]",
+          "meaning": "n. 钢笔；作家；围栏\nvt. 写；关入栏中"
+        },
+        {
+          "term": "pencil",
+          "phonetic": "[ˈpens(ə)l]",
+          "phoneticUS": "[ˈpensl]",
+          "meaning": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状"
+        },
+        {
+          "term": "pencil case",
+          "phonetic": "[ˈpensl keɪs]",
+          "phoneticUS": "[ˈpensl keɪs]",
+          "meaning": "n. 铅笔盒；铅笔袋"
+        },
+        {
+          "term": "rubber",
+          "phonetic": "[ˈrʌbə(r)]",
+          "phoneticUS": "[ˈrʌbər]",
+          "meaning": "n. 橡胶；橡皮；合成橡胶；按摩师\nadj. 橡胶制成的\nvt. 涂橡胶于；用橡胶制造\nvi. 扭转脖子看；好奇地引颈而望"
+        },
+        {
+          "term": "ruler",
+          "phonetic": "[ˈruːlə(r)]",
+          "phoneticUS": "[ˈruːlər]",
+          "meaning": "n. 尺；统治者；[测] 划线板，划线的人"
+        },
+        {
+          "term": "school bag",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 书包"
+        },
+        {
+          "term": "bone",
+          "phonetic": "[bəʊn]",
+          "phoneticUS": "[boʊn]",
+          "meaning": "n. 骨；骨骼\nvt. 剔去...的骨；施骨肥于\nvi. 苦学；专心致志"
+        },
+        {
+          "term": "hamburger",
+          "phonetic": "[ˈhæmbɜːɡə(r)]",
+          "phoneticUS": "[ˈhæmbɜːrɡər]",
+          "meaning": "n. 汉堡包，火腿汉堡；牛肉饼，肉饼；碎牛肉"
+        },
+        {
+          "term": "salad",
+          "phonetic": "[ˈsæləd]",
+          "phoneticUS": "[ˈsæləd]",
+          "meaning": "n. 色拉；尤指莴苣"
+        },
+        {
+          "term": "sausage",
+          "phonetic": "[ˈsɒsɪdʒ]",
+          "phoneticUS": "[ˈsɔːsɪdʒ]",
+          "meaning": "n. 香肠；腊肠；装香肠的碎肉"
+        },
+        {
+          "term": "tomato",
+          "phonetic": "[təˈmɑːtəʊ]",
+          "phoneticUS": "[təˈmeɪtoʊ]",
+          "meaning": "n. 番茄，西红柿"
+        },
+        {
+          "term": "pizza",
+          "phonetic": "[ˈpiːtsə]",
+          "phoneticUS": "[ˈpiːtsə]",
+          "meaning": "n. 比萨饼（一种涂有乳酪核番茄酱的意大利式有馅烘饼）"
+        },
+        {
+          "term": "one",
+          "phonetic": "[wʌn]",
+          "phoneticUS": "[wʌn]",
+          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
+        },
+        {
+          "term": "two",
+          "phonetic": "[tuː]",
+          "phoneticUS": "[tuː]",
+          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+        },
+        {
+          "term": "three",
+          "phonetic": "[θriː]",
+          "phoneticUS": "[θriː]",
+          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+        },
+        {
+          "term": "four",
+          "phonetic": "[fɔː(r)]",
+          "phoneticUS": "[fɔːr]",
+          "meaning": "num. 四；四个\nadj. 四的；四个的"
+        },
+        {
+          "term": "five",
+          "phonetic": "[faɪv]",
+          "phoneticUS": "[faɪv]",
+          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
+        },
+        {
+          "term": "six",
+          "phonetic": "[sɪks]",
+          "phoneticUS": "[sɪks]",
+          "meaning": "num. 六，六个\nn. 六，六个"
+        },
+        {
+          "term": "seven",
+          "phonetic": "[ˈsev(ə)n]",
+          "phoneticUS": "[ˈsev(ə)n]",
+          "meaning": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的"
+        },
+        {
+          "term": "eight",
+          "phonetic": "[eɪt]",
+          "phoneticUS": "[eɪt]",
+          "meaning": "num. 八；八个；第八\nn. 八字形\nadj. 八的"
+        },
+        {
+          "term": "nine",
+          "phonetic": "[naɪn]",
+          "phoneticUS": "[naɪn]",
+          "meaning": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的"
+        },
+        {
+          "term": "ten",
+          "phonetic": "[ten]",
+          "phoneticUS": "[ten]",
+          "meaning": "num. 十个，十"
+        },
+        {
+          "term": "tall",
+          "phonetic": "[tɔːl]",
+          "phoneticUS": "[tɔːl]",
+          "meaning": "adj. 高的；长的；过分的；夸大的\nadv. 夸大地"
+        },
+        {
+          "term": "short",
+          "phonetic": "[ʃɔːt]",
+          "phoneticUS": "[ʃɔːrt]",
+          "meaning": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地"
+        },
+        {
+          "term": "big",
+          "phonetic": "[bɪɡ]",
+          "phoneticUS": "[bɪɡ]",
+          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+        },
+        {
+          "term": "little",
+          "phonetic": "[ˈlɪt(ə)l]",
+          "phoneticUS": "[ˈlɪtl]",
+          "meaning": "adj. 小的；很少的；短暂的；小巧可爱的\nadv. 完全不\nn. 少许；没有多少；短时间"
+        },
+        {
+          "term": "fat",
+          "phonetic": "[fæt]",
+          "phoneticUS": "[fæt]",
+          "meaning": "n. 脂肪，肥肉\nadj. 肥的，胖的；油腻的；丰满的\nvt. 养肥；在…中加入脂肪\nvi. 长肥"
+        },
+        {
+          "term": "thin",
+          "phonetic": "[θɪn]",
+          "phoneticUS": "[θɪn]",
+          "meaning": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地"
+        },
+        {
+          "term": "dancer",
+          "phonetic": "[ˈdɑːnsə(r)]",
+          "phoneticUS": "[ˈdænsər]",
+          "meaning": "n. 舞蹈家；舞蹈演员；舞女；跳舞者"
+        },
+        {
+          "term": "doctor",
+          "phonetic": "[ˈdɒktə(r)]",
+          "phoneticUS": "[ˈdɑːktər]",
+          "meaning": "vt. 修理；篡改，伪造；为…治病；授以博士学位\nn. 医生；博士\nvi. 就医；行医"
+        },
+        {
+          "term": "nurse",
+          "phonetic": "[nɜːs]",
+          "phoneticUS": "[nɜːrs]",
+          "meaning": "vt. 看护，护理；照顾；培养；给…喂奶\nvi. 照料，护理；喂奶；当保姆\nn. 护士；奶妈，保姆"
+        },
+        {
+          "term": "policeman",
+          "phonetic": "[pəˈliːsmən]",
+          "phoneticUS": "[pəˈliːsmən]",
+          "meaning": "n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）"
+        },
+        {
+          "term": "policewoman",
+          "phonetic": "[pəˈliːswʊmən]",
+          "phoneticUS": "[pəˈliːswʊmən]",
+          "meaning": "n. 女警察；女警官"
+        },
+        {
+          "term": "postman",
+          "phonetic": "[ˈpəʊstmən]",
+          "phoneticUS": "[ˈpoʊstmən]",
+          "meaning": "n. 邮递员；邮差"
+        },
+        {
+          "term": "teacher",
+          "phonetic": "[ˈtiːtʃə(r)]",
+          "phoneticUS": "[ˈtiːtʃər]",
+          "meaning": "n. 教师；导师"
+        },
+        {
+          "term": "frog",
+          "phonetic": "[frɒɡ]",
+          "phoneticUS": "[frɑːɡ]",
+          "meaning": "n. 青蛙；[铁路] 辙叉；饰扣\nvi. 捕蛙"
+        },
+        {
+          "term": "mouse",
+          "phonetic": "[maʊs]",
+          "phoneticUS": "[maʊs]",
+          "meaning": "n. 鼠标；老鼠；胆小羞怯的人\nvt. 探出\nvi. 捕鼠；窥探"
+        },
+        {
+          "term": "parrot",
+          "phonetic": "[ˈpærət]",
+          "phoneticUS": "[ˈpærət]",
+          "meaning": "n. 鹦鹉；学舌者，应声虫；机械模仿别人的人\nvt. 机械地模仿"
+        },
+        {
+          "term": "rabbit",
+          "phonetic": "[ˈræbɪt]",
+          "phoneticUS": "[ˈræbɪt]",
+          "meaning": "n. 兔子，野兔\nvt. 让…见鬼去吧\nvi. 猎兔"
+        },
+        {
+          "term": "tortoise",
+          "phonetic": "[ˈtɔːtəs]",
+          "phoneticUS": "[ˈtɔːrtəs]",
+          "meaning": "n. 龟，[脊椎] 乌龟（等于testudo）；迟缓的人"
+        },
+        {
+          "term": "anorak",
+          "phonetic": "[ˈænəræk]",
+          "phoneticUS": "[ˈænəræk]",
+          "meaning": "n. 厚夹克；防水布；滑雪衫"
+        },
+        {
+          "term": "cap",
+          "phonetic": "[kæp]",
+          "phoneticUS": "[kæp]",
+          "meaning": "n. 盖；帽子\nvt. 覆盖；胜过；给…戴帽；加盖于\nvi. 脱帽致意"
+        },
+        {
+          "term": "T-shirt",
+          "phonetic": "[ˈtiː ʃɜːt]",
+          "phoneticUS": "[ˈtiː ʃɜːrt]",
+          "meaning": "n. 短袖圆领汗衫"
+        },
+        {
+          "term": "shirt",
+          "phonetic": "[ʃɜːt]",
+          "phoneticUS": "[ʃɜːrt]",
+          "meaning": "n. 衬衫；汗衫，内衣"
+        },
+        {
+          "term": "sweater",
+          "phonetic": "[ˈswetə(r)]",
+          "phoneticUS": "[ˈswetər]",
+          "meaning": "n. 毛线衣，运动衫；大量出汗的人，发汗剂"
+        },
+        {
+          "term": "behind",
+          "phonetic": "[bɪˈhaɪnd]",
+          "phoneticUS": "[bɪˈhaɪnd]",
+          "meaning": "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处"
+        },
+        {
+          "term": "in",
+          "phonetic": "[ɪn]",
+          "phoneticUS": "[ɪn]",
+          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+        },
+        {
+          "term": "in front of",
+          "phonetic": "[ɪn frʌnt əv]",
+          "phoneticUS": "[ɪn frʌnt ʌv]",
+          "meaning": "na. 在…的前面"
+        },
+        {
+          "term": "on",
+          "phonetic": "[ɒn]",
+          "phoneticUS": "[ɑːn]",
+          "meaning": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中"
+        },
+        {
+          "term": "under",
+          "phonetic": "[ˈʌndə(r)]",
+          "phoneticUS": "[ˈʌndər]",
+          "meaning": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4488 @@
+{
+  "id": "028df3ad48",
+  "title": "大学英语精读1（第三版）",
+  "wordCount": 746,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "strategy",
+          "phonetic": "[ˈstrætədʒi]",
+          "phoneticUS": "[ˈstrætədʒi]",
+          "meaning": "n. 战略，策略"
+        },
+        {
+          "term": "means",
+          "phonetic": "[miːnz]",
+          "phoneticUS": "[miːnz]",
+          "meaning": "n. 手段；方法；财产\nv. 意思是；打算（mean的第三人称单数） [ 复数means ]"
+        },
+        {
+          "term": "diligence",
+          "phonetic": "[ˈdɪlɪdʒəns]",
+          "phoneticUS": "[ˈdɪlɪdʒəns]",
+          "meaning": "n. 勤奋，勤勉；注意的程度"
+        },
+        {
+          "term": "diligent",
+          "phonetic": "[ˈdɪlɪdʒənt]",
+          "phoneticUS": "[ˈdɪlɪdʒənt]",
+          "meaning": "adj. 勤勉的；用功的，费尽心血的"
+        },
+        {
+          "term": "prolonged",
+          "phonetic": "[prəˈlɒŋd]",
+          "phoneticUS": "[prəˈlɔːŋd]",
+          "meaning": "adj. 延长的；拖延的；持续很久的"
+        },
+        {
+          "term": "prolong",
+          "phonetic": "[prəˈlɒŋ]",
+          "phoneticUS": "[prəˈlɔːŋ]",
+          "meaning": "vt. 延长；拖延"
+        },
+        {
+          "term": "nevertheless",
+          "phonetic": "[ˌnevəðəˈles]",
+          "phoneticUS": "[ˌnevərðəˈles]",
+          "meaning": "adv. 然而，不过；虽然如此\nconj. 然而，不过"
+        },
+        {
+          "term": "command",
+          "phonetic": "[kəˈmɑːnd]",
+          "phoneticUS": "[kəˈmænd]",
+          "meaning": "n. 指挥，控制；命令；司令部\nvt. 命令，指挥；控制；远望\nvi. 命令，指挥；控制"
+        },
+        {
+          "term": "sustained",
+          "phonetic": "[səˈsteɪnd]",
+          "phoneticUS": "[səˈsteɪnd]",
+          "meaning": "v. 维持（sustain的过去式和过去分词）；承受\nadj. 持续的；持久的；持久不变的"
+        },
+        {
+          "term": "sustain",
+          "phonetic": "[səˈsteɪn]",
+          "phoneticUS": "[səˈsteɪn]",
+          "meaning": "vt. 维持；支撑，承担；忍受；供养；证实"
+        },
+        {
+          "term": "helpful",
+          "phonetic": "[ˈhelpfl]",
+          "phoneticUS": "[ˈhelpfl]",
+          "meaning": "adj. 有帮助的；有益的"
+        },
+        {
+          "term": "complain",
+          "phonetic": "[kəmˈpleɪn]",
+          "phoneticUS": "[kəmˈpleɪn]",
+          "meaning": "vi. 投诉；发牢骚；诉说\nvt. 抱怨；控诉"
+        },
+        {
+          "term": "complaint",
+          "phonetic": "[kəmˈpleɪnt]",
+          "phoneticUS": "[kəmˈpleɪnt]",
+          "meaning": "n. 抱怨；诉苦；疾病；委屈"
+        },
+        {
+          "term": "memorize",
+          "phonetic": "[ˈmeməraɪz]",
+          "phoneticUS": "[ˈmeməraɪz]",
+          "meaning": "vt. 记住，背熟；记忆"
+        },
+        {
+          "term": "cram",
+          "phonetic": "[kræm]",
+          "phoneticUS": "[kræm]",
+          "meaning": "n. 死记硬背；极度拥挤\nadj. 填鸭式学的\nvi. 狼吞虎咽地吃东西；死记硬背功课\nvt. 填满，塞满；死记硬背；猛吃"
+        },
+        {
+          "term": "bound",
+          "phonetic": "[baʊnd]",
+          "phoneticUS": "[baʊnd]",
+          "meaning": "n. 范围；跳跃\nadj. 有义务的；必定的；受约束的；装有封面的\nvt. 束缚；使跳跃\nvi. 限制；弹起"
+        },
+        {
+          "term": "constant",
+          "phonetic": "[ˈkɒnstənt]",
+          "phoneticUS": "[ˈkɑːnstənt]",
+          "meaning": "n. [数] 常数；恒量\nadj. 不变的；恒定的；经常的"
+        },
+        {
+          "term": "commit",
+          "phonetic": "[kəˈmɪt]",
+          "phoneticUS": "[kəˈmɪt]",
+          "meaning": "vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务"
+        },
+        {
+          "term": "acquaintance",
+          "phonetic": "[əˈkweɪntəns]",
+          "phoneticUS": "[əˈkweɪntəns]",
+          "meaning": "n. 熟人；相识；了解；知道"
+        },
+        {
+          "term": "concentrate",
+          "phonetic": "[ˈkɒns(ə)ntreɪt]",
+          "phoneticUS": "[ˈkɑːnsntreɪt]",
+          "meaning": "n. 浓缩，精选；浓缩液\nvi. 集中；浓缩；全神贯注；聚集\nvt. 集中；浓缩"
+        },
+        {
+          "term": "concentrate on",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 集中在；专心于"
+        },
+        {
+          "term": "effective",
+          "phonetic": "[ɪˈfektɪv]",
+          "phoneticUS": "[ɪˈfektɪv]",
+          "meaning": "adj. 有效的，起作用的；实际的，实在的；给人深刻印象"
+        },
+        {
+          "term": "route",
+          "phonetic": "[ruːt]",
+          "phoneticUS": "[ruːt; raʊt]",
+          "meaning": "n. 路线；航线；通道\nvt. 按某路线发送"
+        },
+        {
+          "term": "enlarge",
+          "phonetic": "[ɪnˈlɑːdʒ]",
+          "phoneticUS": "[ɪnˈlɑːrdʒ]",
+          "meaning": "vt. 扩大；使增大；扩展\nvi. 扩大；放大；详述"
+        },
+        {
+          "term": "vocabulary",
+          "phonetic": "[vəˈkæbjələri]",
+          "phoneticUS": "[vəˈkæbjəleri]",
+          "meaning": "n. 词汇；词表；词汇量"
+        },
+        {
+          "term": "idiomatic",
+          "phonetic": "[ˌɪdiəˈmætɪk]",
+          "phoneticUS": "[ˌɪdiəˈmætɪk]",
+          "meaning": "adj. 惯用的；符合语言习惯的；通顺的"
+        },
+        {
+          "term": "idiom",
+          "phonetic": "[ˈɪdiəm]",
+          "phoneticUS": "[ˈɪdiəm]",
+          "meaning": "n. 成语，习语；土话"
+        },
+        {
+          "term": "usage",
+          "phonetic": "[ˈjuːsɪdʒ]",
+          "phoneticUS": "[ˈjuːsɪdʒˌˈjuːzɪdʒ]",
+          "meaning": "n. 使用；用法；惯例"
+        },
+        {
+          "term": "basis",
+          "phonetic": "[ˈbeɪsɪs]",
+          "phoneticUS": "[ˈbeɪsɪs]",
+          "meaning": "n. 基础；底部；主要成分；基本原则或原理"
+        },
+        {
+          "term": "addition",
+          "phonetic": "[əˈdɪʃn]",
+          "phoneticUS": "[əˈdɪʃn]",
+          "meaning": "n. 添加；[数] 加法；增加物"
+        },
+        {
+          "term": "movie",
+          "phonetic": "[ˈmuːvi]",
+          "phoneticUS": "[ˈmuːvi]",
+          "meaning": "n. 电影；电影院；电影业\nadj. 电影的"
+        },
+        {
+          "term": "repetition",
+          "phonetic": "[ˌrepəˈtɪʃn]",
+          "phoneticUS": "[ˌrepəˈtɪʃn]",
+          "meaning": "n. 重复；背诵；副本"
+        },
+        {
+          "term": "opportunity",
+          "phonetic": "[ˌɒpəˈtjuːnəti]",
+          "phoneticUS": "[ˌɑːpərˈtuːnəti]",
+          "meaning": "n. 时机，机会"
+        },
+        {
+          "term": "communicate",
+          "phonetic": "[kəˈmjuːnɪkeɪt]",
+          "phoneticUS": "[kəˈmjuːnɪkeɪt]",
+          "meaning": "vi. 通讯，传达；相通；交流；感染\nvt. 传达；感染；显露"
+        },
+        {
+          "term": "enjoyable",
+          "phonetic": "[ɪnˈdʒɔɪəbl]",
+          "phoneticUS": "[ɪnˈdʒɔɪəbl]",
+          "meaning": "adj. 快乐的；有乐趣的；令人愉快的"
+        },
+        {
+          "term": "campus",
+          "phonetic": "[ˈkæmpəs]",
+          "phoneticUS": "[ˈkæmpəs]",
+          "meaning": "n. （大学）校园；大学，大学生活；校园内的草地"
+        },
+        {
+          "term": "rehearse",
+          "phonetic": "[rɪˈhɜːs]",
+          "phoneticUS": "[rɪˈhɜːrs]",
+          "meaning": "vt. 排练；预演\nvi. 排练；演习"
+        },
+        {
+          "term": "rehearsal",
+          "phonetic": "[rɪˈhɜːsl]",
+          "phoneticUS": "[rɪˈhɜːrsl]",
+          "meaning": "n. 排演；预演；练习；训练；叙述"
+        },
+        {
+          "term": "partner",
+          "phonetic": "[ˈpɑːtnə(r)]",
+          "phoneticUS": "[ˈpɑːrtnər]",
+          "meaning": "n. 伙伴；合伙人；配偶\nvt. 使合作；与…合伙\nvi. 合伙；合股；成为搭档"
+        },
+        {
+          "term": "instance",
+          "phonetic": "[ˈɪnstəns]",
+          "phoneticUS": "[ˈɪnstəns]",
+          "meaning": "n. 实例；情况；建议\nvt. 举...为例"
+        },
+        {
+          "term": "detail",
+          "phonetic": "[ˈdiːteɪl]",
+          "phoneticUS": "[ˈdiːteɪlˌdɪˈteɪl]",
+          "meaning": "n. 细节，详情\nvt. 详述；选派\nvi. 画详图"
+        },
+        {
+          "term": "purchase",
+          "phonetic": "[ˈpɜːtʃəs]",
+          "phoneticUS": "[ˈpɜːrtʃəs]",
+          "meaning": "n. 购买；紧握；起重装置\nvt. 购买；赢得\nvi. 购买东西"
+        },
+        {
+          "term": "environment",
+          "phonetic": "[ɪnˈvaɪrənmənt]",
+          "phoneticUS": "[ɪnˈvaɪrənmənt]",
+          "meaning": "n. 环境，外界"
+        },
+        {
+          "term": "reliable",
+          "phonetic": "[rɪˈlaɪəbl]",
+          "phoneticUS": "[rɪˈlaɪəbl]",
+          "meaning": "n. 可靠的人\nadj. 可靠的；可信赖的"
+        },
+        {
+          "term": "source",
+          "phonetic": "[sɔːs]",
+          "phoneticUS": "[sɔːrs]",
+          "meaning": "n. 来源；水源；原始资料"
+        },
+        {
+          "term": "input",
+          "phonetic": "[ˈɪnpʊt]",
+          "phoneticUS": "[ˈɪnpʊt]",
+          "meaning": "n. 投入；输入电路\nvt. [自][电子] 输入；将…输入电脑"
+        },
+        {
+          "term": "rely",
+          "phonetic": "[rɪˈlaɪ]",
+          "phoneticUS": "[rɪˈlaɪ]",
+          "meaning": "vi. 依靠；信赖"
+        },
+        {
+          "term": "rely on",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 依靠；信赖"
+        },
+        {
+          "term": "handle",
+          "phonetic": "[ˈhænd(ə)l]",
+          "phoneticUS": "[ˈhændl]",
+          "meaning": "n. [建] 把手；柄；手感；口实\nvt. 处理；操作；运用；买卖；触摸\nvi. 搬运；易于操纵"
+        },
+        {
+          "term": "apart",
+          "phonetic": "[əˈpɑːt]",
+          "phoneticUS": "[əˈpɑːrt]",
+          "meaning": "adj. 分离的；与众不同的\nadv. 相距；与众不同地；分离着"
+        },
+        {
+          "term": "assign",
+          "phonetic": "[əˈsaɪn]",
+          "phoneticUS": "[əˈsaɪn]",
+          "meaning": "vt. 分配；指派；[计][数] 赋值\nvi. 将财产过户（尤指过户给债权人）"
+        },
+        {
+          "term": "assignment",
+          "phonetic": "[əˈsaɪnmənt]",
+          "phoneticUS": "[əˈsaɪnmənt]",
+          "meaning": "n. 分配；任务；作业；功课"
+        },
+        {
+          "term": "pal",
+          "phonetic": "[pæl]",
+          "phoneticUS": "[pæl]",
+          "meaning": "n. 朋友，伙伴；同志\nvi. 结为朋友"
+        },
+        {
+          "term": "motivation",
+          "phonetic": "[ˌməʊtɪˈveɪʃn]",
+          "phoneticUS": "[ˌmoʊtɪˈveɪʃn]",
+          "meaning": "n. 动机；积极性；推动"
+        },
+        {
+          "term": "motivate",
+          "phonetic": "[ˈməʊtɪveɪt]",
+          "phoneticUS": "[ˈmoʊtɪveɪt]",
+          "meaning": "vt. 刺激；使有动机；激发…的积极性"
+        },
+        {
+          "term": "culture",
+          "phonetic": "[ˈkʌltʃə(r)]",
+          "phoneticUS": "[ˈkʌltʃər]",
+          "meaning": "n. 文化，文明；修养；栽培\nvt. [细胞][微] 培养（等于cultivate）"
+        },
+        {
+          "term": "summarize",
+          "phonetic": "[ˈsʌməraɪz]",
+          "phoneticUS": "[ˈsʌməraɪz]",
+          "meaning": "vt. 总结；概述\nvi. 作总结；作概括"
+        },
+        {
+          "term": "process",
+          "phonetic": "[prəˈses; ˈprəʊses]",
+          "phoneticUS": "[prəˈses；ˈprɑːses]",
+          "meaning": "n. 过程，进行；方法，步骤；作用；程序；推移\nadj. 经过特殊加工（或处理）的\nvt. 处理；加工\nvi. 列队前进"
+        },
+        {
+          "term": "accumulation",
+          "phonetic": "[əˌkjuːmjəˈleɪʃn]",
+          "phoneticUS": "[əˌkjuːmjəˈleɪʃn]",
+          "meaning": "n. 积聚，累积；堆积物"
+        },
+        {
+          "term": "accumulate",
+          "phonetic": "[əˈkjuːmjəleɪt]",
+          "phoneticUS": "[əˈkjuːmjəleɪt]",
+          "meaning": "vt. 积攒\nvi. 累积；积聚"
+        },
+        {
+          "term": "absorb",
+          "phonetic": "[əbˈzɔːb]",
+          "phoneticUS": "[əbˈzɔːrb; əbˈsɔːrb]",
+          "meaning": "vt. 吸收；吸引；承受；理解；使…全神贯注"
+        },
+        {
+          "term": "by no means",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 决不；并没有"
+        },
+        {
+          "term": "at fault",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adv. 困惑；不知所措"
+        },
+        {
+          "term": "at a time",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 一次(多少)；同时；曾经；连续"
+        },
+        {
+          "term": "be bound to",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 一定要；决心"
+        },
+        {
+          "term": "commit to memory",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 记住"
+        },
+        {
+          "term": "watch out for",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 期待；等待"
+        },
+        {
+          "term": "learn of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 得知；获悉"
+        },
+        {
+          "term": "learn about",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 得知关于；学习关于"
+        },
+        {
+          "term": "on a regular basis",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "定期地；经常；经常地"
+        },
+        {
+          "term": "on a daily basis",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "每天；日常；每天都"
+        },
+        {
+          "term": "on a weekly basis",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "in addition to",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 加之"
+        },
+        {
+          "term": "over and over again",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 翻来覆去"
+        },
+        {
+          "term": "seek out",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 找出；寻求；想获得"
+        },
+        {
+          "term": "feel free",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "感到自由，无拘束; <非正>随自己之意（做某事）"
+        },
+        {
+          "term": "for instance",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 例如"
+        },
+        {
+          "term": "in detail",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 详细"
+        },
+        {
+          "term": "act out",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 演出"
+        },
+        {
+          "term": "apart from",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "prep. 除了…外（都）；要不是；除了…外（还）；此外"
+        },
+        {
+          "term": "put ... into practice",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 实行"
+        },
+        {
+          "term": "intelligence",
+          "phonetic": "[ɪnˈtelɪdʒəns]",
+          "phoneticUS": "[ɪnˈtelɪdʒəns]",
+          "meaning": "n. 智力；情报工作；情报机关；理解力；才智，智慧；天分"
+        },
+        {
+          "term": "necessarily",
+          "phonetic": "[ˌnesəˈserəli; ˈnesəsərəli]",
+          "phoneticUS": "[ˌnesəˈserəli]",
+          "meaning": "adv. 必要地；必定地，必然地"
+        },
+        {
+          "term": "weekly",
+          "phonetic": "[ˈwiːkli]",
+          "phoneticUS": "[ˈwiːkli]",
+          "meaning": "n. 周刊\nadj. 每周的；周刊的；一周一次的\nadv. 每周一次；逐周"
+        },
+        {
+          "term": "schedule",
+          "phonetic": "[ˈʃedjuːl]",
+          "phoneticUS": "[ˈskedʒuːl]",
+          "meaning": "n. 时间表；计划表；一览表\nvt. 安排，计划；编制目录；将……列入计划表"
+        },
+        {
+          "term": "chart",
+          "phonetic": "[tʃɑːt]",
+          "phoneticUS": "[tʃɑːrt]",
+          "meaning": "n. 图表；海图；图纸；排行榜\nvt. 绘制…的图表；在海图上标出；详细计划；记录；记述；跟踪（进展或发展"
+        },
+        {
+          "term": "fill in",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 填充；填写；同“fill”"
+        },
+        {
+          "term": "decide on",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 决心"
+        },
+        {
+          "term": "aside",
+          "phonetic": "[əˈsaɪd]",
+          "phoneticUS": "[əˈsaɪd]",
+          "meaning": "prep. 在…旁边\nn. 旁白；私语，悄悄话；离题的话\nadv. 离开，撇开；在旁边"
+        },
+        {
+          "term": "set aside",
+          "phonetic": "[ˈset əsaɪd]",
+          "phoneticUS": "[set əˈsaɪd]",
+          "meaning": "na. 搁置；拨出；驳回"
+        },
+        {
+          "term": "occupy",
+          "phonetic": "[ˈɒkjupaɪ]",
+          "phoneticUS": "[ˈɑːkjupaɪ]",
+          "meaning": "vt. 占据，占领；居住；使忙碌"
+        },
+        {
+          "term": "relaxation",
+          "phonetic": "[ˌriːlækˈseɪʃn]",
+          "phoneticUS": "[ˌriːlækˈseɪʃn]",
+          "meaning": "n. 放松；缓和；消遣"
+        },
+        {
+          "term": "entertainment",
+          "phonetic": "[ˌentəˈteɪnmənt]",
+          "phoneticUS": "[ˌentərˈteɪnmənt]",
+          "meaning": "n. 娱乐；消遣；款待"
+        },
+        {
+          "term": "as well",
+          "phonetic": "[æz wel]",
+          "phoneticUS": "[æz wel]",
+          "meaning": "na. 也；同样"
+        },
+        {
+          "term": "solve",
+          "phonetic": "[sɒlv]",
+          "phoneticUS": "[sɑːlv]",
+          "meaning": "vt. 解决；解答；溶解\nvi. 作解答"
+        },
+        {
+          "term": "aware",
+          "phonetic": "[əˈweə(r)]",
+          "phoneticUS": "[əˈwer]",
+          "meaning": "adj. 意识到的；知道的；有…方面知识的；懂世故的"
+        },
+        {
+          "term": "furthermore",
+          "phonetic": "[ˌfɜːðəˈmɔː(r)]",
+          "phoneticUS": "[ˌfɜːrðərˈmɔːr]",
+          "meaning": "adv. 此外；而且"
+        },
+        {
+          "term": "enable",
+          "phonetic": "[ɪˈneɪbl]",
+          "phoneticUS": "[ɪˈneɪbl]",
+          "meaning": "vt. 使能够，使成为可能；授予权利或方法"
+        },
+        {
+          "term": "activity",
+          "phonetic": "[ækˈtɪvəti]",
+          "phoneticUS": "[ækˈtɪvəti]",
+          "meaning": "n. 活动；行动；活跃"
+        },
+        {
+          "term": "adequate",
+          "phonetic": "[ˈædɪkwət]",
+          "phoneticUS": "[ˈædɪkwət]",
+          "meaning": "adj. 充足的；适当的；胜任的"
+        },
+        {
+          "term": "skim",
+          "phonetic": "[skɪm]",
+          "phoneticUS": "[skɪm]",
+          "meaning": "n. 撇；撇去的东西；表层物；瞒报所得的收入\nadj. 脱脂的；撇去浮沫的；表层的\nvt. 略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）\nvi. 浏览；掠过"
+        },
+        {
+          "term": "look over",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 浏览；检查；察看"
+        },
+        {
+          "term": "organize",
+          "phonetic": "[ˈɔːɡənaɪz]",
+          "phoneticUS": "[ˈɔːrɡənaɪz]",
+          "meaning": "vt. 组织；使有系统化；给予生机；组织成立工会等\nvi. 组织起来；成立组织"
+        },
+        {
+          "term": "portion",
+          "phonetic": "[ˈpɔːʃ(ə)n]",
+          "phoneticUS": "[ˈpɔːrʃn]",
+          "meaning": "n. 部分；一份；命运\nvt. 分配；给…嫁妆"
+        },
+        {
+          "term": "comprehension",
+          "phonetic": "[ˌkɒmprɪˈhenʃn]",
+          "phoneticUS": "[ˌkɑːmprɪˈhenʃn]",
+          "meaning": "n. 理解；包含"
+        },
+        {
+          "term": "go over",
+          "phonetic": "[ɡəʊ ˈəʊvə(r)]",
+          "phoneticUS": "[ɡoʊ ˈoʊvər]",
+          "meaning": "na. 仔细查看；仔细搜查；排练；重温"
+        },
+        {
+          "term": "confuse",
+          "phonetic": "[kənˈfjuːz]",
+          "phoneticUS": "[kənˈfjuːz]",
+          "meaning": "vt. 使混乱；使困惑"
+        },
+        {
+          "term": "textbook",
+          "phonetic": "[ˈtekstbʊk]",
+          "phoneticUS": "[ˈtekstbʊk]",
+          "meaning": "n. 教科书，课本"
+        },
+        {
+          "term": "performance",
+          "phonetic": "[pəˈfɔːməns]",
+          "phoneticUS": "[pərˈfɔːrməns]",
+          "meaning": "n. 性能；绩效；表演；执行；表现"
+        },
+        {
+          "term": "attitude",
+          "phonetic": "[ˈætɪtjuːd]",
+          "phoneticUS": "[ˈætɪtuːd]",
+          "meaning": "n. 态度；看法；意见；姿势"
+        },
+        {
+          "term": "permanent",
+          "phonetic": "[ˈpɜːmənənt]",
+          "phoneticUS": "[ˈpɜːrmənənt]",
+          "meaning": "n. 烫发（等于permanent wave）\nadj. 永久的，永恒的；不变的"
+        },
+        {
+          "term": "single-handed",
+          "phonetic": "[ˌsɪŋɡl ˈhændɪd]",
+          "phoneticUS": "[ˌsɪŋɡl ˈhændɪd]",
+          "meaning": "adj. 单手的；单独一人的；无助的\nadv. 单独地；独力地；无助地"
+        },
+        {
+          "term": "solo",
+          "phonetic": "[ˈsəʊləʊ]",
+          "phoneticUS": "[ˈsoʊloʊ]",
+          "meaning": "n. 独奏；独唱；独奏曲\nadj. 独奏的；独唱的；单独的\nvt. 单人攀登；单独驾\nvi. 单独表演；放单飞\nadv. 单独地"
+        },
+        {
+          "term": "transatlantic",
+          "phonetic": "[ˌtrænzətˈlæntɪk]",
+          "phoneticUS": "[ˌtrænzətˈlæntɪk]",
+          "meaning": "adj. 大西洋彼岸的，横渡大西洋的；美国的"
+        },
+        {
+          "term": "lung",
+          "phonetic": "[lʌŋ]",
+          "phoneticUS": "[lʌŋ]",
+          "meaning": "n. 肺；呼吸器"
+        },
+        {
+          "term": "cancer",
+          "phonetic": "[ˈkænsə(r)]",
+          "phoneticUS": "[ˈkænsər]",
+          "meaning": "[天] 巨蟹座"
+        },
+        {
+          "term": "determined",
+          "phonetic": "[dɪˈtɜːmɪnd]",
+          "phoneticUS": "[dɪˈtɜːrmɪnd]",
+          "meaning": "v. 决定；断定（determine的过去分词）\nadj. 决定了的；坚决的"
+        },
+        {
+          "term": "determine",
+          "phonetic": "[dɪˈtɜːmɪn]",
+          "phoneticUS": "[dɪˈtɜːrmɪn]",
+          "meaning": "v. （使）下决心，（使）做出决定\nvt. 决定，确定；判定，判决；限定\nvi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束"
+        },
+        {
+          "term": "determination",
+          "phonetic": "[dɪˌtɜːmɪˈneɪʃ(ə)n]",
+          "phoneticUS": "[dɪˌtɜːrmɪˈneɪʃn]",
+          "meaning": "n. 决心；果断；测定"
+        },
+        {
+          "term": "retire",
+          "phonetic": "[rɪˈtaɪə(r)]",
+          "phoneticUS": "[rɪˈtaɪər]",
+          "meaning": "n. 退休；退隐；退兵信号\nvi. 退休；撤退；退却\nvt. 退休；离开；收回"
+        },
+        {
+          "term": "voyage",
+          "phonetic": "[ˈvɔɪɪdʒ]",
+          "phoneticUS": "[ˈvɔɪɪdʒ]",
+          "meaning": "n. 航行；航程；旅行记\nvt. 飞过；渡过\nvi. 航行；航海"
+        },
+        {
+          "term": "clipper",
+          "phonetic": "[ˈklɪpə(r)]",
+          "phoneticUS": "[ˈklɪpər]",
+          "meaning": "n. 快速帆船；大剪刀；剪削者；理发剪"
+        },
+        {
+          "term": "crew",
+          "phonetic": "[kruː]",
+          "phoneticUS": "[kruː]",
+          "meaning": "n. 队，组；全体人员，全体船员\nvt. 使当船员\nvi. 一起工作"
+        },
+        {
+          "term": "steer",
+          "phonetic": "[stɪə(r)]",
+          "phoneticUS": "[stɪr]",
+          "meaning": "vt. 控制，引导；驾驶\nvi. 驾驶，掌舵；行驶\nn. 阉牛"
+        },
+        {
+          "term": "device",
+          "phonetic": "[dɪˈvaɪs]",
+          "phoneticUS": "[dɪˈvaɪs]",
+          "meaning": "n. 装置；策略；图案"
+        },
+        {
+          "term": "steering device",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 转向器；转向装置"
+        },
+        {
+          "term": "gale",
+          "phonetic": "[ɡeɪl]",
+          "phoneticUS": "[ɡeɪl]",
+          "meaning": "n. [气象] 大风，狂风；（突发的）一阵"
+        },
+        {
+          "term": "cover",
+          "phonetic": "[ˈkʌvə(r)]",
+          "phoneticUS": "[ˈkʌvər]",
+          "meaning": "n. 封面，封皮；盖子；掩蔽物;幌子，借口\nvt. 包括；采访，报导；涉及\nvi. 覆盖；代替"
+        },
+        {
+          "term": "previously",
+          "phonetic": "[ˈpriːviəsli]",
+          "phoneticUS": "[ˈpriːviəsli]",
+          "meaning": "adv. 以前；预先；仓促地"
+        },
+        {
+          "term": "previous",
+          "phonetic": "[ˈpriːviəs]",
+          "phoneticUS": "[ˈpriːviəs]",
+          "meaning": "adj. 以前的；早先的；过早的\nadv. 在先；在…以前"
+        },
+        {
+          "term": "Australian",
+          "phonetic": "[ɒˈstreɪliən]",
+          "phoneticUS": "[ɔːˈstreɪliən]",
+          "meaning": "adj. 澳大利亚的，澳大利亚人的\nn. 澳大利亚人"
+        },
+        {
+          "term": "dissuade",
+          "phonetic": "[dɪˈsweɪd]",
+          "phoneticUS": "[dɪˈsweɪd]",
+          "meaning": "vt. 劝阻，劝止"
+        },
+        {
+          "term": "treacherous",
+          "phonetic": "[ˈtretʃərəs]",
+          "phoneticUS": "[ˈtretʃərəs]",
+          "meaning": "adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的"
+        },
+        {
+          "term": "cape",
+          "phonetic": "[keɪp]",
+          "phoneticUS": "[keɪp]",
+          "meaning": "n. [地理] 海角，岬；披肩"
+        },
+        {
+          "term": "fortunately",
+          "phonetic": "[ˈfɔːtʃənətli]",
+          "phoneticUS": "[ˈfɔːrtʃənətli]",
+          "meaning": "adv. 幸运地"
+        },
+        {
+          "term": "contact",
+          "phonetic": "[ˈkɒntækt]",
+          "phoneticUS": "[ˈkɑːntækt]",
+          "meaning": "n. 接触，联系\nvt. 使接触，联系\nvi. 使接触，联系"
+        },
+        {
+          "term": "nearby",
+          "phonetic": "[ˌnɪəˈbaɪ]",
+          "phoneticUS": "[ˌnɪrˈbaɪ]",
+          "meaning": "adj. 附近的，邻近的\nadv. 在附近\nprep. 在…附近"
+        },
+        {
+          "term": "following",
+          "phonetic": "[ˈfɒləʊɪŋ]",
+          "phoneticUS": "[ˈfɑːloʊɪŋ]",
+          "meaning": "n. 下列事物；一批追随者\nv. 跟随；沿行（follow的ing形式）\nadj. 下面的；其次的，接着的"
+        },
+        {
+          "term": "waken",
+          "phonetic": "[ˈweɪkən]",
+          "phoneticUS": "[ˈweɪkən]",
+          "meaning": "vt. 唤醒；使觉醒\nvi. 醒来；觉醒"
+        },
+        {
+          "term": "nightmare",
+          "phonetic": "[ˈnaɪtmeə(r)]",
+          "phoneticUS": "[ˈnaɪtmer]",
+          "meaning": "n. 恶梦；梦魇般的经历\nadj. 可怕的；噩梦似的"
+        },
+        {
+          "term": "drag",
+          "phonetic": "[dræɡ]",
+          "phoneticUS": "[dræɡ]",
+          "meaning": "n. 拖；拖累\nvi. 拖曳；缓慢而吃力地行进\nvt. 拖累；拖拉；缓慢而吃力地行进"
+        },
+        {
+          "term": "sinister",
+          "phonetic": "[ˈsɪnɪstə(r)]",
+          "phoneticUS": "[ˈsɪnɪstər]",
+          "meaning": "adj. 阴险的；凶兆的；灾难性的；左边的"
+        },
+        {
+          "term": "knight",
+          "phonetic": "[naɪt]",
+          "phoneticUS": "[naɪt]",
+          "meaning": "n. 骑士，武士；爵士\nvt. 授以爵位"
+        },
+        {
+          "term": "sword",
+          "phonetic": "[sɔːd]",
+          "phoneticUS": "[sɔːrd]",
+          "meaning": "n. 刀，剑；武力，战争"
+        },
+        {
+          "term": "accomplish",
+          "phonetic": "[əˈkʌmplɪʃ]",
+          "phoneticUS": "[əˈkɑːmplɪʃ]",
+          "meaning": "vt. 完成；实现；达到"
+        },
+        {
+          "term": "adventurer",
+          "phonetic": "[ədˈventʃərə(r)]",
+          "phoneticUS": "[ədˈventʃərər]",
+          "meaning": "n. 冒险家；投机商人"
+        },
+        {
+          "term": "conquer",
+          "phonetic": "[ˈkɒŋkə(r)]",
+          "phoneticUS": "[ˈkɑːŋkər]",
+          "meaning": "vt. 战胜，征服；攻克，攻取\nvi. 胜利；得胜"
+        },
+        {
+          "term": "undoubtedly",
+          "phonetic": "[ʌnˈdaʊtɪdli]",
+          "phoneticUS": "[ʌnˈdaʊtɪdli]",
+          "meaning": "adv. 确实地，毋庸置疑的"
+        },
+        {
+          "term": "moreover",
+          "phonetic": "[mɔːrˈəʊvə(r)]",
+          "phoneticUS": "[mɔːrˈoʊvər]",
+          "meaning": "adv. 而且；此外"
+        },
+        {
+          "term": "being",
+          "phonetic": "[ˈbiːɪŋ]",
+          "phoneticUS": "[ˈbiːɪŋ]",
+          "meaning": "n. 存在；生命；本质；品格\nadj. 存在的；现有的"
+        },
+        {
+          "term": "set out",
+          "phonetic": "[set aʊt]",
+          "phoneticUS": "[set aʊt]",
+          "meaning": "n. 开始；出发；动身；准备"
+        },
+        {
+          "term": "give up",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 放弃；断绝；投降；自首"
+        },
+        {
+          "term": "be determined",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "决意；决定的；立志"
+        },
+        {
+          "term": "be determined to do sth.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "决心做某事；下定决心做某事；下决心做某事"
+        },
+        {
+          "term": "by oneself",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 单独；独自；独力"
+        },
+        {
+          "term": "all by oneself",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "单独；全靠自己；独立"
+        },
+        {
+          "term": "in spite of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. spite of 不管；〔古语〕无视"
+        },
+        {
+          "term": "by far",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. (修饰比较级,最高级,表示数量,程度等)…得多；尤其；更"
+        },
+        {
+          "term": "turn over",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. ￡ 500 a week 每星期卖得五百镑"
+        },
+        {
+          "term": "can not help",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 禁不住"
+        },
+        {
+          "term": "channel",
+          "phonetic": "[ˈtʃæn(ə)l]",
+          "phoneticUS": "[ˈtʃænl]",
+          "meaning": "n. 通道；频道；海峡\nvt. 引导，开导；形成河道"
+        },
+        {
+          "term": "somewhat",
+          "phonetic": "[ˈsʌmwɒt]",
+          "phoneticUS": "[ˈsʌmwʌt]",
+          "meaning": "n. 几分；某物\nadv. 有点；多少；几分；稍微"
+        },
+        {
+          "term": "reporter",
+          "phonetic": "[rɪˈpɔːtə(r)]",
+          "phoneticUS": "[rɪˈpɔːrtər]",
+          "meaning": "n. 记者"
+        },
+        {
+          "term": "recently",
+          "phonetic": "[ˈriːs(ə)ntli]",
+          "phoneticUS": "[ˈriːsntli]",
+          "meaning": "adv. 最近；新近"
+        },
+        {
+          "term": "supermarket",
+          "phonetic": "[ˈsuːpəmɑːkɪt]",
+          "phoneticUS": "[ˈsuːpərmɑːrkɪt]",
+          "meaning": "n. 超级市场；自助售货商店"
+        },
+        {
+          "term": "challenge",
+          "phonetic": "[ˈtʃælɪndʒ]",
+          "phoneticUS": "[ˈtʃælɪndʒ]",
+          "meaning": "n. 挑战；怀疑\nvt. 向…挑战；对…质疑"
+        },
+        {
+          "term": "satisfactory",
+          "phonetic": "[ˌsætɪsˈfæktəri]",
+          "phoneticUS": "[ˌsætɪsˈfæktəri]",
+          "meaning": "adj. 满意的；符合要求的；赎罪的"
+        },
+        {
+          "term": "ability",
+          "phonetic": "[əˈbɪləti]",
+          "phoneticUS": "[əˈbɪləti]",
+          "meaning": "n. 能力，能耐；才能"
+        },
+        {
+          "term": "endurance",
+          "phonetic": "[ɪnˈdjʊərəns]",
+          "phoneticUS": "[ɪnˈdʊrəns]",
+          "meaning": "n. 忍耐力；忍耐；持久；耐久"
+        },
+        {
+          "term": "prior",
+          "phonetic": "[ˈpraɪə(r)]",
+          "phoneticUS": "[ˈpraɪər]",
+          "meaning": "adj. 优先的；在先的，在前的\nadv. 在前，居先"
+        },
+        {
+          "term": "physically",
+          "phonetic": "[ˈfɪzɪkli]",
+          "phoneticUS": "[ˈfɪzɪkli]",
+          "meaning": "adv. 身体上，身体上地"
+        },
+        {
+          "term": "moderately",
+          "phonetic": "[ˈmɒdərətli]",
+          "phoneticUS": "[ˈmɑːdərətli]",
+          "meaning": "adv. 适度地；中庸地；有节制地"
+        },
+        {
+          "term": "arrangement",
+          "phonetic": "[əˈreɪndʒmənt]",
+          "phoneticUS": "[əˈreɪndʒmənt]",
+          "meaning": "n. 布置；整理；准备"
+        },
+        {
+          "term": "aboard",
+          "phonetic": "[əˈbɔːd]",
+          "phoneticUS": "[əˈbɔːrd]",
+          "meaning": "prep. 在…上\nadv. 在飞机上；[船] 在船上；在火车上"
+        },
+        {
+          "term": "tough",
+          "phonetic": "[tʌf]",
+          "phoneticUS": "[tʌf]",
+          "meaning": "n. 恶棍\nadj. 艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的\nvt. 坚持；忍受，忍耐\nadv. 强硬地，顽强地"
+        },
+        {
+          "term": "postman",
+          "phonetic": "[ˈpəʊstmən]",
+          "phoneticUS": "[ˈpoʊstmən]",
+          "meaning": "n. 邮递员；邮差"
+        },
+        {
+          "term": "rare",
+          "phonetic": "[reə(r)]",
+          "phoneticUS": "[rer]",
+          "meaning": "adj. 稀有的；稀薄的；半熟的\nadj. 杰出的；极度的；非常好的\nadv. 非常；极其\nvi. 用后腿站起；渴望"
+        },
+        {
+          "term": "occasion",
+          "phonetic": "[əˈkeɪʒ(ə)n]",
+          "phoneticUS": "[əˈkeɪʒn]",
+          "meaning": "n. 时机，机会；场合；理由\nvt. 引起，惹起"
+        },
+        {
+          "term": "mayor",
+          "phonetic": "[meə(r)]",
+          "phoneticUS": "[ˈmeɪər]",
+          "meaning": "n. 市长"
+        },
+        {
+          "term": "medal",
+          "phonetic": "[ˈmedl]",
+          "phoneticUS": "[ˈmedl]",
+          "meaning": "n. 勋章，奖章；纪念章"
+        },
+        {
+          "term": "aged",
+          "phonetic": "[eɪdʒd]",
+          "phoneticUS": "[eɪdʒd; ˈeɪdʒɪd]",
+          "meaning": "v. 老化（age的过去式）；成熟；变老\nadj. 年老的；…岁的；老年人特有的"
+        },
+        {
+          "term": "content",
+          "phonetic": "[ˈkɒntent]",
+          "phoneticUS": "[ˈkɑːntent; kənˈtent]",
+          "meaning": "n. 内容，目录；满足；容量\nadj. 满意的\nvt. 使满足"
+        },
+        {
+          "term": "primary",
+          "phonetic": "[ˈpraɪməri]",
+          "phoneticUS": "[ˈpraɪmeri]",
+          "meaning": "n. 原色；最主要者\nadj. 主要的；初级的；基本的"
+        },
+        {
+          "term": "arrange",
+          "phonetic": "[əˈreɪndʒ]",
+          "phoneticUS": "[əˈreɪndʒ]",
+          "meaning": "vi. 安排；排列；协商\nvt. 安排；排列；整理"
+        },
+        {
+          "term": "minor",
+          "phonetic": "[ˈmaɪnə(r)]",
+          "phoneticUS": "[ˈmaɪnər]",
+          "meaning": "adj. 未成年的；次要的；较小的；小调的；二流的\nn. 未成年人；小调；副修科目\nvi. 副修"
+        },
+        {
+          "term": "operate",
+          "phonetic": "[ˈɒpəreɪt]",
+          "phoneticUS": "[ˈɑːpəreɪt]",
+          "meaning": "vi. 运转；动手术；起作用\nvt. 操作；经营；引起；对…开刀"
+        },
+        {
+          "term": "operating table",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 手术台"
+        },
+        {
+          "term": "funeral",
+          "phonetic": "[ˈfjuːnərəl]",
+          "phoneticUS": "[ˈfjuːnərəl]",
+          "meaning": "n. 葬礼；麻烦事\nadj. 丧葬的，出殡的"
+        },
+        {
+          "term": "efficient",
+          "phonetic": "[ɪˈfɪʃnt]",
+          "phoneticUS": "[ɪˈfɪʃnt]",
+          "meaning": "adj. 有效率的；有能力的；生效的"
+        },
+        {
+          "term": "decade",
+          "phonetic": "[ˈdekeɪd]",
+          "phoneticUS": "[ˈdekeɪdˌdɪˈkeɪd]",
+          "meaning": "n. 十年，十年期；十"
+        },
+        {
+          "term": "endure",
+          "phonetic": "[ɪnˈdjʊə(r)]",
+          "phoneticUS": "[ɪnˈdʊr]",
+          "meaning": "vt. 忍耐；容忍\nvi. 忍耐；持续"
+        },
+        {
+          "term": "spot",
+          "phonetic": "[spɒt]",
+          "phoneticUS": "[spɑːt]",
+          "meaning": "n. 地点；斑点\nadj. 现场的；现货买卖的\nvt. 认出；弄脏；用灯光照射\nvi. 沾上污渍；满是斑点\nadv. 准确地；恰好"
+        },
+        {
+          "term": "brighten",
+          "phonetic": "[ˈbraɪtn]",
+          "phoneticUS": "[ˈbraɪt(ə)n]",
+          "meaning": "vt. 使闪亮；使生辉；使快乐高兴\nvi. 明亮；变亮；活跃；快乐高兴"
+        },
+        {
+          "term": "clean",
+          "phonetic": "[kliːn]",
+          "phoneticUS": "[kliːn]",
+          "meaning": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地"
+        },
+        {
+          "term": "bunch",
+          "phonetic": "[bʌntʃ]",
+          "phoneticUS": "[bʌntʃ]",
+          "meaning": "n. 群；串；突出物\nvt. 使成一串；使打褶\nvi. 隆起；打褶；形成一串"
+        },
+        {
+          "term": "marigold",
+          "phonetic": "[ˈmærɪɡəʊld]",
+          "phoneticUS": "[ˈmærɪɡoʊld]",
+          "meaning": "n. 万寿菊；金盏花"
+        },
+        {
+          "term": "mint",
+          "phonetic": "[mɪnt]",
+          "phoneticUS": "[mɪnt]",
+          "meaning": "n. 薄荷；[金融] 造币厂，巨款\nvt. 铸造，铸币\nadj. 完美的"
+        },
+        {
+          "term": "slipper",
+          "phonetic": "[ˈslɪpə(r)]",
+          "phoneticUS": "[ˈslɪpər]",
+          "meaning": "n. 拖鞋\nvt. 用拖鞋打"
+        },
+        {
+          "term": "cardigan",
+          "phonetic": "[ˈkɑːdɪɡən]",
+          "phoneticUS": "[ˈkɑːrdɪɡən]",
+          "meaning": "n. 羊毛衫，开襟羊毛衫（等于cardigan sweater）"
+        },
+        {
+          "term": "clatter",
+          "phonetic": "[ˈklætə(r)]",
+          "phoneticUS": "[ˈklætər]",
+          "meaning": "n. 哗啦声；嘈杂的谈笑声；咔嗒声\nvi. 发出哗啦声；喧闹的谈笑\nvt. 使卡搭卡搭的响"
+        },
+        {
+          "term": "granny",
+          "phonetic": "[ˈɡræni]",
+          "phoneticUS": "[ˈɡræni]",
+          "meaning": "n. 奶奶；外婆；婆婆妈妈的人"
+        },
+        {
+          "term": "unsealed",
+          "phonetic": "[ʌnˈsiːld]",
+          "phoneticUS": "[,ʌn'si:ld]",
+          "meaning": "adj. 未封口的；未证实的\nv. 启封；解除约束（unseal的过去分词）"
+        },
+        {
+          "term": "sealed",
+          "phonetic": "[siːld]",
+          "phoneticUS": "[siːld]",
+          "meaning": "v. 封闭；盖印（seal的过去分词）\nadj. 密封的；未知的"
+        },
+        {
+          "term": "seal",
+          "phonetic": "[siːl]",
+          "phoneticUS": "[siːl]",
+          "meaning": "n. 密封；印章；海豹；封条；标志\nvt. 密封；盖章\nvi. 猎海豹"
+        },
+        {
+          "term": "writing",
+          "phonetic": "[ˈraɪtɪŋ]",
+          "phoneticUS": "[ˈraɪtɪŋ]",
+          "meaning": "n. 书写；作品；著作；[法] 笔迹\nv. 书写（write的ing形式）"
+        },
+        {
+          "term": "pang",
+          "phonetic": "[pæŋ]",
+          "phoneticUS": "[pæŋ]",
+          "meaning": "n. （肉体上）剧痛；苦闷；（精神上）一阵极度的痛苦\nvt. 使剧痛；折磨"
+        },
+        {
+          "term": "disappointment",
+          "phonetic": "[ˌdɪsəˈpɔɪntmənt]",
+          "phoneticUS": "[ˌdɪsəˈpɔɪntmənt]",
+          "meaning": "n. 失望；沮丧"
+        },
+        {
+          "term": "parcel",
+          "phonetic": "[ˈpɑːs(ə)l]",
+          "phoneticUS": "[ˈpɑːrsl]",
+          "meaning": "n. 包裹，小包\nvt. 打包；捆扎"
+        },
+        {
+          "term": "reluctantly",
+          "phonetic": "[rɪˈlʌktəntli]",
+          "phoneticUS": "[rɪˈlʌktəntli]",
+          "meaning": "adv. 不情愿地；嫌恶地"
+        },
+        {
+          "term": "reluctant",
+          "phonetic": "[rɪˈlʌktənt]",
+          "phoneticUS": "[rɪˈlʌktənt]",
+          "meaning": "adj. 不情愿的；勉强的；顽抗的"
+        },
+        {
+          "term": "flutter",
+          "phonetic": "[ˈflʌtə(r)]",
+          "phoneticUS": "[ˈflʌtər]",
+          "meaning": "n. 摆动；鼓翼；烦扰\nvt. 拍；使焦急；使飘动\nvi. 飘动；鼓翼；烦扰"
+        },
+        {
+          "term": "stoop",
+          "phonetic": "[stuːp]",
+          "phoneticUS": "[stuːp]",
+          "meaning": "n. 弯腰，屈背；屈服\nvt. 辱没，堕落；俯曲\nvi. 弯腰；屈服；堕落"
+        },
+        {
+          "term": "tremble",
+          "phonetic": "[ˈtremb(ə)l]",
+          "phoneticUS": "[ˈtrembl]",
+          "meaning": "n. 颤抖；战栗；摇晃\nvi. 发抖；战栗；焦虑；摇晃\nvt. 使挥动；用颤抖的声音说出"
+        },
+        {
+          "term": "at other times",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 平素"
+        },
+        {
+          "term": "round the corner",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 在拐弯的地方；在拐角处；在附近"
+        },
+        {
+          "term": "around the corner",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. (= 〔英国〕 round the corner)在拐角那里"
+        },
+        {
+          "term": "look after",
+          "phonetic": "[lʊk ˈɑːftə(r)]",
+          "phoneticUS": "[lʊk ˈæftər]",
+          "meaning": "na. 照看；照顾；看管；对…负责"
+        },
+        {
+          "term": "after all",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 毕竟；终究；最后"
+        },
+        {
+          "term": "be sure of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 确信"
+        },
+        {
+          "term": "pick up",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 拾起；探出；重新开始"
+        },
+        {
+          "term": "adult",
+          "phonetic": "[ˈædʌlt; əˈdʌlt]",
+          "phoneticUS": "[əˈdʌlt; ˈædʌlt]",
+          "meaning": "n. 成年人\nadj. 成年的；成熟的"
+        },
+        {
+          "term": "emotion",
+          "phonetic": "[ɪˈməʊʃn]",
+          "phoneticUS": "[ɪˈmoʊʃn]",
+          "meaning": "n. 情感；情绪"
+        },
+        {
+          "term": "security",
+          "phonetic": "[sɪˈkjʊərəti]",
+          "phoneticUS": "[sɪˈkjʊrəti]",
+          "meaning": "n. 安全；保证；证券；抵押品\nadj. 安全的；保安的；保密的"
+        },
+        {
+          "term": "discomfort",
+          "phonetic": "[dɪsˈkʌmfət]",
+          "phoneticUS": "[dɪsˈkʌmfərt]",
+          "meaning": "n. 不适，不安；不便之处\nvt. 使……不舒服；使……不安"
+        },
+        {
+          "term": "privilege",
+          "phonetic": "[ˈprɪvəlɪdʒ]",
+          "phoneticUS": "[ˈprɪvəlɪdʒ]",
+          "meaning": "n. 特权；优待\nvt. 给与…特权；特免"
+        },
+        {
+          "term": "community",
+          "phonetic": "[kəˈmjuːnəti]",
+          "phoneticUS": "[kəˈmjuːnəti]",
+          "meaning": "n. 社区；[生态] 群落；共同体；团体"
+        },
+        {
+          "term": "related",
+          "phonetic": "[rɪˈleɪtɪd]",
+          "phoneticUS": "[rɪˈleɪtɪd]",
+          "meaning": "v. 叙述（relate过去式）\nadj. 有关系的，有关联的；讲述的，叙述的"
+        },
+        {
+          "term": "apartment",
+          "phonetic": "[əˈpɑːtmənt]",
+          "phoneticUS": "[əˈpɑːrtmənt]",
+          "meaning": "n. 公寓；房间"
+        },
+        {
+          "term": "worthwhile",
+          "phonetic": "[ˌwɜːθˈwaɪl]",
+          "phoneticUS": "[ˌwɜːrθˈwaɪl]",
+          "meaning": "adj. 值得做的，值得花时间的"
+        },
+        {
+          "term": "educational",
+          "phonetic": "[ˌedʒuˈkeɪʃən(ə)l]",
+          "phoneticUS": "[ˌedʒuˈkeɪʃənl]",
+          "meaning": "adj. 教育的；有教育意义的"
+        },
+        {
+          "term": "current",
+          "phonetic": "[ˈkʌrənt]",
+          "phoneticUS": "[ˈkɜːrənt]",
+          "meaning": "n. （水，气，电）流；趋势；涌流\nadj. 现在的；流通的，通用的；最近的；草写的"
+        },
+        {
+          "term": "social",
+          "phonetic": "[ˈsəʊʃ(ə)l]",
+          "phoneticUS": "[ˈsoʊʃ(ə)l]",
+          "meaning": "n. 联谊会；联欢会\nadj. 社会的，社交的；群居的"
+        },
+        {
+          "term": "activity",
+          "phonetic": "[ækˈtɪvəti]",
+          "phoneticUS": "[ækˈtɪvəti]",
+          "meaning": "n. 活动；行动；活跃"
+        },
+        {
+          "term": "prohibit",
+          "phonetic": "[prəˈhɪbɪt]",
+          "phoneticUS": "[prəˈhɪbɪtˌproʊˈhɪbɪt]",
+          "meaning": "vt. 阻止，禁止"
+        },
+        {
+          "term": "reasonable",
+          "phonetic": "[ˈriːznəbl]",
+          "phoneticUS": "[ˈriːznəbl]",
+          "meaning": "adj. 合理的，公道的；通情达理的"
+        },
+        {
+          "term": "proposal",
+          "phonetic": "[prəˈpəʊzl]",
+          "phoneticUS": "[prəˈpoʊzl]",
+          "meaning": "n. 提议，建议；求婚"
+        },
+        {
+          "term": "distraction",
+          "phonetic": "[dɪˈstrækʃn]",
+          "phoneticUS": "[dɪˈstrækʃn]",
+          "meaning": "n. 注意力分散；消遣；心烦意乱"
+        },
+        {
+          "term": "distract",
+          "phonetic": "[dɪˈstrækt]",
+          "phoneticUS": "[dɪˈstrækt]",
+          "meaning": "vt. 转移；分心"
+        },
+        {
+          "term": "actually",
+          "phonetic": "[ˈæktʃuəli]",
+          "phoneticUS": "[ˈæktʃuəli]",
+          "meaning": "adv. 实际上；事实上"
+        },
+        {
+          "term": "gap",
+          "phonetic": "[ɡæp]",
+          "phoneticUS": "[ɡæp]",
+          "meaning": "n. 间隙；缺口；差距；分歧\nvt. 使形成缺口\nvi. 裂开"
+        },
+        {
+          "term": "divorce",
+          "phonetic": "[dɪˈvɔːs]",
+          "phoneticUS": "[dɪˈvɔːrs]",
+          "meaning": "n. 离婚；分离\nvt. 使离婚，使分离；与…离婚\nvi. 离婚"
+        },
+        {
+          "term": "rate",
+          "phonetic": "[reɪt]",
+          "phoneticUS": "[reɪt]",
+          "meaning": "n. 比率，率；速度；价格；等级\nvt. 认为；估价；责骂\nvi. 责骂；被评价"
+        },
+        {
+          "term": "failure",
+          "phonetic": "[ˈfeɪljə(r)]",
+          "phoneticUS": "[ˈfeɪljər]",
+          "meaning": "n. 失败；故障；失败者；破产"
+        },
+        {
+          "term": "disturb",
+          "phonetic": "[dɪˈstɜːb]",
+          "phoneticUS": "[dɪˈstɜːrb]",
+          "meaning": "vt. 打扰；妨碍；使不安；弄乱；使恼怒\nvi. 打扰；妨碍"
+        },
+        {
+          "term": "emotional",
+          "phonetic": "[ɪˈməʊʃən(ə)l]",
+          "phoneticUS": "[ɪˈmoʊʃənl]",
+          "meaning": "adj. 情绪的；易激动的；感动人的"
+        },
+        {
+          "term": "rediscover",
+          "phonetic": "[ˌriːdɪˈskʌvə(r)]",
+          "phoneticUS": "[ˌriːdɪˈskʌvər]",
+          "meaning": "vt. 重新发现；再发现"
+        },
+        {
+          "term": "pastime",
+          "phonetic": "[ˈpɑːstaɪm]",
+          "phoneticUS": "[ˈpæstaɪm]",
+          "meaning": "n. 娱乐，消遣"
+        },
+        {
+          "term": "sunset",
+          "phonetic": "[ˈsʌnset]",
+          "phoneticUS": "[ˈsʌnset]",
+          "meaning": "n. 日落，傍晚"
+        },
+        {
+          "term": "neighborhood",
+          "phonetic": "[ˈneɪbəhʊd]",
+          "phoneticUS": "[ˈneɪbərhʊd]",
+          "meaning": "n. 附近；街坊；接近；街区"
+        },
+        {
+          "term": "adult",
+          "phonetic": "[ˈædʌlt; əˈdʌlt]",
+          "phoneticUS": "[əˈdʌlt; ˈædʌlt]",
+          "meaning": "n. 成年人\nadj. 成年的；成熟的"
+        },
+        {
+          "term": "entertainment",
+          "phonetic": "[ˌentəˈteɪnmənt]",
+          "phoneticUS": "[ˌentərˈteɪnmənt]",
+          "meaning": "n. 娱乐；消遣；款待"
+        },
+        {
+          "term": "typical",
+          "phonetic": "[ˈtɪpɪk(ə)l]",
+          "phoneticUS": "[ˈtɪpɪkl]",
+          "meaning": "adj. 典型的；特有的；象征性的"
+        },
+        {
+          "term": "educator",
+          "phonetic": "[ˈedʒukeɪtə(r)]",
+          "phoneticUS": "[ˈedʒukeɪtər]",
+          "meaning": "n. 教育家；教育工作者；教师"
+        },
+        {
+          "term": "barely",
+          "phonetic": "[ˈbeəli]",
+          "phoneticUS": "[ˈberli]",
+          "meaning": "adv. 仅仅，勉强；几乎不；公开地；贫乏地"
+        },
+        {
+          "term": "literate",
+          "phonetic": "[ˈlɪtərət]",
+          "phoneticUS": "[ˈlɪtərət]",
+          "meaning": "adj. 受过教育的；精通文学的\nn. 学者"
+        },
+        {
+          "term": "product",
+          "phonetic": "[ˈprɒdʌkt]",
+          "phoneticUS": "[ˈprɑːdʌkt]",
+          "meaning": "n. 产品；结果；[数] 乘积；作品"
+        },
+        {
+          "term": "network",
+          "phonetic": "[ˈnetwɜːk]",
+          "phoneticUS": "[ˈnetwɜːrk]",
+          "meaning": "n. 网络；广播网；网状物"
+        },
+        {
+          "term": "radical",
+          "phonetic": "[ˈrædɪkl]",
+          "phoneticUS": "[ˈrædɪkl]",
+          "meaning": "n. 基础；激进分子；[物化] 原子团；[数] 根数\nadj. 激进的；根本的；彻底的"
+        },
+        {
+          "term": "electronic",
+          "phonetic": "[ɪˌlekˈtrɒnɪk]",
+          "phoneticUS": "[ɪˌlekˈtrɑːnɪk]",
+          "meaning": "adj. 电子的\nn. 电子电路；电子器件"
+        },
+        {
+          "term": "electron",
+          "phonetic": "[ɪˈlektrɒn]",
+          "phoneticUS": "[ɪˈlektrɑːn]",
+          "meaning": "n. 电子"
+        },
+        {
+          "term": "baby-sitter",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 临时替人看小孩者"
+        },
+        {
+          "term": "childhood",
+          "phonetic": "[ˈtʃaɪldhʊd]",
+          "phoneticUS": "[ˈtʃaɪldhʊd]",
+          "meaning": "n. 童年时期；幼年时代"
+        },
+        {
+          "term": "involve",
+          "phonetic": "[ɪnˈvɒlv]",
+          "phoneticUS": "[ɪnˈvɑːlv]",
+          "meaning": "vt. 包含；牵涉；使陷于；潜心于"
+        },
+        {
+          "term": "imagination",
+          "phonetic": "[ɪˌmædʒɪˈneɪʃ(ə)n]",
+          "phoneticUS": "[ɪˌmædʒɪˈneɪʃn]",
+          "meaning": "n. [心理] 想象力；空想；幻想物"
+        },
+        {
+          "term": "learning",
+          "phonetic": "[ˈlɜːnɪŋ]",
+          "phoneticUS": "[ˈlɜːrnɪŋ]",
+          "meaning": "n. 学习；学问\nv. 学习（learn的现在分词）"
+        },
+        {
+          "term": "invent",
+          "phonetic": "[ɪnˈvent]",
+          "phoneticUS": "[ɪnˈvent]",
+          "meaning": "vt. 发明；创造；虚构"
+        },
+        {
+          "term": "generation gap",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 代沟；两代人之间的隔阂"
+        },
+        {
+          "term": "in part",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 一部份地；有几成；在某种程度上"
+        },
+        {
+          "term": "grow up",
+          "phonetic": "[ɡrəʊ ʌp]",
+          "phoneticUS": "[ɡroʊ ʌp]",
+          "meaning": "na. 长大"
+        },
+        {
+          "term": "bring together",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 集合"
+        },
+        {
+          "term": "come up with",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 想出(一个主意或计划)；提出；提供；筹措"
+        },
+        {
+          "term": "at first glance",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adv. 初看起来"
+        },
+        {
+          "term": "have a ball",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 〈非正式〉尽情享受；玩得开心"
+        },
+        {
+          "term": "lucky",
+          "phonetic": "[ˈlʌki]",
+          "phoneticUS": "[ˈlʌki]",
+          "meaning": "adj. 幸运的；侥幸的"
+        },
+        {
+          "term": "sob",
+          "phonetic": "[sɒb]",
+          "phoneticUS": "[sɑːb]",
+          "meaning": "n. 啜泣，呜咽\nvt. 哭诉，啜泣\nvi. 啜泣，呜咽；（风等）发出呜咽声"
+        },
+        {
+          "term": "argument",
+          "phonetic": "[ˈɑːɡjumənt]",
+          "phoneticUS": "[ˈɑːrɡjumənt]",
+          "meaning": "n. 论证；论据；争吵；内容提要"
+        },
+        {
+          "term": "excitement",
+          "phonetic": "[ɪkˈsaɪtmənt]",
+          "phoneticUS": "[ɪkˈsaɪtmənt]",
+          "meaning": "n. 兴奋；刺激；令人兴奋的事物"
+        },
+        {
+          "term": "living room",
+          "phonetic": "['lɪvɪŋ ru:m]",
+          "phoneticUS": "[ˈlɪvɪŋ ruːm]",
+          "meaning": "n. 客厅；起居室"
+        },
+        {
+          "term": "violence",
+          "phonetic": "[ˈvaɪələns]",
+          "phoneticUS": "[ˈvaɪələns]",
+          "meaning": "n. 暴力；侵犯；激烈；歪曲"
+        },
+        {
+          "term": "disagree",
+          "phonetic": "[ˌdɪsəˈɡriː]",
+          "phoneticUS": "[ˌdɪsəˈɡriː]",
+          "meaning": "vi. 不同意；不一致；争执；不适宜"
+        },
+        {
+          "term": "deny",
+          "phonetic": "[dɪˈnaɪ]",
+          "phoneticUS": "[dɪˈnaɪ]",
+          "meaning": "vi. 否认；拒绝\nvt. 否定，否认；拒绝给予；拒绝…的要求"
+        },
+        {
+          "term": "powerful",
+          "phonetic": "[ˈpaʊəf(ə)l]",
+          "phoneticUS": "[ˈpaʊərfl]",
+          "meaning": "adj. 强大的；强有力的\nadv. 很；非常"
+        },
+        {
+          "term": "influence",
+          "phonetic": "[ˈɪnfluəns]",
+          "phoneticUS": "[ˈɪnfluəns]",
+          "meaning": "n. 影响；势力；感化；有影响的人或事\nvt. 影响；改变"
+        },
+        {
+          "term": "concern",
+          "phonetic": "[kənˈsɜː(r)n]",
+          "phoneticUS": "[kənˈsɜːrn]",
+          "meaning": "n. 关系；关心；关心的事；忧虑\nvt. 涉及，关系到；使担心"
+        },
+        {
+          "term": "handful",
+          "phonetic": "[ˈhændfʊl]",
+          "phoneticUS": "[ˈhændfʊl]",
+          "meaning": "n. 少数；一把；棘手事"
+        },
+        {
+          "term": "spoil",
+          "phonetic": "[spɔɪl]",
+          "phoneticUS": "[spɔɪl]",
+          "meaning": "n. 次品；奖品\nvt. 溺爱；糟蹋；破坏；掠夺\nvi. 掠夺；变坏；腐败"
+        },
+        {
+          "term": "illustrate",
+          "phonetic": "[ˈɪləstreɪt]",
+          "phoneticUS": "[ˈɪləstreɪt]",
+          "meaning": "vi. 举例\nvt. 阐明，举例说明；图解"
+        },
+        {
+          "term": "genius",
+          "phonetic": "[ˈdʒiːniəs]",
+          "phoneticUS": "[ˈdʒiːniəs]",
+          "meaning": "n. 天才，天赋；精神"
+        },
+        {
+          "term": "semester",
+          "phonetic": "[sɪˈmestə(r)]",
+          "phoneticUS": "[sɪˈmestər]",
+          "meaning": "n. 学期；半年"
+        },
+        {
+          "term": "embarrass",
+          "phonetic": "[ɪmˈbærəs]",
+          "phoneticUS": "[ɪmˈbærəs]",
+          "meaning": "vt. 使局促不安；使困窘；阻碍"
+        },
+        {
+          "term": "embarrassment",
+          "phonetic": "[ɪmˈbærəsmənt]",
+          "phoneticUS": "[ɪmˈbærəsmənt]",
+          "meaning": "n. 窘迫，难堪；使人为难的人或事物；拮据"
+        },
+        {
+          "term": "astonishment",
+          "phonetic": "[əˈstɒnɪʃmənt]",
+          "phoneticUS": "[əˈstɑːnɪʃmənt]",
+          "meaning": "n. 惊讶；令人惊讶的事物"
+        },
+        {
+          "term": "astonish",
+          "phonetic": "[əˈstɒnɪʃ]",
+          "phoneticUS": "[əˈstɑːnɪʃ]",
+          "meaning": "vt. 使惊讶"
+        },
+        {
+          "term": "publish",
+          "phonetic": "[ˈpʌblɪʃ]",
+          "phoneticUS": "[ˈpʌblɪʃ]",
+          "meaning": "vi. 出版；发行；刊印\nvt. 出版；发表；公布"
+        },
+        {
+          "term": "publication",
+          "phonetic": "[ˌpʌblɪˈkeɪʃn]",
+          "phoneticUS": "[ˌpʌblɪˈkeɪʃn]",
+          "meaning": "n. 出版；出版物；发表"
+        },
+        {
+          "term": "dumb",
+          "phonetic": "[dʌm]",
+          "phoneticUS": "[dʌm]",
+          "meaning": "adj. 哑的，无说话能力的；不说话的，无声音的"
+        },
+        {
+          "term": "dumb luck",
+          "phonetic": "[dʌm lʌk]",
+          "phoneticUS": "[dʌm lʌk]",
+          "meaning": "不费多少心思和力气得来的好运，不应得的好运"
+        },
+        {
+          "term": "recipe",
+          "phonetic": "[ˈresəpi]",
+          "phoneticUS": "[ˈresəpi]",
+          "meaning": "n. 食谱；[临床] 处方；秘诀；烹饪法"
+        },
+        {
+          "term": "graduate",
+          "phonetic": "[ˈɡrædʒuət]",
+          "phoneticUS": "[ˈɡrædʒuət]",
+          "meaning": "n. 研究生；毕业生\nadj. 毕业的；研究生的\nvt. 授予…学位；分等级；标上刻度\nvi. 毕业；渐变"
+        },
+        {
+          "term": "graduation",
+          "phonetic": "[ˌɡrædʒuˈeɪʃ(ə)n]",
+          "phoneticUS": "[ˌɡrædʒuˈeɪʃn]",
+          "meaning": "n. 毕业；毕业典礼；刻度，分度；分等级"
+        },
+        {
+          "term": "minus",
+          "phonetic": "[ˈmaɪnəs]",
+          "phoneticUS": "[ˈmaɪnəs]",
+          "meaning": "prep. 减，减去\nn. 负号，减号；不足；负数\nadj. 减的；负的"
+        },
+        {
+          "term": "scrapbook",
+          "phonetic": "[ˈskræpbʊk]",
+          "phoneticUS": "[ˈskræpbʊk]",
+          "meaning": "n. 剪贴簿"
+        },
+        {
+          "term": "latter",
+          "phonetic": "[ˈlætə(r)]",
+          "phoneticUS": "[ˈlætər]",
+          "meaning": "adj. 后者的；近来的；后面的；较后的"
+        },
+        {
+          "term": "the latter",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adj. （刚提及的两者中）后者的；末尾的；后半期的；后面的\nn. （刚提及的两者中）后者；（系列中）最后一位"
+        },
+        {
+          "term": "echo",
+          "phonetic": "[ˈekəʊ]",
+          "phoneticUS": "[ˈekoʊ]",
+          "meaning": "n. 回音；效仿\nvt. 反射；重复\nvi. 随声附和；发出回声"
+        },
+        {
+          "term": "laughter",
+          "phonetic": "[ˈlɑːftə(r)]",
+          "phoneticUS": "[ˈlæftər]",
+          "meaning": "n. 笑；笑声"
+        },
+        {
+          "term": "nonsense",
+          "phonetic": "[ˈnɒns(ə)ns]",
+          "phoneticUS": "[ˈnɑːnsens; ˈnɑːnsns]",
+          "meaning": "n. 胡说；废话\nadj. 荒谬的\nint. 胡说！"
+        },
+        {
+          "term": "laundry",
+          "phonetic": "[ˈlɔːndri]",
+          "phoneticUS": "[ˈlɔːndri]",
+          "meaning": "n. 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服"
+        },
+        {
+          "term": "ancient",
+          "phonetic": "[ˈeɪnʃənt]",
+          "phoneticUS": "[ˈeɪnʃənt]",
+          "meaning": "n. 古代人；老人\nadj. 古代的；古老的，过时的；年老的"
+        },
+        {
+          "term": "random",
+          "phonetic": "[ˈrændəm]",
+          "phoneticUS": "[ˈrændəm]",
+          "meaning": "n. 随意\nadj. [数] 随机的；任意的；胡乱的\nadv. 胡乱地"
+        },
+        {
+          "term": "manuscript",
+          "phonetic": "[ˈmænjuskrɪpt]",
+          "phoneticUS": "[ˈmænjuskrɪpt]",
+          "meaning": "n. [图情] 手稿；原稿\nadj. 手写的"
+        },
+        {
+          "term": "diaper",
+          "phonetic": "[ˈdaɪpə(r)]",
+          "phoneticUS": "[ˈdaɪpər]",
+          "meaning": "n. 尿布\nvt. 给孩子换尿布"
+        },
+        {
+          "term": "package",
+          "phonetic": "[ˈpækɪdʒ]",
+          "phoneticUS": "[ˈpækɪdʒ]",
+          "meaning": "n. 包，包裹；套装软件，[计] 程序包\nadj. 一揽子的\nvt. 打包；将…包装"
+        },
+        {
+          "term": "enclose",
+          "phonetic": "[ɪnˈkləʊz]",
+          "phoneticUS": "[ɪnˈkloʊz]",
+          "meaning": "vt. 围绕；装入；放入封套"
+        },
+        {
+          "term": "illustration",
+          "phonetic": "[ˌɪləˈstreɪʃ(ə)n]",
+          "phoneticUS": "[ˌɪləˈstreɪʃn]",
+          "meaning": "n. 说明；插图；例证；图解"
+        },
+        {
+          "term": "chapter",
+          "phonetic": "[ˈtʃæptə(r)]",
+          "phoneticUS": "[ˈtʃæptər]",
+          "meaning": "n. 章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期\nvt. 把…分成章节"
+        },
+        {
+          "term": "favorite",
+          "phonetic": "[ˈfeɪvərɪt]",
+          "phoneticUS": "[ˈfeɪvərɪt]",
+          "meaning": "n. 幸运儿；喜欢的事物；特别喜欢的人\nadj. 最喜爱的；中意的；宠爱的"
+        },
+        {
+          "term": "string",
+          "phonetic": "[strɪŋ]",
+          "phoneticUS": "[strɪŋ]",
+          "meaning": "n. 线，弦，细绳；一串，一行"
+        },
+        {
+          "term": "contract",
+          "phonetic": "[ˈkɒntrækt; kənˈtrækt]",
+          "phoneticUS": "[ˈkɑːntrækt; kənˈtrækt]",
+          "meaning": "n. 合同；婚约\nvt. 感染；订约；使缩短\nvi. 收缩；感染；订约"
+        },
+        {
+          "term": "royalty",
+          "phonetic": "[ˈrɔɪəlti]",
+          "phoneticUS": "[ˈrɔɪəlti]",
+          "meaning": "n. 皇室；版税；王权；专利税"
+        },
+        {
+          "term": "bestseller",
+          "phonetic": "[ˌbestˈselə(r)]",
+          "phoneticUS": "[ˌbestˈselər]",
+          "meaning": "n. 畅销书；畅销书作者；畅销商品（等于best seller）"
+        },
+        {
+          "term": "worldwide",
+          "phonetic": "[ˌwɜːldˈwaɪd]",
+          "phoneticUS": "[ˌwɜːrldˈwaɪd]",
+          "meaning": "adj. 全世界的\nadv. 在世界各地"
+        },
+        {
+          "term": "promotional",
+          "phonetic": "[prəˈməʊʃənl]",
+          "phoneticUS": "[prəˈmoʊʃənl]",
+          "meaning": "adj. 促销的；增进的；奖励的"
+        },
+        {
+          "term": "qualification",
+          "phonetic": "[ˌkwɒlɪfɪˈkeɪʃn]",
+          "phoneticUS": "[ˌkwɑːlɪfɪˈkeɪʃn]",
+          "meaning": "n. 资格；条件；限制；赋予资格"
+        },
+        {
+          "term": "qualify",
+          "phonetic": "[ˈkwɒlɪfaɪ]",
+          "phoneticUS": "[ˈkwɑːlɪfaɪ]",
+          "meaning": "vi. 取得资格，有资格\nvt. 限制；使具有资格；证明…合格"
+        },
+        {
+          "term": "disciplined",
+          "phonetic": "[ˈdɪsəplɪnd]",
+          "phoneticUS": "[ˈdɪsəplɪnd]",
+          "meaning": "adj. 遵守纪律的；受过训练的\nv. 使有纪律（discipline的过去分词）；训导"
+        },
+        {
+          "term": "discipline",
+          "phonetic": "[ˈdɪsəplɪn]",
+          "phoneticUS": "[ˈdɪsəplɪn]",
+          "meaning": "n. 学科；纪律；训练；惩罚\nvt. 训练，训导；惩戒"
+        },
+        {
+          "term": "thesaurus",
+          "phonetic": "[θɪˈsɔːrəs]",
+          "phoneticUS": "[θɪˈsɔːrəs]",
+          "meaning": "n. 宝库；辞典；知识宝库；分类词汇汇编"
+        },
+        {
+          "term": "processor",
+          "phonetic": "[ˈprəʊsesə(r)]",
+          "phoneticUS": "[ˈprɑːsesər]",
+          "meaning": "n. [计] 处理器；处理程序；加工者"
+        },
+        {
+          "term": "process",
+          "phonetic": "[prəˈses; ˈprəʊses]",
+          "phoneticUS": "[prəˈses；ˈprɑːses]",
+          "meaning": "n. 过程，进行；方法，步骤；作用；程序；推移\nadj. 经过特殊加工（或处理）的\nvt. 处理；加工\nvi. 列队前进"
+        },
+        {
+          "term": "longhand",
+          "phonetic": "[ˈlɒŋhænd]",
+          "phoneticUS": "[ˈlɔːŋhænd]",
+          "meaning": "n. 普通书写（速记或打字）；普通写法"
+        },
+        {
+          "term": "shorthand",
+          "phonetic": "[ˈʃɔːthænd]",
+          "phoneticUS": "[ˈʃɔːrthænd]",
+          "meaning": "n. 速记；速记法\nadj. 速记法的"
+        },
+        {
+          "term": "sofa",
+          "phonetic": "[ˈsəʊfə]",
+          "phoneticUS": "[ˈsoʊfə]",
+          "meaning": "n. 沙发；长椅"
+        },
+        {
+          "term": "pizza",
+          "phonetic": "[ˈpiːtsə]",
+          "phoneticUS": "[ˈpiːtsə]",
+          "meaning": "n. 比萨饼（一种涂有乳酪核番茄酱的意大利式有馅烘饼）"
+        },
+        {
+          "term": "stink",
+          "phonetic": "[stɪŋk]",
+          "phoneticUS": "[stɪŋk]",
+          "meaning": "n. 臭味；讨厌的人\nvt. 使发出臭气；用臭味驱赶\nvi. 发出臭味；招人讨厌"
+        },
+        {
+          "term": "odds",
+          "phonetic": "[ɒdz]",
+          "phoneticUS": "[ɑːdz]",
+          "meaning": "n. 几率；胜算；不平等；差别"
+        },
+        {
+          "term": "burst into",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 闯进；突然…起来"
+        },
+        {
+          "term": "to sb.'s astonishment",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "at random",
+          "phonetic": "[æt ˈrændəm]",
+          "phoneticUS": "[æt ˈrændəm]",
+          "meaning": "na. 碰运气地；无目标地"
+        },
+        {
+          "term": "work on",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 对…有效[有作用]；动(人,感情等)；向…做工作；左右"
+        },
+        {
+          "term": "fit in",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "有地方容纳; 有时间从事（某事）; 有时间接待（某人）; 相处融洽"
+        },
+        {
+          "term": "here and there",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 到处；零零落落"
+        },
+        {
+          "term": "set one's mind on",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 迅速回想一遍；下决心"
+        },
+        {
+          "term": "set one's mind to",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "一心想做；专心致志；全力以赴"
+        },
+        {
+          "term": "paradise",
+          "phonetic": "[ˈpærədaɪs]",
+          "phoneticUS": "[ˈpærədaɪs]",
+          "meaning": "n. 天堂\n至福境地"
+        },
+        {
+          "term": "unaware",
+          "phonetic": "[ˌʌnəˈweə(r)]",
+          "phoneticUS": "[ˌʌnəˈwer]",
+          "meaning": "adj. 不知道的，无意的；未察觉到的\nadv. 意外地；不知不觉地"
+        },
+        {
+          "term": "surroundings",
+          "phonetic": "[səˈraʊndɪŋz]",
+          "phoneticUS": "[səˈraʊndɪŋz]",
+          "meaning": "n. 环境；周围的事物"
+        },
+        {
+          "term": "attractive",
+          "phonetic": "[əˈtræktɪv]",
+          "phoneticUS": "[əˈtræktɪv]",
+          "meaning": "adj. 吸引人的；有魅力的；引人注目的"
+        },
+        {
+          "term": "irresistible",
+          "phonetic": "[ˌɪrɪˈzɪstəb(ə)l]",
+          "phoneticUS": "[ˌɪrɪˈzɪstəbl]",
+          "meaning": "adj. 不可抵抗的；不能压制的；极为诱人的"
+        },
+        {
+          "term": "selection",
+          "phonetic": "[sɪˈlekʃ(ə)n]",
+          "phoneticUS": "[sɪˈlekʃn]",
+          "meaning": "n. 选择，挑选；选集；精选品"
+        },
+        {
+          "term": "appointment",
+          "phonetic": "[əˈpɔɪntmənt]",
+          "phoneticUS": "[əˈpɔɪntmənt]",
+          "meaning": "n. 任命；约定；任命的职位"
+        },
+        {
+          "term": "attraction",
+          "phonetic": "[əˈtrækʃn]",
+          "phoneticUS": "[əˈtrækʃn]",
+          "meaning": "n. 吸引，吸引力；引力；吸引人的事物"
+        },
+        {
+          "term": "inevitable",
+          "phonetic": "[ɪnˈevɪtəbl]",
+          "phoneticUS": "[ɪnˈevɪtəbl]",
+          "meaning": "adj. 必然的，不可避免的"
+        },
+        {
+          "term": "background",
+          "phonetic": "[ˈbækɡraʊnd]",
+          "phoneticUS": "[ˈbækɡraʊnd]",
+          "meaning": "n. 背景；隐蔽的位置\nadj. 背景的；发布背景材料的\nvt. 作…的背景"
+        },
+        {
+          "term": "section",
+          "phonetic": "[ˈsekʃn]",
+          "phoneticUS": "[ˈsekʃn]",
+          "meaning": "n. 截面；部分；部门；地区；章节\nvt. 把…分段；将…切片；对…进行划分\nvi. 被切割成片；被分成部分"
+        },
+        {
+          "term": "retire",
+          "phonetic": "[rɪˈtaɪə(r)]",
+          "phoneticUS": "[rɪˈtaɪər]",
+          "meaning": "n. 退休；退隐；退兵信号\nvi. 退休；撤退；退却\nvt. 退休；离开；收回"
+        },
+        {
+          "term": "run up",
+          "phonetic": "[ˈrʌn ʌp]",
+          "phoneticUS": "[rʌn ʌp]",
+          "meaning": "na. 抬高(市价等)；升(旗等)；造；增加(费用,债款等)"
+        },
+        {
+          "term": "account",
+          "phonetic": "[əˈkaʊnt]",
+          "phoneticUS": "[əˈkaʊnt]",
+          "meaning": "n. 账户；解释；账目，账单；理由；描述\nvt. 认为；把…视为\nvi. 解释；导致；报账"
+        },
+        {
+          "term": "missing",
+          "phonetic": "[ˈmɪsɪŋ]",
+          "phoneticUS": "[ˈmɪsɪŋ]",
+          "meaning": "adj. 失踪的；缺少的\nv. 错过（miss的ing形式）；想念；漏掉"
+        },
+        {
+          "term": "tempt",
+          "phonetic": "[tempt]",
+          "phoneticUS": "[tempt]",
+          "meaning": "vt. 诱惑；引起；冒…的风险；使感兴趣"
+        },
+        {
+          "term": "efficiency",
+          "phonetic": "[ɪˈfɪʃ(ə)nsi]",
+          "phoneticUS": "[ɪˈfɪʃnsi]",
+          "meaning": "n. 效率；效能；功效"
+        },
+        {
+          "term": "industrial",
+          "phonetic": "[ɪnˈdʌstriəl]",
+          "phoneticUS": "[ɪnˈdʌstriəl]",
+          "meaning": "n. 工业股票；工业工人\nadj. 工业的，产业的；从事工业的；供工业用的；来自勤劳的"
+        },
+        {
+          "term": "elementary",
+          "phonetic": "[ˌelɪˈmentri]",
+          "phoneticUS": "[ˌelɪˈmentri]",
+          "meaning": "adj. 基本的；初级的；[化学] 元素的"
+        },
+        {
+          "term": "upper",
+          "phonetic": "[ˈʌpə(r)]",
+          "phoneticUS": "[ˈʌpər]",
+          "meaning": "adj. 上面的，上部的；较高的"
+        },
+        {
+          "term": "drawer",
+          "phonetic": "[drɔ:(r)]",
+          "phoneticUS": "[drɔːr]",
+          "meaning": "n. 抽屉；开票人；出票人；起草者；酒馆侍"
+        },
+        {
+          "term": "bureau",
+          "phonetic": "[ˈbjʊərəʊ]",
+          "phoneticUS": "[ˈbjʊroʊ]",
+          "meaning": "n. 局，处；衣柜；办公桌"
+        },
+        {
+          "term": "underwear",
+          "phonetic": "[ˈʌndəweə(r)]",
+          "phoneticUS": "[ˈʌndərwer]",
+          "meaning": "n. 内衣物"
+        },
+        {
+          "term": "pants",
+          "phonetic": "[pænts]",
+          "phoneticUS": "[pænts]",
+          "meaning": "n. 裤子"
+        },
+        {
+          "term": "expert",
+          "phonetic": "[ˈekspɜːt]",
+          "phoneticUS": "[ˈekspɜːrt]",
+          "meaning": "n. 专家；行家；能手\nadj. 熟练的；内行的；老练的\nvt. 当专家；在…中当行家"
+        },
+        {
+          "term": "utensil",
+          "phonetic": "[juːˈtens(ə)l]",
+          "phoneticUS": "[juːˈtensl]",
+          "meaning": "n. 用具，器皿"
+        },
+        {
+          "term": "foundation",
+          "phonetic": "[faʊnˈdeɪʃn]",
+          "phoneticUS": "[faʊnˈdeɪʃn]",
+          "meaning": "n. 基础；地基；基金会；根据；创立"
+        },
+        {
+          "term": "career",
+          "phonetic": "[kəˈrɪə(r)]",
+          "phoneticUS": "[kəˈrɪr]",
+          "meaning": "n. 生涯；职业；事业；速度，全速\nadj. 作为毕生职业的\nvi. 全速前进，猛冲"
+        },
+        {
+          "term": "engineering",
+          "phonetic": "[ˌendʒɪˈnɪərɪŋ]",
+          "phoneticUS": "[ˌendʒɪˈnɪrɪŋ]",
+          "meaning": "n. 工程，工程学\nv. 设计；管理（engineer的ing形式）；建造"
+        },
+        {
+          "term": "unfortunately",
+          "phonetic": "[ʌnˈfɔːtʃənətli]",
+          "phoneticUS": "[ʌnˈfɔːrtʃənətli]",
+          "meaning": "adv. 不幸地"
+        },
+        {
+          "term": "bossy",
+          "phonetic": "[ˈbɒsi]",
+          "phoneticUS": "[ˈbɔːsi]",
+          "meaning": "n. 母牛；牛犊\nadj. 专横的；浮雕装饰的；爱指挥他人的"
+        },
+        {
+          "term": "project",
+          "phonetic": "[ˈprɒdʒekt]",
+          "phoneticUS": "[ˈprɑːdʒekt]",
+          "meaning": "n. 工程；计划；事业\nvt. 设计；计划；发射；放映\nvi. 设计；计划；表达；投射"
+        },
+        {
+          "term": "bachelor",
+          "phonetic": "[ˈbætʃələ(r)]",
+          "phoneticUS": "[ˈbætʃələr]",
+          "meaning": "n. 学士；单身汉；（尚未交配的）小雄兽"
+        },
+        {
+          "term": "short-term",
+          "phonetic": "[ˌʃɔːt ˈtɜːm]",
+          "phoneticUS": "[ˌʃɔːrt ˈtɜːrm]",
+          "meaning": "adj. 短期的"
+        },
+        {
+          "term": "consultant",
+          "phonetic": "[kənˈsʌltənt]",
+          "phoneticUS": "[kənˈsʌltənt]",
+          "meaning": "n. 顾问；咨询者；会诊医生"
+        },
+        {
+          "term": "consult",
+          "phonetic": "[kənˈsʌlt]",
+          "phoneticUS": "[kənˈsʌlt]",
+          "meaning": "vi. 请教；商议；当顾问\nvt. 查阅；商量；向…请教"
+        },
+        {
+          "term": "amaze",
+          "phonetic": "[əˈmeɪz]",
+          "phoneticUS": "[əˈmeɪz]",
+          "meaning": "vt. 使吃惊"
+        },
+        {
+          "term": "whatsoever",
+          "phonetic": "[ˌwɒtsəʊˈevə(r)]",
+          "phoneticUS": "[ˌhwɑtsoˈevər]",
+          "meaning": "pron. 无论什么"
+        },
+        {
+          "term": "inspect",
+          "phonetic": "[ɪnˈspekt]",
+          "phoneticUS": "[ɪnˈspekt]",
+          "meaning": "vt. 检查；视察；检阅\nvi. 进行检查；进行视察"
+        },
+        {
+          "term": "shipment",
+          "phonetic": "[ˈʃɪpmənt]",
+          "phoneticUS": "[ˈʃɪpmənt]",
+          "meaning": "n. 装货；装载的货物"
+        },
+        {
+          "term": "sleeve",
+          "phonetic": "[sliːv]",
+          "phoneticUS": "[sliːv]",
+          "meaning": "n. [机] 套筒，[机] 套管；袖子，[服装] 袖套\nvt. 给……装袖子；给……装套筒"
+        },
+        {
+          "term": "uncomfortable",
+          "phonetic": "[ʌnˈkʌmftəb(ə)l]",
+          "phoneticUS": "[ʌnˈkʌmftəbl; ʌnˈkʌmfərtəbl]",
+          "meaning": "adj. 不舒服的；不安的"
+        },
+        {
+          "term": "relieve",
+          "phonetic": "[rɪˈliːv]",
+          "phoneticUS": "[rɪˈliːv]",
+          "meaning": "vt. 解除，减轻；使不单调乏味；换…的班；解围；使放心"
+        },
+        {
+          "term": "boring",
+          "phonetic": "[ˈbɔːrɪŋ]",
+          "phoneticUS": "[ˈbɔːrɪŋ]",
+          "meaning": "n. 钻孔\nadj. 无聊的；令人厌烦的\nv. 钻孔；使厌烦；挖空（bore的ing形式）"
+        },
+        {
+          "term": "bore",
+          "phonetic": "[bɔː(r)]",
+          "phoneticUS": "[bɔːr]",
+          "meaning": "n. 孔；令人讨厌的人\nvt. 钻孔；使烦扰\nvi. 钻孔"
+        },
+        {
+          "term": "workroom",
+          "phonetic": "[ˈwɜːkruːm; ˈwɜːkrʊm]",
+          "phoneticUS": "[ˈwɜːrkruːmˌˈwɜːrkrʊm]",
+          "meaning": "n. 工作室；工场间"
+        },
+        {
+          "term": "furthermore",
+          "phonetic": "[ˌfɜːðəˈmɔː(r)]",
+          "phoneticUS": "[ˌfɜːrðərˈmɔːr]",
+          "meaning": "adv. 此外；而且"
+        },
+        {
+          "term": "irregular",
+          "phonetic": "[ɪˈreɡjələ(r)]",
+          "phoneticUS": "[ɪˈreɡjələr]",
+          "meaning": "n. 不规则物；不合规格的产品\nadj. 不规则的；无规律的；非正规的；不合法的"
+        },
+        {
+          "term": "absent-minded",
+          "phonetic": "[ˌæbsənt ˈmaɪndɪd]",
+          "phoneticUS": "[ˌæbsənt ˈmaɪndɪd]",
+          "meaning": "adj. 心不在焉的；健忘的；出神的"
+        },
+        {
+          "term": "absent",
+          "phonetic": "[ˈæbsənt]",
+          "phoneticUS": "[ˈæbsənt]",
+          "meaning": "adj. 缺席的；缺少的；心不在焉的；茫然的\nvt. 使缺席"
+        },
+        {
+          "term": "assembly",
+          "phonetic": "[əˈsembli]",
+          "phoneticUS": "[əˈsembli]",
+          "meaning": "n. 装配；集会，集合"
+        },
+        {
+          "term": "assemble",
+          "phonetic": "[əˈsemb(ə)l]",
+          "phoneticUS": "[əˈsembl]",
+          "meaning": "vt. 集合，聚集；装配；收集\nvi. 集合，聚集"
+        },
+        {
+          "term": "assembly line",
+          "phonetic": "[əˈsembli laɪn]",
+          "phoneticUS": "[əˈsembli laɪn]",
+          "meaning": "na. 装配线"
+        },
+        {
+          "term": "recognize",
+          "phonetic": "[ˈrekəɡnaɪz]",
+          "phoneticUS": "[ˈrekəɡnaɪz]",
+          "meaning": "vt. 认出，识别；承认\nvi. 确认，承认；具结"
+        },
+        {
+          "term": "shift",
+          "phonetic": "[ʃɪft]",
+          "phoneticUS": "[ʃɪft]",
+          "meaning": "n. 移动；变化；手段；轮班\nvt. 转移；改变；替换\nvi. 移动；转变；转换"
+        },
+        {
+          "term": "daydream",
+          "phonetic": "[ˈdeɪdriːm]",
+          "phoneticUS": "[ˈdeɪdriːm]",
+          "meaning": "n. 白日梦\nvi. 做白日梦"
+        },
+        {
+          "term": "observation",
+          "phonetic": "[ˌɒbzəˈveɪʃ(ə)n]",
+          "phoneticUS": "[ˌɑːbzərˈveɪʃ(ə)n]",
+          "meaning": "n. 观察；监视；观察报告"
+        },
+        {
+          "term": "observe",
+          "phonetic": "[əbˈzɜːv]",
+          "phoneticUS": "[əbˈzɜːrv]",
+          "meaning": "vt. 庆祝\nvt. 观察；遵守；说；注意到；评论\nvi. 观察；说；注意到；评论"
+        },
+        {
+          "term": "observer",
+          "phonetic": "[əbˈzɜːvə(r)]",
+          "phoneticUS": "[əbˈzɜːrvər]",
+          "meaning": "n. 观察者；[天] 观测者；遵守者"
+        },
+        {
+          "term": "oral",
+          "phonetic": "[ˈɔːrəl]",
+          "phoneticUS": "[ˈɔːrəl]",
+          "meaning": "n. 口试\nadj. 口头的，口述的"
+        },
+        {
+          "term": "findings",
+          "phonetic": "[ˈfaɪndɪŋz]",
+          "phoneticUS": "[ˈfaɪndɪŋz]",
+          "meaning": "n. 发现，调查结果；检验发现的情况（finding复数）"
+        },
+        {
+          "term": "inspection",
+          "phonetic": "[ɪnˈspekʃ(ə)n]",
+          "phoneticUS": "[ɪnˈspekʃn]",
+          "meaning": "n. 视察，检查"
+        },
+        {
+          "term": "redesign",
+          "phonetic": "[ˌriːdɪˈzaɪn]",
+          "phoneticUS": "[ˌriːdɪˈzaɪn]",
+          "meaning": "n. 重新设计；新设计\nvt. 重新设计"
+        },
+        {
+          "term": "decrease",
+          "phonetic": "[dɪˈkriːs]",
+          "phoneticUS": "[dɪˈkriːs; ˈdiːkriːs]",
+          "meaning": "n. 减少，减小；减少量\nvt. 减少，减小\nvi. 减少，减小"
+        },
+        {
+          "term": "worktable",
+          "phonetic": "[ˈwɜːkˌteɪb(ə)l]",
+          "phoneticUS": "[ˈwɜːrkˌtebl]",
+          "meaning": "n. 工作台；缝纫桌"
+        },
+        {
+          "term": "operator",
+          "phonetic": "[ˈɒpəreɪtə(r)]",
+          "phoneticUS": "[ˈɑːpəreɪtər]",
+          "meaning": "n. 经营者；操作员；话务员；行家"
+        },
+        {
+          "term": "management",
+          "phonetic": "[ˈmænɪdʒmənt]",
+          "phoneticUS": "[ˈmænɪdʒmənt]",
+          "meaning": "n. 管理；管理人员；管理部门；操纵；经营手段"
+        },
+        {
+          "term": "background",
+          "phonetic": "[ˈbækɡraʊnd]",
+          "phoneticUS": "[ˈbækɡraʊnd]",
+          "meaning": "n. 背景；隐蔽的位置\nadj. 背景的；发布背景材料的\nvt. 作…的背景"
+        },
+        {
+          "term": "beautify",
+          "phonetic": "[ˈbjuːtɪfaɪ]",
+          "phoneticUS": "[ˈbjuːtɪfaɪ]",
+          "meaning": "vt. 使美化，使变美\nvi. 美化"
+        },
+        {
+          "term": "setting",
+          "phonetic": "[ˈsetɪŋ]",
+          "phoneticUS": "[ˈsetɪŋ]",
+          "meaning": "n. 环境；安装；布置；[天] 沉落\nv. 放置；沉没；使…处于某位置（set的ing形式）"
+        },
+        {
+          "term": "productive",
+          "phonetic": "[prəˈdʌktɪv]",
+          "phoneticUS": "[prəˈdʌktɪv]",
+          "meaning": "adj. 能生产的；生产的，生产性的；多产的；富有成效的"
+        },
+        {
+          "term": "promotion",
+          "phonetic": "[prəˈməʊʃn]",
+          "phoneticUS": "[prəˈmoʊʃn]",
+          "meaning": "n. 提升，[劳经] 晋升；推销，促销；促进；发扬，振兴"
+        },
+        {
+          "term": "promote",
+          "phonetic": "[prəˈməʊt]",
+          "phoneticUS": "[prəˈmoʊt]",
+          "meaning": "vi. 成为王后或其他大于卒的子\nvt. 促进；提升；推销；发扬"
+        },
+        {
+          "term": "incentive",
+          "phonetic": "[ɪnˈsentɪv]",
+          "phoneticUS": "[ɪnˈsentɪv]",
+          "meaning": "n. 动机；刺激\nadj. 激励的；刺激的"
+        },
+        {
+          "term": "suggestion",
+          "phonetic": "[səˈdʒestʃən]",
+          "phoneticUS": "[səˈdʒestʃən; səɡˈdʒestʃən]",
+          "meaning": "n. 建议；示意；微量，细微的迹象"
+        },
+        {
+          "term": "co-owner",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 共有人；共同所有人"
+        },
+        {
+          "term": "compliments",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 恭维（compliment的复数）；问候；道贺\nv. 祝贺（compliment的三单形式）；向…致贺辞"
+        },
+        {
+          "term": "find out",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 查出；发现；看清…的面目；识破"
+        },
+        {
+          "term": "turn out",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. （以某种方式）发生；最后是；结果是 （尤指天气突然）变得（晴好） 原来是；结果发现 出席;参加;前去观看关掉，熄灭（电灯、煤气等） 出席;参加;前去观看生产；制造 （尤指把某人从其长期居住处）撵走，赶出，逐出 翻出；倒出 出席；参加；前去观看"
+        },
+        {
+          "term": "quality control",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 质量控制"
+        },
+        {
+          "term": "as a result",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "adv. 结果"
+        },
+        {
+          "term": "except for",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 只有"
+        },
+        {
+          "term": "go on strike",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 实行罢工"
+        },
+        {
+          "term": "hold up",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 举起；支撑；耽误；抢劫\nn. 抢劫；延误；堵车"
+        },
+        {
+          "term": "result in",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 终于(失败)"
+        },
+        {
+          "term": "talk over",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 商谈；说服"
+        },
+        {
+          "term": "keep up with",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 不落后"
+        },
+        {
+          "term": "behave",
+          "phonetic": "[bɪˈheɪv]",
+          "phoneticUS": "[bɪˈheɪv]",
+          "meaning": "vi. 表现；（机器等）运转；举止端正；（事物）起某种作用\nvt. 使守规矩；使表现得…"
+        },
+        {
+          "term": "tend",
+          "phonetic": "[tend]",
+          "phoneticUS": "[tend]",
+          "meaning": "vt. 照料，照管\nvi. 趋向，倾向；照料，照顾"
+        },
+        {
+          "term": "Bible",
+          "phonetic": "[ˈbaɪb(ə)l]",
+          "phoneticUS": "[ˈbaɪb(ə)l]",
+          "meaning": "n. 有权威的书"
+        },
+        {
+          "term": "barber",
+          "phonetic": "[ˈbɑːbə(r)]",
+          "phoneticUS": "[ˈbɑːrbər]",
+          "meaning": "n. 理发师\nvt. 为…理发；修整\nvi. 当理发师"
+        },
+        {
+          "term": "alcohol",
+          "phonetic": "[ˈælkəhɒl]",
+          "phoneticUS": "[ˈælkəhɔːl]",
+          "meaning": "n. 酒精，乙醇"
+        },
+        {
+          "term": "forbid",
+          "phonetic": "[fəˈbɪd]",
+          "phoneticUS": "[fərˈbɪd]",
+          "meaning": "vt. 禁止；不准；不允许；〈正式〉严禁"
+        },
+        {
+          "term": "manufacture",
+          "phonetic": "[ˌmænjuˈfæktʃə(r)]",
+          "phoneticUS": "[ˌmænjuˈfæktʃər]",
+          "meaning": "n. 制造；产品；制造业\nvt. 制造；加工；捏造\nvi. 制造"
+        },
+        {
+          "term": "raw",
+          "phonetic": "[rɔː]",
+          "phoneticUS": "[rɔː]",
+          "meaning": "n. 擦伤处\nadj. 生的；未加工的；阴冷的；刺痛的；擦掉皮的；无经验的；（在艺术等方面）不成熟的\nvt. 擦伤"
+        },
+        {
+          "term": "leather",
+          "phonetic": "[ˈleðə(r)]",
+          "phoneticUS": "[ˈleðər]",
+          "meaning": "n. 皮革；皮革制品\nvt. 用皮革包盖；抽打\nadj. 皮的；皮革制的"
+        },
+        {
+          "term": "harness",
+          "phonetic": "[ˈhɑːnɪs]",
+          "phoneticUS": "[ˈhɑːrnɪs]",
+          "meaning": "n. 马具；甲胄；挽具状带子；降落伞背带；日常工作\nvt. 治理；套；驾驭；披上甲胄；利用"
+        },
+        {
+          "term": "wool",
+          "phonetic": "[wʊl]",
+          "phoneticUS": "[wʊl]",
+          "meaning": "n. 羊毛；毛线；绒线；毛织品；毛料衣物"
+        },
+        {
+          "term": "fur",
+          "phonetic": "[fɜː(r)]",
+          "phoneticUS": "[fɜːr]",
+          "meaning": "n. 皮，皮子；毛皮；软毛\nn. 水垢\nvt. 用毛皮覆盖；使穿毛皮服装"
+        },
+        {
+          "term": "exchange",
+          "phonetic": "[ɪksˈtʃeɪndʒ]",
+          "phoneticUS": "[ɪksˈtʃeɪndʒ]",
+          "meaning": "n. 交换；交流；交易所；兑换\nvt. 交换；交易；兑换\nvi. 交换；交易；兑换"
+        },
+        {
+          "term": "introduction",
+          "phonetic": "[ˌɪntrəˈdʌkʃn]",
+          "phoneticUS": "[ˌɪntrəˈdʌkʃn]",
+          "meaning": "n. 介绍；引进；采用；入门；传入"
+        },
+        {
+          "term": "painter",
+          "phonetic": "[ˈpeɪntə(r)]",
+          "phoneticUS": "[ˈpeɪntər]",
+          "meaning": "n. 画家；油漆匠"
+        },
+        {
+          "term": "solution",
+          "phonetic": "[səˈluːʃ(ə)n]",
+          "phoneticUS": "[səˈluːʃn]",
+          "meaning": "n. 解决方案；溶液；溶解；解答"
+        },
+        {
+          "term": "improvement",
+          "phonetic": "[ɪmˈpruːvmənt]",
+          "phoneticUS": "[ɪmˈpruːvmənt]",
+          "meaning": "n. 改进，改善；提高"
+        },
+        {
+          "term": "painful",
+          "phonetic": "[ˈpeɪnf(ə)l]",
+          "phoneticUS": "[ˈpeɪnfl]",
+          "meaning": "adj. 痛苦的；疼痛的；令人不快的"
+        },
+        {
+          "term": "author",
+          "phonetic": "[ˈɔːθə(r)]",
+          "phoneticUS": "[ˈɔːθər]",
+          "meaning": "n. 作者；作家；创始人\nvt. 创作出版"
+        },
+        {
+          "term": "intention",
+          "phonetic": "[ɪnˈtenʃ(ə)n]",
+          "phoneticUS": "[ɪnˈtenʃn]",
+          "meaning": "n. 意图；目的；意向；愈合"
+        },
+        {
+          "term": "sampler",
+          "phonetic": "[ˈsɑːmplə(r)]",
+          "phoneticUS": "[ˈsæmplər]",
+          "meaning": "n. [自] 采样器；取样器；样品检查员"
+        },
+        {
+          "term": "pudding",
+          "phonetic": "[ˈpʊdɪŋ]",
+          "phoneticUS": "[ˈpʊdɪŋ]",
+          "meaning": "n. 布丁"
+        },
+        {
+          "term": "Christmas",
+          "phonetic": "[ˈkrɪsməs]",
+          "phoneticUS": "[ˈkrɪsməs]",
+          "meaning": "n. 圣诞节；圣诞节期间"
+        },
+        {
+          "term": "select",
+          "phonetic": "[sɪˈlekt]",
+          "phoneticUS": "[sɪˈlekt]",
+          "meaning": "n. 被挑选者；精萃\nadj. 精选的；挑选出来的；极好的\nvt. 挑选；选拔\nvi. 挑选"
+        },
+        {
+          "term": "selection",
+          "phonetic": "[sɪˈlekʃ(ə)n]",
+          "phoneticUS": "[sɪˈlekʃn]",
+          "meaning": "n. 选择，挑选；选集；精选品"
+        },
+        {
+          "term": "sample",
+          "phonetic": "[ˈsɑːmpl]",
+          "phoneticUS": "[ˈsæmpl]",
+          "meaning": "n. 样品；样本；例子\nadj. 试样的，样品的；作为例子的\nvt. 取样；尝试；抽样检查"
+        },
+        {
+          "term": "advantage",
+          "phonetic": "[ədˈvɑːntɪdʒ]",
+          "phoneticUS": "[ədˈvæntɪdʒ]",
+          "meaning": "n. 优势；利益；有利条件\nvt. 有利于；使处于优势\nvi. 获利"
+        },
+        {
+          "term": "privilege",
+          "phonetic": "[ˈprɪvəlɪdʒ]",
+          "phoneticUS": "[ˈprɪvəlɪdʒ]",
+          "meaning": "n. 特权；优待\nvt. 给与…特权；特免"
+        },
+        {
+          "term": "suspect",
+          "phonetic": "[səˈspekt]",
+          "phoneticUS": "[səˈspekt]",
+          "meaning": "n. 嫌疑犯\nadj. 可疑的；不可信的\nvi. 怀疑；猜想\nvt. 怀疑；猜想"
+        },
+        {
+          "term": "suspicion",
+          "phonetic": "[səˈspɪʃ(ə)n]",
+          "phoneticUS": "[səˈspɪʃn]",
+          "meaning": "n. 怀疑；嫌疑；疑心；一点儿\nvt. 怀疑"
+        },
+        {
+          "term": "elderly",
+          "phonetic": "[ˈeldəli]",
+          "phoneticUS": "[ˈeldərli]",
+          "meaning": "adj. 上了年纪的；过了中年的；稍老的"
+        },
+        {
+          "term": "limp",
+          "phonetic": "[lɪmp]",
+          "phoneticUS": "[lɪmp]",
+          "meaning": "adj. 柔软的，无力的；软弱的\nvi. 跛行，一拐一拐地走；缓慢费力地前进\nn. 跛行"
+        },
+        {
+          "term": "occasionally",
+          "phonetic": "[əˈkeɪʒnəli]",
+          "phoneticUS": "[əˈkeɪʒnəli]",
+          "meaning": "adv. 偶尔；间或"
+        },
+        {
+          "term": "occasional",
+          "phonetic": "[əˈkeɪʒən(ə)l]",
+          "phoneticUS": "[əˈkeɪʒənl]",
+          "meaning": "adj. 偶然的；临时的；特殊场合的"
+        },
+        {
+          "term": "heavy",
+          "phonetic": "[ˈhevi]",
+          "phoneticUS": "[ˈhevi]",
+          "meaning": "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地"
+        },
+        {
+          "term": "evident",
+          "phonetic": "[ˈevɪdənt]",
+          "phoneticUS": "[ˈevɪdənt]",
+          "meaning": "adj. 明显的；明白的"
+        },
+        {
+          "term": "evidently",
+          "phonetic": "[ˈevɪdəntli]",
+          "phoneticUS": "[ˈevɪdəntli]",
+          "meaning": "adv. 显然，明显地；清楚地"
+        },
+        {
+          "term": "sincerely",
+          "phonetic": "[sɪnˈsɪəli]",
+          "phoneticUS": "[sɪnˈsɪrli]",
+          "meaning": "adv. 真诚地；由衷地，诚恳地"
+        },
+        {
+          "term": "sincere",
+          "phonetic": "[sɪnˈsɪə(r)]",
+          "phoneticUS": "[sɪnˈsɪr]",
+          "meaning": "adj. 真诚的；诚挚的；真实的"
+        },
+        {
+          "term": "eventually",
+          "phonetic": "[ɪˈventʃuəli]",
+          "phoneticUS": "[ɪˈventʃuəli]",
+          "meaning": "adv. 最后，终于"
+        },
+        {
+          "term": "positive",
+          "phonetic": "[ˈpɒzətɪv]",
+          "phoneticUS": "[ˈpɑːzətɪv]",
+          "meaning": "n. 正数；[摄] 正片\nadj. 积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的"
+        },
+        {
+          "term": "cheat",
+          "phonetic": "[tʃiːt]",
+          "phoneticUS": "[tʃiːt]",
+          "meaning": "n. 欺骗，作弊；骗子\nvt. 欺骗；骗取\nvi. 欺骗；作弊"
+        },
+        {
+          "term": "chap",
+          "phonetic": "[tʃæp]",
+          "phoneticUS": "[tʃæp]",
+          "meaning": "n. 小伙子；家伙；龟裂\nvt. 使皲裂\nvi. 皲裂"
+        },
+        {
+          "term": "amidst",
+          "phonetic": "[əˈmɪdst]",
+          "phoneticUS": "[əˈmɪdst]",
+          "meaning": "prep. 在…当中"
+        },
+        {
+          "term": "prosperous",
+          "phonetic": "[ˈprɒspərəs]",
+          "phoneticUS": "[ˈprɑːspərəs]",
+          "meaning": "adj. 繁荣的；兴旺的"
+        },
+        {
+          "term": "prosperity",
+          "phonetic": "[prɒˈsperəti]",
+          "phoneticUS": "[prɑːˈsperəti]",
+          "meaning": "n. 繁荣，成功"
+        },
+        {
+          "term": "pitiful",
+          "phonetic": "[ˈpɪtɪf(ə)l]",
+          "phoneticUS": "[ˈpɪtɪfl]",
+          "meaning": "adj. 可怜的，令人同情的"
+        },
+        {
+          "term": "benevolence",
+          "phonetic": "[bəˈnevələns]",
+          "phoneticUS": "[bəˈnevələns]",
+          "meaning": "n. 仁慈；善行"
+        },
+        {
+          "term": "benevolent",
+          "phonetic": "[bəˈnevələnt]",
+          "phoneticUS": "[bəˈnevələnt]",
+          "meaning": "adj. 仁慈的；慈善的；亲切的"
+        },
+        {
+          "term": "sting",
+          "phonetic": "[stɪŋ]",
+          "phoneticUS": "[stɪŋ]",
+          "meaning": "n. 刺痛；讽刺，刺激；刺毛\nvt. 刺；驱使；使…苦恼；使…疼痛\nvi. 刺痛；被刺痛；感到剧痛"
+        },
+        {
+          "term": "wrinkle",
+          "phonetic": "[ˈrɪŋk(ə)l]",
+          "phoneticUS": "[ˈrɪŋkl]",
+          "meaning": "n. 皱纹\nvi. 起皱\nvt. 使起皱纹"
+        },
+        {
+          "term": "dignity",
+          "phonetic": "[ˈdɪɡnəti]",
+          "phoneticUS": "[ˈdɪɡnəti]",
+          "meaning": "n. 尊严；高贵"
+        },
+        {
+          "term": "appearance",
+          "phonetic": "[əˈpɪərəns]",
+          "phoneticUS": "[əˈpɪrəns]",
+          "meaning": "n. 外貌，外观；出现，露面"
+        },
+        {
+          "term": "worn",
+          "phonetic": "[wɔːn]",
+          "phoneticUS": "[wɔːrn]",
+          "meaning": "v. 穿；磨损（wear的过去分词）；佩戴\nadj. 疲倦的；用旧的"
+        },
+        {
+          "term": "pocketbook",
+          "phonetic": "[ˈpɒkɪtbʊk]",
+          "phoneticUS": "[ˈpɑːkɪtbʊk]",
+          "meaning": "n. 钱包；笔记本；经济来源；皮夹"
+        },
+        {
+          "term": "shilling",
+          "phonetic": "[ˈʃɪlɪŋ]",
+          "phoneticUS": "[ˈʃɪlɪŋ]",
+          "meaning": "n. 先令"
+        },
+        {
+          "term": "unsay",
+          "phonetic": "[ʌnˈseɪ]",
+          "phoneticUS": "[ʌnˈseɪ]",
+          "meaning": "vt. 撤回，收回；取消"
+        },
+        {
+          "term": "tactless",
+          "phonetic": "[ˈtæktləs]",
+          "phoneticUS": "[ˈtæktləs]",
+          "meaning": "adj. 不机智的；不老练的；笨拙的"
+        },
+        {
+          "term": "lay out",
+          "phonetic": "[leɪ aʊt]",
+          "phoneticUS": "[leɪ aʊt]",
+          "meaning": "n. 布局；设计；规划；安排"
+        },
+        {
+          "term": "in a row",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 成一排；连续"
+        },
+        {
+          "term": "to sb.'s taste",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "take advantage of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 乘；利用；欺骗；引诱(女人)"
+        },
+        {
+          "term": "and what's more",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "更重要的是；而且啊；更何况"
+        },
+        {
+          "term": "all right",
+          "phonetic": "[ˌɔːl ˈraɪt]",
+          "phoneticUS": "[ɔːl raɪt]",
+          "meaning": "adj. 可接受（的）；满意（的）；安全健康（的）；平安无恙（的）\nint. 是不是；（表示同意）好；没什么；（引起注意）哎"
+        },
+        {
+          "term": "break off",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 断绝；摘；把…折断；使脱落"
+        },
+        {
+          "term": "come down",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 败落；退步；(飞机的)下降"
+        },
+        {
+          "term": "come down in the world",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 没落"
+        },
+        {
+          "term": "out of place",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 不得其所的；不适当的；不相称的；碍事的"
+        },
+        {
+          "term": "do sb. a favor",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "帮忙；帮一个忙；做好事"
+        },
+        {
+          "term": "do sb. a favour",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "帮忙；帮个忙；帮助某人"
+        },
+        {
+          "term": "mistake ... for",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 把…错认"
+        },
+        {
+          "term": "pull out",
+          "phonetic": "[ˈpʊl aʊt]",
+          "phoneticUS": "[ˈpʊl aʊt]",
+          "meaning": "na. 拔(牙等)；把船划出；(车,船等)开出；(人)出发"
+        },
+        {
+          "term": "count out",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 一面数一面取出；一面数一面分开；除开"
+        },
+        {
+          "term": "long for",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 渴望"
+        },
+        {
+          "term": "automatic",
+          "phonetic": "[ˌɔːtəˈmætɪk]",
+          "phoneticUS": "[ˌɔːtəˈmætɪk]",
+          "meaning": "n. 自动机械；自动手枪\nadj. 自动的；无意识的；必然的"
+        },
+        {
+          "term": "arise",
+          "phonetic": "[əˈraɪz]",
+          "phoneticUS": "[əˈraɪz]",
+          "meaning": "vi. 出现；上升；起立"
+        },
+        {
+          "term": "impatient",
+          "phonetic": "[ɪmˈpeɪʃ(ə)nt]",
+          "phoneticUS": "[ɪmˈpeɪʃnt]",
+          "meaning": "adj. 焦躁的；不耐心的"
+        },
+        {
+          "term": "response",
+          "phonetic": "[rɪˈspɒns]",
+          "phoneticUS": "[rɪˈspɑːns]",
+          "meaning": "n. 响应；反应；回答"
+        },
+        {
+          "term": "contrast",
+          "phonetic": "[ˈkɒntrɑːst]",
+          "phoneticUS": "[ˈkɑːntræst]",
+          "meaning": "n. 对比；差别；对照物\nvt. 使对比；使与…对照\nvi. 对比；形成对照"
+        },
+        {
+          "term": "faded",
+          "phonetic": "[ˈfeɪdɪd]",
+          "phoneticUS": "[ˈfeɪdɪd]",
+          "meaning": "adj. 已褪色的；已凋谢的"
+        },
+        {
+          "term": "sweater",
+          "phonetic": "[ˈswetə(r)]",
+          "phoneticUS": "[ˈswetər]",
+          "meaning": "n. 毛线衣，运动衫；大量出汗的人，发汗剂"
+        },
+        {
+          "term": "expose",
+          "phonetic": "[ɪkˈspəʊz]",
+          "phoneticUS": "[ɪkˈspoʊz]",
+          "meaning": "vt. 揭露，揭发；使曝光；显示"
+        },
+        {
+          "term": "stocking",
+          "phonetic": "[ˈstɒkɪŋ]",
+          "phoneticUS": "[ˈstɑːkɪŋ]",
+          "meaning": "n. 长袜"
+        },
+        {
+          "term": "intensity",
+          "phonetic": "[ɪnˈtensəti]",
+          "phoneticUS": "[ɪnˈtensəti]",
+          "meaning": "n. 强度；强烈；[电子] 亮度；紧张"
+        },
+        {
+          "term": "label",
+          "phonetic": "[ˈleɪb(ə)l]",
+          "phoneticUS": "[ˈleɪbl]",
+          "meaning": "vt. 标注；贴标签于\nn. 标签；商标；签条"
+        },
+        {
+          "term": "layer",
+          "phonetic": "[ˈleɪə(r)]",
+          "phoneticUS": "[ˈleɪər]",
+          "meaning": "n. 层，层次；膜；[植]压条；放置者，计划者\nvt. 把…分层堆放；借助压条法；生根繁殖；将（头发）剪成不同层次\nvi. 形成或分成层次；[植]通过压条法而生根"
+        },
+        {
+          "term": "stale",
+          "phonetic": "[steɪl]",
+          "phoneticUS": "[steɪl]",
+          "meaning": "n. 尿\nadj. 陈腐的；不新鲜的\nvt. 使变旧；变得不新鲜\nvi. 变陈旧；撒尿；变得不新鲜"
+        },
+        {
+          "term": "entertain",
+          "phonetic": "[ˌentəˈteɪn]",
+          "phoneticUS": "[ˌentərˈteɪn]",
+          "meaning": "vt. 娱乐；招待；怀抱；容纳\nvi. 款待"
+        },
+        {
+          "term": "loyalty",
+          "phonetic": "[ˈlɔɪəlti]",
+          "phoneticUS": "[ˈlɔɪəlti]",
+          "meaning": "n. 忠诚；忠心；忠实；忠于…感情"
+        },
+        {
+          "term": "respond",
+          "phonetic": "[rɪˈspɒnd]",
+          "phoneticUS": "[rɪˈspɑːnd]",
+          "meaning": "n. 应答；唱和\nvi. 回答；作出反应；承担责任\nvt. 以…回答"
+        },
+        {
+          "term": "collapse",
+          "phonetic": "[kəˈlæps]",
+          "phoneticUS": "[kəˈlæps]",
+          "meaning": "n. 倒塌；失败；衰竭\nvt. 使倒塌，使崩溃；使萎陷；折叠\nvi. 倒塌；瓦解；暴跌"
+        },
+        {
+          "term": "image",
+          "phonetic": "[ˈɪmɪdʒ]",
+          "phoneticUS": "[ˈɪmɪdʒ]",
+          "meaning": "n. 影像；想象；肖像；偶像\nvt. 想象；反映；象征；作…的像"
+        },
+        {
+          "term": "desperate",
+          "phonetic": "[ˈdespərət]",
+          "phoneticUS": "[ˈdespərət]",
+          "meaning": "adj. 不顾一切的；令人绝望的；极度渴望的"
+        },
+        {
+          "term": "robot",
+          "phonetic": "[ˈrəʊbɒt]",
+          "phoneticUS": "[ˈroʊbɑːt]",
+          "meaning": "n. 机器人；遥控设备，自动机械；机械般工作的人"
+        },
+        {
+          "term": "instinct",
+          "phonetic": "[ˈɪnstɪŋkt]",
+          "phoneticUS": "[ˈɪnstɪŋkt]",
+          "meaning": "n. 本能，直觉；天性\nadj. 充满着的"
+        },
+        {
+          "term": "magician",
+          "phonetic": "[məˈdʒɪʃn]",
+          "phoneticUS": "[məˈdʒɪʃn]",
+          "meaning": "n. 魔术师，变戏法的人"
+        },
+        {
+          "term": "magic",
+          "phonetic": "[ˈmædʒɪk]",
+          "phoneticUS": "[ˈmædʒɪk]",
+          "meaning": "n. 巫术；魔法；戏法\nadj. 不可思议的；有魔力的；魔术的"
+        },
+        {
+          "term": "stretch",
+          "phonetic": "[stretʃ]",
+          "phoneticUS": "[stretʃ]",
+          "meaning": "vt. 伸展,张开；（大量地）使用，消耗（金钱，时间）；使竭尽所能；使全力以赴；\nn. 伸展，延伸\nvi. 伸展；足够买（或支付）"
+        },
+        {
+          "term": "approach",
+          "phonetic": "[əˈprəʊtʃ]",
+          "phoneticUS": "[əˈproʊtʃ]",
+          "meaning": "n. 方法；途径；接近\nvt. 接近；着手处理\nvi. 靠近"
+        },
+        {
+          "term": "community",
+          "phonetic": "[kəˈmjuːnəti]",
+          "phoneticUS": "[kəˈmjuːnəti]",
+          "meaning": "n. 社区；[生态] 群落；共同体；团体"
+        },
+        {
+          "term": "hallway",
+          "phonetic": "[ˈhɔːlweɪ]",
+          "phoneticUS": "[ˈhɔːlweɪ]",
+          "meaning": "n. 走廊；门厅；玄关"
+        },
+        {
+          "term": "balloon",
+          "phonetic": "[bəˈluːn]",
+          "phoneticUS": "[bəˈluːn]",
+          "meaning": "n. 气球\nadj. 像气球般鼓起的\nvt. 使像气球般鼓起；使激增\nvi. 激增；膨胀如气球"
+        },
+        {
+          "term": "instantly",
+          "phonetic": "[ˈɪnstəntli]",
+          "phoneticUS": "[ˈɪnstəntli]",
+          "meaning": "conj. 一…就…\nadv. 立即地；马上地；即刻地"
+        },
+        {
+          "term": "instant",
+          "phonetic": "[ˈɪnstənt]",
+          "phoneticUS": "[ˈɪnstənt]",
+          "meaning": "n. 瞬间；立即；片刻\nadj. 立即的；紧急的；紧迫的"
+        },
+        {
+          "term": "second-hand",
+          "phonetic": "[ˌsekənd ˈhænd]",
+          "phoneticUS": "[ˈsekənd hænd]",
+          "meaning": "adj. 旧的，二手的\nadv. 间接地，第二手地"
+        },
+        {
+          "term": "somehow",
+          "phonetic": "[ˈsʌmhaʊ]",
+          "phoneticUS": "[ˈsʌmhaʊ]",
+          "meaning": "adv. 以某种方法；莫名其妙地"
+        },
+        {
+          "term": "scrape",
+          "phonetic": "[skreɪp]",
+          "phoneticUS": "[skreɪp]",
+          "meaning": "n. 刮掉；擦痕；困境；刮擦声\nvt. 刮；擦伤；挖成\nvi. 刮掉；刮出刺耳声"
+        },
+        {
+          "term": "payment",
+          "phonetic": "[ˈpeɪmənt]",
+          "phoneticUS": "[ˈpeɪmənt]",
+          "meaning": "n. 付款，支付；报酬，报答；偿还；惩罚，报应"
+        },
+        {
+          "term": "down payment",
+          "phonetic": "[ˌdaʊn ˈpeɪmənt]",
+          "phoneticUS": "[ˌdaʊn ˈpeɪmənt]",
+          "meaning": "n. （分期付款的）首期付款；预付金；订金"
+        },
+        {
+          "term": "sicken",
+          "phonetic": "[ˈsɪkən]",
+          "phoneticUS": "[ˈsɪkən]",
+          "meaning": "vt. 使患病；使恶心；使嫌恶\nvi. 生病；变厌腻"
+        },
+        {
+          "term": "rob",
+          "phonetic": "[rɒb]",
+          "phoneticUS": "[rɑːb]",
+          "meaning": "vt. 抢劫；使…丧失；非法剥夺\nvi. 抢劫；掠夺"
+        },
+        {
+          "term": "astonish",
+          "phonetic": "[əˈstɒnɪʃ]",
+          "phoneticUS": "[əˈstɑːnɪʃ]",
+          "meaning": "vt. 使惊讶"
+        },
+        {
+          "term": "absolutely",
+          "phonetic": "[ˈæbsəluːtli]",
+          "phoneticUS": "[ˈæbsəluːtli]",
+          "meaning": "adv. 绝对地；完全地"
+        },
+        {
+          "term": "absolute",
+          "phonetic": "[ˈæbsəluːt]",
+          "phoneticUS": "[ˈæbsəluːt]",
+          "meaning": "n. 绝对；绝对事物\nadj. 绝对的；完全的；专制的"
+        },
+        {
+          "term": "reveal",
+          "phonetic": "[rɪˈviːl]",
+          "phoneticUS": "[rɪˈviːl]",
+          "meaning": "n. 揭露；暴露；门侧，窗侧\nvt. 显示；透露；揭露；泄露"
+        },
+        {
+          "term": "slight",
+          "phonetic": "[slaɪt]",
+          "phoneticUS": "[slaɪt]",
+          "meaning": "n. 怠慢；轻蔑\nadj. 轻微的，少量的；脆弱的；细长的；不重要的\nvt. 轻视，忽略；怠慢"
+        },
+        {
+          "term": "hint",
+          "phonetic": "[hɪnt]",
+          "phoneticUS": "[hɪnt]",
+          "meaning": "n. 暗示；线索\nvt. 暗示；示意\nvi. 示意"
+        },
+        {
+          "term": "avoid",
+          "phonetic": "[əˈvɔɪd]",
+          "phoneticUS": "[əˈvɔɪd]",
+          "meaning": "vt. 避免；避开，躲避；消除"
+        },
+        {
+          "term": "deny",
+          "phonetic": "[dɪˈnaɪ]",
+          "phoneticUS": "[dɪˈnaɪ]",
+          "meaning": "vi. 否认；拒绝\nvt. 否定，否认；拒绝给予；拒绝…的要求"
+        },
+        {
+          "term": "privacy",
+          "phonetic": "[ˈprɪvəsi]",
+          "phoneticUS": "[ˈpraɪvəsi]",
+          "meaning": "n. 隐私；秘密；隐居；隐居处"
+        },
+        {
+          "term": "private",
+          "phonetic": "[ˈpraɪvət]",
+          "phoneticUS": "[ˈpraɪvət]",
+          "meaning": "n. 列兵；二等兵\nadj. 私人的；私有的；私下的"
+        },
+        {
+          "term": "compose",
+          "phonetic": "[kəmˈpəʊz]",
+          "phoneticUS": "[kəmˈpoʊz]",
+          "meaning": "vt. 构成；写作；使平静；排…的版\nvi. 组成；作曲；排字"
+        },
+        {
+          "term": "exclamation",
+          "phonetic": "[ˌekskləˈmeɪʃ(ə)n]",
+          "phoneticUS": "[ˌekskləˈmeɪʃn]",
+          "meaning": "n. 感叹；惊叫；惊叹词"
+        },
+        {
+          "term": "wow",
+          "phonetic": "[waʊ]",
+          "phoneticUS": "[waʊ]",
+          "meaning": "n. 极大的成功；一鸣惊人之举；魔兽世界(World of Warcraft)；失真\nint. （表示极大的惊奇或钦佩）哇，呀"
+        },
+        {
+          "term": "lucky",
+          "phonetic": "[ˈlʌki]",
+          "phoneticUS": "[ˈlʌki]",
+          "meaning": "adj. 幸运的；侥幸的"
+        },
+        {
+          "term": "talent",
+          "phonetic": "[ˈtælənt]",
+          "phoneticUS": "[ˈtælənt]",
+          "meaning": "n. 才能；天才；天资"
+        },
+        {
+          "term": "critical",
+          "phonetic": "[ˈkrɪtɪk(ə)l]",
+          "phoneticUS": "[ˈkrɪtɪkl]",
+          "meaning": "adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的"
+        },
+        {
+          "term": "spontaneously",
+          "phonetic": "[spɒnˈteɪniəsli]",
+          "phoneticUS": "[spɑːnˈteɪniəsli]",
+          "meaning": "adv. 自发地；自然地；不由自主地"
+        },
+        {
+          "term": "spontaneous",
+          "phonetic": "[spɒnˈteɪniəs]",
+          "phoneticUS": "[spɑːnˈteɪniəs]",
+          "meaning": "adj. 自发的；自然的；无意识的"
+        },
+        {
+          "term": "gratitude",
+          "phonetic": "[ˈɡrætɪtjuːd]",
+          "phoneticUS": "[ˈɡrætɪtuːd]",
+          "meaning": "n. 感谢（的心情）；感激"
+        },
+        {
+          "term": "cue",
+          "phonetic": "[kjuː]",
+          "phoneticUS": "[kjuː]",
+          "meaning": "n. 提示，暗示；线索\nvt. 给…暗示"
+        },
+        {
+          "term": "hand-held",
+          "phonetic": "[ˈhænd ˌheld]",
+          "phoneticUS": "[ˈhænd ˌheld]",
+          "meaning": "adj. 手提式的，便携式的"
+        },
+        {
+          "term": "mirror",
+          "phonetic": "[ˈmɪrə(r)]",
+          "phoneticUS": "[ˈmɪrər]",
+          "meaning": "n. 镜子；真实的写照；榜样\nvt. 反射；反映"
+        },
+        {
+          "term": "range",
+          "phonetic": "[reɪndʒ]",
+          "phoneticUS": "[reɪndʒ]",
+          "meaning": "n. 范围；幅度；排；山脉\nvt. 漫游；放牧；使并列；归类于；来回走动\nvi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到"
+        },
+        {
+          "term": "slap",
+          "phonetic": "[slæp]",
+          "phoneticUS": "[slæp]",
+          "meaning": "n. 掴；侮辱；掌击；拍打声\nvt. 拍击；侮辱；掌击；掴…的耳光\nvi. 掴；拍击\nadv. 直接地；猛然地；恰好"
+        },
+        {
+          "term": "jaw",
+          "phonetic": "[dʒɔː]",
+          "phoneticUS": "[dʒɔː]",
+          "meaning": "n. 颌；下巴；狭窄入口；唠叨\nvt. 教训；对…唠叨\nvi. 教训；唠叨"
+        },
+        {
+          "term": "ear-to-ear",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "合不拢嘴\n咧着嘴"
+        },
+        {
+          "term": "grin",
+          "phonetic": "[ɡrɪn]",
+          "phoneticUS": "[ɡrɪn]",
+          "meaning": "n. 露齿笑\nv. 露齿而笑，咧着嘴笑"
+        },
+        {
+          "term": "expose",
+          "phonetic": "[ɪkˈspəʊz]",
+          "phoneticUS": "[ɪkˈspoʊz]",
+          "meaning": "vt. 揭露，揭发；使曝光；显示"
+        },
+        {
+          "term": "hug",
+          "phonetic": "[hʌɡ]",
+          "phoneticUS": "[hʌɡ]",
+          "meaning": "n. 拥抱；紧抱；固执\nvi. 拥抱；紧抱在一起；挤在一起\nvt. 拥抱；紧抱；抱有，坚持"
+        },
+        {
+          "term": "acquire",
+          "phonetic": "[əˈkwaɪə(r)]",
+          "phoneticUS": "[əˈkwaɪər]",
+          "meaning": "vt. 获得；取得；学到；捕获"
+        },
+        {
+          "term": "confidence",
+          "phonetic": "[ˈkɒnfɪdəns]",
+          "phoneticUS": "[ˈkɑːnfɪdəns]",
+          "meaning": "n. 信心；信任；秘密\nadj. （美）诈骗的；骗得信任的"
+        },
+        {
+          "term": "naturally",
+          "phonetic": "[ˈnætʃ(ə)rəli]",
+          "phoneticUS": "[ˈnætʃrəli]",
+          "meaning": "adv. 自然地\n自然而然地\n轻而易举\n天生地\n大方地"
+        },
+        {
+          "term": "tone",
+          "phonetic": "[təʊn]",
+          "phoneticUS": "[toʊn]",
+          "meaning": "n. 语气；色调；音调；音色\nvt. 增强；用某种调子说\nvi. 颜色调和；呈现悦目色调"
+        },
+        {
+          "term": "indicate",
+          "phonetic": "[ˈɪndɪkeɪt]",
+          "phoneticUS": "[ˈɪndɪkeɪt]",
+          "meaning": "vt. 表明；指出；预示；象征"
+        },
+        {
+          "term": "indication",
+          "phonetic": "[ˌɪndɪˈkeɪʃn]",
+          "phoneticUS": "[ˌɪndɪˈkeɪʃn]",
+          "meaning": "n. 指示，指出；迹象；象征"
+        },
+        {
+          "term": "wrap",
+          "phonetic": "[ræp]",
+          "phoneticUS": "[ræp]",
+          "meaning": "n. 外套；围巾\nvt. 包；缠绕；隐藏；掩护\nvi. 包起来；缠绕；穿外衣"
+        },
+        {
+          "term": "doll",
+          "phonetic": "[dɒl]",
+          "phoneticUS": "[dɑːl]",
+          "meaning": "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展"
+        },
+        {
+          "term": "buddy",
+          "phonetic": "[ˈbʌdi]",
+          "phoneticUS": "[ˈbʌdi]",
+          "meaning": "n. 伙伴，好朋友；密友；小男孩\nvi. 做好朋友，交朋友"
+        },
+        {
+          "term": "necktie",
+          "phonetic": "[ˈnektaɪ]",
+          "phoneticUS": "[ˈnektaɪ]",
+          "meaning": "n. 领带"
+        },
+        {
+          "term": "halfhearted",
+          "phonetic": "[ˌhɑːf ˈhɑːtɪd]",
+          "phoneticUS": "[ˌhæfˈhɑːrtɪd]",
+          "meaning": "adj. 不认真的；不热心的；无兴趣的"
+        },
+        {
+          "term": "snap",
+          "phonetic": "[snæp]",
+          "phoneticUS": "[snæp]",
+          "meaning": "n. 猛咬；劈啪声；突然折断\nadj. 突然的\nvt. 突然折断，拉断；猛咬；啪地关上\nvi. 咬；厉声说；咯嗒一声关上"
+        },
+        {
+          "term": "snap one's fingers",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "的一声弹指用响；赶快；打响指"
+        },
+        {
+          "term": "two-wheeler",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "挂车\n两轮挂车"
+        },
+        {
+          "term": "breed",
+          "phonetic": "[briːd]",
+          "phoneticUS": "[briːd]",
+          "meaning": "n. [生物] 品种；种类，类型\nvt. 繁殖；饲养；养育，教育；引起\nvi. 繁殖；饲养；产生"
+        },
+        {
+          "term": "startle",
+          "phonetic": "[ˈstɑːt(ə)l]",
+          "phoneticUS": "[ˈstɑːrtl]",
+          "meaning": "n. 惊愕；惊恐\nvt. 使吓一跳；使惊奇\nvi. 惊吓；惊跳；惊奇"
+        },
+        {
+          "term": "in search of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 寻找；去找；追求；为了寻求"
+        },
+        {
+          "term": "something like",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 约；有点像…的；〔口语〕了不起的；几乎"
+        },
+        {
+          "term": "scrape together",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 一点一点地贮蓄；设法凑拢"
+        },
+        {
+          "term": "rob of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 抢走"
+        },
+        {
+          "term": "rob sb. of sth.",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 抢走"
+        },
+        {
+          "term": "come upon",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 碰到；忽然想到；突袭；要求"
+        },
+        {
+          "term": "think over",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 仔细考虑"
+        },
+        {
+          "term": "come true",
+          "phonetic": "[kʌm truː]",
+          "phoneticUS": "[kʌm truː]",
+          "meaning": "na. (预言等)成事实；实现；(作物)不变种地发芽生长"
+        },
+        {
+          "term": "on cue",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "恰好在这个时候；恰好在这时候；就在这个时候"
+        },
+        {
+          "term": "hug oneself",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "使沾沾自喜, 使深自庆幸"
+        },
+        {
+          "term": "do well by",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "对…很好"
+        },
+        {
+          "term": "hold back",
+          "phonetic": "['həuldbæk]",
+          "phoneticUS": "['həuldbæk]",
+          "meaning": "na. 阻止；踌躇；隐瞒；抑制"
+        },
+        {
+          "term": "Christian",
+          "phonetic": "[ˈkrɪstʃən]",
+          "phoneticUS": "['krɪstʃən]",
+          "meaning": "n. 基督徒，信徒\nadj. 基督教的；信基督教的"
+        },
+        {
+          "term": "festival",
+          "phonetic": "[ˈfestɪv(ə)l]",
+          "phoneticUS": "[ˈfestɪvl]",
+          "meaning": "n. 节日；庆祝，纪念活动；欢乐\nadj. 节日的，喜庆的；快乐的"
+        },
+        {
+          "term": "religious",
+          "phonetic": "[rɪˈlɪdʒəs]",
+          "phoneticUS": "[rɪˈlɪdʒəs]",
+          "meaning": "n. 修道士；尼姑\nadj. 宗教的；虔诚的；严谨的；修道的"
+        },
+        {
+          "term": "decorate",
+          "phonetic": "[ˈdekəreɪt]",
+          "phoneticUS": "[ˈdekəreɪt]",
+          "meaning": "vt. 装饰；布置；授勋给\nvi. 装饰；布置"
+        },
+        {
+          "term": "sack",
+          "phonetic": "[sæk]",
+          "phoneticUS": "[sæk]",
+          "meaning": "n. 麻布袋；洗劫\nvt. 解雇；把……装入袋；劫掠"
+        },
+        {
+          "term": "pillow-case",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "开口式枕套；无边式枕套"
+        },
+        {
+          "term": "glimpse",
+          "phonetic": "[ɡlɪmps]",
+          "phoneticUS": "[ɡlɪmps]",
+          "meaning": "n. 一瞥，一看\nvt. 瞥见\nvi. 瞥见"
+        },
+        {
+          "term": "creep",
+          "phonetic": "[kriːp]",
+          "phoneticUS": "[kriːp]",
+          "meaning": "n. 爬行；毛骨悚然的感觉；谄媚者\nvi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩"
+        },
+        {
+          "term": "salad",
+          "phonetic": "[ˈsæləd]",
+          "phoneticUS": "[ˈsæləd]",
+          "meaning": "n. 色拉；尤指莴苣"
+        },
+        {
+          "term": "feature",
+          "phonetic": "[ˈfiːtʃə(r)]",
+          "phoneticUS": "[ˈfiːtʃər]",
+          "meaning": "n. 特色，特征；容貌；特写或专题节目\nvt. 特写；以…为特色；由…主演\nvi. 起重要作用"
+        },
+        {
+          "term": "dessert",
+          "phonetic": "[dɪˈzɜːt]",
+          "phoneticUS": "[dɪˈzɜːrt]",
+          "meaning": "n. 餐后甜点；甜点心"
+        },
+        {
+          "term": "ice-cream",
+          "phonetic": "[ˈaɪs kriːm]",
+          "phoneticUS": "[ˈaɪs kriːm]",
+          "meaning": "a. 冰淇淋的, 乳白色的"
+        },
+        {
+          "term": "log",
+          "phonetic": "[lɒɡ]",
+          "phoneticUS": "[lɔːɡ]",
+          "meaning": "vi. 伐木\nvt. 切；伐木；航行\nn. 记录；航行日志；原木"
+        },
+        {
+          "term": "leap",
+          "phonetic": "[liːp]",
+          "phoneticUS": "[liːp]",
+          "meaning": "vi. 跳，跳跃\nn. 飞跃；跳跃\nvt. 跳跃，跳过；使跃过"
+        },
+        {
+          "term": "beast",
+          "phonetic": "[biːst]",
+          "phoneticUS": "[biːst]",
+          "meaning": "n. 野兽；畜生，人面兽心的人"
+        },
+        {
+          "term": "humorous",
+          "phonetic": "[ˈhjuːmərəs]",
+          "phoneticUS": "[ˈhjuːmərəs]",
+          "meaning": "adj. 诙谐的，幽默的；滑稽的，可笑的"
+        },
+        {
+          "term": "humor",
+          "phonetic": "[ˈhjuːmə(r)]",
+          "phoneticUS": "[ˈhjuːmər]",
+          "meaning": "n. 幽默，诙谐；心情\nvt. 迎合，迁就；顺应"
+        },
+        {
+          "term": "essay",
+          "phonetic": "[ˈeseɪ]",
+          "phoneticUS": "[ˈeseɪ]",
+          "meaning": "n. 散文；试图；随笔\nvt. 尝试；对…做试验"
+        },
+        {
+          "term": "excitement",
+          "phonetic": "[ɪkˈsaɪtmənt]",
+          "phoneticUS": "[ɪkˈsaɪtmənt]",
+          "meaning": "n. 兴奋；刺激；令人兴奋的事物"
+        },
+        {
+          "term": "planet",
+          "phonetic": "[ˈplænɪt]",
+          "phoneticUS": "[ˈplænɪt]",
+          "meaning": "n. 行星"
+        },
+        {
+          "term": "Venusian",
+          "phonetic": "[vi'nju:siən]",
+          "phoneticUS": "[vi'nju:siən]",
+          "meaning": "adj. 金星的，太白星的"
+        },
+        {
+          "term": "satellite",
+          "phonetic": "[ˈsætəlaɪt]",
+          "phoneticUS": "[ˈsætəlaɪt]",
+          "meaning": "n. 卫星；人造卫星；随从；卫星国家"
+        },
+        {
+          "term": "signal",
+          "phonetic": "[ˈsɪɡnəl]",
+          "phoneticUS": "[ˈsɪɡnəl]",
+          "meaning": "n. 信号；暗号；导火线\nadj. 显著的；作为信号的\nvt. 标志；用信号通知；表示\nvi. 发信号"
+        },
+        {
+          "term": "astronomer",
+          "phonetic": "[əˈstrɒnəmə(r)]",
+          "phoneticUS": "[əˈstrɑːnəmər]",
+          "meaning": "n. 天文学家"
+        },
+        {
+          "term": "telescope",
+          "phonetic": "[ˈtelɪskəʊp]",
+          "phoneticUS": "[ˈtelɪskoʊp]",
+          "meaning": "n. 望远镜；缩叠式旅行袋\nvi. 套叠；变短\nvt. 压缩；使套叠"
+        },
+        {
+          "term": "extremely",
+          "phonetic": "[ɪkˈstriːmli]",
+          "phoneticUS": "[ɪkˈstriːmli]",
+          "meaning": "adv. 非常，极其；极端地"
+        },
+        {
+          "term": "extreme",
+          "phonetic": "[ɪkˈstriːm]",
+          "phoneticUS": "[ɪkˈstriːm]",
+          "meaning": "n. 极端；末端；最大程度；极端的事物\nadj. 极端的；极度的；偏激的；尽头的"
+        },
+        {
+          "term": "feasibility",
+          "phonetic": "[ˌfiːzəˈbɪləti]",
+          "phoneticUS": "[ˌfiːzəˈbɪləti]",
+          "meaning": "n. 可行性；可能性"
+        },
+        {
+          "term": "feasible",
+          "phonetic": "[ˈfiːzəb(ə)l]",
+          "phoneticUS": "[ˈfiːzəbl]",
+          "meaning": "adj. 可行的；可能的；可实行的"
+        },
+        {
+          "term": "manned",
+          "phonetic": "[mænd]",
+          "phoneticUS": "[mænd]",
+          "meaning": "adj. 有人驾驶的；有人操纵的；配备齐船员的\nv. 给…配备人员（man的过去分词）"
+        },
+        {
+          "term": "saucer",
+          "phonetic": "[ˈsɔːsə(r)]",
+          "phoneticUS": "[ˈsɔːsər]",
+          "meaning": "n. 茶托，浅碟；浅碟形物；眼睛"
+        },
+        {
+          "term": "flying saucer",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 飞碟"
+        },
+        {
+          "term": "conference",
+          "phonetic": "[ˈkɒnfərəns]",
+          "phoneticUS": "[ˈkɑːnfərəns]",
+          "meaning": "n. 会议；讨论；协商；联盟；（正式）讨论会；[工会、工党用语]（每年的）大会\nvi. 举行或参加（系列）会议"
+        },
+        {
+          "term": "press conference",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 新闻发布会；记者招待会"
+        },
+        {
+          "term": "institute",
+          "phonetic": "[ˈɪnstɪtjuːt]",
+          "phoneticUS": "[ˈɪnstɪtuːt]",
+          "meaning": "n. 学会，协会；学院\nvt. 开始（调查）；制定；创立；提起（诉讼）"
+        },
+        {
+          "term": "technology",
+          "phonetic": "[tekˈnɒlədʒi]",
+          "phoneticUS": "[tekˈnɑːlədʒi]",
+          "meaning": "n. 技术；工艺；术语"
+        },
+        {
+          "term": "conclusion",
+          "phonetic": "[kənˈkluːʒn]",
+          "phoneticUS": "[kənˈkluːʒn]",
+          "meaning": "n. 结论；结局；推论"
+        },
+        {
+          "term": "conclude",
+          "phonetic": "[kənˈkluːd]",
+          "phoneticUS": "[kənˈkluːd]",
+          "meaning": "vi. 推断；断定；决定\nvt. 推断；决定，作结论；结束"
+        },
+        {
+          "term": "reporter",
+          "phonetic": "[rɪˈpɔːtə(r)]",
+          "phoneticUS": "[rɪˈpɔːrtər]",
+          "meaning": "n. 记者"
+        },
+        {
+          "term": "concrete",
+          "phonetic": "[ˈkɒŋkriːt]",
+          "phoneticUS": "[ˈkɑːnkriːt]",
+          "meaning": "n. 具体物；凝结物\nadj. 混凝土的；实在的，具体的；有形的\nvt. 使凝固；用混凝土修筑\nvi. 凝结"
+        },
+        {
+          "term": "atmosphere",
+          "phonetic": "[ˈætməsfɪə(r)]",
+          "phoneticUS": "[ˈætməsfɪr]",
+          "meaning": "n. 气氛；大气；空气"
+        },
+        {
+          "term": "carbon",
+          "phonetic": "[ˈkɑːbən]",
+          "phoneticUS": "[ˈkɑːrbən]",
+          "meaning": "n. [化学] 碳；碳棒；复写纸\nadj. 碳的；碳处理的"
+        },
+        {
+          "term": "monoxide",
+          "phonetic": "[məˈnɒksaɪd]",
+          "phoneticUS": "[məˈnɑːksaɪd]",
+          "meaning": "n. [无化] 一氧化物"
+        },
+        {
+          "term": "deadly",
+          "phonetic": "[ˈdedli]",
+          "phoneticUS": "[ˈdedli]",
+          "meaning": "adj. 致命的；非常的；死一般的\nadv. 非常；如死一般地"
+        },
+        {
+          "term": "gas",
+          "phonetic": "[ɡæs]",
+          "phoneticUS": "[ɡæs]",
+          "meaning": "n. 气体；[矿业] 瓦斯；汽油；毒气\nvt. 加油；毒（死）\nvi. 加油；放出气体；空谈"
+        },
+        {
+          "term": "survive",
+          "phonetic": "[səˈvaɪv]",
+          "phoneticUS": "[sərˈvaɪv]",
+          "meaning": "vi. 幸存；活下来\nvt. 幸存；生还；幸免于；比...活得长"
+        },
+        {
+          "term": "survival",
+          "phonetic": "[səˈvaɪv(ə)l]",
+          "phoneticUS": "[sərˈvaɪvl]",
+          "meaning": "n. 幸存，残存；幸存者，残存物"
+        },
+        {
+          "term": "concern",
+          "phonetic": "[kənˈsɜː(r)n]",
+          "phoneticUS": "[kənˈsɜːrn]",
+          "meaning": "n. 关系；关心；关心的事；忧虑\nvt. 涉及，关系到；使担心"
+        },
+        {
+          "term": "oxygen",
+          "phonetic": "[ˈɒksɪdʒən]",
+          "phoneticUS": "[ˈɑːksɪdʒən]",
+          "meaning": "n. [化学] 氧气，[化学] 氧"
+        },
+        {
+          "term": "originally",
+          "phonetic": "[əˈrɪdʒənəli]",
+          "phoneticUS": "[əˈrɪdʒənəli]",
+          "meaning": "adv. 最初，起初；本来"
+        },
+        {
+          "term": "original",
+          "phonetic": "[əˈrɪdʒən(ə)l]",
+          "phoneticUS": "[əˈrɪdʒənl]",
+          "meaning": "n. 原件；原作；原物；原型\nadj. 原始的；最初的；独创的；新颖的"
+        },
+        {
+          "term": "hazard",
+          "phonetic": "[ˈhæzəd]",
+          "phoneticUS": "[ˈhæzərd]",
+          "meaning": "n. 危险，冒险；冒险的事\nvt. 赌运气；冒…的危险，使遭受危险"
+        },
+        {
+          "term": "hover",
+          "phonetic": "[ˈhɒvə(r)]",
+          "phoneticUS": "[ˈhʌvər]",
+          "meaning": "n. 徘徊；盘旋；犹豫\nvi. 盘旋，翱翔；徘徊\nvt. 孵；徘徊在…近旁"
+        },
+        {
+          "term": "consolidated",
+          "phonetic": "[kənˈsɒlɪdeɪtɪd]",
+          "phoneticUS": "[kənˈsɑːlɪdeɪtɪd]",
+          "meaning": "adj. 巩固的；统一的；整理过的\nv. 合并；巩固（consolidate的过去分词形式）；统一"
+        },
+        {
+          "term": "consolidate",
+          "phonetic": "[kənˈsɒlɪdeɪt]",
+          "phoneticUS": "[kənˈsɑːlɪdeɪt]",
+          "meaning": "vt. 巩固，使固定；联合\nvi. 巩固，加强"
+        },
+        {
+          "term": "pollute",
+          "phonetic": "[pəˈluːt]",
+          "phoneticUS": "[pəˈluːt]",
+          "meaning": "vt. 污染；玷污；败坏"
+        },
+        {
+          "term": "pollution",
+          "phonetic": "[pəˈluːʃ(ə)n]",
+          "phoneticUS": "[pəˈluːʃn]",
+          "meaning": "n. 污染\n污染物"
+        },
+        {
+          "term": "unfit",
+          "phonetic": "[ʌnˈfɪt]",
+          "phoneticUS": "[ʌnˈfɪt]",
+          "meaning": "adj. 不适宜的；不合格的；不健康的\nvt. 使不合格；使不相宜；使不胜任"
+        },
+        {
+          "term": "spot",
+          "phonetic": "[spɒt]",
+          "phoneticUS": "[spɑːt]",
+          "meaning": "n. 地点；斑点\nadj. 现场的；现货买卖的\nvt. 认出；弄脏；用灯光照射\nvi. 沾上污渍；满是斑点\nadv. 准确地；恰好"
+        },
+        {
+          "term": "particle",
+          "phonetic": "[ˈpɑːtɪk(ə)l]",
+          "phoneticUS": "[ˈpɑːrtɪkl]",
+          "meaning": "n. 颗粒；[物] 质点；极小量；小品词"
+        },
+        {
+          "term": "emit",
+          "phonetic": "[iˈmɪt]",
+          "phoneticUS": "[iˈmɪt]",
+          "meaning": "vt. 发出，放射；发行；发表"
+        },
+        {
+          "term": "emission",
+          "phonetic": "[ɪˈmɪʃ(ə)n]",
+          "phoneticUS": "[ɪˈmɪʃn]",
+          "meaning": "n. （光、热等的）发射，散发；喷射；发行"
+        },
+        {
+          "term": "crash",
+          "phonetic": "[kræʃ]",
+          "phoneticUS": "[kræʃ]",
+          "meaning": "n. 撞碎；坠毁；破产；轰隆声；睡觉\nvi. 摔碎；坠落；发出隆隆声；(金融企业等)破产\nvt. 打碎；使坠毁、撞坏；擅自闯入"
+        },
+        {
+          "term": "smash",
+          "phonetic": "[smæʃ]",
+          "phoneticUS": "[smæʃ]",
+          "meaning": "n. 破碎；扣球；冲突；大败\nvt. 粉碎；使破产；溃裂\nadj. 了不起的；非常轰动的；出色的\nvi. 粉碎；打碎"
+        },
+        {
+          "term": "stalagmite",
+          "phonetic": "[ˈstæləɡmaɪt]",
+          "phoneticUS": "[stəˈlæɡmaɪt]",
+          "meaning": "n. 石笋；石笋状"
+        },
+        {
+          "term": "projection",
+          "phonetic": "[prəˈdʒekʃn]",
+          "phoneticUS": "[prəˈdʒekʃn]",
+          "meaning": "n. 投射；规划；突出；发射；推测"
+        },
+        {
+          "term": "project",
+          "phonetic": "[ˈprɒdʒekt]",
+          "phoneticUS": "[ˈprɑːdʒekt]",
+          "meaning": "n. 工程；计划；事业\nvt. 设计；计划；发射；放映\nvi. 设计；计划；表达；投射"
+        },
+        {
+          "term": "granite",
+          "phonetic": "[ˈɡrænɪt]",
+          "phoneticUS": "[ˈɡrænɪt]",
+          "meaning": "n. 花岗岩；坚毅；冷酷无情"
+        },
+        {
+          "term": "formation",
+          "phonetic": "[fɔːˈmeɪʃn]",
+          "phoneticUS": "[fɔːrˈmeɪʃn]",
+          "meaning": "n. 形成；构造；编队"
+        },
+        {
+          "term": "skyscraper",
+          "phonetic": "[ˈskaɪskreɪpə(r)]",
+          "phoneticUS": "[ˈskaɪskreɪpər]",
+          "meaning": "n. 摩天楼，超高层大楼；特别高的东西"
+        },
+        {
+          "term": "proceed",
+          "phonetic": "[prəˈsiːd]",
+          "phoneticUS": "[proʊˈsiːd]",
+          "meaning": "vi. 开始；继续进行；发生；行进\nn. 收入，获利"
+        },
+        {
+          "term": "fund",
+          "phonetic": "[fʌnd]",
+          "phoneticUS": "[fʌnd]",
+          "meaning": "n. 基金；资金；存款\nvt. 投资；资助"
+        },
+        {
+          "term": "billion",
+          "phonetic": "[ˈbɪljən]",
+          "phoneticUS": "[ˈbɪljən]",
+          "meaning": "num. 十亿\nn. 十亿；大量\nadj. 十亿的"
+        },
+        {
+          "term": "zilch",
+          "phonetic": "[zɪltʃ]",
+          "phoneticUS": "[zɪltʃ]",
+          "meaning": "n. 零，无；无价值之物；小人物"
+        },
+        {
+          "term": "known as",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "被称为；被认为是；以…而闻名"
+        },
+        {
+          "term": "be known as",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 通称"
+        },
+        {
+          "term": "name after",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. name for 用(别人,别物的名字)命名"
+        },
+        {
+          "term": "as to",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 〈正式〉至于；说到"
+        },
+        {
+          "term": "base on",
+          "phonetic": "[beɪs ɒn]",
+          "phoneticUS": "[beɪs ɑːn]",
+          "meaning": "v. 根据"
+        },
+        {
+          "term": "base upon",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "使建立在…基础上"
+        },
+        {
+          "term": "for one thing ...",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 第一〔表示列举〕；原因之一是"
+        },
+        {
+          "term": "for one thing ... for another",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "无"
+        },
+        {
+          "term": "be composed of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 由…组成"
+        },
+        {
+          "term": "as far as ... be concerned",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "就…来说, 就…而论"
+        },
+        {
+          "term": "stick up",
+          "phonetic": "[ˈstɪk ʌp]",
+          "phoneticUS": "[ˈstɪk ʌp]",
+          "meaning": "na. 突出；举起；抢劫"
+        },
+        {
+          "term": "give off",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 发散(水蒸气等)"
+        },
+        {
+          "term": "set back",
+          "phonetic": "[set bæk]",
+          "phoneticUS": "[set bæk]",
+          "meaning": "na. 阻碍；延迟；〈非正式〉花费"
+        },
+        {
+          "term": "peculiar",
+          "phonetic": "[pɪˈkjuːliə(r)]",
+          "phoneticUS": "[pɪˈkjuːliər]",
+          "meaning": "n. 特权；特有财产\nadj. 特殊的；独特的；奇怪的；罕见的"
+        },
+        {
+          "term": "definite",
+          "phonetic": "[ˈdefɪnət]",
+          "phoneticUS": "[ˈdefɪnət]",
+          "meaning": "adj. 一定的；确切的"
+        },
+        {
+          "term": "tissue",
+          "phonetic": "[ˈtɪʃuː]",
+          "phoneticUS": "[ˈtɪʃuː]",
+          "meaning": "n. 组织；纸巾；薄纱；一套\nvt. 饰以薄纱；用化妆纸揩去"
+        },
+        {
+          "term": "crystal",
+          "phonetic": "[ˈkrɪst(ə)l]",
+          "phoneticUS": "[ˈkrɪstl]",
+          "meaning": "n. 结晶，晶体；水晶；水晶饰品\nadj. 水晶的；透明的，清澈的"
+        },
+        {
+          "term": "tolerance",
+          "phonetic": "[ˈtɒlərəns]",
+          "phoneticUS": "[ˈtɑːlərəns]",
+          "meaning": "n. 公差；宽容；容忍；公差"
+        },
+        {
+          "term": "slip",
+          "phonetic": "[slɪp]",
+          "phoneticUS": "[slɪp]",
+          "meaning": "n. 滑，滑倒；片，纸片；错误；下跌；事故\nabbr. 串行线路接口协议，是旧式的协议（Serial Line Interface Protocol）\nadj. 滑动的；有活结的；活络的\nvt. 使滑动；滑过；摆脱；塞入；闪开\nvi. 滑动；滑倒；犯错；失足；减退"
+        },
+        {
+          "term": "exhaust",
+          "phonetic": "[ɪɡˈzɔːst]",
+          "phoneticUS": "[ɪɡˈzɔːst]",
+          "meaning": "n. 排气；废气；排气装置\nvt. 排出；耗尽；使精疲力尽；彻底探讨\nvi. 排气"
+        },
+        {
+          "term": "mysterious",
+          "phonetic": "[mɪˈstɪəriəs]",
+          "phoneticUS": "[mɪˈstɪriəs]",
+          "meaning": "adj. 神秘的；不可思议的；难解的"
+        },
+        {
+          "term": "mystery",
+          "phonetic": "[ˈmɪstri]",
+          "phoneticUS": "[ˈmɪstəri]",
+          "meaning": "n. 秘密，谜；神秘，神秘的事物；推理小说，推理剧；常作 mysteries 秘技，秘诀"
+        },
+        {
+          "term": "folklore",
+          "phonetic": "[ˈfəʊklɔː(r)]",
+          "phoneticUS": "[ˈfoʊklɔːr]",
+          "meaning": "n. 民俗学；民间传说；民间风俗"
+        },
+        {
+          "term": "reappear",
+          "phonetic": "[ˌriːəˈpɪə(r)]",
+          "phoneticUS": "[ˌriːəˈpɪr]",
+          "meaning": "vi. 再出现"
+        },
+        {
+          "term": "anew",
+          "phonetic": "[əˈnjuː]",
+          "phoneticUS": "[əˈnuː]",
+          "meaning": "adv. 重新；再"
+        },
+        {
+          "term": "sometime",
+          "phonetic": "[ˈsʌmtaɪm]",
+          "phoneticUS": "[ˈsʌmtaɪm]",
+          "meaning": "adj. 以前的；某一时间的\nadv. 改天；来日；在某一时候"
+        },
+        {
+          "term": "fort",
+          "phonetic": "[fɔːt]",
+          "phoneticUS": "[fɔːrt]",
+          "meaning": "n. 堡垒；要塞；（美）边界贸易站\nvt. 设要塞保卫\nvi. 构筑要塞"
+        },
+        {
+          "term": "tide",
+          "phonetic": "[taɪd]",
+          "phoneticUS": "[taɪd]",
+          "meaning": "n. 趋势，潮流；潮汐\nvt. 随潮漂流"
+        },
+        {
+          "term": "vanish",
+          "phonetic": "[ˈvænɪʃ]",
+          "phoneticUS": "[ˈvænɪʃ]",
+          "meaning": "n. 弱化音\nvi. 消失；突然不见；成为零\nvt. 使不见，使消失"
+        },
+        {
+          "term": "ill-fitting",
+          "phonetic": "[ˌɪl ˈfɪtɪŋ]",
+          "phoneticUS": "[ˌɪl ˈfɪtɪŋ]",
+          "meaning": "adj. 不合的"
+        },
+        {
+          "term": "dusty",
+          "phonetic": "[ˈdʌsti]",
+          "phoneticUS": "[ˈdʌsti]",
+          "meaning": "adj. 落满灰尘的"
+        },
+        {
+          "term": "mask",
+          "phonetic": "[mɑːsk]",
+          "phoneticUS": "[mæsk]",
+          "meaning": "n. 面具；口罩；掩饰\nvi. 掩饰；戴面具；化装\nvt. 掩饰；戴面具；使模糊"
+        },
+        {
+          "term": "chew",
+          "phonetic": "[tʃuː]",
+          "phoneticUS": "[tʃuː]",
+          "meaning": "n. 咀嚼；咀嚼物\nvi. 细想，深思\nvt. 嚼碎，咀嚼"
+        },
+        {
+          "term": "root",
+          "phonetic": "[ruːt]",
+          "phoneticUS": "[ruːt]",
+          "meaning": "n. 根；根源；词根；祖先\nvt. 生根，固定；根源在于\nvi. 生根；根除"
+        },
+        {
+          "term": "runaway",
+          "phonetic": "[ˈrʌnəweɪ]",
+          "phoneticUS": "[ˈrʌnəweɪ]",
+          "meaning": "n. 逃跑；逃走的人\nadj. 逃亡的；逃走的"
+        },
+        {
+          "term": "brightly",
+          "phonetic": "[ˈbraɪtli]",
+          "phoneticUS": "[ˈbraɪtli]",
+          "meaning": "adv. 明亮地；鲜明地；生辉地"
+        },
+        {
+          "term": "swig",
+          "phonetic": "[swɪɡ]",
+          "phoneticUS": "[swɪɡ]",
+          "meaning": "n. 痛饮，大喝；牛饮\nvt. 牛饮；大喝特喝，豪饮\nvi. 牛饮；大喝特喝"
+        },
+        {
+          "term": "retreat",
+          "phonetic": "[rɪˈtriːt]",
+          "phoneticUS": "[rɪˈtriːt]",
+          "meaning": "n. 撤退；休息寓所；撤退\nvt. 退（棋）；使后退\nvi. 撤退；退避；向后倾"
+        },
+        {
+          "term": "chatter",
+          "phonetic": "[ˈtʃætə(r)]",
+          "phoneticUS": "[ˈtʃætər]",
+          "meaning": "n. 唠叨；饶舌；（动物的）啁啾声；潺潺流水声\nvt. 喋喋不休地说；使卡嗒卡嗒作声\nvi. 唠叨；喋喋不休；（动物等）吱吱叫"
+        },
+        {
+          "term": "painfully",
+          "phonetic": "[ˈpeɪnfəli]",
+          "phoneticUS": "[ˈpeɪnfəli]",
+          "meaning": "adv. 痛苦地，费力地"
+        },
+        {
+          "term": "painful",
+          "phonetic": "[ˈpeɪnf(ə)l]",
+          "phoneticUS": "[ˈpeɪnfl]",
+          "meaning": "adj. 痛苦的；疼痛的；令人不快的"
+        },
+        {
+          "term": "jail",
+          "phonetic": "[dʒeɪl]",
+          "phoneticUS": "[dʒeɪl]",
+          "meaning": "n. 监狱；监牢；拘留所\nvt. 监禁；下狱"
+        },
+        {
+          "term": "guy",
+          "phonetic": "[ɡaɪ]",
+          "phoneticUS": "[ɡaɪ]",
+          "meaning": "n. 男人，家伙\nvt. 嘲弄，取笑\nvi. 逃跑"
+        },
+        {
+          "term": "yeah",
+          "phonetic": "[jeə]",
+          "phoneticUS": "[jeə]",
+          "meaning": "adv. 是\nint. 是"
+        },
+        {
+          "term": "parole",
+          "phonetic": "[pəˈrəʊl]",
+          "phoneticUS": "[pəˈroʊl]",
+          "meaning": "n. 语言；誓言，诺言；释放宣言\nvt. 有条件释放，假释；使假释出狱；宣誓后释放"
+        },
+        {
+          "term": "oak",
+          "phonetic": "[əʊk]",
+          "phoneticUS": "[oʊk]",
+          "meaning": "n. 橡树；橡木色；橡木家具\nadj. 栎树的；栎木制的"
+        },
+        {
+          "term": "exclaim",
+          "phonetic": "[ɪkˈskleɪm]",
+          "phoneticUS": "[ɪkˈskleɪm]",
+          "meaning": "vt. 大声说出\nvi. 呼喊，惊叫；大声叫嚷"
+        },
+        {
+          "term": "unformed",
+          "phonetic": "[ˌʌnˈfɔːmd]",
+          "phoneticUS": "[ˌʌnˈfɔːrmd]",
+          "meaning": "adj. 未成形的；未充分发展的"
+        },
+        {
+          "term": "snapshot",
+          "phonetic": "[ˈsnæpʃɒt]",
+          "phoneticUS": "[ˈsnæpʃɑːt]",
+          "meaning": "n. 快照，快相；急射，速射；简单印象\nvt. 给…拍快照\nvi. 拍快照"
+        },
+        {
+          "term": "tighten",
+          "phonetic": "[ˈtaɪt(ə)n]",
+          "phoneticUS": "[ˈtaɪtn]",
+          "meaning": "vt. 变紧；使变紧\nvi. 绷紧；变紧"
+        },
+        {
+          "term": "fortify",
+          "phonetic": "[ˈfɔːtɪfaɪ]",
+          "phoneticUS": "[ˈfɔːrtɪfaɪ]",
+          "meaning": "vt. 加强；增强；（酒）的酒精含量；设防于\nvi. 筑防御工事"
+        },
+        {
+          "term": "stun",
+          "phonetic": "[stʌn]",
+          "phoneticUS": "[stʌn]",
+          "meaning": "n. 昏迷；打昏；惊倒；令人惊叹的事物\nvt. 使震惊；打昏；给以深刻的印象"
+        },
+        {
+          "term": "banner",
+          "phonetic": "[ˈbænə(r)]",
+          "phoneticUS": "[ˈbænər]",
+          "meaning": "n. 横幅图片的广告模式\nn. 旗帜，横幅,标语"
+        },
+        {
+          "term": "billow",
+          "phonetic": "[ˈbɪləʊ]",
+          "phoneticUS": "[ˈbɪloʊ]",
+          "meaning": "vt. 使翻腾\nvi. 翻腾\nn. 巨浪"
+        },
+        {
+          "term": "con",
+          "phonetic": "[kɒn]",
+          "phoneticUS": "[kɑːn]",
+          "meaning": "n. 反对票；反对论\nvt. 精读；默记\nadv. 反面地\nadj. 欺诈的\nprep. 以…"
+        },
+        {
+          "term": "dream of",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "v. 梦想"
+        },
+        {
+          "term": "pull into",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "un. 停车；进"
+        },
+        {
+          "term": "come through",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 胜利；脱险；支付；捐献"
+        },
+        {
+          "term": "take back",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 退回；收回(说过的话)；承认…是错的；拿回"
+        },
+        {
+          "term": "be caught up in",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "对…特别感兴趣；被卷入；被卷入某事"
+        },
+        {
+          "term": "take over",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 接管；继承"
+        },
+        {
+          "term": "make one's way",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 前往；发迹"
+        },
+        {
+          "term": "exhaust",
+          "phonetic": "[ɪɡˈzɔːst]",
+          "phoneticUS": "[ɪɡˈzɔːst]",
+          "meaning": "n. 排气；废气；排气装置\nvt. 排出；耗尽；使精疲力尽；彻底探讨\nvi. 排气"
+        },
+        {
+          "term": "headquarters",
+          "phonetic": "[ˌhedˈkwɔːtəz]",
+          "phoneticUS": "[ˈhedkwɔːrtərz]",
+          "meaning": "n. 总部；指挥部；司令部"
+        },
+        {
+          "term": "sympathy",
+          "phonetic": "[ˈsɪmpəθi]",
+          "phoneticUS": "[ˈsɪmpəθi]",
+          "meaning": "n. 同情；慰问；赞同"
+        },
+        {
+          "term": "harm",
+          "phonetic": "[hɑːm]",
+          "phoneticUS": "[hɑːrm]",
+          "meaning": "n. 伤害；损害\nvt. 伤害；危害；损害"
+        },
+        {
+          "term": "penetrate",
+          "phonetic": "[ˈpenətreɪt]",
+          "phoneticUS": "[ˈpenətreɪt]",
+          "meaning": "vi. 渗透；刺入；看透\nvt. 渗透；穿透；洞察"
+        },
+        {
+          "term": "ease",
+          "phonetic": "[iːz]",
+          "phoneticUS": "[iːz]",
+          "meaning": "n. 轻松，舒适；安逸，悠闲\nvt. 减轻，缓和；使安心\nvi. 减轻，缓和；放松；灵活地移动"
+        },
+        {
+          "term": "sweat",
+          "phonetic": "[swet]",
+          "phoneticUS": "[swet]",
+          "meaning": "n. 汗；水珠；焦急；苦差使\nvt. 使出汗；流出；使干苦活；剥削；藉出汗减轻；焦急地期待\nvi. 出汗；辛苦工作；懊恼；结水珠"
+        },
+        {
+          "term": "ridiculous",
+          "phonetic": "[rɪˈdɪkjələs]",
+          "phoneticUS": "[rɪˈdɪkjələs]",
+          "meaning": "adj. 可笑的；荒谬的"
+        },
+        {
+          "term": "quit",
+          "phonetic": "[kwɪt]",
+          "phoneticUS": "[kwɪt]",
+          "meaning": "n. 离开；[计] 退出\nvt. 离开；放弃；停止；使…解除\nadj. 摆脱了…的；已经了结的\nvi. 离开；辞职；停止"
+        },
+        {
+          "term": "puzzle",
+          "phonetic": "[ˈpʌzl]",
+          "phoneticUS": "[ˈpʌzl]",
+          "meaning": "n. 谜；难题；迷惑\nvt. 使…困惑；使…为难；苦思而得出\nvi. 迷惑；冥思苦想"
+        },
+        {
+          "term": "alarm",
+          "phonetic": "[əˈlɑːm]",
+          "phoneticUS": "[əˈlɑːrm]",
+          "meaning": "n. 闹钟；警报，警告器；惊慌\nvt. 警告；使惊恐"
+        }
+      ]
+    }
+  ]
+}

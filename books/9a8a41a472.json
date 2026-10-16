@@ -1,0 +1,474 @@
+{
+  "id": "9a8a41a472",
+  "title": "北师大版三年级起点三年级下",
+  "wordCount": 77,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "banana",
+          "phonetic": "[bəˈnɑːnə]",
+          "phoneticUS": "[bəˈnænə]",
+          "meaning": "n. 香蕉；喜剧演员；大鹰钩鼻"
+        },
+        {
+          "term": "fruits",
+          "phonetic": "[fruːts]",
+          "phoneticUS": "[fruːts]",
+          "meaning": "n. 水果；成果，收益（fruit的复数）；孽息\nv. 结果实（fruit的第三人称单数）"
+        },
+        {
+          "term": "nut",
+          "phonetic": "[nʌt]",
+          "phoneticUS": "[nʌt]",
+          "meaning": "n. 螺母，螺帽；坚果；难对付的人，难解的问题\nvi. 采坚果"
+        },
+        {
+          "term": "an",
+          "phonetic": "[ən]",
+          "phoneticUS": "[ən; æn]",
+          "meaning": "art. 一（在元音音素前）"
+        },
+        {
+          "term": "apple",
+          "phonetic": "[ˈæp(ə)l]",
+          "phoneticUS": "[ˈæpl]",
+          "meaning": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+        },
+        {
+          "term": "orange",
+          "phonetic": "[ˈɒrɪndʒ]",
+          "phoneticUS": "[ˈɔrɪndʒ]",
+          "meaning": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子"
+        },
+        {
+          "term": "peach",
+          "phonetic": "[piːtʃ]",
+          "phoneticUS": "[piːtʃ]",
+          "meaning": "n. 桃子；桃树；桃红色；受人喜欢的人（或物）\nadj. 桃色的；用桃子制成的\nvt. 告发\nvi. 告密"
+        },
+        {
+          "term": "pear",
+          "phonetic": "[peə(r)]",
+          "phoneticUS": "[per]",
+          "meaning": "n. [园艺] 梨树；梨子"
+        },
+        {
+          "term": "strawberry",
+          "phonetic": "[ˈstrɔːbəri]",
+          "phoneticUS": "[ˈstrɔːberi]",
+          "meaning": "n. 草莓；草莓色"
+        },
+        {
+          "term": "sweet",
+          "phonetic": "[swiːt]",
+          "phoneticUS": "[swiːt]",
+          "meaning": "n. 糖果；乐趣；芳香；宝贝\nadj. 甜的；悦耳的；芳香的；亲切的\n（俚）酷毙了"
+        },
+        {
+          "term": "lemon",
+          "phonetic": "[ˈlemən]",
+          "phoneticUS": "[ˈlemən]",
+          "meaning": "adj. 柠檬色的\nn. 柠檬"
+        },
+        {
+          "term": "sour",
+          "phonetic": "[ˈsaʊə(r)]",
+          "phoneticUS": "[ˈsaʊər]",
+          "meaning": "n. 酸味；苦事\nadj. 酸的；发酵的；刺耳的；酸臭的；讨厌的\nvt. 使变酸；使失望\nvi. 发酵；变酸；厌烦"
+        },
+        {
+          "term": "pineapple",
+          "phonetic": "[ˈpaɪnæp(ə)l]",
+          "phoneticUS": "[ˈpaɪnæpl]",
+          "meaning": "n. [园艺] 菠萝；[园艺] 凤梨\nadj. 凤梨科的"
+        },
+        {
+          "term": "watermelon",
+          "phonetic": "[ˈwɔːtəmelən]",
+          "phoneticUS": "[ˈwɔːtərmelən]",
+          "meaning": "n. 西瓜"
+        },
+        {
+          "term": "they",
+          "phonetic": "[ðeɪ]",
+          "phoneticUS": "[ðeɪ]",
+          "meaning": "pron. 他们；它们；她们"
+        },
+        {
+          "term": "are",
+          "phonetic": "[ɑ:(r)]",
+          "phoneticUS": "[ər; ɑːr; er]",
+          "meaning": "v. 是（be的第二人称单复数现在式）\nn. 公亩"
+        },
+        {
+          "term": "tomatoes",
+          "phonetic": "[təˈmɑːtəʊz]",
+          "phoneticUS": "[təˈmeɪtoʊz]",
+          "meaning": "n. 蕃茄（tomato的复数形式）"
+        },
+        {
+          "term": "these",
+          "phonetic": "[ðiːz]",
+          "phoneticUS": "[ðiːz]",
+          "meaning": "adj. 这些的\npron. 这些"
+        },
+        {
+          "term": "those",
+          "phonetic": "[ðəʊz]",
+          "phoneticUS": "[ðoʊz]",
+          "meaning": "adj. 那些的\npron. 那些（that的复数）"
+        },
+        {
+          "term": "beans",
+          "phonetic": "[bi:nz]",
+          "phoneticUS": "[biːnz]",
+          "meaning": "n. 豆类；豆子；黄豆（bean的复数）"
+        },
+        {
+          "term": "cabbages",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 洋白菜，卷心菜( cabbage的名词复数 )"
+        },
+        {
+          "term": "potatoes",
+          "phonetic": "[pəˈteɪtəʊz]",
+          "phoneticUS": "[pəˈtetoz]",
+          "meaning": "n. [作物] 土豆（potato的复数形式）；[作物] 马铃薯"
+        },
+        {
+          "term": "carrots",
+          "phonetic": "[ˈkærəts]",
+          "phoneticUS": "[ˈkærəts]",
+          "meaning": "n. [园艺] 胡萝卜；红萝卜（carrot的复数形式）"
+        },
+        {
+          "term": "help",
+          "phonetic": "[help]",
+          "phoneticUS": "[help]",
+          "meaning": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待"
+        },
+        {
+          "term": "you",
+          "phonetic": "[ju]",
+          "phoneticUS": "[juː; jə]",
+          "meaning": "pron. 你；你们"
+        },
+        {
+          "term": "mushrooms",
+          "phonetic": "[ˈmʌʃrʊmz]",
+          "phoneticUS": "[ˈmʌʃrʊmz]",
+          "meaning": "n. 蘑菇；蕈类（mushroom的复数形式）\nv. 采蘑菇；蘑菇般地迅速增长（mushroom的第三人称单数形式）"
+        },
+        {
+          "term": "onions",
+          "phonetic": "[ˈʌnjənz]",
+          "phoneticUS": "[ˈʌnjənz]",
+          "meaning": "n. [园艺] 洋葱（onion的复数）\nv. 因洋葱使掉泪（onion的单三形式）"
+        },
+        {
+          "term": "how many",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 多少"
+        },
+        {
+          "term": "birds",
+          "phonetic": "[bɝdz]",
+          "phoneticUS": "[bɜːrdz]",
+          "meaning": "n. [鸟] 鸟类；禽（bird的复数）\nv. 打鸟；观察研究野鸟；起哄（bird的三单形式）"
+        },
+        {
+          "term": "there",
+          "phonetic": "[ðeə(r)]",
+          "phoneticUS": "[ðer]",
+          "meaning": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧"
+        },
+        {
+          "term": "eggs",
+          "phonetic": "[eɡz]",
+          "phoneticUS": "[eɡz]",
+          "meaning": "n. [禽] 蛋（egg的复数形式）；鸡蛋"
+        },
+        {
+          "term": "flowers",
+          "phonetic": "[ˈflaʊəz]",
+          "phoneticUS": "[ˈflaʊərz]",
+          "meaning": "[植] 花（flower的复数）"
+        },
+        {
+          "term": "one",
+          "phonetic": "[wʌn]",
+          "phoneticUS": "[wʌn]",
+          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
+        },
+        {
+          "term": "two",
+          "phonetic": "[tuː]",
+          "phoneticUS": "[tuː]",
+          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+        },
+        {
+          "term": "three",
+          "phonetic": "[θriː]",
+          "phoneticUS": "[θriː]",
+          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+        },
+        {
+          "term": "five",
+          "phonetic": "[faɪv]",
+          "phoneticUS": "[faɪv]",
+          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
+        },
+        {
+          "term": "four",
+          "phonetic": "[fɔː(r)]",
+          "phoneticUS": "[fɔːr]",
+          "meaning": "num. 四；四个\nadj. 四的；四个的"
+        },
+        {
+          "term": "big",
+          "phonetic": "[bɪɡ]",
+          "phoneticUS": "[bɪɡ]",
+          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+        },
+        {
+          "term": "crocodile",
+          "phonetic": "[ˈkrɒkədaɪl]",
+          "phoneticUS": "[ˈkrɑːkədaɪl]",
+          "meaning": "n. 鳄鱼"
+        },
+        {
+          "term": "small",
+          "phonetic": "[smɔːl]",
+          "phoneticUS": "[smɔːl]",
+          "meaning": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地"
+        },
+        {
+          "term": "six",
+          "phonetic": "[sɪks]",
+          "phoneticUS": "[sɪks]",
+          "meaning": "num. 六，六个\nn. 六，六个"
+        },
+        {
+          "term": "seven",
+          "phonetic": "[ˈsev(ə)n]",
+          "phoneticUS": "[ˈsev(ə)n]",
+          "meaning": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的"
+        },
+        {
+          "term": "eight",
+          "phonetic": "[eɪt]",
+          "phoneticUS": "[eɪt]",
+          "meaning": "num. 八；八个；第八\nn. 八字形\nadj. 八的"
+        },
+        {
+          "term": "nine",
+          "phonetic": "[naɪn]",
+          "phoneticUS": "[naɪn]",
+          "meaning": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的"
+        },
+        {
+          "term": "ten",
+          "phonetic": "[ten]",
+          "phoneticUS": "[ten]",
+          "meaning": "num. 十个，十"
+        },
+        {
+          "term": "color",
+          "phonetic": "[ˈkʌlə(r)]",
+          "phoneticUS": "[ˈkʌlər]",
+          "meaning": "n. 颜色；肤色；颜料；脸色\nvt. 粉饰；给...涂颜色；歪曲\nvi. 变色；获得颜色"
+        },
+        {
+          "term": "brown",
+          "phonetic": "[braʊn]",
+          "phoneticUS": "[braʊn]",
+          "meaning": "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色"
+        },
+        {
+          "term": "black",
+          "phonetic": "[blæk]",
+          "phoneticUS": "[blæk]",
+          "meaning": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑"
+        },
+        {
+          "term": "red",
+          "phonetic": "[red]",
+          "phoneticUS": "[red]",
+          "meaning": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的"
+        },
+        {
+          "term": "blue",
+          "phonetic": "[bluː]",
+          "phoneticUS": "[bluː]",
+          "meaning": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于"
+        },
+        {
+          "term": "green",
+          "phonetic": "[ɡriːn]",
+          "phoneticUS": "[ɡriːn]",
+          "meaning": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色"
+        },
+        {
+          "term": "yellow",
+          "phonetic": "[ˈjeləʊ]",
+          "phoneticUS": "[ˈjeloʊ]",
+          "meaning": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄"
+        },
+        {
+          "term": "white",
+          "phonetic": "[waɪt]",
+          "phoneticUS": "[waɪt]",
+          "meaning": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的"
+        },
+        {
+          "term": "many",
+          "phonetic": "[ˈmeni]",
+          "phoneticUS": "[ˈmeni]",
+          "meaning": "pron. 许多；许多人\nadj. 许多的"
+        },
+        {
+          "term": "thank you",
+          "phonetic": "[ˈθæŋk juː]",
+          "phoneticUS": "[ˈθæŋk juː]",
+          "meaning": "int. （表示感激）谢谢你；（接受好意）好；（婉言谢绝）不用了\nn. 感谢；谢意；酬谢；谢辞"
+        },
+        {
+          "term": "tree",
+          "phonetic": "[triː]",
+          "phoneticUS": "[triː]",
+          "meaning": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树"
+        },
+        {
+          "term": "can",
+          "phonetic": "[kən; kæn]",
+          "phoneticUS": "[kən; kæn]",
+          "meaning": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存"
+        },
+        {
+          "term": "climb",
+          "phonetic": "[klaɪm]",
+          "phoneticUS": "[klaɪm]",
+          "meaning": "n. 爬；攀登\nvi. 爬；攀登；上升\nvt. 爬；攀登；上升"
+        },
+        {
+          "term": "see",
+          "phonetic": "[siː]",
+          "phoneticUS": "[siː]",
+          "meaning": "vi. 看；看见；领会\nvt. 看见；理解；领会"
+        },
+        {
+          "term": "our",
+          "phonetic": "[ɑː(r)]",
+          "phoneticUS": "[ɑːr]",
+          "meaning": "pron. 我们的"
+        },
+        {
+          "term": "house",
+          "phonetic": "[haʊs]",
+          "phoneticUS": "[haʊs]",
+          "meaning": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住"
+        },
+        {
+          "term": "read",
+          "phonetic": "[riːd]",
+          "phoneticUS": "[riːd]",
+          "meaning": "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解"
+        },
+        {
+          "term": "run",
+          "phonetic": "[rʌn]",
+          "phoneticUS": "[rʌn]",
+          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
+        },
+        {
+          "term": "walk",
+          "phonetic": "[wɔːk]",
+          "phoneticUS": "[wɔːk]",
+          "meaning": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过"
+        },
+        {
+          "term": "jump",
+          "phonetic": "[dʒʌmp]",
+          "phoneticUS": "[dʒʌmp]",
+          "meaning": "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增"
+        },
+        {
+          "term": "speak",
+          "phonetic": "[spiːk]",
+          "phoneticUS": "[spiːk]",
+          "meaning": "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演"
+        },
+        {
+          "term": "but",
+          "phonetic": "[bət]",
+          "phoneticUS": "[bət; bʌt]",
+          "meaning": "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外"
+        },
+        {
+          "term": "listen",
+          "phonetic": "[ˈlɪs(ə)n]",
+          "phoneticUS": "[ˈlɪsn]",
+          "meaning": "vi. 听，倾听；听从，听信\nn. 听，倾听"
+        },
+        {
+          "term": "sing",
+          "phonetic": "[sɪŋ]",
+          "phoneticUS": "[sɪŋ]",
+          "meaning": "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号"
+        },
+        {
+          "term": "dance",
+          "phonetic": "[dɑːns]",
+          "phoneticUS": "[dæns]",
+          "meaning": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬"
+        },
+        {
+          "term": "draw",
+          "phonetic": "[drɔː]",
+          "phoneticUS": "[drɔː]",
+          "meaning": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引"
+        },
+        {
+          "term": "swim",
+          "phonetic": "[swɪm]",
+          "phoneticUS": "[swɪm]",
+          "meaning": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起"
+        },
+        {
+          "term": "write",
+          "phonetic": "[raɪt]",
+          "phoneticUS": "[raɪt]",
+          "meaning": "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述"
+        },
+        {
+          "term": "please",
+          "phonetic": "[pliːz]",
+          "phoneticUS": "[pliːz]",
+          "meaning": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴"
+        },
+        {
+          "term": "candy",
+          "phonetic": "[ˈkændi]",
+          "phoneticUS": "[ˈkændi]",
+          "meaning": "n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品\nadj. 新潮的（服饰）；甜言蜜语的\nvt. 用糖煮；使结晶为砂糖；美化\nvi. 糖煮；成为结晶"
+        },
+        {
+          "term": "cookies",
+          "phonetic": "[ˈkʊkiz]",
+          "phoneticUS": "[ˈkʊkiz]",
+          "meaning": "n. 饼干"
+        },
+        {
+          "term": "monkey",
+          "phonetic": "[ˈmʌŋki]",
+          "phoneticUS": "[ˈmʌŋki]",
+          "meaning": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄"
+        }
+      ]
+    }
+  ]
+}

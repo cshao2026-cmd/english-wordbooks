@@ -1,0 +1,648 @@
+{
+  "id": "6d14da186e",
+  "title": "沪教版三年级起点三年级上",
+  "wordCount": 106,
+  "units": [
+    {
+      "name": "整册",
+      "words": [
+        {
+          "term": "hello",
+          "phonetic": "[həˈləʊ]",
+          "phoneticUS": "[həˈləʊ]",
+          "meaning": "n. 表示问候， 惊奇或唤起注意时的用语\nint. 喂；哈罗"
+        },
+        {
+          "term": "I",
+          "phonetic": "[aɪ]",
+          "phoneticUS": "[aɪ]",
+          "meaning": "n. 碘元素；英语字母I\npron. 我"
+        },
+        {
+          "term": "Miss",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "n. 女士，小姐，年轻未婚女子\nvt. 错过，想念，缺（勤）"
+        },
+        {
+          "term": "are",
+          "phonetic": "[ɑ:(r)]",
+          "phoneticUS": "[ər; ɑːr; er]",
+          "meaning": "v. 是（be的第二人称单复数现在式）\nn. 公亩"
+        },
+        {
+          "term": "fine",
+          "phonetic": "[faɪn]",
+          "phoneticUS": "[faɪn]",
+          "meaning": "n. 罚款\nadj. 好的；优良的；细小的，精美的；健康的；晴朗的\nvt. 罚款；澄清\nadv. 很好地；精巧地"
+        },
+        {
+          "term": "goodbye",
+          "phonetic": "[ˌɡʊdˈbaɪ]",
+          "phoneticUS": "[ˌɡʊdˈbaɪ]",
+          "meaning": "int. 再见\n放弃\n告别"
+        },
+        {
+          "term": "hi",
+          "phonetic": "[haɪ]",
+          "phoneticUS": "[haɪ]",
+          "meaning": "int. 嗨！（表示问候或用以唤起注意）"
+        },
+        {
+          "term": "Mr",
+          "phonetic": "[ˈmɪstə(r)]",
+          "phoneticUS": "[ˈmɪstər]",
+          "meaning": "abbr. 先生（Mister）"
+        },
+        {
+          "term": "Mrs",
+          "phonetic": "[ˈmɪsɪz]",
+          "phoneticUS": "[ˈmɪsɪz]",
+          "meaning": "n. 太太；夫人（用于已婚妇女姓名前的尊称）"
+        },
+        {
+          "term": "thank",
+          "phonetic": "[θæŋk]",
+          "phoneticUS": "[θæŋk]",
+          "meaning": "n. 感谢\nvt. 感谢\nint. 谢谢"
+        },
+        {
+          "term": "you",
+          "phonetic": "[ju]",
+          "phoneticUS": "[juː; jə]",
+          "meaning": "pron. 你；你们"
+        },
+        {
+          "term": "am",
+          "phonetic": "[əm; æm]",
+          "phoneticUS": "[əm; æm]",
+          "meaning": "abbr. 调幅\nv. 是"
+        },
+        {
+          "term": "boy",
+          "phonetic": "[bɔɪ]",
+          "phoneticUS": "[bɔɪ]",
+          "meaning": "n. 男孩；男人"
+        },
+        {
+          "term": "girl",
+          "phonetic": "[ɡɜːl]",
+          "phoneticUS": "[ɡɜːrl]",
+          "meaning": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔"
+        },
+        {
+          "term": "no",
+          "phonetic": "[nəʊ]",
+          "phoneticUS": "[noʊ]",
+          "meaning": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号"
+        },
+        {
+          "term": "not",
+          "phonetic": "[nɒt]",
+          "phoneticUS": "[nɑːt]",
+          "meaning": "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）"
+        },
+        {
+          "term": "yes",
+          "phonetic": "[jes]",
+          "phoneticUS": "[jes]",
+          "meaning": "n. 是（表示肯定）\nadv. 是, 是的"
+        },
+        {
+          "term": "fat",
+          "phonetic": "[fæt]",
+          "phoneticUS": "[fæt]",
+          "meaning": "n. 脂肪，肥肉\nadj. 肥的，胖的；油腻的；丰满的\nvt. 养肥；在…中加入脂肪\nvi. 长肥"
+        },
+        {
+          "term": "friend",
+          "phonetic": "[frend]",
+          "phoneticUS": "[frend]",
+          "meaning": "n. 朋友；助手；赞助者"
+        },
+        {
+          "term": "he",
+          "phonetic": "[hi; iː; i; hiː]",
+          "phoneticUS": "[hi; iː; i; hiː]",
+          "meaning": "n. 男孩，男人；它（雄性动物）\npron. 他"
+        },
+        {
+          "term": "is",
+          "phonetic": "[ɪz]",
+          "phoneticUS": "[ɪz]",
+          "meaning": "v. 是（be的三单形式）\nn. 存在"
+        },
+        {
+          "term": "my",
+          "phonetic": "[maɪ]",
+          "phoneticUS": "[maɪ]",
+          "meaning": "pron. 我的\nint. 哎呀（表示惊奇等）；喔唷"
+        },
+        {
+          "term": "she",
+          "phonetic": "[ʃi]",
+          "phoneticUS": "[ʃi; ʃiː]",
+          "meaning": "n. 女人；雌性动物\npron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）"
+        },
+        {
+          "term": "short",
+          "phonetic": "[ʃɔːt]",
+          "phoneticUS": "[ʃɔːrt]",
+          "meaning": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地"
+        },
+        {
+          "term": "tall",
+          "phonetic": "[tɔːl]",
+          "phoneticUS": "[tɔːl]",
+          "meaning": "adj. 高的；长的；过分的；夸大的\nadv. 夸大地"
+        },
+        {
+          "term": "thin",
+          "phonetic": "[θɪn]",
+          "phoneticUS": "[θɪn]",
+          "meaning": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地"
+        },
+        {
+          "term": "this",
+          "phonetic": "[ðɪs]",
+          "phoneticUS": "[ðɪs]",
+          "meaning": "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么"
+        },
+        {
+          "term": "beautiful",
+          "phonetic": "[ˈbjuːtɪf(ə)l]",
+          "phoneticUS": "[ˈbjuːtɪf(ə)l]",
+          "meaning": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地"
+        },
+        {
+          "term": "brother",
+          "phonetic": "[ˈbrʌðə(r)]",
+          "phoneticUS": "[ˈbrʌðər]",
+          "meaning": "n. 兄弟；同事；战友\nint. 我的老兄！"
+        },
+        {
+          "term": "father",
+          "phonetic": "[ˈfɑːðə(r)]",
+          "phoneticUS": "[ˈfɑːðər]",
+          "meaning": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲"
+        },
+        {
+          "term": "me",
+          "phonetic": "[mi; miː]",
+          "phoneticUS": "[mi; miː]",
+          "meaning": "pron. 我（宾格）\nn. 自我；极端自私的人；自我的一部分"
+        },
+        {
+          "term": "mother",
+          "phonetic": "[ˈmʌðə(r)]",
+          "phoneticUS": "[ˈmʌðər]",
+          "meaning": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的"
+        },
+        {
+          "term": "sister",
+          "phonetic": "[ˈsɪstə(r)]",
+          "phoneticUS": "[ˈsɪstər]",
+          "meaning": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的"
+        },
+        {
+          "term": "who",
+          "phonetic": "[huː]",
+          "phoneticUS": "[huː]",
+          "meaning": "pron. 谁；什么人"
+        },
+        {
+          "term": "big",
+          "phonetic": "[bɪɡ]",
+          "phoneticUS": "[bɪɡ]",
+          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+        },
+        {
+          "term": "ear",
+          "phonetic": "[ɪə(r)]",
+          "phoneticUS": "[ɪr]",
+          "meaning": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗"
+        },
+        {
+          "term": "eye",
+          "phonetic": "[aɪ]",
+          "phoneticUS": "[aɪ]",
+          "meaning": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看"
+        },
+        {
+          "term": "face",
+          "phonetic": "[feɪs]",
+          "phoneticUS": "[feɪs]",
+          "meaning": "n. 脸；表面；面子；面容；外观；威信\nvi. 向；朝\nvt. 面对；面向；承认；抹盖"
+        },
+        {
+          "term": "hair",
+          "phonetic": "[heə(r)]",
+          "phoneticUS": "[her]",
+          "meaning": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维"
+        },
+        {
+          "term": "long",
+          "phonetic": "[lɒŋ]",
+          "phoneticUS": "[lɔːŋ]",
+          "meaning": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终"
+        },
+        {
+          "term": "look",
+          "phonetic": "[lʊk]",
+          "phoneticUS": "[lʊk]",
+          "meaning": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容"
+        },
+        {
+          "term": "mouth",
+          "phonetic": "[maʊθ]",
+          "phoneticUS": "[maʊθ]",
+          "meaning": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话"
+        },
+        {
+          "term": "nose",
+          "phonetic": "[nəʊz]",
+          "phoneticUS": "[noʊz]",
+          "meaning": "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问"
+        },
+        {
+          "term": "small",
+          "phonetic": "[smɔːl]",
+          "phoneticUS": "[smɔːl]",
+          "meaning": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地"
+        },
+        {
+          "term": "blackboard",
+          "phonetic": "[ˈblækbɔːd]",
+          "phoneticUS": "[ˈblækbɔːrd]",
+          "meaning": "n. 黑板"
+        },
+        {
+          "term": "clean",
+          "phonetic": "[kliːn]",
+          "phoneticUS": "[kliːn]",
+          "meaning": "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地"
+        },
+        {
+          "term": "close",
+          "phonetic": "[kləʊz]",
+          "phoneticUS": "[kloʊz; kloʊs]",
+          "meaning": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地"
+        },
+        {
+          "term": "door",
+          "phonetic": "[dɔː(r)]",
+          "phoneticUS": "[dɔːr]",
+          "meaning": "n. 门；家，户；门口；通道"
+        },
+        {
+          "term": "late",
+          "phonetic": "[leɪt]",
+          "phoneticUS": "[leɪt]",
+          "meaning": "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期"
+        },
+        {
+          "term": "look at",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 看；考虑"
+        },
+        {
+          "term": "open",
+          "phonetic": "[ˈəʊpən]",
+          "phoneticUS": "[ˈoʊpən]",
+          "meaning": "adj. 公开的；敞开的；空旷的；坦率的；营业着的\nvi. 开始；展现\nvt. 公开；打开\nn. 公开；空旷；户外"
+        },
+        {
+          "term": "please",
+          "phonetic": "[pliːz]",
+          "phoneticUS": "[pliːz]",
+          "meaning": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴"
+        },
+        {
+          "term": "the",
+          "phonetic": "[ðə]",
+          "phoneticUS": "[ðə; ði; ðiː]",
+          "meaning": "art. 这；那\nadv. 更加（用于比较级，最高级前）"
+        },
+        {
+          "term": "window",
+          "phonetic": "[ˈwɪndəʊ]",
+          "phoneticUS": "[ˈwɪndoʊ]",
+          "meaning": "n. 窗；窗口；窗户"
+        },
+        {
+          "term": "a",
+          "phonetic": "[ə]",
+          "phoneticUS": "[ə; eɪ]",
+          "meaning": "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. [物]安（ampere）"
+        },
+        {
+          "term": "an",
+          "phonetic": "[ən]",
+          "phoneticUS": "[ən; æn]",
+          "meaning": "art. 一（在元音音素前）"
+        },
+        {
+          "term": "apple",
+          "phonetic": "[ˈæp(ə)l]",
+          "phoneticUS": "[ˈæpl]",
+          "meaning": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+        },
+        {
+          "term": "banana",
+          "phonetic": "[bəˈnɑːnə]",
+          "phoneticUS": "[bəˈnænə]",
+          "meaning": "n. 香蕉；喜剧演员；大鹰钩鼻"
+        },
+        {
+          "term": "dad",
+          "phonetic": "[dæd]",
+          "phoneticUS": "[dæd]",
+          "meaning": "n. 爸爸；爹爹"
+        },
+        {
+          "term": "good",
+          "phonetic": "[ɡʊd]",
+          "phoneticUS": "[ɡʊd]",
+          "meaning": "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好"
+        },
+        {
+          "term": "here",
+          "phonetic": "[hɪə(r)]",
+          "phoneticUS": "[hɪr]",
+          "meaning": "n. 这里\nadv. 在这里；此时\nint. 嘿！；喂！"
+        },
+        {
+          "term": "how much",
+          "phonetic": "[haʊ mʌtʃ]",
+          "phoneticUS": "[haʊ mʌtʃ]",
+          "meaning": "conj. 多少"
+        },
+        {
+          "term": "it",
+          "phonetic": "[ɪt]",
+          "phoneticUS": "[ɪt]",
+          "meaning": "abbr. 信息技术information technology\nabbr. 意大利Italy；意大利的Italian"
+        },
+        {
+          "term": "orange",
+          "phonetic": "[ˈɒrɪndʒ]",
+          "phoneticUS": "[ˈɔrɪndʒ]",
+          "meaning": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子"
+        },
+        {
+          "term": "pear",
+          "phonetic": "[peə(r)]",
+          "phoneticUS": "[per]",
+          "meaning": "n. [园艺] 梨树；梨子"
+        },
+        {
+          "term": "they",
+          "phonetic": "[ðeɪ]",
+          "phoneticUS": "[ðeɪ]",
+          "meaning": "pron. 他们；它们；她们"
+        },
+        {
+          "term": "bed",
+          "phonetic": "[bed]",
+          "phoneticUS": "[bed]",
+          "meaning": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层"
+        },
+        {
+          "term": "book",
+          "phonetic": "[bʊk]",
+          "phoneticUS": "[bʊk]",
+          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
+        },
+        {
+          "term": "chair",
+          "phonetic": "[tʃeə(r)]",
+          "phoneticUS": "[tʃer]",
+          "meaning": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职"
+        },
+        {
+          "term": "desk",
+          "phonetic": "[desk]",
+          "phoneticUS": "[desk]",
+          "meaning": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的"
+        },
+        {
+          "term": "mum",
+          "phonetic": "[mʌm]",
+          "phoneticUS": "[mʌm]",
+          "meaning": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话"
+        },
+        {
+          "term": "pen",
+          "phonetic": "[pen]",
+          "phoneticUS": "[pen]",
+          "meaning": "n. 钢笔；作家；围栏\nvt. 写；关入栏中"
+        },
+        {
+          "term": "pencil",
+          "phonetic": "[ˈpens(ə)l]",
+          "phoneticUS": "[ˈpensl]",
+          "meaning": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状"
+        },
+        {
+          "term": "ruler",
+          "phonetic": "[ˈruːlə(r)]",
+          "phoneticUS": "[ˈruːlər]",
+          "meaning": "n. 尺；统治者；[测] 划线板，划线的人"
+        },
+        {
+          "term": "schoolbag",
+          "phonetic": "[ˈskuːlbæɡ]",
+          "phoneticUS": "[ˈskuːlˌbæɡ]",
+          "meaning": "n. 书包"
+        },
+        {
+          "term": "these",
+          "phonetic": "[ðiːz]",
+          "phoneticUS": "[ðiːz]",
+          "meaning": "adj. 这些的\npron. 这些"
+        },
+        {
+          "term": "your",
+          "phonetic": "[jɔː(r); jə(r)]",
+          "phoneticUS": "[jʊr; jər]",
+          "meaning": "pron. 你的，你们的"
+        },
+        {
+          "term": "eight",
+          "phonetic": "[eɪt]",
+          "phoneticUS": "[eɪt]",
+          "meaning": "num. 八；八个；第八\nn. 八字形\nadj. 八的"
+        },
+        {
+          "term": "five",
+          "phonetic": "[faɪv]",
+          "phoneticUS": "[faɪv]",
+          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
+        },
+        {
+          "term": "four",
+          "phonetic": "[fɔː(r)]",
+          "phoneticUS": "[fɔːr]",
+          "meaning": "num. 四；四个\nadj. 四的；四个的"
+        },
+        {
+          "term": "how many",
+          "phonetic": "",
+          "phoneticUS": "",
+          "meaning": "na. 多少"
+        },
+        {
+          "term": "nine",
+          "phonetic": "[naɪn]",
+          "phoneticUS": "[naɪn]",
+          "meaning": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的"
+        },
+        {
+          "term": "one",
+          "phonetic": "[wʌn]",
+          "phoneticUS": "[wʌn]",
+          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
+        },
+        {
+          "term": "seven",
+          "phonetic": "[ˈsev(ə)n]",
+          "phoneticUS": "[ˈsev(ə)n]",
+          "meaning": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的"
+        },
+        {
+          "term": "six",
+          "phonetic": "[sɪks]",
+          "phoneticUS": "[sɪks]",
+          "meaning": "num. 六，六个\nn. 六，六个"
+        },
+        {
+          "term": "ten",
+          "phonetic": "[ten]",
+          "phoneticUS": "[ten]",
+          "meaning": "num. 十个，十"
+        },
+        {
+          "term": "three",
+          "phonetic": "[θriː]",
+          "phoneticUS": "[θriː]",
+          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+        },
+        {
+          "term": "two",
+          "phonetic": "[tuː]",
+          "phoneticUS": "[tuː]",
+          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+        },
+        {
+          "term": "cat",
+          "phonetic": "[kæt]",
+          "phoneticUS": "[kæt]",
+          "meaning": "n. 猫，猫科动物"
+        },
+        {
+          "term": "dog",
+          "phonetic": "[dɒɡ]",
+          "phoneticUS": "[dɔːɡ]",
+          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
+        },
+        {
+          "term": "fish",
+          "phonetic": "[fɪʃ]",
+          "phoneticUS": "[fɪʃ]",
+          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+        },
+        {
+          "term": "its",
+          "phonetic": "[ɪts]",
+          "phoneticUS": "[ɪts]",
+          "meaning": "pron. 它的"
+        },
+        {
+          "term": "mouse",
+          "phonetic": "[maʊs]",
+          "phoneticUS": "[maʊs]",
+          "meaning": "n. 鼠标；老鼠；胆小羞怯的人\nvt. 探出\nvi. 捕鼠；窥探"
+        },
+        {
+          "term": "mice",
+          "phonetic": "[maɪs]",
+          "phoneticUS": "[maɪs]",
+          "meaning": "n. 老鼠（mouse的复数）"
+        },
+        {
+          "term": "rabbit",
+          "phonetic": "[ˈræbɪt]",
+          "phoneticUS": "[ˈræbɪt]",
+          "meaning": "n. 兔子，野兔\nvt. 让…见鬼去吧\nvi. 猎兔"
+        },
+        {
+          "term": "tail",
+          "phonetic": "[teɪl]",
+          "phoneticUS": "[teɪl]",
+          "meaning": "n. 尾巴；踪迹；辫子；燕尾服\nadj. 从后面而来的；尾部的\nvt. 尾随；装上尾巴\nvi. 跟踪；变少或缩小"
+        },
+        {
+          "term": "what",
+          "phonetic": "[wɒt]",
+          "phoneticUS": "[wʌt]",
+          "meaning": "pron. 什么；多么；多少\nadv. 到什么程度，在哪一方面\nadj. 什么；多么；何等\nint. 什么；多么"
+        },
+        {
+          "term": "autumn",
+          "phonetic": "[ˈɔːtəm]",
+          "phoneticUS": "[ˈɔːtəm; ˈɑːtəm]",
+          "meaning": "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的"
+        },
+        {
+          "term": "cold",
+          "phonetic": "[kəʊld]",
+          "phoneticUS": "[kəʊld]",
+          "meaning": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地"
+        },
+        {
+          "term": "cool",
+          "phonetic": "[kuːl]",
+          "phoneticUS": "[kuːl]",
+          "meaning": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地"
+        },
+        {
+          "term": "hot",
+          "phonetic": "[hɒt]",
+          "phoneticUS": "[hɑːt]",
+          "meaning": "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热"
+        },
+        {
+          "term": "in",
+          "phonetic": "[ɪn]",
+          "phoneticUS": "[ɪn]",
+          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+        },
+        {
+          "term": "spring",
+          "phonetic": "[sprɪŋ]",
+          "phoneticUS": "[sprɪŋ]",
+          "meaning": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开"
+        },
+        {
+          "term": "summer",
+          "phonetic": "[ˈsʌmə(r)]",
+          "phoneticUS": "[ˈsʌmər]",
+          "meaning": "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天"
+        },
+        {
+          "term": "warm",
+          "phonetic": "[wɔːm]",
+          "phoneticUS": "[wɔːrm]",
+          "meaning": "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖"
+        },
+        {
+          "term": "winter",
+          "phonetic": "[ˈwɪntə(r)]",
+          "phoneticUS": "[ˈwɪntər]",
+          "meaning": "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬"
+        }
+      ]
+    }
+  ]
+}
