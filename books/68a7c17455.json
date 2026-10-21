@@ -1,400 +1,419 @@
 {
-  "id": "68a7c17455",
   "title": "北京版一年级起点四年级上",
   "wordCount": 65,
   "units": [
     {
-      "name": "整册",
+      "name": "Lesson 1",
       "words": [
         {
           "term": "again",
-          "phonetic": "[əˈɡen]",
-          "phoneticUS": "[əˈɡen; əˈɡeɪn]",
-          "meaning": "adv. 又，此外；再一次；再说；增加\nn. （英、保）阿盖恩"
+          "phonetic": "[əˈgeɪn]",
+          "meaning": "adv.又,再次,此外,再一次"
         },
         {
           "term": "glad",
           "phonetic": "[ɡlæd]",
-          "phoneticUS": "[ɡlæd]",
-          "meaning": "adj. 高兴的；乐意的；令人高兴的；灿烂美丽的\nvt. 使高兴"
+          "meaning": "adj.高兴的,乐意的,感到高兴的"
         },
         {
           "term": "why",
           "phonetic": "[waɪ]",
-          "phoneticUS": "[waɪ]",
-          "meaning": "int. 哎呀！什么？\nadv. 为什么"
+          "meaning": "adv.为什么,...的(理由)int.(表吃惊,满意等)哎呀!什么?"
         },
         {
           "term": "book",
           "phonetic": "[bʊk]",
-          "phoneticUS": "[bʊk]",
-          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
-        },
+          "meaning": "n.书,书籍,卷,篇,帐簿,名册,工作簿v.登记,预订,控告"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 2",
+      "words": [
         {
           "term": "sad",
           "phonetic": "[sæd]",
-          "phoneticUS": "[sæd]",
-          "meaning": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
+          "meaning": "adj.忧愁的,悲哀的"
         },
         {
           "term": "surprised",
           "phonetic": "[səˈpraɪzd]",
-          "phoneticUS": "[sərˈpraɪzd]",
-          "meaning": "v. 使惊奇（surprise的过去分词形式）\nadj. 感到惊讶的，出人意料的"
-        },
+          "meaning": "adj.感到惊讶的"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 3",
+      "words": [
         {
           "term": "look for",
-          "phonetic": "[ˈlʊk fɔː(r)]",
-          "phoneticUS": "[ˈlʊk fɔːr]",
-          "meaning": "v. 寻找；探索；渴望；盼望"
+          "phonetic": "[lʊk fɔ:]",
+          "meaning": ""
         },
         {
           "term": "get well",
           "phonetic": "[ɡet wel]",
-          "phoneticUS": "[ɡet wel]",
-          "meaning": "na. 复原"
+          "meaning": ""
         },
         {
           "term": "upset",
-          "phonetic": "[ˌʌpˈset]",
-          "phoneticUS": "[ˌʌpˈset]",
-          "meaning": "n. 混乱；翻倒；颠覆\nadj. 心烦的；混乱的；弄翻的\nvt. 使心烦；颠覆；扰乱\nvi. 翻倒"
-        },
+          "phonetic": "[ʌpˈset]",
+          "meaning": "vt.颠覆,推翻,扰乱,使不适,使心烦vi.翻倒,倾覆n.翻倒,混乱"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 5",
+      "words": [
         {
           "term": "speak",
-          "phonetic": "[spiːk]",
-          "phoneticUS": "[spiːk]",
-          "meaning": "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演"
+          "phonetic": "[spi:k]",
+          "meaning": "v.说话,谈话,说明事实,表示意见,发言,演讲,操(某种语言)"
         },
         {
           "term": "robot",
           "phonetic": "[ˈrəʊbɒt]",
-          "phoneticUS": "[ˈroʊbɑːt]",
-          "meaning": "n. 机器人；遥控设备，自动机械；机械般工作的人"
+          "meaning": "n.机器人,遥控设备,自动机械,机械般工作的人"
         },
         {
           "term": "housework",
-          "phonetic": "[ˈhaʊswɜːk]",
-          "phoneticUS": "[ˈhaʊswɜːrk]",
-          "meaning": "n. 家务事"
+          "phonetic": "[ˈhaʊswɜ:k]",
+          "meaning": "n.家务,劳动,家务事"
         },
         {
           "term": "Ms",
           "phonetic": "[mɪz]",
-          "phoneticUS": "[mɪz]",
-          "meaning": "abbr. 存贮系统（Memory System）；主存储器（Main Storage）；主程序装置（Master Sequecer）；中速，平均速度（Medium Speed）；主（总）开关（Master Switch）"
+          "meaning": ""
         },
         {
           "term": "Mrs",
           "phonetic": "[ˈmɪsɪz]",
-          "phoneticUS": "[ˈmɪsɪz]",
-          "meaning": "n. 太太；夫人（用于已婚妇女姓名前的尊称）"
-        },
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Lesson 6",
+      "words": [
         {
           "term": "there",
-          "phonetic": "[ðeə(r)]",
-          "phoneticUS": "[ðer]",
-          "meaning": "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧"
+          "phonetic": "[ðeə]",
+          "meaning": "adv.在那里"
         },
         {
           "term": "really",
-          "phonetic": "[ˈriːəli]",
-          "phoneticUS": "[ˈriːəli]",
-          "meaning": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）"
+          "phonetic": "[ˈrɪəlɪ]",
+          "meaning": "adv.真正地,实在地,(表语气)真的吗?"
         },
         {
           "term": "bring",
           "phonetic": "[brɪŋ]",
-          "phoneticUS": "[brɪŋ]",
-          "meaning": "vt. 带来；促使；引起；使某人处于某种情况或境地"
+          "meaning": "vt.拿来,带来,产生,引起,提出(诉讼)vi.停下"
         },
         {
           "term": "school",
-          "phonetic": "[skuːl]",
-          "phoneticUS": "[skuːl]",
-          "meaning": "n. 学校；学院；学派；鱼群\nvt. 教育"
-        },
+          "phonetic": "[sku:l]",
+          "meaning": "n.学校,学院,学习,授课,求学,全体学生,学派vt.锻炼,教育"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 7",
+      "words": [
         {
           "term": "bad",
           "phonetic": "[bæd]",
-          "phoneticUS": "[bæd]",
-          "meaning": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地"
+          "meaning": "adj.劣质的,有害的,坏的,不利的,不健康的,严重的"
         },
         {
           "term": "cold",
           "phonetic": "[kəʊld]",
-          "phoneticUS": "[kəʊld]",
-          "meaning": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地"
+          "meaning": "n.寒冷,[物]零下温度,伤风,感冒adj.寒冷的,使人战栗的,冷淡的,不热情的,失去知觉的"
         },
         {
           "term": "drink",
           "phonetic": "[drɪŋk]",
-          "phoneticUS": "[drɪŋk]",
-          "meaning": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯"
-        },
+          "meaning": "n.饮料,酒,酗酒,一口(或一些)饮料v.喝,喝酒,(植物、土壤等的)吸水,举杯庆贺"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 9",
+      "words": [
         {
           "term": "word",
-          "phonetic": "[wɜːd]",
-          "phoneticUS": "[wɜːrd]",
-          "meaning": "n. [语] 单词；话语；消息；诺言；命令\nvt. 用言辞表达"
+          "phonetic": "[wɜ:d]",
+          "meaning": "n.字,词,话,消息,诺言,命令vt.为...措辞"
         },
         {
           "term": "computer",
-          "phonetic": "[kəmˈpjuːtə(r)]",
-          "phoneticUS": "[kəmˈpjuːtər]",
-          "meaning": "n. 计算机；电脑；电子计算机"
+          "phonetic": "[kəmˈpju:tə]",
+          "meaning": "n.计算机,电脑"
         },
         {
           "term": "easy",
-          "phonetic": "[ˈiːzi]",
-          "phoneticUS": "[ˈiːzi]",
-          "meaning": "adj. 容易的；舒适的\nvt. 发出停划命令\nadv. 不费力地，从容地\nvi. 停止划桨"
+          "phonetic": "[ˈi:zɪ]",
+          "meaning": "adj.容易的,安逸的,舒适的,宽裕的,小康的,从容的,宽容的,流畅的adv.不费力的,轻松,悠闲,慢慢地n.短暂的休息"
         },
         {
           "term": "light",
           "phonetic": "[laɪt]",
-          "phoneticUS": "[laɪt]",
-          "meaning": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地"
-        },
+          "meaning": "n.光,日光,发光体,灯adj.轻的,发光的,明亮的,浅的vt.点燃,照亮adv.轻地vi.点着,变亮"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 10",
+      "words": [
         {
           "term": "door",
-          "phonetic": "[dɔː(r)]",
-          "phoneticUS": "[dɔːr]",
-          "meaning": "n. 门；家，户；门口；通道"
+          "phonetic": "[dɔ:]",
+          "meaning": "n.门,通道,家,户"
         },
         {
           "term": "kind",
           "phonetic": "[kaɪnd]",
-          "phoneticUS": "[kaɪnd]",
-          "meaning": "n. 种类；性质\nadj. 和蔼的；宽容的；令人感激的"
+          "meaning": "n.种类,性质adj.仁慈的,和蔼的,亲切的,友爱的"
         },
         {
           "term": "window",
           "phonetic": "[ˈwɪndəʊ]",
-          "phoneticUS": "[ˈwɪndoʊ]",
-          "meaning": "n. 窗；窗口；窗户"
+          "meaning": "n.窗,窗口"
         },
         {
           "term": "glass",
-          "phonetic": "[ɡlɑːs]",
-          "phoneticUS": "[ɡlæs]",
-          "meaning": "n. 玻璃；玻璃制品；镜子\nvt. 反映；给某物加玻璃\nvi. 成玻璃状"
-        },
+          "phonetic": "[ɡlɑ:s]",
+          "meaning": "n.玻璃,玻璃制品,玻璃杯,镜子,眼镜,望远镜,气压计,晴雨表vt.装玻璃于,反映vi.成玻璃状"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 11",
+      "words": [
         {
           "term": "take",
           "phonetic": "[teɪk]",
-          "phoneticUS": "[teɪk]",
-          "meaning": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额"
+          "meaning": "v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
         },
         {
           "term": "fine",
           "phonetic": "[faɪn]",
-          "phoneticUS": "[faɪn]",
-          "meaning": "n. 罚款\nadj. 好的；优良的；细小的，精美的；健康的；晴朗的\nvt. 罚款；澄清\nadv. 很好地；精巧地"
-        },
+          "meaning": "adj.美好的,优良的,杰出的,精美的,杰出的,细,纤细,纯粹n.罚款,罚金,晴天,精细vt.罚款,精炼,澄清vi.变清,变细adv.<口>很好,妙,[常用于构成复合词]细微地,精巧地"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 15",
+      "words": [
         {
           "term": "get",
           "phonetic": "[ɡet]",
-          "phoneticUS": "[ɡet]",
-          "meaning": "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得"
+          "meaning": "vt.获得,变成,收获,使得,挣得,受到(惩罚,打击等),染上,抓住vi.到达,成为,变得n.生殖,幼兽"
         },
         {
           "term": "pen",
           "phonetic": "[pen]",
-          "phoneticUS": "[pen]",
-          "meaning": "n. 钢笔；作家；围栏\nvt. 写；关入栏中"
+          "meaning": "n.钢笔,围栏,围圈,作家vt.写,关入栏中"
         },
         {
           "term": "kind",
           "phonetic": "[kaɪnd]",
-          "phoneticUS": "[kaɪnd]",
-          "meaning": "n. 种类；性质\nadj. 和蔼的；宽容的；令人感激的"
+          "meaning": "n.种类,性质adj.仁慈的,和蔼的,亲切的,友爱的"
         },
         {
           "term": "brown",
           "phonetic": "[braʊn]",
-          "phoneticUS": "[braʊn]",
-          "meaning": "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色"
+          "meaning": "n.褐色adj.褐色的,棕色的v.(使)成褐色,晒黑"
         },
         {
           "term": "think",
           "phonetic": "[θɪŋk]",
-          "phoneticUS": "[θɪŋk]",
-          "meaning": "n. 想；想法\nadj. 思想的\nvi. 想；认为\nvt. 想；认为；想起；想像；打算"
-        },
+          "meaning": "v.想,思索,认为vt.认为,以为,预料"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 16",
+      "words": [
         {
           "term": "pair",
-          "phonetic": "[peə(r)]",
-          "phoneticUS": "[per]",
-          "meaning": "n. 一对，一双，一副\nvt. 把…组成一对"
+          "phonetic": "[peə]",
+          "meaning": "n.一对,一双"
         },
         {
           "term": "shoe",
-          "phonetic": "[ʃuː]",
-          "phoneticUS": "[ʃuː]",
-          "meaning": "n. 鞋；蹄铁；外胎\nvt. 给……穿上鞋；穿……鞋"
+          "phonetic": "[ʃu:]",
+          "meaning": "n.鞋,鞋子v.穿...鞋"
         },
         {
           "term": "how much",
           "phonetic": "[haʊ mʌtʃ]",
-          "phoneticUS": "[haʊ mʌtʃ]",
-          "meaning": "conj. 多少"
-        },
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Lesson 17",
+      "words": [
         {
           "term": "buy",
           "phonetic": "[baɪ]",
-          "phoneticUS": "[baɪ]",
-          "meaning": "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂"
+          "meaning": "v.买n.购买,买卖"
         },
         {
           "term": "shop",
           "phonetic": "[ʃɒp]",
-          "phoneticUS": "[ʃɑːp]",
-          "meaning": "n. 商店；店铺\nvt. 购物\nvi. 购物；买东西"
+          "meaning": "n.商店,店铺vi.买东西,购货"
         },
         {
           "term": "sell",
           "phonetic": "[sel]",
-          "phoneticUS": "[sel]",
-          "meaning": "n. 销售；失望；推销术\nvt. 销售；推销；出卖；欺骗\nvi. 卖；出售；受欢迎；有销路"
-        },
+          "meaning": "v.出售,卖"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 19",
+      "words": [
         {
           "term": "eat",
-          "phonetic": "[iːt]",
-          "phoneticUS": "[iːt]",
-          "meaning": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀"
+          "phonetic": "[i:t]",
+          "meaning": "v.吃,腐蚀"
         },
         {
           "term": "healthy",
-          "phonetic": "[ˈhelθi]",
-          "phoneticUS": "[ˈhelθi]",
-          "meaning": "adj. 健康的，健全的；有益于健康的"
+          "phonetic": "[ˈhelθɪ]",
+          "meaning": "adj.健康的,健壮的,有益于健康的"
         },
         {
           "term": "sour",
-          "phonetic": "[ˈsaʊə(r)]",
-          "phoneticUS": "[ˈsaʊər]",
-          "meaning": "n. 酸味；苦事\nadj. 酸的；发酵的；刺耳的；酸臭的；讨厌的\nvt. 使变酸；使失望\nvi. 发酵；变酸；厌烦"
+          "phonetic": "[ˈsaʊə]",
+          "meaning": "adj.酸的,发酵的,酸腐的,酸味的"
         },
         {
           "term": "cook",
-          "phonetic": "[kʊk]",
-          "phoneticUS": "[kʊk]",
-          "meaning": "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜"
+          "phonetic": "[kuk]",
+          "meaning": "n.厨师v.烹调,煮,伪造"
         },
         {
           "term": "duck",
           "phonetic": "[dʌk]",
-          "phoneticUS": "[dʌk]",
-          "meaning": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中"
-        },
+          "meaning": "n.鸭子,急忙蹲下,闪避,<俚> 人,家伙vi.没入水中,闪避vt.猛按...入水,躲避"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 20",
+      "words": [
         {
           "term": "soup",
-          "phonetic": "[suːp]",
-          "phoneticUS": "[suːp]",
-          "meaning": "n. 汤，羹；马力\nvt. 加速；增加马力"
+          "phonetic": "[su:p]",
+          "meaning": ""
         },
         {
           "term": "sorry",
-          "phonetic": "[ˈsɒri]",
-          "phoneticUS": "[ˈsɑːri]",
-          "meaning": "adj. 遗憾的；对不起的，抱歉的\nint. 对不起，抱歉（表示委婉的拒绝等）"
+          "phonetic": "[ˈsɒrɪ]",
+          "meaning": "adj.遗憾的,对不起的,可怜的,抱歉的"
         },
         {
           "term": "pie",
           "phonetic": "[paɪ]",
-          "phoneticUS": "[paɪ]",
-          "meaning": "n. 馅饼；饼图；爱说话的人\nvt. 使杂乱"
-        },
+          "meaning": "n.馅饼,杂乱,喜鹊,爱说话的人vt.弄乱"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 21",
+      "words": [
         {
           "term": "chicken",
           "phonetic": "[ˈtʃɪkɪn]",
-          "phoneticUS": "[ˈtʃɪkɪn]",
-          "meaning": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的"
+          "meaning": "n.小鸡,小鸟,鸡肉"
         },
         {
           "term": "hamburger",
-          "phonetic": "[ˈhæmbɜːɡə(r)]",
-          "phoneticUS": "[ˈhæmbɜːrɡər]",
-          "meaning": "n. 汉堡包，火腿汉堡；牛肉饼，肉饼；碎牛肉"
+          "phonetic": "[ˈhæmbɜ:ɡə]",
+          "meaning": "n.<美> 碎牛肉,牛肉饼,汉堡包"
         },
         {
           "term": "change",
           "phonetic": "[tʃeɪndʒ]",
-          "phoneticUS": "[tʃeɪndʒ]",
-          "meaning": "n. 变化；找回的零钱\nvt. 改变；交换\nvi. 改变；兑换"
+          "meaning": "n.改变,变化,转变,找回的零钱,找头,辅币vt.改变,变革,改造,兑换"
         },
         {
           "term": "money",
-          "phonetic": "[ˈmʌni]",
-          "phoneticUS": "[ˈmʌni]",
-          "meaning": "n. 钱；货币；财富"
-        },
+          "phonetic": "[ˈmʌnɪ]",
+          "meaning": "n.货币,钱,金钱"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 23",
+      "words": [
         {
           "term": "become",
           "phonetic": "[bɪˈkʌm]",
-          "phoneticUS": "[bɪˈkʌm]",
-          "meaning": "vt. 适合；相称\nvi. 成为；变得；变成"
+          "meaning": "vi.变成,成为,变得vt.适合,相称"
         },
         {
           "term": "clever",
-          "phonetic": "[ˈklevə(r)]",
-          "phoneticUS": "[ˈklevər]",
-          "meaning": "adj. 聪明的；机灵的；熟练的\n[ 比较级cleverer 最高级 cleverest ]"
+          "phonetic": "[ˈklevə]",
+          "meaning": "adj.机灵的,聪明的"
         },
         {
           "term": "ice",
           "phonetic": "[aɪs]",
-          "phoneticUS": "[aɪs]",
-          "meaning": "n. 冰；冰淇淋；矜持；（俚）钻石\nadj. 冰的\nvt. 冰镇；结冰\nvi. 结冰"
-        },
+          "meaning": "n.冰冻食品vt.冰冻,覆以冰vi.结冰 [军] Intenal Combustion Engine,内燃机"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 24",
+      "words": [
         {
           "term": "walk",
-          "phonetic": "[wɔːk]",
-          "phoneticUS": "[wɔːk]",
-          "meaning": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过"
+          "phonetic": "[wɔ:k]",
+          "meaning": "vi.步,行,走n.步行,散步,步,行道"
         },
         {
           "term": "interesting",
           "phonetic": "[ˈɪntrəstɪŋ]",
-          "phoneticUS": "[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",
-          "meaning": "adj. 有趣的；引起兴趣的，令人关注的"
+          "meaning": "adj.有趣味的,引起好奇(或注意)的"
         },
         {
           "term": "close",
           "phonetic": "[kləʊz]",
-          "phoneticUS": "[kloʊz; kloʊs]",
-          "meaning": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地"
+          "meaning": "v.关,关闭,结束,停止,使靠近,靠拢,会合,包围n.结束adj.近的,紧密的,精密的,齐根的,封闭的,亲密的,闷气的adv.接近,紧密地"
         },
         {
           "term": "farmer",
-          "phonetic": "[ˈfɑːmə(r)]",
-          "phoneticUS": "[ˈfɑːrmər]",
-          "meaning": "n. 农夫，农民"
+          "phonetic": "[ˈfɑ:mə]",
+          "meaning": "n.农夫,百姓,农民,农场主,承包主,牧场主,畜牧者"
         },
         {
           "term": "lake",
-          "phonetic": "[leɪk]",
-          "phoneticUS": "[leɪk]",
-          "meaning": "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解"
-        },
+          "phonetic": "[ˈleɪk]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Lesson 25",
+      "words": [
         {
           "term": "say",
           "phonetic": "[seɪ]",
-          "phoneticUS": "[seɪ]",
-          "meaning": "vt. 讲；说明；例如；声称；假设；指明\nvi. 讲；表示；念；假定；背诵"
+          "meaning": "v.说,讲,背诵,念,表示,比方说,假定n.话语,想说的意见,发言权"
         },
         {
           "term": "air",
-          "phonetic": "[eə(r)]",
-          "phoneticUS": "[er]",
-          "meaning": "n. 空气，大气；天空；样子；曲调\nvt. 使通风，晾干；夸耀\nvi. 通风"
+          "phonetic": "[eə]",
+          "meaning": "n.空气,样子,天空,空中,曲调vt.晾干,使通风,宣扬,夸耀,显示"
         },
         {
           "term": "live",
-          "phonetic": "[lɪv; laɪv]",
-          "phoneticUS": "[lɪv; laɪv]",
-          "meaning": "adj. 活的；生动的；实况转播的；精力充沛的\nvt. 经历；度过\nvi. 活；居住；生存"
+          "phonetic": "[lɪv]",
+          "meaning": "adj.活的,生动的,精力充沛的,实况转播的,点燃的vi.活着,生活,居住,流在人们记忆中vt.过着,度过,经历adv.以实况地"
         }
       ]
     }

@@ -1,484 +1,489 @@
 {
-  "id": "31a5c1f7e8",
   "title": "北京版一年级起点二年级下",
   "wordCount": 79,
   "units": [
     {
-      "name": "整册",
+      "name": "Lesson 1",
       "words": [
         {
           "term": "time",
           "phonetic": "[taɪm]",
-          "phoneticUS": "[taɪm]",
-          "meaning": "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度"
+          "meaning": "n.时间,时侯,时机,节拍,期限,次数,时期,比赛限时vt.安排...的时间,记录...的时间,计时,定时vi.打拍子,(...)合拍adj.时间的,记时的,定时的,定期的,分期的 /n.时间/日期"
         },
         {
           "term": "o'clock",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "abbr. …点钟（等于of the clock）"
+          "phonetic": "[əˈklɒk]",
+          "meaning": ""
         },
         {
           "term": "nice",
           "phonetic": "[naɪs]",
-          "phoneticUS": "[naɪs]",
-          "meaning": "adj. 精密的；美好的；细微的；和蔼的"
-        },
+          "meaning": "adj.美好的,和蔼的,正派的,细微的,挑剔的,精密的,拘泥的"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 2",
+      "words": [
         {
           "term": "when",
           "phonetic": "[wen]",
-          "phoneticUS": "[wen]",
-          "meaning": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯"
+          "meaning": "conj.就在那个时候,在...的时候adv.什么时候,...的时候 pron.什么时侯,那时"
         },
         {
           "term": "thirty",
-          "phonetic": "[ˈθɜːti]",
-          "phoneticUS": "[ˈθɜːrti]",
-          "meaning": "num. 三十\nn. 三十年代\nadj. 三十个的"
+          "phonetic": "[ˈθɜ:tɪ]",
+          "meaning": "num.三十"
         },
         {
           "term": "home",
           "phonetic": "[həʊm]",
-          "phoneticUS": "[hoʊm]",
-          "meaning": "n. 家，住宅；产地；家乡；避难所\nadj. 国内的，家庭的；有效的\nvt. 归巢，回家\nadv. 在家，回家；深入地"
+          "meaning": "n.家,住宅,家乡,本国,产地,避难所adj.家庭的,国内的,有效的adv.在家,回家,深入地,在本国"
         },
         {
           "term": "five",
           "phonetic": "[faɪv]",
-          "phoneticUS": "[faɪv]",
-          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
-        },
+          "meaning": "num.五,五个(人或物)n.五个一组,<口>五厘息金的证券"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 3",
+      "words": [
         {
           "term": "fifty",
-          "phonetic": "[ˈfɪfti]",
-          "phoneticUS": "[ˈfɪfti]",
-          "meaning": "n. 五十；五十个；编号为50的东西\nadj. 五十的；五十个的；众多的"
+          "phonetic": "[ˈfɪftɪ]",
+          "meaning": "adj.五十"
         },
         {
           "term": "nine",
           "phonetic": "[naɪn]",
-          "phoneticUS": "[naɪn]",
-          "meaning": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的"
+          "meaning": "num.九,九个"
         },
         {
           "term": "twenty",
-          "phonetic": "[ˈtwenti]",
-          "phoneticUS": "[ˈtwenti]",
-          "meaning": "num. 二十\nn. 二十；二十年代\nadj. 二十的"
+          "phonetic": "[ˈtwentɪ]",
+          "meaning": "num.二十,二十个"
         },
         {
           "term": "sleep",
-          "phonetic": "[sliːp]",
-          "phoneticUS": "[sliːp]",
-          "meaning": "n. 睡眠\nvi. 睡，睡觉"
+          "phonetic": "[sli:p]",
+          "meaning": "vi.睡,睡觉n.睡眠"
         },
         {
           "term": "good",
-          "phonetic": "[ɡʊd]",
-          "phoneticUS": "[ɡʊd]",
-          "meaning": "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好"
+          "phonetic": "[gʊd]",
+          "meaning": "n.好,好事,慷慨的行为,好处,利益adj.优良的,上等的,虔诚的,愉快的,慈善的,好心的,有益的"
         },
         {
           "term": "one",
           "phonetic": "[wʌn]",
-          "phoneticUS": "[wʌn]",
-          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
-        },
+          "meaning": "pron.一个人,任何人,一方 num.一,一个adj.一方的,某一,同样的"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 5",
+      "words": [
         {
           "term": "dad",
           "phonetic": "[dæd]",
-          "phoneticUS": "[dæd]",
-          "meaning": "n. 爸爸；爹爹"
+          "meaning": "n.爸爸,爹爹"
         },
         {
           "term": "for",
-          "phonetic": "[fə(r)]",
-          "phoneticUS": "[fər; fɔːr]",
-          "meaning": "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为"
+          "phonetic": "[fɔ:]",
+          "meaning": "prep.(表示目的)为了,因为,至于,对于,适合于 conj.因为"
         },
         {
           "term": "bread",
           "phonetic": "[bred]",
-          "phoneticUS": "[bred]",
-          "meaning": "n. 面包；生计\nvt. 在…上洒面包屑"
+          "meaning": "n.面包,生计"
         },
         {
           "term": "milk",
           "phonetic": "[mɪlk]",
-          "phoneticUS": "[mɪlk]",
-          "meaning": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶"
+          "meaning": "n.乳,牛奶v.挤(奶)"
         },
         {
           "term": "egg",
           "phonetic": "[eɡ]",
-          "phoneticUS": "[eɡ]",
-          "meaning": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿"
+          "meaning": "n.蛋,鸡蛋,卵v.怂恿,怂恿"
         },
         {
           "term": "an",
           "phonetic": "[ən]",
-          "phoneticUS": "[ən; æn]",
-          "meaning": "art. 一（在元音音素前）"
-        },
+          "meaning": "art.一(在元音字母前代替不定代词a) [域] Netherlands Antilles ,荷兰属地"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 6",
+      "words": [
         {
           "term": "fish",
           "phonetic": "[fɪʃ]",
-          "phoneticUS": "[fɪʃ]",
-          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+          "meaning": "n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
         },
         {
           "term": "rice",
           "phonetic": "[raɪs]",
-          "phoneticUS": "[raɪs]",
-          "meaning": "n. 稻；米饭\nvt. 把…捣成米糊状"
+          "meaning": "n.稻,米"
         },
         {
           "term": "noodle",
-          "phonetic": "[ˈnuːd(ə)l]",
-          "phoneticUS": "[ˈnuːd(ə)l]",
-          "meaning": "n. 面条；笨蛋"
+          "phonetic": "[ˈnu:dl]",
+          "meaning": "n.面条(常用复数),笨蛋,傻瓜"
         },
         {
           "term": "down",
           "phonetic": "[daʊn]",
-          "phoneticUS": "[daʊn]",
-          "meaning": "prep. 沿着，往下\nn. 软毛，绒毛；[地质] 开阔的高地\nadj. 向下的\nvt. 打倒，击败\nadv. 向下，下去；在下面\nvi. 下降；下去"
+          "meaning": "adj.向下的adv.向下,在下面,下去,降下 prep.往下,沿着n.绒毛,软毛,开阔的高地"
         },
         {
           "term": "ice cream",
-          "phonetic": "[ˈaɪs kriːm]",
-          "phoneticUS": "[ˈaɪs kriːm]",
-          "meaning": "n. 【食】冰淇淋"
-        },
+          "phonetic": "[aɪs kri:m]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Lesson 7",
+      "words": [
         {
           "term": "back",
           "phonetic": "[bæk]",
-          "phoneticUS": "[bæk]",
-          "meaning": "n. 后面；背部；靠背；足球等的后卫；书报等的末尾\nadj. 后面的；过去的；拖欠的\nvt. 支持；后退；背书；下赌注\nadv. 以前；向后地；来回地；上溯；回来；回原处\nvi. 后退；背靠；倒退"
+          "meaning": "adj.后面的,在后面,早过去的,前(欠)的钱adv.向后地n.背部,后面v.后退,支持"
         },
         {
           "term": "hungry",
-          "phonetic": "[ˈhʌŋɡri]",
-          "phoneticUS": "[ˈhʌŋɡri]",
-          "meaning": "adj. 饥饿的；渴望的；荒年的；不毛的"
+          "phonetic": "[ˈhʌŋɡrɪ]",
+          "meaning": "adj.饥饿的,渴望的,荒年的,不毛的"
         },
         {
           "term": "hello",
           "phonetic": "[həˈləʊ]",
-          "phoneticUS": "[həˈləʊ]",
-          "meaning": "n. 表示问候， 惊奇或唤起注意时的用语\nint. 喂；哈罗"
+          "meaning": "int.喂,哈罗"
         },
         {
           "term": "dear",
-          "phonetic": "[dɪə(r)]",
-          "phoneticUS": "[dɪr]",
-          "meaning": "n. 亲爱的人\nadj. 亲爱的；尊敬的；昂贵的\nadv. 高价地；疼爱地\nint. 哎呀"
+          "phonetic": "[dɪə]",
+          "meaning": "adj.昂贵的,亲爱的int.[表示惊讶,怜悯等],Oh,～!"
         },
         {
           "term": "orange",
           "phonetic": "[ˈɒrɪndʒ]",
-          "phoneticUS": "[ˈɔrɪndʒ]",
-          "meaning": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子"
+          "meaning": "n.柑,桔,橙,橙色"
         },
         {
           "term": "vegetable",
-          "phonetic": "[ˈvedʒtəb(ə)l]",
-          "phoneticUS": "[ˈvedʒtəbl]",
-          "meaning": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的"
+          "phonetic": "[ˈvedʒtəbl]",
+          "meaning": "n.蔬菜,植物,生活呆板单调的人adj.蔬菜的,植物的"
         },
         {
           "term": "evening",
-          "phonetic": "[ˈiːvnɪŋ]",
-          "phoneticUS": "[ˈiːvnɪŋ]",
-          "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）"
-        },
+          "phonetic": "[ˈi:vnɪŋ]",
+          "meaning": "n.傍晚,晚间,后期,(联欢性的)晚会"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 9",
+      "words": [
         {
           "term": "room",
-          "phonetic": "[ruːm]",
-          "phoneticUS": "[ruːm; rʊm]",
-          "meaning": "n. 房间；空间；余地；机会；房间里所有的人\nvt. 为…提供住处；租房，合住；投宿，住宿；留"
+          "phonetic": "[ru:m]",
+          "meaning": "n.房间,屋子,寓所,场所,地位,空间,机会,余地"
         },
         {
           "term": "love",
           "phonetic": "[lʌv]",
-          "phoneticUS": "[lʌv]",
-          "meaning": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕"
+          "meaning": "n.爱,热爱,爱情,爱好,性爱,情人,零vt.爱,热爱,爱好,爱慕vi.爱"
         },
         {
           "term": "bed",
           "phonetic": "[bed]",
-          "phoneticUS": "[bed]",
-          "meaning": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层"
+          "meaning": "n.床,基础,路基,河底,海底,一堆,一层vt.安置,嵌入,使睡,栽种vi.上床,分层  教育学士 BEd(Bachelor of Education)"
         },
         {
           "term": "big",
           "phonetic": "[bɪɡ]",
-          "phoneticUS": "[bɪɡ]",
-          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+          "meaning": "adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
         },
         {
           "term": "chair",
-          "phonetic": "[tʃeə(r)]",
-          "phoneticUS": "[tʃer]",
-          "meaning": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职"
+          "phonetic": "[tʃeə]",
+          "meaning": "n.椅子,教授职位,主席位,讲座vt.使入座,使就任要职"
         },
         {
           "term": "sit",
           "phonetic": "[sɪt]",
-          "phoneticUS": "[sɪt]",
-          "meaning": "vi. 坐；位于\nvt. 使就座"
-        },
+          "meaning": "v.(使)就座,(使)坐"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 10",
+      "words": [
         {
           "term": "kitchen",
           "phonetic": "[ˈkɪtʃɪn]",
-          "phoneticUS": "[ˈkɪtʃɪn]",
-          "meaning": "n. 厨房；炊具；炊事人员"
+          "meaning": "n.厨房,炊具,炊事人员"
         },
         {
           "term": "fridge",
           "phonetic": "[frɪdʒ]",
-          "phoneticUS": "[frɪdʒ]",
-          "meaning": "n. 电冰箱"
+          "meaning": "n.电冰箱"
         },
         {
           "term": "table",
-          "phonetic": "[ˈteɪb(ə)l]",
-          "phoneticUS": "[ˈteɪbl]",
-          "meaning": "n. 桌子；表格；平地层\nvt. 制表；搁置；嵌合\nadj. 桌子的"
-        },
+          "phonetic": "[ˈteɪbl]",
+          "meaning": "n.桌子,餐桌,工作台,平地层,石板,表格adj.桌子的,台子的vt.搁置,嵌合,制表"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 11",
+      "words": [
         {
           "term": "bathroom",
-          "phonetic": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
-          "phoneticUS": "[ˈbæθruːm]",
-          "meaning": "n. 浴室；厕所；盥洗室"
+          "phonetic": "[ˈbɑ:θru:m]",
+          "meaning": "n.浴室,盥洗室"
         },
         {
           "term": "want",
           "phonetic": "[wɒnt]",
-          "phoneticUS": "[wɑːnt]",
-          "meaning": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少"
+          "meaning": "vt.想要,希望,需要,短缺,缺少n.需要,短缺"
         },
         {
           "term": "call",
-          "phonetic": "[kɔːl]",
-          "phoneticUS": "[kɔːl]",
-          "meaning": "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集"
+          "phonetic": "[kɔ:l]",
+          "meaning": "n.喊声,叫声,命令,号召,访问,叫牌,通话,必要v.呼叫,召集,称呼,认为,命名,打电话"
         },
         {
           "term": "mum",
           "phonetic": "[mʌm]",
-          "phoneticUS": "[mʌm]",
-          "meaning": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话"
+          "meaning": "n.[植](=chrysanthemum)菊花,沉默adj.沉默的vi.演哑剧int.别说话!"
         },
         {
           "term": "phone",
           "phonetic": "[fəʊn]",
-          "phoneticUS": "[foʊn]",
-          "meaning": "n. 电话；耳机，听筒\nvt. 打电话\nvi. 打电话"
-        },
+          "meaning": "n.电话,电话机v.(给...)打电话"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 13",
+      "words": [
         {
           "term": "where",
-          "phonetic": "[weə(r)]",
-          "phoneticUS": "[wer]",
-          "meaning": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里"
+          "phonetic": "[weə]",
+          "meaning": "adv.什么地方,在哪里,...的(地方)"
         },
         {
           "term": "shirt",
-          "phonetic": "[ʃɜːt]",
-          "phoneticUS": "[ʃɜːrt]",
-          "meaning": "n. 衬衫；汗衫，内衣"
+          "phonetic": "[ʃɜ:t]",
+          "meaning": "n.衬衫,衬衣"
         },
         {
           "term": "find",
           "phonetic": "[faɪnd]",
-          "phoneticUS": "[faɪnd]",
-          "meaning": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得"
+          "meaning": "vt.找到,发现,感到,查明,得到,认为,见到...的存在vi.裁决n.发现 [计] 在文件中查找指定的字符串"
         },
         {
           "term": "coat",
           "phonetic": "[kəʊt]",
-          "phoneticUS": "[koʊt]",
-          "meaning": "n. 外套\nvt. 覆盖…的表面"
+          "meaning": "n.外套,(动物的)皮毛,(植物的)表皮,(漆等的)层,涂层vt.涂上,包上"
         },
         {
           "term": "sofa",
           "phonetic": "[ˈsəʊfə]",
-          "phoneticUS": "[ˈsoʊfə]",
-          "meaning": "n. 沙发；长椅"
-        },
+          "meaning": "n.沙发"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 14",
+      "words": [
         {
           "term": "this",
           "phonetic": "[ðɪs]",
-          "phoneticUS": "[ðɪs]",
-          "meaning": "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么"
+          "meaning": "adj.这,这个,今,本 pron.这,这个"
         },
         {
           "term": "jacket",
           "phonetic": "[ˈdʒækɪt]",
-          "phoneticUS": "[ˈdʒækɪt]",
-          "meaning": "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹\nvt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打"
+          "meaning": "n.短上衣,夹克,(锅炉、水管等的)套,书籍的封面套纸,护封,马铃薯皮vt.给...穿夹克,给...装护套"
         },
         {
           "term": "that",
           "phonetic": "[ðæt]",
-          "phoneticUS": "[ðæt]",
-          "meaning": "conj. 因为；以至于\nadj. 那；那个\npron. 那；那个\nadv. 那么；那样"
+          "meaning": "adj.那,那个 pron.那,那个 conj.引导从句"
         },
         {
           "term": "schoolbag",
-          "phonetic": "[ˈskuːlbæɡ]",
-          "phoneticUS": "[ˈskuːlˌbæɡ]",
-          "meaning": "n. 书包"
-        },
+          "phonetic": "[ˈsku:lbæɡ]",
+          "meaning": "n.书包"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 15",
+      "words": [
         {
           "term": "shorts",
-          "phonetic": "[ʃɔːts]",
-          "phoneticUS": "[ʃɔːrts]",
-          "meaning": "n. 短裤"
+          "phonetic": "[ʃɔ:ts]",
+          "meaning": "n.短裤"
         },
         {
           "term": "not",
           "phonetic": "[nɒt]",
-          "phoneticUS": "[nɑːt]",
-          "meaning": "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）"
+          "meaning": "adv.不"
         },
         {
           "term": "bag",
-          "phonetic": "[bæɡ]",
-          "phoneticUS": "[bæɡ]",
-          "meaning": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂"
+          "phonetic": "[bæg]",
+          "meaning": "n.袋子,猎获物"
         },
         {
           "term": "trousers",
           "phonetic": "[ˈtraʊzəz]",
-          "phoneticUS": "[ˈtraʊzərz]",
-          "meaning": "n. 裤子，长裤"
-        },
+          "meaning": "n.pl.裤子,长裤"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 17",
+      "words": [
         {
           "term": "how",
           "phonetic": "[haʊ]",
-          "phoneticUS": "[haʊ]",
-          "meaning": "adv. 如何；多少；多么\nn. 方法；方式\nconj. 如何"
+          "meaning": "adv.(指方式,方法,健康状况等)怎样,(指范围,程度,数量,价值)多少,多么n.方式(或方法)"
         },
         {
           "term": "bus",
           "phonetic": "[bʌs]",
-          "phoneticUS": "[bʌs]",
-          "meaning": "n. 公共汽车\n乘公共汽车"
+          "meaning": "n.公共汽车,总线"
         },
         {
           "term": "by",
           "phonetic": "[baɪ]",
-          "phoneticUS": "[baɪ]",
-          "meaning": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名"
+          "meaning": "prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
         },
         {
           "term": "car",
-          "phonetic": "[kɑː(r)]",
-          "phoneticUS": "[kɑːr]",
-          "meaning": "n. 汽车；车厢"
-        },
+          "phonetic": "[kɑ:(r)]",
+          "meaning": "n.汽车,小汽车,车辆,客车,[铁]车厢"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 18",
+      "words": [
         {
           "term": "work",
-          "phonetic": "[wɜːk]",
-          "phoneticUS": "[wɜːrk]",
-          "meaning": "n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品\nvt. 使工作；操作；经营；使缓慢前进\nvi. 工作；运作；起作用"
+          "phonetic": "[wɜ:k]",
+          "meaning": "n.工作,劳动,操作,职业,[物]功,手工,作品,机件v.(使)工作,(使)运转,起作用,造成,产生,经营,(使)渐渐移动,煅制"
         },
         {
           "term": "she",
-          "phonetic": "[ʃi]",
-          "phoneticUS": "[ʃi; ʃiː]",
-          "meaning": "n. 女人；雌性动物\npron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）"
+          "phonetic": "[ʃi:]",
+          "meaning": "pron.[主格]她"
         },
         {
           "term": "bike",
           "phonetic": "[baɪk]",
-          "phoneticUS": "[baɪk]",
-          "meaning": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）"
-        },
+          "meaning": "n.脚踏车,自行车"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 19",
+      "words": [
         {
           "term": "he",
-          "phonetic": "[hi; iː; i; hiː]",
-          "phoneticUS": "[hi; iː; i; hiː]",
-          "meaning": "n. 男孩，男人；它（雄性动物）\npron. 他"
+          "phonetic": "[hi:]",
+          "meaning": "pron.他n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
         },
         {
           "term": "come",
           "phonetic": "[kʌm]",
-          "phoneticUS": "[kʌm]",
-          "meaning": "vi. 来；开始；出现；发生；变成；到达\nvt. 做；假装；将满（…岁）\nint. 嗨！"
+          "meaning": "vi.来,来临,到达,出现,来(自),出生(于),开始int.嗨! vbl.来,到达,合计为"
         },
         {
           "term": "taxi",
-          "phonetic": "[ˈtæksi]",
-          "phoneticUS": "[ˈtæksi]",
-          "meaning": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行"
-        },
+          "phonetic": "[ˈtæksɪ]",
+          "meaning": "n.出租汽车v.乘坐出租汽车"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 21",
+      "words": [
         {
           "term": "they",
           "phonetic": "[ðeɪ]",
-          "phoneticUS": "[ðeɪ]",
-          "meaning": "pron. 他们；它们；她们"
+          "meaning": "pron.他们,它们"
         },
         {
           "term": "sky",
           "phonetic": "[skaɪ]",
-          "phoneticUS": "[skaɪ]",
-          "meaning": "n. 天空；顶点\nvt. 把…投向空中；把…挂得过高\nvi. 踢或击高空球；把桨叶翘得过高；飞涨"
+          "meaning": "n.天,天空"
         },
         {
           "term": "blue",
-          "phonetic": "[bluː]",
-          "phoneticUS": "[bluː]",
-          "meaning": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于"
+          "phonetic": "[blu:]",
+          "meaning": "n.蓝色adj.蓝色的,忧郁的,沮丧的"
         },
         {
           "term": "green",
-          "phonetic": "[ɡriːn]",
-          "phoneticUS": "[ɡriːn]",
-          "meaning": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色"
+          "phonetic": "[ɡri:n]",
+          "meaning": "n.绿色,绿色颜料,绿色物品adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
         },
         {
           "term": "white",
           "phonetic": "[waɪt]",
-          "phoneticUS": "[waɪt]",
-          "meaning": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的"
+          "meaning": "n.白色,蛋白,白种人adj.白(色)的,白种人的"
         },
         {
           "term": "snow",
           "phonetic": "[snəʊ]",
-          "phoneticUS": "[snoʊ]",
-          "meaning": "n. 雪，积雪；下雪\nvt. 使纷纷落下；使变白\nvi. 降雪"
-        },
+          "meaning": "n.雪vi.下雪"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 22",
+      "words": [
         {
           "term": "cool",
-          "phonetic": "[kuːl]",
-          "phoneticUS": "[kuːl]",
-          "meaning": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地"
+          "phonetic": "[ku:l]",
+          "meaning": "n.凉爽,凉爽的空气adj.凉爽,冷静的,无所顾虑的,淡漠的v.使冷,使镇定"
         },
         {
           "term": "cold",
           "phonetic": "[kəʊld]",
-          "phoneticUS": "[kəʊld]",
-          "meaning": "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地"
+          "meaning": "n.寒冷,[物]零下温度,伤风,感冒adj.寒冷的,使人战栗的,冷淡的,不热情的,失去知觉的"
         },
         {
           "term": "make",
           "phonetic": "[meɪk]",
-          "phoneticUS": "[meɪk]",
-          "meaning": "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成\nvi. 开始；前进；增大；被制造\nn. 制造；构造；性情"
-        },
+          "meaning": "vt.制造,安排,使成为,认为,产生,获得,进行,构成vi.开始,前进,增大,被制造,被处理n.制造,构造,性情"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 23",
+      "words": [
         {
           "term": "which",
           "phonetic": "[wɪtʃ]",
-          "phoneticUS": "[wɪtʃ]",
-          "meaning": "adj. 哪一个；哪一些\npron. 哪/那一个；哪/那一些"
+          "meaning": "pron.哪个,哪几个,...的,...那个adj.哪个"
         },
         {
           "term": "spring",
           "phonetic": "[sprɪŋ]",
-          "phoneticUS": "[sprɪŋ]",
-          "meaning": "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开"
+          "meaning": "n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
         }
       ]
     }

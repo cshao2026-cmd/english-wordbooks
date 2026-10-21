@@ -1,394 +1,354 @@
 {
-  "id": "1fbb759562",
   "title": "人教版三年级起点三年级上",
   "wordCount": 64,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "ruler",
-          "phonetic": "[ˈruːlə(r)]",
-          "phoneticUS": "[ˈruːlər]",
-          "meaning": "n. 尺；统治者；[测] 划线板，划线的人"
+          "phonetic": "[ˈru:lə]",
+          "meaning": "n.统治者,管理者,尺,直尺n.标尺,划线板,划线的人"
         },
         {
           "term": "pencil",
-          "phonetic": "[ˈpens(ə)l]",
-          "phoneticUS": "[ˈpensl]",
-          "meaning": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状"
+          "phonetic": "[ˈpensl]",
+          "meaning": "n.铅笔"
         },
         {
           "term": "eraser",
-          "phonetic": "[ɪˈreɪzə(r)]",
-          "phoneticUS": "[ɪˈreɪsər]",
-          "meaning": "n. 橡皮；擦除器；[计] 清除器"
+          "phonetic": "[ɪˈreɪzə]",
+          "meaning": "n.擦除器,尤指墨水消除剂,橡皮"
         },
         {
           "term": "crayon",
-          "phonetic": "[ˈkreɪən; ˈkreɪɒn]",
-          "phoneticUS": "[ˈkreɪən; ˈkreɪɑːn]",
-          "meaning": "n. 蜡笔，有色粉笔\nvt. 以蜡笔作画，用颜色粉笔画"
+          "phonetic": "[ˈkreɪən]",
+          "meaning": "n.有色粉笔,蜡笔,粉笔画"
         },
         {
           "term": "bag",
-          "phonetic": "[bæɡ]",
-          "phoneticUS": "[bæɡ]",
-          "meaning": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂"
+          "phonetic": "[bæg]",
+          "meaning": "n.袋子,猎获物"
         },
         {
           "term": "pen",
           "phonetic": "[pen]",
-          "phoneticUS": "[pen]",
-          "meaning": "n. 钢笔；作家；围栏\nvt. 写；关入栏中"
+          "meaning": "n.钢笔,围栏,围圈,作家vt.写,关入栏中"
         },
         {
           "term": "pencil box",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "铅笔盒；文具盒；你的铅笔盒"
+          "phonetic": "[ˈpensl bɒks]",
+          "meaning": ""
         },
         {
           "term": "book",
           "phonetic": "[bʊk]",
-          "phoneticUS": "[bʊk]",
-          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
+          "meaning": "n.书,书籍,卷,篇,帐簿,名册,工作簿v.登记,预订,控告"
         },
         {
           "term": "no",
           "phonetic": "[nəʊ]",
-          "phoneticUS": "[noʊ]",
-          "meaning": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号"
+          "meaning": "n.否定,投反对票者adj.没有,不许,反对adv.不,并不,毫不 [域] Norway ,挪威"
         },
         {
           "term": "your",
-          "phonetic": "[jɔː(r); jə(r)]",
-          "phoneticUS": "[jʊr; jər]",
-          "meaning": "pron. 你的，你们的"
-        },
+          "phonetic": "[jɔ:(r)]",
+          "meaning": "pron.你的,你们的"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "red",
           "phonetic": "[red]",
-          "phoneticUS": "[red]",
-          "meaning": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的"
+          "meaning": "n.红色,红衣服,红颜料,赤字,亏空adj.红(色)的,革命的"
         },
         {
           "term": "green",
-          "phonetic": "[ɡriːn]",
-          "phoneticUS": "[ɡriːn]",
-          "meaning": "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色"
+          "phonetic": "[ɡri:n]",
+          "meaning": "n.绿色,绿色颜料,绿色物品adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
         },
         {
           "term": "yellow",
           "phonetic": "[ˈjeləʊ]",
-          "phoneticUS": "[ˈjeloʊ]",
-          "meaning": "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄"
+          "meaning": "n.黄色adj.黄色的"
         },
         {
           "term": "blue",
-          "phonetic": "[bluː]",
-          "phoneticUS": "[bluː]",
-          "meaning": "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；[复数]（美国海、陆、空三军穿的）蓝色制服；蓝颜料；[the blue(s)][用作单数或复数]布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于"
+          "phonetic": "[blu:]",
+          "meaning": "n.蓝色adj.蓝色的,忧郁的,沮丧的"
         },
         {
           "term": "black",
           "phonetic": "[blæk]",
-          "phoneticUS": "[blæk]",
-          "meaning": "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑"
+          "meaning": "n.黑色,黑颜料,黑人adj.黑色的,弄脏了的,忧郁的vt.(使)变黑,涂黑"
         },
         {
           "term": "brown",
           "phonetic": "[braʊn]",
-          "phoneticUS": "[braʊn]",
-          "meaning": "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色"
+          "meaning": "n.褐色adj.褐色的,棕色的v.(使)成褐色,晒黑"
         },
         {
           "term": "white",
           "phonetic": "[waɪt]",
-          "phoneticUS": "[waɪt]",
-          "meaning": "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的"
+          "meaning": "n.白色,蛋白,白种人adj.白(色)的,白种人的"
         },
         {
           "term": "orange",
           "phonetic": "[ˈɒrɪndʒ]",
-          "phoneticUS": "[ˈɔrɪndʒ]",
-          "meaning": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子"
+          "meaning": "n.柑,桔,橙,橙色"
         },
         {
           "term": "OK",
           "phonetic": "[əʊˈkeɪ]",
-          "phoneticUS": "[ˌoʊ'keɪ]",
-          "meaning": "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意"
+          "meaning": ""
         },
         {
           "term": "mum",
           "phonetic": "[mʌm]",
-          "phoneticUS": "[mʌm]",
-          "meaning": "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话"
-        },
+          "meaning": "n.[植](=chrysanthemum)菊花,沉默adj.沉默的vi.演哑剧int.别说话!"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "face",
           "phonetic": "[feɪs]",
-          "phoneticUS": "[feɪs]",
-          "meaning": "n. 脸；表面；面子；面容；外观；威信\nvi. 向；朝\nvt. 面对；面向；承认；抹盖"
+          "meaning": "n.脸,面容,表情,威信,正面,地形,外观vt.面对,面向,面临,承认,抹盖vi.朝,向"
         },
         {
           "term": "ear",
-          "phonetic": "[ɪə(r)]",
-          "phoneticUS": "[ɪr]",
-          "meaning": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗"
+          "phonetic": "[ɪə]",
+          "meaning": "n.耳朵,倾听,听觉,听力,穗vi.抽穗"
         },
         {
           "term": "eye",
           "phonetic": "[aɪ]",
-          "phoneticUS": "[aɪ]",
-          "meaning": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看"
+          "meaning": "n.眼睛,视力,眼光,观点,见解,眼状物,风吹来的方向,[气]风眼vt.看,注视,在...上打眼"
         },
         {
           "term": "nose",
           "phonetic": "[nəʊz]",
-          "phoneticUS": "[noʊz]",
-          "meaning": "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问"
+          "meaning": "n.鼻,(飞机、船等的)前端v.侦察出"
         },
         {
           "term": "mouth",
           "phonetic": "[maʊθ]",
-          "phoneticUS": "[maʊθ]",
-          "meaning": "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话"
+          "meaning": "n.口,嘴"
         },
         {
           "term": "arm",
-          "phonetic": "[ɑːm]",
-          "phoneticUS": "[ɑːrm]",
-          "meaning": "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来"
+          "phonetic": "[ɑ:m]",
+          "meaning": "n.臂,臂状物,衣袖,海湾,武器vt.供给,提供,武装,装备vi.武装起来"
         },
         {
           "term": "hand",
           "phonetic": "[hænd]",
-          "phoneticUS": "[hænd]",
-          "meaning": "n. 手，手艺；帮助；指针；插手\nvt. 传递，交给；支持；搀扶"
+          "meaning": "n.手,掌管,协助,支配,插手,指针,雇员,手艺vt.支持,搀扶,交给"
         },
         {
           "term": "head",
           "phonetic": "[hed]",
-          "phoneticUS": "[hed]",
-          "meaning": "n. 头；头痛；上端；最前的部分；理解力\nadj. 头的；主要的；在顶端的\nvt. 前进；用头顶；作为…"
+          "meaning": "n.头,头脑,领袖,(队伍,名单等)最前的部分,人,顶点vt.作为...的首领,朝向,前进,用头顶vi.成头状物,出发adj.头的,主要的"
         },
         {
           "term": "body",
-          "phonetic": "[ˈbɒdi]",
-          "phoneticUS": "[ˈbɑːdi]",
-          "meaning": "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体"
+          "phonetic": "[ˈbɒdɪ]",
+          "meaning": "n.身体,肉体,人,尸体,主要部分,团体,大量vt.赋以形体"
         },
         {
           "term": "leg",
           "phonetic": "[leɡ]",
-          "phoneticUS": "[leɡ]",
-          "meaning": "n. 腿；支柱"
+          "meaning": "n.腿,胫,旅程的一段vi.走,跑"
         },
         {
           "term": "foot",
           "phonetic": "[fʊt]",
-          "phoneticUS": "[fʊt]",
-          "meaning": "n. 脚；英尺；步调；末尾\nvt. 支付；给……换底\nvi. 步行；跳舞；总计"
+          "meaning": "n.足,底部,英尺,音步(英诗),步调,步兵,末尾vt.走在...上,支付,给...换底,结算vi.步行,跳舞,总计"
         },
         {
           "term": "school",
-          "phonetic": "[skuːl]",
-          "phoneticUS": "[skuːl]",
-          "meaning": "n. 学校；学院；学派；鱼群\nvt. 教育"
-        },
+          "phonetic": "[sku:l]",
+          "meaning": "n.学校,学院,学习,授课,求学,全体学生,学派vt.锻炼,教育"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "duck",
           "phonetic": "[dʌk]",
-          "phoneticUS": "[dʌk]",
-          "meaning": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中"
+          "meaning": "n.鸭子,急忙蹲下,闪避,<俚> 人,家伙vi.没入水中,闪避vt.猛按...入水,躲避"
         },
         {
           "term": "pig",
           "phonetic": "[pɪɡ]",
-          "phoneticUS": "[pɪɡ]",
-          "meaning": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）"
+          "meaning": "n.猪,猪肉,贪婪的人v.生小猪,贪婪地吃"
         },
         {
           "term": "cat",
           "phonetic": "[kæt]",
-          "phoneticUS": "[kæt]",
-          "meaning": "n. 猫，猫科动物"
+          "meaning": ""
         },
         {
           "term": "bear",
-          "phonetic": "[beə(r)]",
-          "phoneticUS": "[ber]",
-          "meaning": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑"
+          "phonetic": "[beə]",
+          "meaning": "n.熊v.负担,忍受,带给,具有,挤,向"
         },
         {
           "term": "dog",
-          "phonetic": "[dɒɡ]",
-          "phoneticUS": "[dɔːɡ]",
-          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
+          "phonetic": "[dɒg]",
+          "meaning": "n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋vt.跟踪,尾随"
         },
         {
           "term": "elephant",
           "phonetic": "[ˈelɪfənt]",
-          "phoneticUS": "[ˈelɪfənt]",
-          "meaning": "n. 象；大号图画纸"
+          "meaning": "n.象,一种纸张的尺寸"
         },
         {
           "term": "monkey",
-          "phonetic": "[ˈmʌŋki]",
-          "phoneticUS": "[ˈmʌŋki]",
-          "meaning": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄"
+          "phonetic": "[ˈmʌŋkɪ]",
+          "meaning": "n.猴子"
         },
         {
           "term": "bird",
-          "phonetic": "[bɜːd]",
-          "phoneticUS": "[bɜːrd]",
-          "meaning": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟"
+          "phonetic": "[bɜ:d]",
+          "meaning": "n.鸟,<俚>人vi.在野外观察或鉴别鸟类"
         },
         {
           "term": "tiger",
-          "phonetic": "[ˈtaɪɡə(r)]",
-          "phoneticUS": "[ˈtaɪɡər]",
-          "meaning": "n. 老虎；凶暴的人"
+          "phonetic": "[ˈtaɪɡə]",
+          "meaning": "n.[动]老虎,虎,凶暴的人"
         },
         {
           "term": "panda",
           "phonetic": "[ˈpændə]",
-          "phoneticUS": "[ˈpændə]",
-          "meaning": "n. 熊猫；猫熊"
+          "meaning": "n.熊猫,黑白相间的熊类"
         },
         {
           "term": "zoo",
-          "phonetic": "[zuː]",
-          "phoneticUS": "[zuː]",
-          "meaning": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
+          "phonetic": "[zu:]",
+          "meaning": "n.动物园"
         },
         {
           "term": "funny",
-          "phonetic": "[ˈfʌni]",
-          "phoneticUS": "[ˈfʌni]",
-          "meaning": "n. 滑稽人物；笑话，有趣的故事；滑稽连环漫画栏；（英）（比赛用）单人双桨小艇\nadj. 有趣的，好笑的，滑稽的；（口）稀奇的，古怪的，奇异的；有病的，不舒服的；狡猾的，欺骗（性）的，可疑的，不光明"
-        },
+          "phonetic": "[ˈfʌnɪ]",
+          "meaning": "adj.有趣的,好笑的,滑稽的,奇异的,古怪的n.滑稽人物"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "bread",
           "phonetic": "[bred]",
-          "phoneticUS": "[bred]",
-          "meaning": "n. 面包；生计\nvt. 在…上洒面包屑"
+          "meaning": "n.面包,生计"
         },
         {
           "term": "juice",
-          "phonetic": "[dʒuːs]",
-          "phoneticUS": "[dʒuːs]",
-          "meaning": "n. （水果）汁，液；果汁"
+          "phonetic": "[dʒu:s]",
+          "meaning": "n.(水果)汁,液"
         },
         {
           "term": "egg",
           "phonetic": "[eɡ]",
-          "phoneticUS": "[eɡ]",
-          "meaning": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿"
+          "meaning": "n.蛋,鸡蛋,卵v.怂恿,怂恿"
         },
         {
           "term": "milk",
           "phonetic": "[mɪlk]",
-          "phoneticUS": "[mɪlk]",
-          "meaning": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶"
+          "meaning": "n.乳,牛奶v.挤(奶)"
         },
         {
           "term": "water",
-          "phonetic": "[ˈwɔːtə(r)]",
-          "phoneticUS": "[ˈwɔːtər]",
-          "meaning": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水"
+          "phonetic": "[ˈwɔ:tə]",
+          "meaning": "n.水,雨水,海水,水位,水面,流体vt.喷淋,供以水,注入水,使湿vi.流泪,加水adj.水的,水上的,水生的,含水的"
         },
         {
           "term": "cake",
           "phonetic": "[keɪk]",
-          "phoneticUS": "[keɪk]",
-          "meaning": "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状"
+          "meaning": "n.蛋糕,饼,块,"
         },
         {
           "term": "fish",
           "phonetic": "[fɪʃ]",
-          "phoneticUS": "[fɪʃ]",
-          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+          "meaning": "n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
         },
         {
           "term": "rice",
           "phonetic": "[raɪs]",
-          "phoneticUS": "[raɪs]",
-          "meaning": "n. 稻；米饭\nvt. 把…捣成米糊状"
-        },
+          "meaning": "n.稻,米"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "one",
           "phonetic": "[wʌn]",
-          "phoneticUS": "[wʌn]",
-          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
+          "meaning": "pron.一个人,任何人,一方 num.一,一个adj.一方的,某一,同样的"
         },
         {
           "term": "two",
-          "phonetic": "[tuː]",
-          "phoneticUS": "[tuː]",
-          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+          "phonetic": "[tu:]",
+          "meaning": "num.二,两个"
         },
         {
           "term": "three",
-          "phonetic": "[θriː]",
-          "phoneticUS": "[θriː]",
-          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+          "phonetic": "[θri:]",
+          "meaning": "num.三"
         },
         {
           "term": "four",
-          "phonetic": "[fɔː(r)]",
-          "phoneticUS": "[fɔːr]",
-          "meaning": "num. 四；四个\nadj. 四的；四个的"
+          "phonetic": "[fɔ:]",
+          "meaning": "num.四,四个,第四(卷,章,叶等)"
         },
         {
           "term": "five",
           "phonetic": "[faɪv]",
-          "phoneticUS": "[faɪv]",
-          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
+          "meaning": "num.五,五个(人或物)n.五个一组,<口>五厘息金的证券"
         },
         {
           "term": "six",
           "phonetic": "[sɪks]",
-          "phoneticUS": "[sɪks]",
-          "meaning": "num. 六，六个\nn. 六，六个"
+          "meaning": "num.六,六个"
         },
         {
           "term": "seven",
-          "phonetic": "[ˈsev(ə)n]",
-          "phoneticUS": "[ˈsev(ə)n]",
-          "meaning": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的"
+          "phonetic": "[ˈsevən]",
+          "meaning": "num.七,七个"
         },
         {
           "term": "eight",
           "phonetic": "[eɪt]",
-          "phoneticUS": "[eɪt]",
-          "meaning": "num. 八；八个；第八\nn. 八字形\nadj. 八的"
+          "meaning": "adj.八的 num.八,八个,第八n.八字形"
         },
         {
           "term": "nine",
           "phonetic": "[naɪn]",
-          "phoneticUS": "[naɪn]",
-          "meaning": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的"
+          "meaning": "num.九,九个"
         },
         {
           "term": "ten",
           "phonetic": "[ten]",
-          "phoneticUS": "[ten]",
-          "meaning": "num. 十个，十"
+          "meaning": "num.十,十个"
         },
         {
           "term": "brother",
-          "phonetic": "[ˈbrʌðə(r)]",
-          "phoneticUS": "[ˈbrʌðər]",
-          "meaning": "n. 兄弟；同事；战友\nint. 我的老兄！"
+          "phonetic": "[ˈbrʌðə]",
+          "meaning": "n.兄弟"
         },
         {
           "term": "plate",
           "phonetic": "[pleɪt]",
-          "phoneticUS": "[pleɪt]",
-          "meaning": "n. 碟；金属板；金属牌；感光底片\nvt. 电镀；给…装甲"
+          "meaning": "n.盘子,金属板,图版,金银餐具vt.镀(金,银等),电镀,给...装钢板"
         }
       ]
     }

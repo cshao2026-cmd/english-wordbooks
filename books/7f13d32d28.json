@@ -1,514 +1,454 @@
 {
-  "id": "7f13d32d28",
   "title": "人教版一年级起点三年级下",
   "wordCount": 84,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "Chinese",
-          "phonetic": "[ˌtʃaɪˈniːz]",
-          "phoneticUS": "[ˌtʃaɪˈniːz]",
-          "meaning": "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的"
+          "phonetic": "[tʃaɪˈni:z]",
+          "meaning": ""
         },
         {
           "term": "English",
           "phonetic": "[ˈɪŋɡlɪʃ]",
-          "phoneticUS": "[ˈɪŋɡlɪʃ]",
-          "meaning": "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语"
+          "meaning": ""
         },
         {
           "term": "science",
           "phonetic": "[ˈsaɪəns]",
-          "phoneticUS": "[ˈsaɪəns]",
-          "meaning": "n. 科学；技术；学科；理科"
+          "meaning": "n.科学,自然科学,理科"
         },
         {
           "term": "PE",
-          "phonetic": "[peɪ]",
-          "phoneticUS": "[peɪ]",
-          "meaning": "abbr. 体育课，体能训练（physical education）"
+          "phonetic": "[ˌpɪˈi:]",
+          "meaning": ""
         },
         {
           "term": "music",
-          "phonetic": "[ˈmjuːzɪk]",
-          "phoneticUS": "[ˈmjuːzɪk]",
-          "meaning": "n. 音乐，乐曲"
+          "phonetic": "[ˈmju:zɪk]",
+          "meaning": "n.音乐,乐曲"
         },
         {
           "term": "maths",
           "phonetic": "[mæθs]",
-          "phoneticUS": "[mæθs]",
-          "meaning": "n. 数学（等于mathematics）"
+          "meaning": "n.数学"
         },
         {
           "term": "art",
-          "phonetic": "[ɑːt]",
-          "phoneticUS": "[ɑːrt]",
-          "meaning": "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的"
+          "phonetic": "[ɑ:t]",
+          "meaning": "n.艺术,艺术品,技术,巧妙,美术"
         },
         {
           "term": "computer class",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "计算机课；电脑班；电脑课"
+          "phonetic": "[kəmˈpju:tə klɑ:s]",
+          "meaning": ""
         },
         {
           "term": "we",
-          "phonetic": "[wi; wiː]",
-          "phoneticUS": "[wi]",
-          "meaning": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
+          "phonetic": "[wi:]",
+          "meaning": "pron.我们"
         },
         {
           "term": "that",
           "phonetic": "[ðæt]",
-          "phoneticUS": "[ðæt]",
-          "meaning": "conj. 因为；以至于\nadj. 那；那个\npron. 那；那个\nadv. 那么；那样"
-        },
+          "meaning": "adj.那,那个 pron.那,那个 conj.引导从句"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "classroom",
-          "phonetic": "[ˈklɑːsruːm]",
-          "phoneticUS": "[ˈklæsruːm; ˈklæsrʊm]",
-          "meaning": "n. 教室"
+          "phonetic": "[ˈklɑ:sru:m]",
+          "meaning": "n.教室"
         },
         {
           "term": "library",
-          "phonetic": "[ˈlaɪbrəri; ˈlaɪbri]",
-          "phoneticUS": "[ˈlaɪbreri]",
-          "meaning": "n. 图书馆，藏书室；文库"
+          "phonetic": "[ˈlaɪbrərɪ]",
+          "meaning": "n.图书馆,藏书室,库"
         },
         {
           "term": "toilet",
           "phonetic": "[ˈtɔɪlət]",
-          "phoneticUS": "[ˈtɔɪlət]",
-          "meaning": "n. 厕所，盥洗室；梳妆，打扮\nvt. 给…梳妆打扮\nvi. 梳妆，打扮"
+          "meaning": "n.盥洗室,梳洗"
         },
         {
           "term": "playground",
-          "phonetic": "[ˈpleɪɡraʊnd]",
-          "phoneticUS": "[ˈpleɪɡraʊnd]",
-          "meaning": "n. 运动场，操场；游乐场"
+          "phonetic": "[ˈpleɪgraʊnd]",
+          "meaning": "n.运动场,操场"
         },
         {
           "term": "first",
-          "phonetic": "[fɜːst]",
-          "phoneticUS": "[fɜːrst]",
-          "meaning": "num. 第一\nn. 第一；开始；冠军\nadj. 第一的；基本的；最早的\nadv. 第一；首先；优先；宁愿"
+          "phonetic": "[fɜ:st]",
+          "meaning": "adv.首先,最初,第一(列举条目等用),优先adj.第一的 num.第一(个)n.开始,第一,(比赛)冠军"
         },
         {
           "term": "second",
           "phonetic": "[ˈsekənd]",
-          "phoneticUS": "[ˈsekənd; sɪˈkɑːnd]",
-          "meaning": "num. 第二\nn. 秒；第二名；瞬间；二等品\nadj. 第二的；次要的；附加的\nvt. 支持\nadv. 第二；其次；居第二位"
+          "meaning": "n.秒,片刻,第二者,第二人,助手,次货,二等品adj.另一个,又一个 num.第二vt.赞成,支持"
         },
         {
           "term": "third",
-          "phonetic": "[θɜːd]",
-          "phoneticUS": "[θɜːrd]",
-          "meaning": "num. 第三；三分之一\nadj. 第三的；三分之一的"
+          "phonetic": "[θɜ:d]",
+          "meaning": "num.第三,三分之一"
         },
         {
           "term": "floor",
-          "phonetic": "[flɔː(r)]",
-          "phoneticUS": "[flɔːr]",
-          "meaning": "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒"
+          "phonetic": "[flɔ:]",
+          "meaning": "n.(房间,走廊等的)地面,地板,基底,(室内的)场地,层,海底,议员席vt.在...上铺(地板),击倒,(被困难)难倒"
         },
         {
           "term": "room",
-          "phonetic": "[ruːm]",
-          "phoneticUS": "[ruːm; rʊm]",
-          "meaning": "n. 房间；空间；余地；机会；房间里所有的人\nvt. 为…提供住处；租房，合住；投宿，住宿；留…住宿\nvi. 居住；住宿"
+          "phonetic": "[ru:m]",
+          "meaning": "n.房间,屋子,寓所,场所,地位,空间,机会,余地"
         },
         {
           "term": "our",
-          "phonetic": "[ɑː(r)]",
-          "phoneticUS": "[ɑːr]",
-          "meaning": "pron. 我们的"
+          "phonetic": "[ˈaʊə(r)]",
+          "meaning": "pron.我们的"
         },
         {
           "term": "they",
           "phonetic": "[ðeɪ]",
-          "phoneticUS": "[ðeɪ]",
-          "meaning": "pron. 他们；它们；她们"
+          "meaning": "pron.他们,它们"
         },
         {
           "term": "chair",
-          "phonetic": "[tʃeə(r)]",
-          "phoneticUS": "[tʃer]",
-          "meaning": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职"
+          "phonetic": "[tʃeə]",
+          "meaning": "n.椅子,教授职位,主席位,讲座vt.使入座,使就任要职"
         },
         {
           "term": "desk",
           "phonetic": "[desk]",
-          "phoneticUS": "[desk]",
-          "meaning": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的"
+          "meaning": "n.书桌,办公桌"
         },
         {
           "term": "blackboard",
-          "phonetic": "[ˈblækbɔːd]",
-          "phoneticUS": "[ˈblækbɔːrd]",
-          "meaning": "n. 黑板"
-        },
+          "phonetic": "[ˈblækbɔ:d]",
+          "meaning": "n.黑板"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "after school",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 放学后"
+          "phonetic": "[ˈɑ:ftə sku:l]",
+          "meaning": ""
         },
         {
           "term": "play sports",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "做运动；进行体育运动；进行体育活动"
+          "phonetic": "[pleɪ spɔ:ts]",
+          "meaning": ""
         },
         {
           "term": "draw pictures",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "画画；画图画；画儿"
+          "phonetic": "[drɔ: ˈpɪktʃəz]",
+          "meaning": ""
         },
         {
           "term": "play chess",
           "phonetic": "[pleɪ tʃes]",
-          "phoneticUS": "[pleɪ tʃes]",
-          "meaning": "na. 下象棋"
+          "meaning": ""
         },
         {
           "term": "dance",
-          "phonetic": "[dɑːns]",
-          "phoneticUS": "[dæns]",
-          "meaning": "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬"
+          "phonetic": "[dɑ:ns]",
+          "meaning": "n.跳舞,舞蹈,舞会,舞曲,舞蹈艺术v.跳舞,舞蹈,(旗等)飘扬"
         },
         {
           "term": "sing songs",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 歌咏"
+          "phonetic": "[sɪŋ ˈsɒŋz]",
+          "meaning": ""
         },
         {
           "term": "read books",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "读书；看书；阅读"
+          "phonetic": "[ri:d ˈbuks]",
+          "meaning": ""
         },
         {
           "term": "really",
-          "phonetic": "[ˈriːəli]",
-          "phoneticUS": "[ˈriːəli]",
-          "meaning": "adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）"
+          "phonetic": "[ˈrɪəlɪ]",
+          "meaning": "adv.真正地,实在地,(表语气)真的吗?"
         },
         {
           "term": "tomorrow",
           "phonetic": "[təˈmɒrəʊ]",
-          "phoneticUS": "[təˈmɑːroʊ]",
-          "meaning": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）"
+          "meaning": "adv.明天见n.明天,未来"
         },
         {
           "term": "wake up",
-          "phonetic": "[ˈweɪk ˌʌp]",
-          "phoneticUS": "[ˈweɪk ˌʌp]",
-          "meaning": "na. 同“wake”；叫醒；醒来；振作起来"
+          "phonetic": "[weɪk ʌp]",
+          "meaning": ""
         },
         {
           "term": "be back",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 回家；回来"
+          "phonetic": "[bi: bæk]",
+          "meaning": ""
         },
         {
           "term": "play football",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 踢足球；对难办的事采取踢皮球的态度"
+          "phonetic": "[pleɪ ˈfutbɔ:l]",
+          "meaning": ""
         },
         {
           "term": "fly a kite",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 放风筝；试探舆论；开空头支票；〈美〉(从狱中)非法寄出信件"
+          "phonetic": "[flaɪ ə kaɪt]",
+          "meaning": ""
         },
         {
           "term": "ride a bike",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "骑自行车；骑车；骑单车"
+          "phonetic": "[raɪd ə baɪk]",
+          "meaning": ""
         },
         {
           "term": "swim",
           "phonetic": "[swɪm]",
-          "phoneticUS": "[swɪm]",
-          "meaning": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起"
+          "meaning": "n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
         },
         {
           "term": "make a model plane",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[meɪk ə ˈmɒdl pleɪn]",
+          "meaning": ""
         },
         {
           "term": "make a snowman",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "堆雪人；做雪人；堆一个雪人"
-        },
+          "phonetic": "[meɪk ə ˈsnəʊˌmæn]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "family",
-          "phonetic": "[ˈfæməli]",
-          "phoneticUS": "[ˈfæməli]",
-          "meaning": "n. 家庭；亲属；家族；子女；[生]科；语族；[化]族\nadj. 家庭的；家族的；适合于全家的"
+          "phonetic": "[ˈfæməlɪ]",
+          "meaning": "n.家庭,家族,家属,亲属,子女,僚属adj.家庭的,家族的"
         },
         {
           "term": "uncle",
-          "phonetic": "[ˈʌŋk(ə)l]",
-          "phoneticUS": "[ˈʌŋkl]",
-          "meaning": "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父"
+          "phonetic": "[ˈʌŋkl]",
+          "meaning": "n.伯父,叔父,姨丈,援助者"
         },
         {
           "term": "aunt",
-          "phonetic": "[ɑːnt]",
-          "phoneticUS": "[ænt]",
-          "meaning": "n. 阿姨；姑妈；伯母；舅妈"
+          "phonetic": "[ɑ:nt]",
+          "meaning": "n.姑妈,伯母,舅妈,阿姨"
         },
         {
           "term": "cousin",
           "phonetic": "[ˈkʌzn]",
-          "phoneticUS": "[ˈkʌzn]",
-          "meaning": "n. 堂兄弟姊妹；表兄弟姊妹"
+          "meaning": "n.堂兄弟姊妹,表兄弟姊妹"
         },
         {
           "term": "handsome",
           "phonetic": "[ˈhænsəm]",
-          "phoneticUS": "[ˈhænsəm]",
-          "meaning": "adj. （男子）英俊的；可观的；大方的，慷慨的；健美而端庄的"
+          "meaning": "adj.英俊的,大方的,慷慨的,美观的,堂皇的"
         },
         {
           "term": "beautiful",
-          "phonetic": "[ˈbjuːtɪf(ə)l]",
-          "phoneticUS": "[ˈbjuːtɪf(ə)l]",
-          "meaning": "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地"
+          "phonetic": "[ˈbju:tɪfl]",
+          "meaning": "adj.美丽的,很好的"
         },
         {
           "term": "lost",
           "phonetic": "[lɒst]",
-          "phoneticUS": "[lɔːst]",
-          "meaning": "adj. 失去的；丧失的；迷惑的\nv. 遗失（lose的过去分词）；失败"
+          "meaning": "adj.失去的,丧失的,错过的,迷惑的,不为人知的 vbl.lose的过去式和过去分词"
         },
         {
           "term": "water bottle",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "un. 水壶；采水瓶；采水器；采水样器"
+          "phonetic": "[ˈwɔ:tə ˈbɒtl]",
+          "meaning": ""
         },
         {
           "term": "know",
           "phonetic": "[nəʊ]",
-          "phoneticUS": "[noʊ]",
-          "meaning": "vt. 知道；认识；懂得\nvi. 了解；熟悉；确信"
+          "meaning": "v.知道,了解,认识,熟悉,认出,分辨,确信"
         },
         {
           "term": "ok",
           "phonetic": "[əʊˈkeɪ]",
-          "phoneticUS": "[oʊˈkeɪ]",
-          "meaning": "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意"
+          "meaning": "adj.好,对,行adv.好,对,可以n.同意"
         },
         {
           "term": "much",
           "phonetic": "[mʌtʃ]",
-          "phoneticUS": "[mʌtʃ]",
-          "meaning": "adv. 非常，很\nadj. 大量的\nn. 许多，大量\npron. 许多，大量"
+          "meaning": "adj.许多的,大量的adv.非常,很,...多,更加,非常,得多,多达,多得多n.许多,大量 num.许多"
         },
         {
           "term": "welcome",
           "phonetic": "[ˈwelkəm]",
-          "phoneticUS": "[ˈwelkəm]",
-          "meaning": "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎"
+          "meaning": "n.欢迎vt.欢迎int.欢迎adj.受欢迎的"
         },
         {
           "term": "grandfather",
-          "phonetic": "[ˈɡrænfɑːðə(r)]",
-          "phoneticUS": "[ˈɡrænfɑːðər]",
-          "meaning": "n. 祖父；始祖\nvt. 不受新规定限制"
+          "phonetic": "[ˈɡrændˌfɑ:ðə]",
+          "meaning": "n.祖父,始祖"
         },
         {
           "term": "grandmother",
-          "phonetic": "[ˈɡrænmʌðə(r)]",
-          "phoneticUS": "[ˈɡrænmʌðər]",
-          "meaning": "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母"
+          "phonetic": "[ˈɡrændˌmʌðə]",
+          "meaning": "n.祖母"
         },
         {
           "term": "father",
-          "phonetic": "[ˈfɑːðə(r)]",
-          "phoneticUS": "[ˈfɑːðər]",
-          "meaning": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲"
+          "phonetic": "[ˈfɑ:ðə]",
+          "meaning": "n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
         },
         {
           "term": "mother",
-          "phonetic": "[ˈmʌðə(r)]",
-          "phoneticUS": "[ˈmʌðər]",
-          "meaning": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的"
+          "phonetic": "[ˈmʌðə]",
+          "meaning": "n.母亲,妈妈"
         },
         {
           "term": "brother",
-          "phonetic": "[ˈbrʌðə(r)]",
-          "phoneticUS": "[ˈbrʌðər]",
-          "meaning": "n. 兄弟；同事；战友\nint. 我的老兄！"
+          "phonetic": "[ˈbrʌðə]",
+          "meaning": "n.兄弟"
         },
         {
           "term": "sister",
           "phonetic": "[ˈsɪstə(r)]",
-          "phoneticUS": "[ˈsɪstər]",
-          "meaning": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的"
-        },
+          "meaning": "n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "cooking dinner",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "做饭；做晚餐；正在做饭"
+          "phonetic": "[ˈkukɪŋ ˈdɪnə]",
+          "meaning": ""
         },
         {
           "term": "walking the dog",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ˈwɔ:kɪŋ ðə dɒg]",
+          "meaning": ""
         },
         {
           "term": "watering the plants",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ˈwɔ:tərɪŋ ðə pˈlɑ:nts]",
+          "meaning": ""
         },
         {
           "term": "cleaning the room",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ˈkli:nɪŋ ðə rum]",
+          "meaning": ""
         },
         {
           "term": "listening to music",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ˈlɪsənɪŋ tu: ˈmju:zɪk]",
+          "meaning": ""
         },
         {
           "term": "watching TV",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "看电视；正在看电视；他在看电视"
+          "phonetic": "[ˈwɒtʃɪŋ ˌti: ˈvi:]",
+          "meaning": ""
         },
         {
           "term": "feeding the fish",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "喂鱼\n晕船"
+          "phonetic": "[ˈfi:dɪŋ ðə fɪʃ]",
+          "meaning": ""
         },
         {
           "term": "play with",
           "phonetic": "[pleɪ wɪð]",
-          "phoneticUS": "[pleɪ wɪð]",
-          "meaning": "na. 玩弄(火等)；以…自娱"
+          "meaning": ""
         },
         {
           "term": "in one hour",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ɪn wʌn ˈaʊə]",
+          "meaning": ""
         },
         {
           "term": "everyone",
-          "phonetic": "[ˈevriwʌn]",
-          "phoneticUS": "[ˈevriwʌn]",
-          "meaning": "n. 每个人\npron. 每个人；人人"
+          "phonetic": "[ˈevrɪwʌn]",
+          "meaning": "pron.每个人,人人"
         },
         {
           "term": "children",
           "phonetic": "[ˈtʃɪldrən]",
-          "phoneticUS": "[ˈtʃɪldrən]",
-          "meaning": "n. 孩子们（child的复数）"
+          "meaning": "n.(pl.)孩子,孩子们"
         },
         {
           "term": "run",
           "phonetic": "[rʌn]",
-          "phoneticUS": "[rʌn]",
-          "meaning": "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转"
-        },
+          "meaning": "n.跑,赛跑,奔跑,运转,趋向vi.跑,奔,逃跑,竞选,跑步,蔓延,进行,行驶vt.使跑,参赛,追究,使流,管理,运行,开动adj.熔化的,融化的,浇铸的 vbl.run的过去式和过去分词"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "home",
           "phonetic": "[həʊm]",
-          "phoneticUS": "[hoʊm]",
-          "meaning": "n. 家，住宅；产地；家乡；避难所\nadj. 国内的，家庭的；有效的\nvt. 归巢，回家\nadv. 在家，回家；深入地"
+          "meaning": "n.家,住宅,家乡,本国,产地,避难所adj.家庭的,国内的,有效的adv.在家,回家,深入地,在本国"
         },
         {
           "term": "bedroom",
-          "phonetic": "[ˈbedruːm]",
-          "phoneticUS": "[ˈbedruːm; ˈbedrʊm]",
-          "meaning": "n. 卧室\nadj. 两性关系的；城郊住宅区的"
+          "phonetic": "[ˈbedru:m]",
+          "meaning": "n.卧室"
         },
         {
           "term": "living room",
-          "phonetic": "['lɪvɪŋ ru:m]",
-          "phoneticUS": "[ˈlɪvɪŋ ruːm]",
-          "meaning": "n. 客厅；起居室"
+          "phonetic": "[ˈlɪvɪŋ ru:m]",
+          "meaning": ""
         },
         {
           "term": "bathroom",
-          "phonetic": "[ˈbɑːθruːm; ˈbɑːθrʊm]",
-          "phoneticUS": "[ˈbæθruːm]",
-          "meaning": "n. 浴室；厕所；盥洗室"
+          "phonetic": "[ˈbɑ:θru:m]",
+          "meaning": "n.浴室,盥洗室"
         },
         {
           "term": "dining room",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 饭厅；餐厅"
+          "phonetic": "[ˈdaɪnɪŋ ru:m]",
+          "meaning": ""
         },
         {
           "term": "study",
-          "phonetic": "[ˈstʌdi]",
-          "phoneticUS": "[ˈstʌdi]",
-          "meaning": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功"
+          "phonetic": "[ˈstʌdɪ]",
+          "meaning": "n.学习,研究,学科,试作,论文,求学,努力,书房vt.学习,攻读,研究,考虑,计划vi.学习,试图"
         },
         {
           "term": "kitchen",
           "phonetic": "[ˈkɪtʃɪn]",
-          "phoneticUS": "[ˈkɪtʃɪn]",
-          "meaning": "n. 厨房；炊具；炊事人员"
+          "meaning": "n.厨房,炊具,炊事人员"
         },
         {
           "term": "for rent",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 出租的；招租"
+          "phonetic": "[fɔ: rent]",
+          "meaning": ""
         },
         {
           "term": "sofa",
           "phonetic": "[ˈsəʊfə]",
-          "phoneticUS": "[ˈsoʊfə]",
-          "meaning": "n. 沙发；长椅"
+          "meaning": "n.沙发"
         },
         {
           "term": "light",
           "phonetic": "[laɪt]",
-          "phoneticUS": "[laɪt]",
-          "meaning": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地"
+          "meaning": "n.光,日光,发光体,灯adj.轻的,发光的,明亮的,浅的vt.点燃,照亮adv.轻地vi.点着,变亮"
         },
         {
           "term": "bed",
           "phonetic": "[bed]",
-          "phoneticUS": "[bed]",
-          "meaning": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层"
+          "meaning": "n.床,基础,路基,河底,海底,一堆,一层vt.安置,嵌入,使睡,栽种vi.上床,分层  教育学士 BEd(Bachelor of Education)"
         },
         {
           "term": "door",
-          "phonetic": "[dɔː(r)]",
-          "phoneticUS": "[dɔːr]",
-          "meaning": "n. 门；家，户；门口；通道"
+          "phonetic": "[dɔ:]",
+          "meaning": "n.门,通道,家,户"
         },
         {
           "term": "box",
           "phonetic": "[bɒks]",
-          "phoneticUS": "[bɑːks]",
-          "meaning": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击"
+          "meaning": "n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
         }
       ]
     }

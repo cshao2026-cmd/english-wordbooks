@@ -1,490 +1,454 @@
 {
-  "id": "a96f068007",
   "title": "科普版三年级起点六年级下",
   "wordCount": 80,
   "units": [
     {
-      "name": "整册",
+      "name": "各课词汇表 Lesson 1",
       "words": [
         {
           "term": "wear",
-          "phonetic": "[weə(r)]",
-          "phoneticUS": "[wer]",
-          "meaning": "n. 衣物；磨损；耐久性\nv. 穿着；用旧；耗损；面露"
+          "phonetic": "[weə]",
+          "meaning": "vt.穿,戴v.(～ out) 磨损,用旧,(～ out) 穿着"
         },
         {
           "term": "coat",
           "phonetic": "[kəʊt]",
-          "phoneticUS": "[koʊt]",
-          "meaning": "n. 外套\nvt. 覆盖…的表面"
+          "meaning": "n.外套,(动物的)皮毛,(植物的)表皮,(漆等的)层,涂层vt.涂上,包上"
         },
         {
           "term": "sleep",
-          "phonetic": "[sliːp]",
-          "phoneticUS": "[sliːp]",
-          "meaning": "n. 睡眠\nvi. 睡，睡觉"
+          "phonetic": "[sli:p]",
+          "meaning": "vi.睡,睡觉n.睡眠"
         },
         {
           "term": "tired",
           "phonetic": "[ˈtaɪəd]",
-          "phoneticUS": "[ˈtaɪərd]",
-          "meaning": "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的"
+          "meaning": "adj.疲劳的,累的,疲倦的"
         },
         {
           "term": "pass",
-          "phonetic": "[pɑːs]",
-          "phoneticUS": "[pæs]",
-          "meaning": "n. 及格；经过；护照；途径；传球\nvt. 通过；经过；传递\nvi. 经过；传递；变化；终止"
+          "phonetic": "[pɑ:s]",
+          "meaning": "n.经过,关口,途径,护照,通行证,入场券,传球,及格vt.通过,审查通过,忽略,传递vi.经过,变化,流通,宣判,被忽略,终止,传递,不叫牌"
         },
         {
           "term": "headache",
           "phonetic": "[ˈhedeɪk]",
-          "phoneticUS": "[ˈhedeɪk]",
-          "meaning": "n. 头痛；麻烦；令人头痛之事"
+          "meaning": "n.头痛,令人头痛之事"
         },
         {
           "term": "habit",
           "phonetic": "[ˈhæbɪt]",
-          "phoneticUS": "[ˈhæbɪt]",
-          "meaning": "n. 习惯，习性；嗜好\nvt. 使穿衣"
+          "meaning": "n.习惯,习性"
         },
         {
           "term": "have a cold",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 伤风"
+          "phonetic": "[hæv ə kəʊld]",
+          "meaning": ""
         },
         {
           "term": "stay up",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 不去睡觉；不沉"
+          "phonetic": "[steɪ ʌp]",
+          "meaning": ""
         },
         {
           "term": "go to bed",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 睡；同床；【印】付印"
+          "phonetic": "[ɡəʊ tu: bed]",
+          "meaning": ""
         },
         {
           "term": "from then on",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 从那时起"
-        },
+          "phonetic": "[frəm ðen ɒn]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 2",
+      "words": [
         {
           "term": "visit",
           "phonetic": "[ˈvɪzɪt]",
-          "phoneticUS": "[ˈvɪzɪt]",
-          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+          "meaning": "n.拜访,访问,游览,参观,(作客)逗留,视察,调查vt.拜访,访问,参观,视察,降临vi.访问,参观,闲谈"
         },
         {
           "term": "photo",
           "phonetic": "[ˈfəʊtəʊ]",
-          "phoneticUS": "[ˈfoʊtoʊ]",
-          "meaning": "n. 照片"
+          "meaning": "n.照片"
         },
         {
           "term": "angry",
-          "phonetic": "[ˈæŋɡri]",
-          "phoneticUS": "[ˈæŋɡri]",
-          "meaning": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的"
+          "phonetic": "[ˈæŋɡrɪ]",
+          "meaning": "adj.生气的,愤怒的,狂暴的(风雨等)"
         },
         {
           "term": "high",
           "phonetic": "[haɪ]",
-          "phoneticUS": "[haɪ]",
-          "meaning": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地"
+          "meaning": "n.高度,高处adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的adv.高度地,奢侈地,高价地"
         },
         {
           "term": "once",
           "phonetic": "[wʌns]",
-          "phoneticUS": "[wʌns]",
-          "meaning": "adv. 一次；曾经\nconj. 一旦\nn. 一次，一回"
+          "meaning": "n.adv.一次,从前,曾经 conj.一旦"
         },
         {
           "term": "trip",
           "phonetic": "[trɪp]",
-          "phoneticUS": "[trɪp]",
-          "meaning": "n. 旅行；绊倒；差错\nvt. 绊倒；使犯错\nvi. 绊倒；远足；犯错误；轻快地走"
+          "meaning": "n.(短途)旅行,绊倒,摔倒,失足,往返,差错,支吾,旅程vt.使跌倒,使犯错,使失败,挑剔vi.轻快地走,摔倒,绊倒,失足,结巴,远足,犯错,旅行"
         },
         {
           "term": "build",
           "phonetic": "[bɪld]",
-          "phoneticUS": "[bɪld]",
-          "meaning": "n. 构造；体形；体格\nvi. 建筑；建造\nvt. 建立；建筑"
+          "meaning": "v.建造,建筑n.构造,体格,体形"
         },
         {
           "term": "take photos",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "照相；拍照；拍照片"
-        },
+          "phonetic": "[teɪk ˈfəʊtəʊz]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 3",
+      "words": [
         {
           "term": "boat",
           "phonetic": "[bəʊt]",
-          "phoneticUS": "[boʊt]",
-          "meaning": "n. 小船；轮船\nvi. 划船"
+          "meaning": "n.小船,艇v.划船"
         },
         {
           "term": "zoo",
-          "phonetic": "[zuː]",
-          "phoneticUS": "[zuː]",
-          "meaning": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
+          "phonetic": "[zu:]",
+          "meaning": "n.动物园"
         },
         {
           "term": "last",
-          "phonetic": "[lɑːst]",
-          "phoneticUS": "[læst]",
-          "meaning": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点"
+          "phonetic": "[lɑ:st]",
+          "meaning": "adj.最后的,临终的,末尾的,最近的,结论性的vi.持续,支持,维持vt.使维持,楦adv.最后,后来n.最后,末尾,临终,鞋楦头"
         },
         {
           "term": "life",
           "phonetic": "[laɪf]",
-          "phoneticUS": "[laɪf]",
-          "meaning": "n. 生活，生存；寿命"
+          "meaning": "n.生命,生活,一生,寿命,生命力,传记"
         },
         {
           "term": "protect",
           "phonetic": "[prəˈtekt]",
-          "phoneticUS": "[prəˈtekt]",
-          "meaning": "vt. 保护，防卫；警戒"
+          "meaning": "vt.保护 /n.保护/解除"
         },
         {
           "term": "mine",
           "phonetic": "[maɪn]",
-          "phoneticUS": "[maɪn]",
-          "meaning": "n. 矿，矿藏；矿山，矿井；地雷，水雷\nvt. 开采，采掘；在…布雷\nvi. 开矿，采矿；埋设地雷\npron. 我的"
+          "meaning": "n.矿,矿山,矿井,源泉,宝库,地雷,水雷vt.挖掘,开采,在...布雷,破坏vi.开矿,埋设地雷 pron.我的"
         },
         {
           "term": "middle",
-          "phonetic": "[ˈmɪd(ə)l]",
-          "phoneticUS": "[ˈmɪd(ə)l]",
-          "meaning": "adj. 中间的，中部的；中级的，中等的\nn. 中间，中央；腰部"
+          "phonetic": "[ˈmɪdl]",
+          "meaning": "n.中间,当中adj.中间的,中部的"
         },
         {
           "term": "off",
           "phonetic": "[ɒf]",
-          "phoneticUS": "[ɔːf]",
-          "meaning": "prep. 离开；脱落\nadv. 切断；走开\nadj. 远离的；空闲的"
+          "meaning": "adj.远的,空闲的,不工作的adv.离开,在远方,离去,分离,中断,完成 prep.从...离开,脱离"
         },
         {
           "term": "world",
-          "phonetic": "[wɜːld]",
-          "phoneticUS": "[wɜːrld]",
-          "meaning": "n. 世界；领域；世俗；全人类；物质生活"
+          "phonetic": "[wɜ:ld]",
+          "meaning": "n.世界,...界,世事,世故,社会adj.世界的"
         },
         {
           "term": "have a good look at",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. (仔细)看一看"
+          "phonetic": "[hæv ə gʊd lʊk æt]",
+          "meaning": ""
         },
         {
           "term": "do one's best",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 竭尽所能；尽力"
+          "phonetic": "[du: wʌn best]",
+          "meaning": ""
         },
         {
           "term": "wait for",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 等；等待"
+          "phonetic": "[weɪt fɔ:]",
+          "meaning": ""
         },
         {
           "term": "in the middle of",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 正在…当中；在…的中途；在…的中央；在…的中部"
+          "phonetic": "[ɪn ðə ˈmɪdl ɒv]",
+          "meaning": ""
         },
         {
           "term": "after some time",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 不久之后"
-        },
+          "phonetic": "[ˈɑ:ftə sʌm taɪm]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 4",
+      "words": [
         {
           "term": "supermarket",
-          "phonetic": "[ˈsuːpəmɑːkɪt]",
-          "phoneticUS": "[ˈsuːpərmɑːrkɪt]",
-          "meaning": "n. 超级市场；自助售货商店"
+          "phonetic": "[ˈsu:pəmɑ:kɪt]",
+          "meaning": "n.超级市场"
         },
         {
           "term": "taxi",
-          "phonetic": "[ˈtæksi]",
-          "phoneticUS": "[ˈtæksi]",
-          "meaning": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行"
+          "phonetic": "[ˈtæksɪ]",
+          "meaning": "n.出租汽车v.乘坐出租汽车"
         },
         {
           "term": "sweater",
-          "phonetic": "[ˈswetə(r)]",
-          "phoneticUS": "[ˈswetər]",
-          "meaning": "n. 毛线衣，运动衫；大量出汗的人，发汗剂"
+          "phonetic": "[ˈswetə]",
+          "meaning": "n.厚运动衫,毛线衫"
         },
         {
           "term": "cool",
-          "phonetic": "[kuːl]",
-          "phoneticUS": "[kuːl]",
-          "meaning": "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地"
+          "phonetic": "[ku:l]",
+          "meaning": "n.凉爽,凉爽的空气adj.凉爽,冷静的,无所顾虑的,淡漠的v.使冷,使镇定"
         },
         {
           "term": "young",
           "phonetic": "[jʌŋ]",
-          "phoneticUS": "[jʌŋ]",
-          "meaning": "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的"
+          "meaning": "adj.年轻的,年纪小的,没有经验的,尚早的,初期的n.(动物的)崽,仔"
         },
         {
           "term": "clothes",
           "phonetic": "[kləʊðz]",
-          "phoneticUS": "[kloʊðz; kloʊz]",
-          "meaning": "n. 衣服"
+          "meaning": "n.衣服,[总称]被褥,各种衣服,<美俚>家丑"
         },
         {
           "term": "poor",
-          "phonetic": "[pɔː(r)]",
-          "phoneticUS": "[pʊr; pɔːr]",
-          "meaning": "adj. 贫穷的；可怜的；贫乏的；卑鄙的"
+          "phonetic": "[pʊə]",
+          "meaning": "adj.贫穷的,可怜的,乏味的,卑鄙的"
         },
         {
           "term": "dead",
           "phonetic": "[ded]",
-          "phoneticUS": "[ded]",
-          "meaning": "n. 死者\nadj. 无生命的；呆板的；废弃了的\nadv. 完全地"
+          "meaning": "adj.死的,无感觉的,呆板的,不流动的,(语言、习惯)废弃了的,熄灭的n.死者adv.完全地,绝对的,突然的"
         },
         {
           "term": "quickly",
-          "phonetic": "[ˈkwɪkli]",
-          "phoneticUS": "[ˈkwɪkli]",
-          "meaning": "adv. 迅速地；很快地"
+          "phonetic": "[ˈkwɪklɪ]",
+          "meaning": "adv.很快地"
         },
         {
           "term": "lose",
-          "phonetic": "[luːz]",
-          "phoneticUS": "[luːz]",
-          "meaning": "vt. 浪费；使沉溺于；使迷路；遗失；错过\nvi. 失败；受损失"
+          "phonetic": "[lu:z]",
+          "meaning": "vt.遗失,浪费,错过,输去,使失去,使迷路,使沉溺于vi.受损失,失败"
         },
         {
           "term": "try on",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 试穿；〈非正式〉搞恶作剧(以试探能否被容忍)；〈非正式〉耍花招"
+          "phonetic": "[traɪ ɒn]",
+          "meaning": ""
         },
         {
           "term": "put on",
-          "phonetic": "[pʊt ɒn]",
-          "phoneticUS": "[pʊt ɑːn]",
-          "meaning": "na. 假话"
-        },
+          "phonetic": "[put ɒn]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 5",
+      "words": [
         {
           "term": "umbrella",
           "phonetic": "[ʌmˈbrelə]",
-          "phoneticUS": "[ʌmˈbrelə]",
-          "meaning": "n. 雨伞；保护伞；庇护；伞形结构"
+          "meaning": "n.伞,雨伞,庇护"
         },
         {
           "term": "luck",
           "phonetic": "[lʌk]",
-          "phoneticUS": "[lʌk]",
-          "meaning": "n. 运气；幸运；带来好运的东西\nvi. 靠运气，走运；凑巧碰上"
-        },
+          "meaning": "n.运气,好运,幸运"
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 6",
+      "words": [
         {
           "term": "library",
-          "phonetic": "[ˈlaɪbrəri; ˈlaɪbri]",
-          "phoneticUS": "[ˈlaɪbreri]",
-          "meaning": "n. 图书馆，藏书室；文库"
+          "phonetic": "[ˈlaɪbrərɪ]",
+          "meaning": "n.图书馆,藏书室,库"
         },
         {
           "term": "left",
           "phonetic": "[left]",
-          "phoneticUS": "[left]",
-          "meaning": "adj. 左边的；左派的；剩下的\nadv. 在左面\nn. 左边；左派；激进分子\nv. 离开（leave的过去式）"
+          "meaning": "adj.左边的,左倾的,左侧的,左派的,左翼的adv.在左面n.左,左边,左派 vbl.leave的过去式和过去分词"
         },
         {
           "term": "end",
           "phonetic": "[end]",
-          "phoneticUS": "[end]",
-          "meaning": "n. 结束；目标；尽头；末端；死亡\nvi. 结束，终止；终结\nvt. 结束，终止；终结"
+          "meaning": "n.末端,尽头,结束,目标,限度,梢,末端,死亡v.结束,终结,终止"
         },
         {
           "term": "surprised",
           "phonetic": "[səˈpraɪzd]",
-          "phoneticUS": "[sərˈpraɪzd]",
-          "meaning": "v. 使惊奇（surprise的过去分词形式）\nadj. 感到惊讶的，出人意料的"
+          "meaning": "adj.感到惊讶的"
         },
         {
           "term": "at the end",
-          "phonetic": "[æt ði end]",
-          "phoneticUS": "[æt ði end]",
-          "meaning": "na. 终于"
+          "phonetic": "[æt ði: end]",
+          "meaning": ""
         },
         {
           "term": "on the right",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "在右边；在右侧；在右面"
+          "phonetic": "[ɒn ðə raɪt]",
+          "meaning": ""
         },
         {
           "term": "next to",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "prep. 紧邻；在…近旁；仅次于；紧接"
+          "phonetic": "[nekst tu:]",
+          "meaning": ""
         },
         {
           "term": "look for",
-          "phonetic": "[ˈlʊk fɔː(r)]",
-          "phoneticUS": "[ˈlʊk fɔːr]",
-          "meaning": "v. 寻找；探索；渴望；盼望"
-        },
+          "phonetic": "[lʊk fɔ:]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 7",
+      "words": [
         {
           "term": "lovely",
-          "phonetic": "[ˈlʌvli]",
-          "phoneticUS": "[ˈlʌvli]",
-          "meaning": "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的\nn. 美女；可爱的东西"
+          "phonetic": "[ˈlʌvlɪ]",
+          "meaning": "adj.可爱的,有趣的"
         },
         {
           "term": "a lot of",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "det. 许多"
-        },
+          "phonetic": "[ə lɒt ɒv]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 8",
+      "words": [
         {
           "term": "between",
-          "phonetic": "[bɪˈtwiːn]",
-          "phoneticUS": "[bɪˈtwiːn]",
-          "meaning": "prep. 在…之间\nadv. 在中间"
+          "phonetic": "[bɪˈtwi:n]",
+          "meaning": "prep.在...之间,连接...,由...协力合作"
         },
         {
           "term": "hour",
-          "phonetic": "[ˈaʊə(r)]",
-          "phoneticUS": "[ˈaʊər]",
-          "meaning": "n. 小时；钟头；课时；…点钟"
+          "phonetic": "[ˈaʊə]",
+          "meaning": "n.小时,钟头,...点钟,课时,(一段)时间"
         },
         {
           "term": "team",
-          "phonetic": "[tiːm]",
-          "phoneticUS": "[tiːm]",
-          "meaning": "n. 队；组\nvt. 使合作\nvi. 合作"
+          "phonetic": "[ti:m]",
+          "meaning": "n.队,组"
         },
         {
           "term": "later",
-          "phonetic": "[ˈleɪtə(r)]",
-          "phoneticUS": "[ˈleɪtər]",
-          "meaning": "adv. 后来；稍后；随后\nadj. 更迟的；更后的"
+          "phonetic": "[ˈleɪtə]",
+          "meaning": "adj.更迟的,更后的adv.稍后,随后"
         },
         {
           "term": "cloud",
           "phonetic": "[klaʊd]",
-          "phoneticUS": "[klaʊd]",
-          "meaning": "n. 云；阴云；云状物；一大群；黑斑\nvt. 使混乱；以云遮敝；使忧郁；玷污\nvi. 阴沉；乌云密布"
+          "meaning": "n.云,烟云,(pl.)天空,污点vt.以云遮敝,玷污,使黯然vi.乌云密布,阴沉"
         },
         {
           "term": "clear",
-          "phonetic": "[klɪə(r)]",
-          "phoneticUS": "[klɪr]",
-          "meaning": "n. 清除；空隙\nadj. 清楚的；清澈的；晴朗的；无罪的\nvt. 通过；清除；使干净；跳过\nvi. 放晴；变清澈\nadv. 清晰地；完全地"
+          "phonetic": "[klɪər]",
+          "meaning": "adj.清楚的,清晰的,清澈的,光亮的,空旷的,有条理的adv.清楚地,完全地v.扫除,清除,晴,跳过,净得"
         },
         {
           "term": "shine",
           "phonetic": "[ʃaɪn]",
-          "phoneticUS": "[ʃaɪn]",
-          "meaning": "vt. 照射，擦亮；把…的光投向；（口）通过擦拭使…变得有光泽或光\nvi. 发出光；反射光，闪耀；出类拔萃，表现突出；露出；照耀；显露；出众\nn. 光亮，光泽；好天气；擦亮；晴天；擦皮鞋；鬼把戏或诡计"
+          "meaning": "v.照耀,发光vt.擦亮n.光泽,光亮"
         },
         {
           "term": "raincoat",
           "phonetic": "[ˈreɪnkəʊt]",
-          "phoneticUS": "[ˈreɪnkoʊt]",
-          "meaning": "n. （美）雨衣"
+          "meaning": "n.<美>雨衣"
         },
         {
           "term": "talk about",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 讲(某事)"
+          "phonetic": "[tɔ:k əˈbaʊt]",
+          "meaning": ""
         },
         {
           "term": "laugh at",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 嘲笑；付之一笑；因…而发笑"
-        },
+          "phonetic": "[lɑ:f æt]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 9",
+      "words": [
         {
           "term": "deaf",
           "phonetic": "[def]",
-          "phoneticUS": "[def]",
-          "meaning": "adj. 聋的"
+          "meaning": "adj.聋的"
         },
         {
           "term": "queen",
-          "phonetic": "[kwiːn]",
-          "phoneticUS": "[kwiːn]",
-          "meaning": "n. 女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王\nvt. 使…成为女王或王后\nvi. 做女王"
-        },
+          "phonetic": "[kwi:n]",
+          "meaning": "n.王后,女王"
+        }
+      ]
+    },
+    {
+      "name": "各课词汇表 Lesson 10",
+      "words": [
         {
           "term": "holiday",
           "phonetic": "[ˈhɒlədeɪ]",
-          "phoneticUS": "[ˈhɑːlədeɪ]",
-          "meaning": "n. 假日；节日；休息日\nvi. 外出度假"
+          "meaning": "n.假日,节日,假期"
         },
         {
           "term": "student",
-          "phonetic": "[ˈstjuːdnt]",
-          "phoneticUS": "[ˈstuːdnt]",
-          "meaning": "n. 学生；学者"
+          "phonetic": "[ˈstju:dənt]",
+          "meaning": "n.(大小学校的)学生,研究者,学者"
         },
         {
           "term": "parent",
           "phonetic": "[ˈpeərənt]",
-          "phoneticUS": "[ˈperənt]",
-          "meaning": "n. 父亲（或母亲）；父母亲；根源"
+          "meaning": "n.[pl.] 双亲,父亲(或母亲)"
         },
         {
           "term": "travel",
-          "phonetic": "[ˈtræv(ə)l]",
-          "phoneticUS": "[ˈtrævl]",
-          "meaning": "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往"
+          "phonetic": "[ˈtrævl]",
+          "meaning": "v.旅行,传播vi.行进,传播n.旅行"
         },
         {
           "term": "moon",
-          "phonetic": "[muːn]",
-          "phoneticUS": "[muːn]",
-          "meaning": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度"
+          "phonetic": "[mu:n]",
+          "meaning": "n.月球,月亮,卫星"
         },
         {
           "term": "ago",
           "phonetic": "[əˈɡəʊ]",
-          "phoneticUS": "[əˈɡoʊ]",
-          "meaning": "adj. 以前的；过去的\nadv. 以前，以往"
+          "meaning": "adv.以前的,以往的"
         },
         {
           "term": "famous",
           "phonetic": "[ˈfeɪməs]",
-          "phoneticUS": "[ˈfeɪməs]",
-          "meaning": "adj. 著名的；极好的，非常令人满意的"
+          "meaning": "adj.著名的,出名的,<口>极好的,令人满意的"
         },
         {
           "term": "capital",
-          "phonetic": "[ˈkæpɪt(ə)l]",
-          "phoneticUS": "[ˈkæpɪt(ə)l]",
-          "meaning": "n. 首都，省会；资金；大写字母；资本家\nadj. 首都的；重要的；大写的"
+          "phonetic": "[ˈkæpɪtəl]",
+          "meaning": "n.首都,首府,大写字母,资本,资金,资产adj.首都的,重要的,死罪的,大写的,<口>极好的"
         },
         {
           "term": "climb",
           "phonetic": "[klaɪm]",
-          "phoneticUS": "[klaɪm]",
-          "meaning": "n. 爬；攀登\nvi. 爬；攀登；上升\nvt. 爬；攀登；上升"
+          "meaning": "v.攀登,爬n.攀登,爬"
         },
         {
           "term": "come to an end",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 完结"
+          "phonetic": "[kʌm tu: æn end]",
+          "meaning": ""
         },
         {
           "term": "some day",
-          "phonetic": "[ˈsʌm deɪ]",
-          "phoneticUS": "[ˈsʌm ˌdeɪ]",
-          "meaning": "adv. 总有一天；有朝一日；将来"
+          "phonetic": "[sʌm deɪ]",
+          "meaning": ""
         }
       ]
     }

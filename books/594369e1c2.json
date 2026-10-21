@@ -1,280 +1,259 @@
 {
-  "id": "594369e1c2",
   "title": "人教版一年级起点一年级下",
   "wordCount": 45,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "chair",
-          "phonetic": "[tʃeə(r)]",
-          "phoneticUS": "[tʃer]",
-          "meaning": "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职"
+          "phonetic": "[tʃeə]",
+          "meaning": "n.椅子,教授职位,主席位,讲座vt.使入座,使就任要职"
         },
         {
           "term": "desk",
           "phonetic": "[desk]",
-          "phoneticUS": "[desk]",
-          "meaning": "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的"
+          "meaning": "n.书桌,办公桌"
         },
         {
           "term": "blackboard",
-          "phonetic": "[ˈblækbɔːd]",
-          "phoneticUS": "[ˈblækbɔːrd]",
-          "meaning": "n. 黑板"
+          "phonetic": "[ˈblækbɔ:d]",
+          "meaning": "n.黑板"
         },
         {
           "term": "on",
           "phonetic": "[ɒn]",
-          "phoneticUS": "[ɑːn]",
-          "meaning": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中"
+          "meaning": "prep.在...之上,依附于,临近,靠近,向,在...时候,关于,涉及adv.在上,向前,行动中,作用中"
         },
         {
           "term": "under",
-          "phonetic": "[ˈʌndə(r)]",
-          "phoneticUS": "[ˈʌndər]",
-          "meaning": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方"
+          "phonetic": "[ˈʌndə]",
+          "meaning": "prep.在...之下,在...之内,在...领导下,低于,假借adv.在下"
         },
         {
           "term": "in",
           "phonetic": "[ɪn]",
-          "phoneticUS": "[ɪn]",
-          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+          "meaning": "prep.在...之内(上),在...期间,从事于,符合,穿着;adv.进入,朝里,在家,已到达(来临);adj.在里面的,执政的;n.执政者,入口;India,印度;In,元素铟(indium);Intelligent Network,智能网络"
         },
         {
           "term": "where",
-          "phonetic": "[weə(r)]",
-          "phoneticUS": "[wer]",
-          "meaning": "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里"
+          "phonetic": "[weə]",
+          "meaning": "adv.什么地方,在哪里,...的(地方)"
         },
         {
           "term": "the",
           "phonetic": "[ðə]",
-          "phoneticUS": "[ðə; ði; ðiː]",
-          "meaning": "art. 这；那\nadv. 更加（用于比较级，最高级前）"
-        },
+          "meaning": "art.那"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "light",
           "phonetic": "[laɪt]",
-          "phoneticUS": "[laɪt]",
-          "meaning": "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地"
+          "meaning": "n.光,日光,发光体,灯adj.轻的,发光的,明亮的,浅的vt.点燃,照亮adv.轻地vi.点着,变亮"
         },
         {
           "term": "bed",
           "phonetic": "[bed]",
-          "phoneticUS": "[bed]",
-          "meaning": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层"
+          "meaning": "n.床,基础,路基,河底,海底,一堆,一层vt.安置,嵌入,使睡,栽种vi.上床,分层  教育学士 BEd(Bachelor of Education)"
         },
         {
           "term": "door",
-          "phonetic": "[dɔː(r)]",
-          "phoneticUS": "[dɔːr]",
-          "meaning": "n. 门；家，户；门口；通道"
+          "phonetic": "[dɔ:]",
+          "meaning": "n.门,通道,家,户"
         },
         {
           "term": "box",
           "phonetic": "[bɒks]",
-          "phoneticUS": "[bɑːks]",
-          "meaning": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击"
+          "meaning": "n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
         },
         {
           "term": "near",
-          "phonetic": "[nɪə(r)]",
-          "phoneticUS": "[nɪr]",
-          "meaning": "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于"
+          "phonetic": "[nɪə]",
+          "meaning": "adj.亲近的,亲密的,近,(车,马等)左侧的,吝啬的adv.(时间,空间方面)近,不远 prep.在...近旁,近...v.接近,走近"
         },
         {
           "term": "behind",
           "phonetic": "[bɪˈhaɪnd]",
-          "phoneticUS": "[bɪˈhaɪnd]",
-          "meaning": "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处"
-        },
+          "meaning": "adv.在后地 prep.在...之后"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "plane",
           "phonetic": "[pleɪn]",
-          "phoneticUS": "[pleɪn]",
-          "meaning": "n. 飞机；平面；程度，水平\nadj. 平的；平面的\nvt. 刨平；用刨子刨；掠过水面\nvi. 刨；乘飞机旅行；翱翔"
+          "meaning": "n.平面,飞机,水平,程度,刨adj.平的,平面的v.刨,刨平"
         },
         {
           "term": "ball",
-          "phonetic": "[bɔːl]",
-          "phoneticUS": "[bɔːl]",
-          "meaning": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块"
+          "phonetic": "[bɔ:l]",
+          "meaning": "n.球,球状物,子弹,舞会,尽情地玩"
         },
         {
           "term": "doll",
           "phonetic": "[dɒl]",
-          "phoneticUS": "[dɑːl]",
-          "meaning": "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展"
+          "meaning": "n.洋娃娃,玩偶,美丽但无头脑的女子,<俚>美男子"
         },
         {
           "term": "train",
           "phonetic": "[treɪn]",
-          "phoneticUS": "[treɪn]",
-          "meaning": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准"
+          "meaning": "n.火车,列车,行列,后果,顺序,长队,长袍(裙)拖地的部分,导火线vt.训练,培养,瞄准,(园艺)整枝vi.锻炼"
         },
         {
           "term": "car",
-          "phonetic": "[kɑː(r)]",
-          "phoneticUS": "[kɑːr]",
-          "meaning": "n. 汽车；车厢"
+          "phonetic": "[kɑ:(r)]",
+          "meaning": "n.汽车,小汽车,车辆,客车,[铁]车厢"
         },
         {
           "term": "bear",
-          "phonetic": "[beə(r)]",
-          "phoneticUS": "[ber]",
-          "meaning": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑"
+          "phonetic": "[beə]",
+          "meaning": "n.熊v.负担,忍受,带给,具有,挤,向"
         },
         {
           "term": "can",
-          "phonetic": "[kən; kæn]",
-          "phoneticUS": "[kən; kæn]",
-          "meaning": "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存"
+          "phonetic": "[kæn]",
+          "meaning": "vt.装进罐中,把食品装罐n.罐头,铁罐 conj.能,可以"
         },
         {
           "term": "sure",
-          "phonetic": "[ʃʊə(r)]",
-          "phoneticUS": "[ʃʊr]",
-          "meaning": "adj. 确信的；可靠的；必定的\nadv. 当然；的确"
+          "phonetic": "[ʃʊə]",
+          "meaning": "adj.对....有把握,确信某事,稳当的,可靠的adv.的确,当然"
         },
         {
           "term": "sorry",
-          "phonetic": "[ˈsɒri]",
-          "phoneticUS": "[ˈsɑːri]",
-          "meaning": "adj. 遗憾的；对不起的，抱歉的\nint. 对不起，抱歉（表示委婉的拒绝等）"
-        },
+          "phonetic": "[ˈsɒrɪ]",
+          "meaning": "adj.遗憾的,对不起的,可怜的,抱歉的"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "rice",
           "phonetic": "[raɪs]",
-          "phoneticUS": "[raɪs]",
-          "meaning": "n. 稻；米饭\nvt. 把…捣成米糊状"
+          "meaning": "n.稻,米"
         },
         {
           "term": "noodles",
-          "phonetic": "[ˈnuːd(ə)lz]",
-          "phoneticUS": "[ˈnuːd(ə)lz]",
-          "meaning": "n. 面条，挂面（noodle的复数形式)"
+          "phonetic": "[ˈnu:dlz]",
+          "meaning": ""
         },
         {
           "term": "vegetable",
-          "phonetic": "[ˈvedʒtəb(ə)l]",
-          "phoneticUS": "[ˈvedʒtəbl]",
-          "meaning": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的"
+          "phonetic": "[ˈvedʒtəbl]",
+          "meaning": "n.蔬菜,植物,生活呆板单调的人adj.蔬菜的,植物的"
         },
         {
           "term": "fish",
           "phonetic": "[fɪʃ]",
-          "phoneticUS": "[fɪʃ]",
-          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+          "meaning": "n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
         },
         {
           "term": "chicken",
           "phonetic": "[ˈtʃɪkɪn]",
-          "phoneticUS": "[ˈtʃɪkɪn]",
-          "meaning": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的"
+          "meaning": "n.小鸡,小鸟,鸡肉"
         },
         {
           "term": "egg",
           "phonetic": "[eɡ]",
-          "phoneticUS": "[eɡ]",
-          "meaning": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿"
+          "meaning": "n.蛋,鸡蛋,卵v.怂恿,怂恿"
         },
         {
           "term": "hungry",
-          "phonetic": "[ˈhʌŋɡri]",
-          "phoneticUS": "[ˈhʌŋɡri]",
-          "meaning": "adj. 饥饿的；渴望的；荒年的；不毛的"
+          "phonetic": "[ˈhʌŋɡrɪ]",
+          "meaning": "adj.饥饿的,渴望的,荒年的,不毛的"
         },
         {
           "term": "want",
           "phonetic": "[wɒnt]",
-          "phoneticUS": "[wɑːnt]",
-          "meaning": "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少"
+          "meaning": "vt.想要,希望,需要,短缺,缺少n.需要,短缺"
         },
         {
           "term": "and",
-          "phonetic": "[ənd]",
-          "phoneticUS": "[ənd; ən; n; ænd]",
-          "meaning": "conj. 和，与；就；而且；但是；然后"
-        },
+          "phonetic": "[ænd]",
+          "meaning": "conj.和,及,并,然后,接着又 /conj.及(或)"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "juice",
-          "phonetic": "[dʒuːs]",
-          "phoneticUS": "[dʒuːs]",
-          "meaning": "n. （水果）汁，液；果汁"
+          "phonetic": "[dʒu:s]",
+          "meaning": "n.(水果)汁,液"
         },
         {
           "term": "tea",
-          "phonetic": "[tiː]",
-          "phoneticUS": "[tiː]",
-          "meaning": "n. 茶叶；茶树；茶点\nvt. 给…沏茶\nvi. 喝茶；进茶点"
+          "phonetic": "[ti:]",
+          "meaning": "n.茶,茶树,茶叶,茶点vt.给...沏茶vi.喝茶,进茶点"
         },
         {
           "term": "milk",
           "phonetic": "[mɪlk]",
-          "phoneticUS": "[mɪlk]",
-          "meaning": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶"
+          "meaning": "n.乳,牛奶v.挤(奶)"
         },
         {
           "term": "water",
-          "phonetic": "[ˈwɔːtə(r)]",
-          "phoneticUS": "[ˈwɔːtər]",
-          "meaning": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水"
+          "phonetic": "[ˈwɔ:tə]",
+          "meaning": "n.水,雨水,海水,水位,水面,流体vt.喷淋,供以水,注入水,使湿vi.流泪,加水adj.水的,水上的,水生的,含水的"
         },
         {
           "term": "thirsty",
-          "phonetic": "[ˈθɜːsti]",
-          "phoneticUS": "[ˈθɜːrsti]",
-          "meaning": "adj. 口渴的，口干的；渴望的，热望的"
+          "phonetic": "[ˈθɜ:stɪ]",
+          "meaning": "adj.口渴的,渴望的,热望的"
         },
         {
           "term": "thanks",
           "phonetic": "[θæŋks]",
-          "phoneticUS": "[θæŋks]",
-          "meaning": "n. 谢谢（只用复数）\nint. 谢谢"
-        },
+          "meaning": "n.感谢;int.谢谢"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "shirt",
-          "phonetic": "[ʃɜːt]",
-          "phoneticUS": "[ʃɜːrt]",
-          "meaning": "n. 衬衫；汗衫，内衣"
+          "phonetic": "[ʃɜ:t]",
+          "meaning": "n.衬衫,衬衣"
         },
         {
           "term": "T-shirt",
-          "phonetic": "[ˈtiː ʃɜːt]",
-          "phoneticUS": "[ˈtiː ʃɜːrt]",
-          "meaning": "n. 短袖圆领汗衫"
+          "phonetic": "[ˈti:ˌʃɜ:t]",
+          "meaning": ""
         },
         {
           "term": "skirt",
-          "phonetic": "[skɜːt]",
-          "phoneticUS": "[skɜːrt]",
-          "meaning": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕"
+          "phonetic": "[skɜ:t]",
+          "meaning": "n.裙子v.环绕"
         },
         {
           "term": "dress",
           "phonetic": "[dres]",
-          "phoneticUS": "[dres]",
-          "meaning": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣"
+          "meaning": "n.女服,童装,服装,衣服v.(给...)穿衣"
         },
         {
           "term": "socks",
           "phonetic": "[sɒks]",
-          "phoneticUS": "[sɑːks]",
-          "meaning": "n. 袜子（sock的复数）"
+          "meaning": ""
         },
         {
           "term": "shorts",
-          "phonetic": "[ʃɔːts]",
-          "phoneticUS": "[ʃɔːrts]",
-          "meaning": "n. 短裤"
+          "phonetic": "[ʃɔ:ts]",
+          "meaning": "n.短裤"
         },
         {
           "term": "your",
-          "phonetic": "[jɔː(r); jə(r)]",
-          "phoneticUS": "[jʊr; jər]",
-          "meaning": "pron. 你的，你们的"
+          "phonetic": "[jɔ:(r)]",
+          "meaning": "pron.你的,你们的"
         }
       ]
     }

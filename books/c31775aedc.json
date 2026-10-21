@@ -1,274 +1,229 @@
 {
-  "id": "c31775aedc",
   "title": "译林版牛津小学英语2A",
   "wordCount": 44,
   "units": [
     {
-      "name": "整册",
+      "name": "Picture dictionary",
       "words": [
         {
           "term": "father",
-          "phonetic": "[ˈfɑːðə(r)]",
-          "phoneticUS": "[ˈfɑːðər]",
-          "meaning": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲"
+          "phonetic": "[ˈfɑ:ðə]",
+          "meaning": "n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
         },
         {
           "term": "mother",
-          "phonetic": "[ˈmʌðə(r)]",
-          "phoneticUS": "[ˈmʌðər]",
-          "meaning": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的"
+          "phonetic": "[ˈmʌðə]",
+          "meaning": "n.母亲,妈妈"
         },
         {
           "term": "brother",
-          "phonetic": "[ˈbrʌðə(r)]",
-          "phoneticUS": "[ˈbrʌðər]",
-          "meaning": "n. 兄弟；同事；战友\nint. 我的老兄！"
+          "phonetic": "[ˈbrʌðə]",
+          "meaning": "n.兄弟"
         },
         {
           "term": "sister",
           "phonetic": "[ˈsɪstə(r)]",
-          "phoneticUS": "[ˈsɪstər]",
-          "meaning": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的"
+          "meaning": "n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
         },
         {
           "term": "a doctor",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈdɒktə]",
+          "meaning": ""
         },
         {
           "term": "a nurse",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə nɜ:s]",
+          "meaning": ""
         },
         {
           "term": "a worker",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈwɜ:kə]",
+          "meaning": ""
         },
         {
           "term": "a cook",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə kuk]",
+          "meaning": ""
         },
         {
           "term": "sun",
           "phonetic": "[sʌn]",
-          "phoneticUS": "[sʌn]",
-          "meaning": "n. 太阳\nvt. 使晒\nvi. 晒太阳"
+          "meaning": "n.太阳,阳光,恒星vt.晒n.(Sun) 星期天(=Sunday) 美国Sun公司,主要生产SUN系列工作站和网络产品,是JAVA语言的创始者"
         },
         {
           "term": "moon",
-          "phonetic": "[muːn]",
-          "phoneticUS": "[muːn]",
-          "meaning": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度"
+          "phonetic": "[mu:n]",
+          "meaning": "n.月球,月亮,卫星"
         },
         {
           "term": "star",
-          "phonetic": "[stɑː(r)]",
-          "phoneticUS": "[stɑːr]",
-          "meaning": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角"
+          "phonetic": "[stɑ:]",
+          "meaning": "n.星,恒星,明星,名角"
         },
         {
           "term": "big",
           "phonetic": "[bɪɡ]",
-          "phoneticUS": "[bɪɡ]",
-          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+          "meaning": "adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
         },
         {
           "term": "small",
-          "phonetic": "[smɔːl]",
-          "phoneticUS": "[smɔːl]",
-          "meaning": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地"
+          "phonetic": "[smɔ:l]",
+          "meaning": "adj.小的,少的"
         },
         {
           "term": "bright",
           "phonetic": "[braɪt]",
-          "phoneticUS": "[braɪt]",
-          "meaning": "n. 车头灯光\nadj. 明亮的，鲜明的；聪明的；愉快的\nadv. 明亮地；光明地；欢快地"
+          "meaning": "adj.明亮的,辉煌的,欢快的,聪明的,伶俐的"
         },
         {
           "term": "a door",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə dɔ:]",
+          "meaning": ""
         },
         {
           "term": "a window",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈwɪndəʊ]",
+          "meaning": ""
         },
         {
           "term": "a desk",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə desk]",
+          "meaning": ""
         },
         {
           "term": "a sofa",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈsəʊfə]",
+          "meaning": ""
         },
         {
           "term": "a table",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "表表自身；插入数据库的数据"
+          "phonetic": "[ə ˈteɪbl]",
+          "meaning": ""
         },
         {
           "term": "a chair",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "[地名] 阿恰伊尔 ( 俄 )"
+          "phonetic": "[ə tʃeə]",
+          "meaning": ""
         },
         {
           "term": "a carrot",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈkærət]",
+          "meaning": ""
         },
         {
           "term": "a bean",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "试想想一粒豆；一粒豆子"
+          "phonetic": "[ə bi:n]",
+          "meaning": ""
         },
         {
           "term": "a tomato",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə təˈmɑ:təʊ]",
+          "meaning": ""
         },
         {
           "term": "a potato",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə pəˈteɪtəʊ]",
+          "meaning": ""
         },
         {
           "term": "an ant",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "南特；一只蚂蚁；笛古岛-安娜塔拉"
+          "phonetic": "[ən ænt]",
+          "meaning": ""
         },
         {
           "term": "a butterfly",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈbʌtəflaɪ]",
+          "meaning": ""
         },
         {
           "term": "a flower",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "一朵花"
+          "phonetic": "[ə ˈflaʊə]",
+          "meaning": ""
         },
         {
           "term": "a tree",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "一棵树；一颗树；作为树的形象和你站在一起"
+          "phonetic": "[ə tri:]",
+          "meaning": ""
         },
         {
           "term": "a pie",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "一个馅饼；一个派；一块馅饼"
+          "phonetic": "[ə paɪ]",
+          "meaning": ""
         },
         {
           "term": "a cake",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "蛋糕；一块蛋糕；一个蛋糕"
+          "phonetic": "[ə keɪk]",
+          "meaning": ""
         },
         {
           "term": "a hamburger",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈhæmbɜ:ɡə]",
+          "meaning": ""
         },
         {
           "term": "a hot dog",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "热狗"
+          "phonetic": "[ə hɒt dɒg]",
+          "meaning": ""
         },
         {
           "term": "bread",
           "phonetic": "[bred]",
-          "phoneticUS": "[bred]",
-          "meaning": "n. 面包；生计\nvt. 在…上洒面包屑"
+          "meaning": "n.面包,生计"
         },
         {
           "term": "rice",
           "phonetic": "[raɪs]",
-          "phoneticUS": "[raɪs]",
-          "meaning": "n. 稻；米饭\nvt. 把…捣成米糊状"
+          "meaning": "n.稻,米"
         },
         {
           "term": "milk",
           "phonetic": "[mɪlk]",
-          "phoneticUS": "[mɪlk]",
-          "meaning": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶"
+          "meaning": "n.乳,牛奶v.挤(奶)"
         },
         {
           "term": "juice",
-          "phonetic": "[dʒuːs]",
-          "phoneticUS": "[dʒuːs]",
-          "meaning": "n. （水果）汁，液；果汁"
+          "phonetic": "[dʒu:s]",
+          "meaning": "n.(水果)汁,液"
         },
         {
           "term": "a gift",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "一件礼物；一个礼物；一份礼物"
+          "phonetic": "[ə ɡɪft]",
+          "meaning": ""
         },
         {
           "term": "a bell",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "[人名] [英格兰人姓氏] 艾贝尔 Abel的变体"
+          "phonetic": "[ə bel]",
+          "meaning": ""
         },
         {
           "term": "a chocolate",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈtʃɒklət]",
+          "meaning": ""
         },
         {
           "term": "a sweet",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "糖果；一道甜点"
+          "phonetic": "[ə swi:t]",
+          "meaning": ""
         },
         {
           "term": "a coat",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə kəʊt]",
+          "meaning": ""
         },
         {
           "term": "a sweater",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ˈswetə]",
+          "meaning": ""
         },
         {
           "term": "a T-shirt",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ə ti: ʃɜ:t]",
+          "meaning": ""
         },
         {
           "term": "a skirt",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "裙子；一条短裙；短裙"
+          "phonetic": "[ə skɜ:t]",
+          "meaning": ""
         }
       ]
     }

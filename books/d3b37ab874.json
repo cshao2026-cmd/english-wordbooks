@@ -1,2158 +1,1799 @@
 {
-  "id": "d3b37ab874",
   "title": "Academic Voc List (SM2)",
   "wordCount": 358,
   "units": [
     {
-      "name": "整册",
+      "name": "default",
       "words": [
         {
           "term": "abbreviate",
-          "phonetic": "[əˈbriːvieɪt]",
-          "phoneticUS": "[əˈbriːvieɪt]",
-          "meaning": "vt. 缩写，使省略；使简短\nvi. 使用缩写词"
+          "phonetic": "[əˈbri:vɪeɪt]",
+          "meaning": "v.缩写,缩短,简化,简写成,缩写为"
         },
         {
           "term": "abstract",
           "phonetic": "[ˈæbstrækt]",
-          "phoneticUS": "[ˈæbstrækt]",
-          "meaning": "n. 摘要；抽象；抽象的概念\nadj. 抽象的；深奥的\nvt. 摘要；提取；使……抽象化；转移(注意力、兴趣等)；使心不在焉\nvi. 做摘要；写梗概"
+          "meaning": "n.摘要,概要,抽象;adj.抽象的,深奥的,理论的;vt.摘要,提炼,抽象化"
         },
         {
           "term": "according",
-          "phonetic": "[ə'kɔːdɪŋ]",
-          "phoneticUS": "[əˈkɔːrdɪŋ]",
-          "meaning": "adj. 相符的；一致的；相应的；和谐的；调和的\nadv. 依照；根据；按照\nv. 给予( accord的现在分词 )；使和谐一致；使符合；使适合"
+          "phonetic": "[əˈkɔ:dɪŋ]",
+          "meaning": "adv.依照"
         },
         {
           "term": "acronym",
           "phonetic": "[ˈækrənɪm]",
-          "phoneticUS": "[ˈækrənɪm]",
-          "meaning": "n. 首字母缩略词"
+          "meaning": "n.只取首字母的缩写词"
         },
         {
           "term": "address",
           "phonetic": "[əˈdres]",
-          "phoneticUS": "[əˈdres; ˈædres]",
-          "meaning": "n. 地址；演讲；致辞；说话的技巧；称呼\nvt. 演说；从事；忙于；写姓名地址；向…致辞；与…说话；提出；处理"
+          "meaning": "n.地址,致辞,演讲,说话的技巧vt.向...致辞,演说,写姓名地址,从事,忙于"
         },
         {
           "term": "affect",
           "phonetic": "[əˈfekt]",
-          "phoneticUS": "[əˈfekt]",
-          "meaning": "n. 情感；引起感情的因素\nvt. 影响；感染；感动；假装\nvi. 倾向；喜欢"
+          "meaning": "vt.影响,感动,侵袭,假装"
         },
         {
           "term": "alter",
-          "phonetic": "[ˈɔːltə(r)]",
-          "phoneticUS": "[ˈɔːltər]",
-          "meaning": "vt. 改变，更改\nvi. 改变；修改"
+          "phonetic": "[ˈɔ:ltə]",
+          "meaning": "v.改变"
         },
         {
           "term": "always",
-          "phonetic": "[ˈɔːlweɪz]",
-          "phoneticUS": "[ˈɔːlweɪz]",
-          "meaning": "adv. 永远，一直；总是；常常"
+          "phonetic": "[ˈɔ:lweɪz]",
+          "meaning": "adv.总是,永远,始终"
         },
         {
           "term": "analogy",
-          "phonetic": "[əˈnælədʒi]",
-          "phoneticUS": "[əˈnælədʒi]",
-          "meaning": "n. 类比；类推；类似"
+          "phonetic": "[əˈnælədʒɪ]",
+          "meaning": "n.类似,类推"
         },
         {
           "term": "analysis",
           "phonetic": "[əˈnæləsɪs]",
-          "phoneticUS": "[əˈnæləsɪs]",
-          "meaning": "n. 分析；分解；验定"
+          "meaning": "n.分析,分解"
         },
         {
           "term": "analyze",
           "phonetic": "[ˈænəlaɪz]",
-          "phoneticUS": "[ˈænəlaɪz]",
-          "meaning": "vt. 对…进行分析，分解（等于analyse）"
+          "meaning": "vt.分析,分解"
         },
         {
           "term": "annotate",
-          "phonetic": "[ˈænəteɪt]",
-          "phoneticUS": "[ˈænəteɪt]",
-          "meaning": "vt. 注释；作注解\nvi. 注释；给…作注释或评注"
+          "phonetic": "[ˈænəʊteɪt]",
+          "meaning": "v.注释,评注"
         },
         {
           "term": "anticipate",
           "phonetic": "[ænˈtɪsɪpeɪt]",
-          "phoneticUS": "[ænˈtɪsɪpeɪt]",
-          "meaning": "vt. 预期，期望；占先，抢先；提前使用"
+          "meaning": "vt.预期,期望,过早使用,先人一着,占先v.预订,预见,可以预料"
         },
         {
           "term": "application",
-          "phonetic": "[ˌæplɪˈkeɪʃ(ə)n]",
-          "phoneticUS": "[ˌæplɪˈkeɪʃn]",
-          "meaning": "n. 应用；申请；应用程序；敷用"
+          "phonetic": "[ˌæplɪˈkeɪʃən]",
+          "meaning": "n.请求,申请,申请表,应用,运用,施用,敷用 应用,应用程序,应用软件"
         },
         {
           "term": "apply",
           "phonetic": "[əˈplaɪ]",
-          "phoneticUS": "[əˈplaɪ]",
-          "meaning": "vi. 申请；涂，敷；适用；请求\nvt. 申请；涂，敷；应用"
+          "meaning": "vt.申请,应用vi.申请,适用"
         },
         {
           "term": "approach",
           "phonetic": "[əˈprəʊtʃ]",
-          "phoneticUS": "[əˈproʊtʃ]",
-          "meaning": "n. 方法；途径；接近\nvt. 接近；着手处理\nvi. 靠近"
+          "meaning": "n.接近,逼近,走进,方法,步骤,途径,通路vt.接近,动手处理vi.靠近"
         },
         {
           "term": "appropriate",
-          "phonetic": "[əˈprəʊpriət]",
-          "phoneticUS": "[əˈproʊpriət; əˈproʊprieɪt]",
-          "meaning": "adj. 适当的；恰当的；合适的\nvt. 占用，拨出"
+          "phonetic": "[əˈprəʊprɪeɪt]",
+          "meaning": "adj.适当的"
         },
         {
           "term": "approximate",
           "phonetic": "[əˈprɒksɪmət]",
-          "phoneticUS": "[əˈprɑːksɪmət; əˈprɑːksɪmeɪt]",
-          "meaning": "adj. [数] 近似的；大概的\nvt. 近似；使…接近；粗略估计\nvi. 接近于；近似于"
+          "meaning": "adj.近似的,大约的v.近似,接近,接近,约计"
         },
         {
           "term": "argue",
-          "phonetic": "[ˈɑːɡjuː]",
-          "phoneticUS": "[ˈɑːrɡjuː]",
-          "meaning": "vi. 争论，辩论；提出理由\nvt. 辩论，争论；证明；说服"
+          "phonetic": "[ˈɑ:ɡju:]",
+          "meaning": "vi.争论,辩论vt.说服"
         },
         {
           "term": "argument",
-          "phonetic": "[ˈɑːɡjumənt]",
-          "phoneticUS": "[ˈɑːrɡjumənt]",
-          "meaning": "n. 论证；论据；争吵；内容提要"
+          "phonetic": "[ˈɑ:ɡjumənt]",
+          "meaning": "n.争论,辩论,论据,论点,～ (for,against),意见"
         },
         {
           "term": "arrange",
           "phonetic": "[əˈreɪndʒ]",
-          "phoneticUS": "[əˈreɪndʒ]",
-          "meaning": "vi. 安排；排列；协商\nvt. 安排；排列；整理"
+          "meaning": "v.安排,排列,协商"
         },
         {
           "term": "articulate",
-          "phonetic": "[ɑːˈtɪkjuleɪt]",
-          "phoneticUS": "[ɑːrˈtɪkjuleɪt]",
-          "meaning": "adj. 发音清晰的；口才好的；有关节的\nvt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯\nvi. 发音；清楚地讲话；用关节连接起来\nn. 【动物学】有节体的动物"
+          "phonetic": "[ɑ:ˈtɪkjuleɪt]",
+          "meaning": "adj.有关节的,发音清晰的vt.用关节连接,接合,清晰明白地说"
         },
         {
           "term": "aspects",
           "phonetic": "[ˈæspekts]",
-          "phoneticUS": "[ˈæspekts]",
-          "meaning": "n. 方面；相位；面貌（aspect的复数）"
+          "meaning": ""
         },
         {
           "term": "assemble",
-          "phonetic": "[əˈsemb(ə)l]",
-          "phoneticUS": "[əˈsembl]",
-          "meaning": "vt. 集合，聚集；装配；收集\nvi. 集合，聚集"
+          "phonetic": "[əˈsembl]",
+          "meaning": "vt.集合,聚集,装配vi.集合"
         },
         {
           "term": "assert",
-          "phonetic": "[əˈsɜːt]",
-          "phoneticUS": "[əˈsɜːrt]",
-          "meaning": "vt. 维护，坚持；断言；主张；声称"
+          "phonetic": "[əˈsɜ:t]",
+          "meaning": "v.断言,声称"
         },
         {
           "term": "assess",
           "phonetic": "[əˈses]",
-          "phoneticUS": "[əˈses]",
-          "meaning": "vt. 评定；估价；对…征税"
+          "meaning": "vt.估定,评定"
         },
         {
           "term": "associate",
-          "phonetic": "[əˈsəʊsieɪt]",
-          "phoneticUS": "[əˈsoʊsieɪt; əˈsoʊʃieɪt]",
-          "meaning": "n. 同事，伙伴；关联的事物\nadj. 副的；联合的\nvt. 联想；使联合；使发生联系\nvi. 交往；结交"
+          "phonetic": "[əˈsəʊʃɪeɪt]",
+          "meaning": "vt.使发生联系,使联合vi.交往,结交n.合作人,同事adj.副的"
         },
         {
           "term": "assume",
-          "phonetic": "[əˈsjuːm]",
-          "phoneticUS": "[əˈsuːm]",
-          "meaning": "vt. 僭取；篡夺；夺取；擅用；侵占\nvi. 假定；设想；承担；采取"
+          "phonetic": "[əˈsju:m]",
+          "meaning": "vt.假定,设想,采取,呈现"
         },
         {
           "term": "assumption",
           "phonetic": "[əˈsʌmpʃn]",
-          "phoneticUS": "[əˈsʌmpʃn]",
-          "meaning": "n. 假定；设想；担任；采取"
+          "meaning": "n.假定,设想,担任,承当,假装,作态,圣母升天"
         },
         {
           "term": "audience",
-          "phonetic": "[ˈɔːdiəns]",
-          "phoneticUS": "[ˈɔːdiəns]",
-          "meaning": "n. 观众；听众；读者；接见；正式会见；拜会"
+          "phonetic": "[ˈɔ:dɪəns]",
+          "meaning": "n.听众,观众,接见,拜见"
         },
         {
           "term": "authentic",
-          "phonetic": "[ɔːˈθentɪk]",
-          "phoneticUS": "[ɔːˈθentɪk]",
-          "meaning": "adj. 真正的，真实的；可信的"
+          "phonetic": "[ɔ:ˈθentɪk]",
+          "meaning": "adj.可信的"
         },
         {
           "term": "background",
           "phonetic": "[ˈbækɡraʊnd]",
-          "phoneticUS": "[ˈbækɡraʊnd]",
-          "meaning": "n. 背景；隐蔽的位置\nadj. 背景的；发布背景材料的\nvt. 作…的背景"
+          "meaning": "n.背景,后台,不重要或不引人注目的地方或位置"
         },
         {
           "term": "body",
-          "phonetic": "[ˈbɒdi]",
-          "phoneticUS": "[ˈbɑːdi]",
-          "meaning": "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体"
+          "phonetic": "[ˈbɒdɪ]",
+          "meaning": "n.身体,肉体,人,尸体,主要部分,团体,大量vt.赋以形体"
         },
         {
           "term": "brainstorm",
-          "phonetic": "[ˈbreɪnstɔːm]",
-          "phoneticUS": "[ˈbreɪnstɔːrm]",
-          "meaning": "n. 集思广益；头脑风暴；灵机一动\nvt. 集体讨论；集思广益以寻找\nvi. 集体讨论；动脑筋；出主意"
+          "phonetic": "[ˈbreɪnˌstɔ:m]",
+          "meaning": "n.灵机一动v.集体讨论"
         },
         {
           "term": "brief",
-          "phonetic": "[briːf]",
-          "phoneticUS": "[briːf]",
-          "meaning": "n. 摘要，简报；概要，诉书\nadj. 简短的，简洁的；短暂的，草率的\nvt. 简报，摘要；作…的提要"
+          "phonetic": "[bri:f]",
+          "meaning": "n.摘要,大纲adj.简短的,短暂的vt.摘要,(军事)下达简令"
         },
         {
           "term": "calculate",
           "phonetic": "[ˈkælkjuleɪt]",
-          "phoneticUS": "[ˈkælkjuleɪt]",
-          "meaning": "vt. 计算；预测；认为；打算\nvi. 计算；以为；作打算"
+          "meaning": "v.计算,考虑,计划,打算v.<美>以为,认为"
         },
         {
           "term": "caption",
-          "phonetic": "[ˈkæpʃ(ə)n]",
-          "phoneticUS": "[ˈkæpʃn]",
-          "meaning": "n. 标题；字幕；说明；逮捕\nvt. 加上说明；加上标题"
+          "phonetic": "[ˈkæpʃən]",
+          "meaning": "n.标题,说明,字幕vt.加上标题,加上说明"
         },
         {
           "term": "category",
-          "phonetic": "[ˈkætəɡəri]",
-          "phoneticUS": "[ˈkætəɡɔːri]",
-          "meaning": "n. 种类，分类；[数] 范畴"
+          "phonetic": "[ˈkætəgərɪ]",
+          "meaning": "n.种类,别,[逻]范畴"
         },
         {
           "term": "cause",
-          "phonetic": "[kɔːz]",
-          "phoneticUS": "[kɔːz]",
-          "meaning": "n. 原因；事业；目标\nvt. 引起；使遭受"
+          "phonetic": "[kɔ:z]",
+          "meaning": "n.原因,导致某事发生的人或事,动机,理由,根据,目标,理想,事业vt.引起,惹起,使(发生),促成"
         },
         {
           "term": "character",
-          "phonetic": "[ˈkærəktə(r)]",
-          "phoneticUS": "[ˈkærəktər]",
-          "meaning": "n. 性格，品质；特性；角色；[计] 字符\nvt. 印，刻；使具有特征"
+          "phonetic": "[ˈkærɪktə(r)]",
+          "meaning": "n.(事物的)特性,性质,特征(的总和),(人的)品质,字符,性格,特征,人物vt.写,刻,印,使具有特征"
         },
         {
           "term": "characteristic",
-          "phonetic": "[ˌkærəktəˈrɪstɪk]",
-          "phoneticUS": "[ˌkærəktəˈrɪstɪk]",
-          "meaning": "n. 特征；特性；特色\nadj. 典型的；特有的；表示特性的"
+          "phonetic": "[ˌkærɪktəˈrɪstɪk]",
+          "meaning": "ally//adv.表示特adj.特有的,表示绦缘"
         },
         {
           "term": "characterize",
-          "phonetic": "[ˈkærəktəraɪz]",
-          "phoneticUS": "[ˈkærəktəraɪz]",
-          "meaning": "vt. 描绘…的特性；具有…的特征\nvi. 塑造人物"
+          "phonetic": "[ˈkærɪktəraɪz]",
+          "meaning": "vt.表现...的特色,刻画的...性格"
         },
         {
           "term": "chart",
-          "phonetic": "[tʃɑːt]",
-          "phoneticUS": "[tʃɑːrt]",
-          "meaning": "n. 图表；海图；图纸；排行榜\nvt. 绘制…的图表；在海图上标出；详细计划；记录；记述；跟踪（进展或发展"
+          "phonetic": "[tʃɑ:t]",
+          "meaning": "n.海图,图表vt.制图"
         },
         {
           "term": "chronology",
-          "phonetic": "[krəˈnɒlədʒi]",
-          "phoneticUS": "[krəˈnɑːlədʒi]",
-          "meaning": "n. 年表；年代学"
+          "phonetic": "[krəˈnɒlədʒɪ]",
+          "meaning": "n.年代学,年表"
         },
         {
           "term": "citation",
-          "phonetic": "[saɪˈteɪʃn]",
-          "phoneticUS": "[saɪˈteɪʃn]",
-          "meaning": "n. 引用，引证；[法] 传票；褒扬"
+          "phonetic": "[saɪˈteɪʃən]",
+          "meaning": "n.引用"
         },
         {
           "term": "cite",
           "phonetic": "[saɪt]",
-          "phoneticUS": "[saɪt]",
-          "meaning": "vt. 引用；传讯；想起；表彰"
+          "meaning": "vt.引用,引证,提名表扬"
         },
         {
           "term": "claim",
           "phonetic": "[kleɪm]",
-          "phoneticUS": "[kleɪm]",
-          "meaning": "n. 要求；声称；索赔；断言；值得\nvt. 要求；声称；需要；认领\nvi. 提出要求"
+          "meaning": "n.(根据权利提出)要求,要求权,主张,要求而得到的东西vt.(根据权利)要求,认领,声称,主张,需要"
         },
         {
           "term": "clarify",
-          "phonetic": "[ˈklærəfaɪ]",
-          "phoneticUS": "[ˈklærəfaɪ]",
-          "meaning": "vt. 澄清；阐明\nvi. 得到澄清；变得明晰；得到净化"
+          "phonetic": "[ˈklærɪfaɪ]",
+          "meaning": "v.澄清,阐明"
         },
         {
           "term": "class",
-          "phonetic": "[klɑːs]",
-          "phoneticUS": "[klæs]",
-          "meaning": "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）"
+          "phonetic": "[klɑ:s]",
+          "meaning": "n.班级,阶级,社会等级,种类,(一节)课vt.把...分类(或分等级)"
         },
         {
           "term": "clue",
-          "phonetic": "[kluː]",
-          "phoneticUS": "[kluː]",
-          "meaning": "n. 线索；（故事等的）情节\nvt. 为…提供线索；为…提供情况"
+          "phonetic": "[klu:]",
+          "meaning": "n.线索"
         },
         {
           "term": "code",
           "phonetic": "[kəʊd]",
-          "phoneticUS": "[koʊd]",
-          "meaning": "n. 代码，密码；编码；法典\nvt. 编码；制成法典\nvi. 指定遗传密码"
+          "meaning": "n.代码,代号,密码,编码v.编码"
         },
         {
           "term": "coherent",
           "phonetic": "[kəʊˈhɪərənt]",
-          "phoneticUS": "[koʊˈhɪrənt]",
-          "meaning": "adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的"
+          "meaning": "adj.粘在一起的,一致的,连贯的"
         },
         {
           "term": "common",
           "phonetic": "[ˈkɒmən]",
-          "phoneticUS": "[ˈkɑːmən]",
-          "meaning": "n. 普通；平民；公有地\nadj. 共同的；普通的；一般的；通常的"
+          "meaning": "adj.共同的,公共的,公有的,普通的,庸俗的,伪劣的n.[复][总]平民,公有,普通,共通"
         },
         {
           "term": "compare",
-          "phonetic": "[kəmˈpeə(r)]",
-          "phoneticUS": "[kəmˈper]",
-          "meaning": "vi. 相比，匹敌；比较，区别；比拟（常与to连用）\nvt. 比拟，喻为；[语]构成\nn. 比较"
+          "phonetic": "[kəmˈpeə]",
+          "meaning": "v.比较,相比,比喻 n.比较"
         },
         {
           "term": "compile",
           "phonetic": "[kəmˈpaɪl]",
-          "phoneticUS": "[kəmˈpaɪl]",
-          "meaning": "vt. 编译；编制；编辑；[图情] 汇编"
+          "meaning": "vt.编译,编辑,汇编"
         },
         {
           "term": "complement",
-          "phonetic": "[ˈkɒmplɪment]",
-          "phoneticUS": "[ˈkɑːmplɪment; ˈkɑːmplɪmənt]",
-          "meaning": "n. 补语；余角；补足物\nvt. 补足，补助"
+          "phonetic": "[ˈkɒmpləmənt]",
+          "meaning": "n.补足物,[文法]补语,[数]余角vt.补助,补足"
         },
         {
           "term": "complete",
-          "phonetic": "[kəmˈpliːt]",
-          "phoneticUS": "[kəmˈpliːt]",
-          "meaning": "adj. 完整的；完全的；彻底的\nvt. 完成"
+          "phonetic": "[kəmˈpli:t]",
+          "meaning": "adj.全部的,完全的,完成的vt.完成,使完善"
         },
         {
           "term": "compose",
           "phonetic": "[kəmˈpəʊz]",
-          "phoneticUS": "[kəmˈpoʊz]",
-          "meaning": "vt. 构成；写作；使平静；排…的版\nvi. 组成；作曲；排字"
+          "meaning": "v.组成,写作,排字,(使)安定,调解"
         },
         {
           "term": "composition",
-          "phonetic": "[ˌkɒmpəˈzɪʃ(ə)n]",
-          "phoneticUS": "[ˌkɑːmpəˈzɪʃn]",
-          "meaning": "n. 作文，作曲，作品；[材] 构成；合成物；成分"
+          "phonetic": "[kɒmpəˈzɪʃən]",
+          "meaning": "n.写作,作文,成分,合成物"
         },
         {
           "term": "conceive",
-          "phonetic": "[kənˈsiːv]",
-          "phoneticUS": "[kənˈsiːv]",
-          "meaning": "vi. 怀孕；设想；考虑\nvt. 怀孕；构思；以为；持有"
+          "phonetic": "[kənˈsi:v]",
+          "meaning": "vt.构思,以为,持有vi.怀孕,考虑,设想"
         },
         {
           "term": "concise",
           "phonetic": "[kənˈsaɪs]",
-          "phoneticUS": "[kənˈsaɪs]",
-          "meaning": "adj. 简明的，简洁的"
+          "meaning": "adj.简明的,简练的"
         },
         {
           "term": "conclude",
-          "phonetic": "[kənˈkluːd]",
-          "phoneticUS": "[kənˈkluːd]",
-          "meaning": "vi. 推断；断定；决定\nvt. 推断；决定，作结论；结束"
+          "phonetic": "[kənˈklu:d]",
+          "meaning": "v.结束,终止,决定,作出结论vt.推断,断定,缔结,议定"
         },
         {
           "term": "conclusion",
-          "phonetic": "[kənˈkluːʒn]",
-          "phoneticUS": "[kənˈkluːʒn]",
-          "meaning": "n. 结论；结局；推论"
+          "phonetic": "[kənˈklu:ʒən]",
+          "meaning": "n.结束,缔结,结论"
         },
         {
           "term": "concrete",
-          "phonetic": "[ˈkɒŋkriːt]",
-          "phoneticUS": "[ˈkɑːnkriːt]",
-          "meaning": "n. 具体物；凝结物\nadj. 混凝土的；实在的，具体的；有形的\nvt. 使凝固；用混凝土修筑\nvi. 凝结"
+          "phonetic": "[ˈkɒnkri:t]",
+          "meaning": "adj.具体的,有形的n.混凝土v.用混凝土修筑,浇混凝土,凝结"
         },
         {
           "term": "conditions",
-          "phonetic": "[kənˈdɪʃ(ə)nz]",
-          "phoneticUS": "[kənˈdɪʃ(ə)nz]",
-          "meaning": "n. 条件（condition的复数）；情况\nv. 使习惯于；作为…的条件（condition的第三人称单数形式）"
+          "phonetic": "[kənˈdɪʃnz]",
+          "meaning": ""
         },
         {
           "term": "conduct",
-          "phonetic": "[kənˈdʌkt; ˈkɒndʌkt]",
-          "phoneticUS": "[kənˈdʌkt; ˈkɑːndʌkt]",
-          "meaning": "n. 进行；行为；实施\nvi. 导电；带领\nvt. 管理；引导；表现"
+          "phonetic": "[kənˈdʌkt]",
+          "meaning": "n.行为,操行v.引导,管理,为人,传导"
         },
         {
           "term": "confirm",
-          "phonetic": "[kənˈfɜːm]",
-          "phoneticUS": "[kənˈfɜːrm]",
-          "meaning": "vt. 确认；确定；证实；批准；使巩固"
+          "phonetic": "[kənˈfɜ:m]",
+          "meaning": "vt.确定,批准,使巩固,使有效v.确认,(基督教中)给...行按手礼"
         },
         {
           "term": "consequence",
           "phonetic": "[ˈkɒnsɪkwəns]",
-          "phoneticUS": "[ˈkɑːnsɪkwens]",
-          "meaning": "n. 结果；重要性；推论"
+          "meaning": "n.结果,[逻]推理,推论,因果关系,重要的地位"
         },
         {
           "term": "consider",
-          "phonetic": "[kənˈsɪdə(r)]",
-          "phoneticUS": "[kənˈsɪdər]",
-          "meaning": "vi. 考虑；认为；细想\nvt. 考虑；认为；考虑到；细想"
+          "phonetic": "[kənˈsɪdə]",
+          "meaning": "vt.考虑,照顾,认为"
         },
         {
           "term": "consist",
           "phonetic": "[kənˈsɪst]",
-          "phoneticUS": "[kənˈsɪst]",
-          "meaning": "vi. 由…组成；在于；符合"
+          "meaning": "vi.由...组成,在于,一致"
         },
         {
           "term": "consistent",
           "phonetic": "[kənˈsɪstənt]",
-          "phoneticUS": "[kənˈsɪstənt]",
-          "meaning": "adj. 始终如一的，一致的；坚持的"
+          "meaning": "adj.一致的,调和的,坚固的,[数、统]相容的"
         },
         {
           "term": "consistently",
-          "phonetic": "[kənˈsɪstəntli]",
-          "phoneticUS": "[kənˈsɪstəntli]",
-          "meaning": "adv. 一贯地；一致地；坚实地"
+          "phonetic": "[kənˈsɪstəntlɪ]",
+          "meaning": ""
         },
         {
           "term": "constant",
           "phonetic": "[ˈkɒnstənt]",
-          "phoneticUS": "[ˈkɑːnstənt]",
-          "meaning": "n. [数] 常数；恒量\nadj. 不变的；恒定的；经常的"
+          "meaning": "n.[数、物]常数,恒量adj.不变的,持续的,坚决的"
         },
         {
           "term": "constitutes",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "v. 构成（constitute的单三形式）；组成"
+          "phonetic": "[ˈkɒnstɪtju:ts]",
+          "meaning": ""
         },
         {
           "term": "consult",
           "phonetic": "[kənˈsʌlt]",
-          "phoneticUS": "[kənˈsʌlt]",
-          "meaning": "vi. 请教；商议；当顾问\nvt. 查阅；商量；向…请教"
+          "meaning": "v.商量,商议,请教,参考,考虑"
         },
         {
           "term": "contend",
           "phonetic": "[kənˈtend]",
-          "phoneticUS": "[kənˈtend]",
-          "meaning": "vi. 竞争；奋斗；斗争；争论\nvt. 主张；为...斗争"
+          "meaning": "v.斗争,竞争,主张"
         },
         {
           "term": "context",
           "phonetic": "[ˈkɒntekst]",
-          "phoneticUS": "[ˈkɑːntekst]",
-          "meaning": "n. 环境；上下文；来龙去脉"
+          "meaning": "n.上下文,文章的前后关系"
         },
         {
           "term": "continuum",
-          "phonetic": "[kənˈtɪnjuəm]",
-          "phoneticUS": "[kənˈtɪnjuəm]",
-          "meaning": "n. [数] 连续统；[经] 连续统一体；闭联集"
+          "phonetic": "[kənˈtɪnjʊəm]",
+          "meaning": "n.连续统一体,连续统,闭联集"
         },
         {
           "term": "contradict",
-          "phonetic": "[ˌkɒntrəˈdɪkt]",
-          "phoneticUS": "[ˌkɑːntrəˈdɪkt]",
-          "meaning": "vt. 反驳；否定；与…矛盾；与…抵触\nvi. 反驳；否认；发生矛盾"
+          "phonetic": "[kɒntrəˈdɪkt]",
+          "meaning": "vt.同...矛盾,同...抵触"
         },
         {
           "term": "control",
           "phonetic": "[kənˈtrəʊl]",
-          "phoneticUS": "[kənˈtroʊl]",
-          "meaning": "n. 控制；管理；抑制；操纵装置\nvt. 控制；管理；抑制"
+          "meaning": "n.控制,支配,管理,调节,抑制,控制器,调节装置vt.控制,支配,管理(物价等),操纵,抑制"
         },
         {
           "term": "convert",
-          "phonetic": "[kənˈvɜːt]",
-          "phoneticUS": "[kənˈvɜːrt]",
-          "meaning": "n. 皈依者；改变宗教信仰者\nvt. 使转变；转换…；使…改变信仰\nvi. 转变，变换；皈依；改变信仰"
+          "phonetic": "[kənˈvɜ:t]",
+          "meaning": "n.皈依者vt.使转变,转换...,使...改变信仰"
         },
         {
           "term": "convey",
           "phonetic": "[kənˈveɪ]",
-          "phoneticUS": "[kənˈveɪ]",
-          "meaning": "vt. 传达；运输；让与"
+          "meaning": "vt.搬运,传达,转让"
         },
         {
           "term": "copy",
-          "phonetic": "[ˈkɒpi]",
-          "phoneticUS": "[ˈkɑːpi]",
-          "meaning": "n. 副本；一册；摹仿\nvt. 复制；复印；抄袭\nvi. 复制；复印；抄袭"
+          "phonetic": "[ˈkɒpɪ]",
+          "meaning": "n.副本,拷贝,摹仿,一册v.复印,复制,拷贝,抄袭"
         },
         {
           "term": "correlate",
-          "phonetic": "[ˈkɒrələt]",
-          "phoneticUS": "[ˈkɔːrəleɪt]",
-          "meaning": "n. 相关物；相关联的人\nvt. 使有相互关系；互相有关系\nadj. 关联的\nvi. 关联"
+          "phonetic": "[ˈkɒrəleɪt]",
+          "meaning": "vt.使相互关联vi.和...相关"
         },
         {
           "term": "correspond",
-          "phonetic": "[ˌkɒrəˈspɒnd]",
-          "phoneticUS": "[ˌkɔːrəˈspɑːnd]",
-          "meaning": "vi. 符合，一致；相应；通信"
+          "phonetic": "[kɒrɪsˈpɒnd]",
+          "meaning": "vi.符合,协调,通信,相当,相应"
         },
         {
           "term": "credible",
-          "phonetic": "[ˈkredəb(ə)l]",
-          "phoneticUS": "[ˈkredəbl]",
-          "meaning": "adj. 可靠的，可信的"
+          "phonetic": "[ˈkredəbl]",
+          "meaning": "adj.可信的,可靠的"
         },
         {
           "term": "credit",
           "phonetic": "[ˈkredɪt]",
-          "phoneticUS": "[ˈkredɪt]",
-          "meaning": "n. 信用，信誉；[金融] 贷款；学分；信任；声望\nvt. 相信，信任；把…归给，归功于；赞颂"
+          "meaning": "n.信任,信用,声望,荣誉,[财务]贷方,银行存款vt.相信,信任,把...归给"
         },
         {
           "term": "criteria",
-          "phonetic": "[kraɪˈtɪəriə]",
-          "phoneticUS": "[kraɪˈtɪrɪə]",
-          "meaning": "n. 标准，条件（criterion的复数）"
+          "phonetic": "[kraɪˈtɪərɪə]",
+          "meaning": "n.pl.标准"
         },
         {
           "term": "critique",
-          "phonetic": "[krɪˈtiːk]",
-          "phoneticUS": "[krɪˈtiːk]",
-          "meaning": "n. 批评；评论文章\nvt. 批判；评论"
+          "phonetic": "[krɪˈti:k]",
+          "meaning": "n.批评"
         },
         {
           "term": "crucial",
-          "phonetic": "[ˈkruːʃ(ə)l]",
-          "phoneticUS": "[ˈkruːʃl]",
-          "meaning": "adj. 重要的；决定性的；定局的；决断的"
+          "phonetic": "[ˈkru:ʃəl]",
+          "meaning": "adj.至关紧要的"
         },
         {
           "term": "cumulative",
-          "phonetic": "[ˈkjuːmjələtɪv]",
-          "phoneticUS": "[ˈkjuːmjəleɪtɪv]",
-          "meaning": "adj. 累积的"
+          "phonetic": "[ˈkju:mjulətɪv]",
+          "meaning": "adj.累积的"
         },
         {
           "term": "debate",
           "phonetic": "[dɪˈbeɪt]",
-          "phoneticUS": "[dɪˈbeɪt]",
-          "meaning": "n. 辩论；辩论会\nvt. 辩论，争论，讨论\nvi. 辩论，争论，讨论"
+          "meaning": "v.争论,辩论n.争论,辩论"
         },
         {
           "term": "deduce",
-          "phonetic": "[dɪˈdjuːs]",
-          "phoneticUS": "[dɪˈduːs]",
-          "meaning": "vt. 推论，推断；演绎出"
+          "phonetic": "[dɪˈdju:s]",
+          "meaning": "vt.推论,演绎出"
         },
         {
           "term": "defend",
           "phonetic": "[dɪˈfend]",
-          "phoneticUS": "[dɪˈfend]",
-          "meaning": "vi. 保卫；防守\nvt. 辩护；防护"
+          "meaning": "vt.防护,辩护,防卫,[律]作...的辩护律师"
         },
         {
           "term": "define",
           "phonetic": "[dɪˈfaɪn]",
-          "phoneticUS": "[dɪˈfaɪn]",
-          "meaning": "vt. 定义；使明确；规定"
+          "meaning": "vt.定义,详细说明"
         },
         {
           "term": "demand",
-          "phonetic": "[dɪˈmɑːnd]",
-          "phoneticUS": "[dɪˈmænd]",
-          "meaning": "n. [经] 需求；要求；需要\nvt. 要求；需要；查询\nvi. 需要；请求；查问"
+          "phonetic": "[dɪˈmɑ:nd]",
+          "meaning": "n.要求,需求(量),需要v.要求,需要,要求知道,查询"
         },
         {
           "term": "demonstrate",
           "phonetic": "[ˈdemənstreɪt]",
-          "phoneticUS": "[ˈdemənstreɪt]",
-          "meaning": "vt. 证明；展示；论证\nvi. 示威"
+          "meaning": "vt.示范,证明,论证vi.示威"
         },
         {
           "term": "depict",
           "phonetic": "[dɪˈpɪkt]",
-          "phoneticUS": "[dɪˈpɪkt]",
-          "meaning": "vt. 描述；描画"
+          "meaning": "vt.描述,描写"
         },
         {
           "term": "derive",
           "phonetic": "[dɪˈraɪv]",
-          "phoneticUS": "[dɪˈraɪv]",
-          "meaning": "vt. 源于；得自；获得\nvi. 起源"
+          "meaning": "vt.得自vi.起源"
         },
         {
           "term": "describe",
-          "phonetic": "[dɪˈskraɪb]",
-          "phoneticUS": "[dɪˈskraɪb]",
-          "meaning": "vt. 描述，形容；描绘"
+          "phonetic": "[dɪsˈkraɪb]",
+          "meaning": ""
         },
         {
           "term": "detail",
-          "phonetic": "[ˈdiːteɪl]",
-          "phoneticUS": "[ˈdiːteɪlˌdɪˈteɪl]",
-          "meaning": "n. 细节，详情\nvt. 详述；选派\nvi. 画详图"
+          "phonetic": "[ˈdi:teɪl]",
+          "meaning": "n.细节,详情vt.详述,细说"
         },
         {
           "term": "detect",
           "phonetic": "[dɪˈtekt]",
-          "phoneticUS": "[dɪˈtekt]",
-          "meaning": "vt. 察觉；发现；探测"
+          "meaning": "vt.察觉,发觉,侦查,探测v.发现"
         },
         {
           "term": "determine",
-          "phonetic": "[dɪˈtɜːmɪn]",
-          "phoneticUS": "[dɪˈtɜːrmɪn]",
-          "meaning": "v. （使）下决心，（使）做出决定\nvt. 决定，确定；判定，判决；限定\nvi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束"
+          "phonetic": "[dɪˈtɜ:mɪn]",
+          "meaning": "v.决定,确定,测定,使下定决心,[律]使终止"
         },
         {
           "term": "develop",
           "phonetic": "[dɪˈveləp]",
-          "phoneticUS": "[dɪˈveləp]",
-          "meaning": "vi. 发育；生长；进化；显露\nvt. 开发；进步；使成长；使显影"
+          "meaning": "vt.发展,发达,发扬,进步,逐步展开(情节,音乐主题,方程式等)洗印,显影vi.发展,生长,发育,逐步显示出来"
         },
         {
           "term": "devise",
           "phonetic": "[dɪˈvaɪz]",
-          "phoneticUS": "[dɪˈvaɪz]",
-          "meaning": "n. 遗赠\nvt. 设计；想出；发明；图谋；遗赠给"
+          "meaning": "vt.设计,发明,图谋,作出(计划),想出(办法),遗赠给n.遗赠"
         },
         {
           "term": "diction",
-          "phonetic": "[ˈdɪkʃ(ə)n]",
-          "phoneticUS": "[ˈdɪkʃn]",
-          "meaning": "n. 用语；措词"
+          "phonetic": "[ˈdɪkʃən]",
+          "meaning": "n.措辞,用语,言语"
         },
         {
           "term": "differentiate",
-          "phonetic": "[ˌdɪfəˈrenʃieɪt]",
-          "phoneticUS": "[ˌdɪfəˈrenʃieɪt]",
-          "meaning": "vt. 区分，区别\nvi. 区分，区别"
+          "phonetic": "[ˌdɪfəˈrenʃɪeɪt]",
+          "meaning": "v.区别,区分"
         },
         {
           "term": "dimension",
-          "phonetic": "[daɪˈmenʃn; dɪˈmenʃn]",
-          "phoneticUS": "[daɪˈmenʃn; dɪˈmenʃn]",
-          "meaning": "n. 方面;[数] 维；尺寸；次元；容积 vt. 标出尺寸\nadj. 规格的"
+          "phonetic": "[daɪˈmenʃn]",
+          "meaning": "n.尺寸,尺度,维(数),度(数),元"
         },
         {
           "term": "diminish",
           "phonetic": "[dɪˈmɪnɪʃ]",
-          "phoneticUS": "[dɪˈmɪnɪʃ]",
-          "meaning": "vt. 使减少；使变小\nvi. 减少，缩小；变小"
+          "meaning": "v.(使)减少,(使)变小"
         },
         {
           "term": "direct",
-          "phonetic": "[dəˈrekt]",
-          "phoneticUS": "[dəˈrekt; daɪˈrekt]",
-          "meaning": "adj. 直接的；直系的；亲身的；恰好的\nvt. 管理；指挥；导演；指向\nadv. 直接地；正好；按直系关系\nvi. 指导；指挥"
+          "phonetic": "[dɪˈrekt]",
+          "meaning": "adj.径直的,直接的,直系的,直率的,[天]由西向东运行的,顺行的adv.直接地vt.指引,指示,指挥,命令,导演vi.指导,指挥"
         },
         {
           "term": "discipline",
           "phonetic": "[ˈdɪsəplɪn]",
-          "phoneticUS": "[ˈdɪsəplɪn]",
-          "meaning": "n. 学科；纪律；训练；惩罚\nvt. 训练，训导；惩戒"
+          "meaning": "n.纪律,学科v.训练"
         },
         {
           "term": "discover",
-          "phonetic": "[dɪˈskʌvə(r)]",
-          "phoneticUS": "[dɪˈskʌvər]",
-          "meaning": "vi. 发现\nvt. 发现；发觉"
+          "phonetic": "[dɪsˈkʌvə]",
+          "meaning": "vt.发现,发觉v.发现"
         },
         {
           "term": "discriminate",
           "phonetic": "[dɪˈskrɪmɪneɪt]",
-          "phoneticUS": "[dɪˈskrɪmɪneɪt]",
-          "meaning": "vi. 区别；辨别\nvt. 歧视；区别；辨别"
+          "meaning": "v.歧视,区别,区别待遇"
         },
         {
           "term": "discuss",
-          "phonetic": "[dɪˈskʌs]",
-          "phoneticUS": "[dɪˈskʌs]",
-          "meaning": "vt. 讨论；论述，辩论"
+          "phonetic": "[dɪsˈkʌs]",
+          "meaning": "vt.讨论,论述"
         },
         {
           "term": "distinguish",
-          "phonetic": "[dɪˈstɪŋɡwɪʃ]",
-          "phoneticUS": "[dɪˈstɪŋɡwɪʃ]",
-          "meaning": "vi. 区别，区分；辨别\nvt. 区分；辨别；使杰出，使表现突出"
+          "phonetic": "[dɪsˈtɪŋɡwɪʃ]",
+          "meaning": "v.区别,辨别"
         },
         {
           "term": "domain",
-          "phonetic": "[dəˈmeɪn; dəʊˈmeɪn]",
-          "phoneticUS": "[doʊˈmeɪn]",
-          "meaning": "n. 领域；域名；产业；地产"
+          "phonetic": "[dəˈmeɪn]",
+          "meaning": "n.领土,领地,(活动、学问等的)范围,领域"
         },
         {
           "term": "draft",
-          "phonetic": "[drɑːft]",
-          "phoneticUS": "[dræft]",
-          "meaning": "n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流\nvt. 起草；制定；征募\nvi. 拟稿；绘样；作草图\nadj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的"
+          "phonetic": "[drɑ:ft]",
+          "meaning": "n.草稿,草案,草图vt.起草,为...打样,设计v.草拟"
         },
         {
           "term": "draw",
-          "phonetic": "[drɔː]",
-          "phoneticUS": "[drɔː]",
-          "meaning": "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引"
+          "phonetic": "[drɔ:]",
+          "meaning": "v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
         },
         {
           "term": "edit",
           "phonetic": "[ˈedɪt]",
-          "phoneticUS": "[ˈedɪt]",
-          "meaning": "vt. 编辑；校订\nn. 编辑工作"
+          "meaning": "vt.编辑,校订,剪辑n.编辑工作"
         },
         {
           "term": "effect",
           "phonetic": "[ɪˈfekt]",
-          "phoneticUS": "[ɪˈfekt]",
-          "meaning": "n. 影响；效果；作用\nvt. 产生；达到目的"
+          "meaning": "n.结果,效果,作用,影响,(在视听方面给人流下的)印象vt.招致,实现,达到(目的等)"
         },
         {
           "term": "elements",
           "phonetic": "[ˈelɪmənts]",
-          "phoneticUS": "[ˈelɪmənts]",
-          "meaning": "n. 原理, 基础"
+          "meaning": "n.原理,基础"
         },
         {
           "term": "emphasize",
           "phonetic": "[ˈemfəsaɪz]",
-          "phoneticUS": "[ˈemfəsaɪz]",
-          "meaning": "vt. 强调，着重"
+          "meaning": "vt.强调,着重v.强调"
         },
         {
           "term": "employ",
-          "phonetic": "[ɪmˈplɔɪ]",
-          "phoneticUS": "[ɪmˈplɔɪ]",
-          "meaning": "n. 使用；雇用\nvt. 使用，采用；雇用；使忙于，使从事于"
+          "phonetic": "[ɪmˈplɒɪ]",
+          "meaning": "vt.雇用,用,使用v.使用n.雇用"
         },
         {
           "term": "equal",
-          "phonetic": "[ˈiːkwəl]",
-          "phoneticUS": "[ˈiːkwəl]",
-          "meaning": "n. 对手；匹敌；同辈；相等的事物\nadj. 平等的；相等的；胜任的\nvt. 等于；比得上"
+          "phonetic": "[ˈi:kwəl]",
+          "meaning": "adj.相等的,均等的,胜任的,平静的,合适的,不相上下的n.相等的事物(或数量),对手,匹敌,同辈vt.等于,比得上"
         },
         {
           "term": "equivalent",
           "phonetic": "[ɪˈkwɪvələnt]",
-          "phoneticUS": "[ɪˈkwɪvələnt]",
-          "meaning": "n. 等价物，相等物\nadj. 等价的，相等的；同意义的"
+          "meaning": "adj.相等的,相当的,同意义的n.等价物,相等物"
         },
         {
           "term": "essay",
           "phonetic": "[ˈeseɪ]",
-          "phoneticUS": "[ˈeseɪ]",
-          "meaning": "n. 散文；试图；随笔\nvt. 尝试；对…做试验"
+          "meaning": "vt.企图,尝试n.企图,散文,小品文,随笔,短文,评论"
         },
         {
           "term": "essential",
-          "phonetic": "[ɪˈsenʃl]",
-          "phoneticUS": "[ɪˈsenʃl]",
-          "meaning": "n. 本质；要素；要点；必需品\nadj. 基本的；必要的；本质的；精华的"
+          "phonetic": "[ɪˈsenʃəl]",
+          "meaning": "adj.本质的,实质的,基本的,提炼的,精华的n.本质,实质,要素,要点"
         },
         {
           "term": "establish",
-          "phonetic": "[ɪˈstæblɪʃ]",
-          "phoneticUS": "[ɪˈstæblɪʃ]",
-          "meaning": "vi. 植物定植\nvt. 建立；创办；安置"
+          "phonetic": "[ɪsˈtæblɪʃ]",
+          "meaning": "vt.建立,设立,安置,使定居,使人民接受,确定v.建立"
         },
         {
           "term": "estimate",
-          "phonetic": "[ˈestɪmət]",
-          "phoneticUS": "[ˈestɪmeɪt]",
-          "meaning": "n. 估计，估价；判断，看法\nvt. 估计，估量；判断，评价\nvi. 估计，估价"
+          "phonetic": "[ˈestɪmeɪt]",
+          "meaning": "v.估计,估价,评估n.估计,估价,评估"
         },
         {
           "term": "evaluate",
-          "phonetic": "[ɪˈvæljueɪt]",
-          "phoneticUS": "[ɪˈvæljueɪt]",
-          "meaning": "vt. 评价；估价；求…的值\nvi. 评价；估价"
+          "phonetic": "[ɪˈvæljʊeɪt]",
+          "meaning": "vt.评价,估计,求...的值v.评价"
         },
         {
           "term": "event",
           "phonetic": "[ɪˈvent]",
-          "phoneticUS": "[ɪˈvent]",
-          "meaning": "n. 事件，大事；项目；结果"
+          "meaning": "n.事件,事变,结果,活动,精力,竞赛"
         },
         {
           "term": "evidence",
           "phonetic": "[ˈevɪdəns]",
-          "phoneticUS": "[ˈevɪdəns]",
-          "meaning": "n. 证据，证明；迹象；明显\nvt. 证明"
+          "meaning": "n.明显,显著,明白,迹象,根据,[物]证据,证物"
         },
         {
           "term": "exaggerate",
           "phonetic": "[ɪɡˈzædʒəreɪt]",
-          "phoneticUS": "[ɪɡˈzædʒəreɪt]",
-          "meaning": "vt. 使扩大；使增大\nvi. 夸大；夸张"
+          "meaning": "v.夸大,夸张"
         },
         {
           "term": "examine",
           "phonetic": "[ɪɡˈzæmɪn]",
-          "phoneticUS": "[ɪɡˈzæmɪn]",
-          "meaning": "vt. 检查；调查； 检测；考试\nvi. 检查；调查"
+          "meaning": "v.检查,调查,考试"
         },
         {
           "term": "example",
-          "phonetic": "[ɪɡˈzɑːmp(ə)l]",
-          "phoneticUS": "[ɪɡˈzæmpl]",
-          "meaning": "n. 例子；榜样\nvt. 作为…的例子；为…做出榜样\nvi. 举例"
+          "phonetic": "[ɪɡˈzɑ:mpl]",
+          "meaning": "n.例子,实例,例题,范例,榜样,鉴戒,实例"
         },
         {
           "term": "excerpt",
-          "phonetic": "[ekˈsɜːpt]",
-          "phoneticUS": "[ekˈsɜːrpt]",
-          "meaning": "n. 摘录，引用\nvt. 引用，摘录\nvi. 摘录，引用"
+          "phonetic": "[ˈeksɜ:pt]",
+          "meaning": "n.vt.摘录,引用"
         },
         {
           "term": "exclude",
-          "phonetic": "[ɪkˈskluːd]",
-          "phoneticUS": "[ɪkˈskluːd]",
-          "meaning": "vt. 排除；排斥；拒绝接纳；逐出"
+          "phonetic": "[ɪkˈsklu:d]",
+          "meaning": "vt.拒绝接纳,把...排除在外,排斥"
         },
         {
           "term": "exercise",
           "phonetic": "[ˈeksəsaɪz]",
-          "phoneticUS": "[ˈeksərsaɪz]",
-          "meaning": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习"
+          "meaning": "n.练习,习题,训练,锻炼,演习v.训练,锻炼vt.行使,使担扰"
         },
         {
           "term": "exhibit",
           "phonetic": "[ɪɡˈzɪbɪt]",
-          "phoneticUS": "[ɪɡˈzɪbɪt]",
-          "meaning": "n. 展览品；证据；展示会\nvt. 展览；显示；提出（证据等）\nvi. 展出；开展览会"
+          "meaning": "vt.展出,陈列n.展览品,陈列品,展品v.展示"
         },
         {
           "term": "explain",
-          "phonetic": "[ɪkˈspleɪn]",
-          "phoneticUS": "[ɪkˈspleɪn]",
-          "meaning": "v. 说明；解释"
+          "phonetic": "[ɪksˈpleɪn]",
+          "meaning": "v.解释,说明"
         },
         {
           "term": "explore",
-          "phonetic": "[ɪkˈsplɔː(r)]",
-          "phoneticUS": "[ɪkˈsplɔːr]",
-          "meaning": "vi. 探索；探测；探险\nvt. 探索；探测；探险"
+          "phonetic": "[ɪkˈsplɔ:(r)]",
+          "meaning": "v.探险,探测,探究"
         },
         {
           "term": "expository",
-          "phonetic": "[ɪkˈspɒzətri]",
-          "phoneticUS": "[ɪkˈspɑːzətɔːri]",
-          "meaning": "adj. 说明的；解释的；评注的（等于expositive）"
+          "phonetic": "[ɪksˈpɒzɪˌtərɪ]",
+          "meaning": "adj.说明的,解释的"
         },
         {
           "term": "extract",
           "phonetic": "[ˈekstrækt]",
-          "phoneticUS": "[ˈekstrækt]",
-          "meaning": "n. 汁；摘录；榨出物；选粹\nvt. 提取；取出；摘录；榨取"
+          "meaning": "n.精,汁,榨出物,摘录,选粹vt.拔出,榨取,开方,求根,摘录,析取,吸取"
         },
         {
           "term": "fact",
           "phonetic": "[fækt]",
-          "phoneticUS": "[fækt]",
-          "meaning": "n. 事实；实际；真相"
+          "meaning": "n.事实,实际,实情,真相,(犯罪)行为,论据"
         },
         {
           "term": "factor",
-          "phonetic": "[ˈfæktə(r)]",
-          "phoneticUS": "[ˈfæktər]",
-          "meaning": "n. 因素；要素；[物] 因数；代理人\nvt. 把…作为因素计入；代理经营；把…分解成\nvi. 做代理商"
+          "phonetic": "[ˈfæktə]",
+          "meaning": "n.因素,要素,因数,代理人"
         },
         {
           "term": "feature",
-          "phonetic": "[ˈfiːtʃə(r)]",
-          "phoneticUS": "[ˈfiːtʃər]",
-          "meaning": "n. 特色，特征；容貌；特写或专题节目\nvt. 特写；以…为特色；由…主演\nvi. 起重要作用"
+          "phonetic": "[ˈfi:tʃə]",
+          "meaning": "n.面貌的一部分(眼,口,鼻等)特征,容貌,特色,特写vt.是...的特色,特写,放映vi.起重要作用"
         },
         {
           "term": "figurative",
-          "phonetic": "[ˈfɪɡərətɪv]",
-          "phoneticUS": "[ˈfɪɡjərətɪv]",
-          "meaning": "adj. 比喻的；修饰丰富的；形容多的"
+          "phonetic": "[ˈfɪgərətɪv]",
+          "meaning": "adj.比喻的,修饰丰富的,形容多的"
         },
         {
           "term": "figure",
-          "phonetic": "[ˈfɪɡə(r)]",
-          "phoneticUS": "[ˈfɪɡjər]",
-          "meaning": "n. 数字；人物；图形；价格；（人的）体形；画像\nvt. 计算；认为；描绘；象征\nvi. 计算；出现；扮演角色"
+          "phonetic": "[ˈfɪɡə]",
+          "meaning": ""
         },
         {
           "term": "focus",
           "phonetic": "[ˈfəʊkəs]",
-          "phoneticUS": "[ˈfoʊkəs]",
-          "meaning": "n. 焦点；中心；清晰；焦距\nvt. 使集中；使聚焦\nvi. 集中；聚焦；调节焦距"
+          "meaning": "n.(兴趣活动等的)中心,焦点,焦距,[医]病灶,[地](地震的)震源vi.聚焦,注视vt.使集中在焦点上,定焦点,调焦,集中"
         },
         {
           "term": "footer",
-          "phonetic": "[ˈfʊtə(r)]",
-          "phoneticUS": "[ˈfʊtər]",
-          "meaning": "n. 页脚\n懒散地工作\n懒散工作的人\n的缩写\n以英尺标注高度的人或物"
+          "phonetic": "[ˈfutə]",
+          "meaning": "n.页脚"
         },
         {
           "term": "foreshadow",
-          "phonetic": "[fɔːˈʃædəʊ]",
-          "phoneticUS": "[fɔːrˈʃædoʊ]",
-          "meaning": "vt. 预示；成为…的前兆\nn. 预兆"
+          "phonetic": "[fɔ:ˈʃædəʊ]",
+          "meaning": "v.预示"
         },
         {
           "term": "form",
-          "phonetic": "[fɔːm]",
-          "phoneticUS": "[fɔːrm]",
-          "meaning": "n. 形式，形状；形态，外形；方式；表格\nvt. 构成，组成；排列，组织；产生，塑造\nvi. 形成，构成；排列"
+          "phonetic": "[fɔ:m]",
+          "meaning": "n.形状,形态,外形,表格,形式v.形成,构成,排列,(使)组成"
         },
         {
           "term": "format",
-          "phonetic": "[ˈfɔːmæt]",
-          "phoneticUS": "[ˈfɔːrmæt]",
-          "meaning": "n. 格式；版式；开本\nvt. 使格式化；规定…的格式\nvi. 设计版式"
+          "phonetic": "[ˈfɔ:mæt]",
+          "meaning": "n.开本,版式,形式,格式vt.安排...的格局(或规格),[计]格式化(磁盘)"
         },
         {
           "term": "former",
-          "phonetic": "[ˈfɔːmə(r)]",
-          "phoneticUS": "[ˈfɔːrmər]",
-          "meaning": "n. 模型，样板；起形成作用的人\nadj. 从前的，前者的；前任的"
+          "phonetic": "[ˈfɔ:mə]",
+          "meaning": "adj.从前的,以前的n.形成者,创造者,模型,样板"
         },
         {
           "term": "formulate",
-          "phonetic": "[ˈfɔːmjuleɪt]",
-          "phoneticUS": "[ˈfɔːrmjuleɪt]",
-          "meaning": "vt. 规划；用公式表示；明确地表达"
+          "phonetic": "[ˈfɔ:mjuleɪt]",
+          "meaning": "vt.用公式表示,明确地表达,作简洁陈述v.阐明"
         },
         {
           "term": "fragment",
           "phonetic": "[ˈfræɡmənt]",
-          "phoneticUS": "[ˈfræɡmənt; fræɡˈment]",
-          "meaning": "n. 碎片；片断或不完整部分\nvt. 使成碎片\nvi. 破碎或裂开"
+          "meaning": "n.碎片,断片,片段"
         },
         {
           "term": "frame",
           "phonetic": "[freɪm]",
-          "phoneticUS": "[freɪm]",
-          "meaning": "n. 框架；结构；[电影] 画面\nadj. 有木架的；有构架的\nvt. 设计；建造；陷害；使…适合\nvi. 有成功希望"
+          "meaning": "n.结构,体格vt.构成,设计,制定,使适合,陷害vi.<英方>有成功希望n.帧,画面,框架"
         },
         {
           "term": "frequently",
-          "phonetic": "[ˈfriːkwəntli]",
-          "phoneticUS": "[ˈfriːkwəntli]",
-          "meaning": "adv. 频繁地，经常地；时常，屡次"
+          "phonetic": "[ˈfri:kwəntlɪ]",
+          "meaning": "adv.常常,频繁地n.经常地"
         },
         {
           "term": "general",
-          "phonetic": "[ˈdʒen(ə)rəl]",
-          "phoneticUS": "[ˈdʒen(ə)rəl]",
-          "meaning": "n. 一般；将军，上将；常规\nadj. 一般的，普通的；综合的；大体的"
+          "phonetic": "[ˈdʒenərəl]",
+          "meaning": "n.普通,将军,概要adj.一般的,普通的,综合的,概括的,全面的,大体的 n.常规"
         },
         {
           "term": "genre",
-          "phonetic": "[ˈʒɒnrə]",
-          "phoneticUS": "[ˈʒɑːnrə]",
-          "meaning": "n. 类型；种类；体裁；样式；流派；风俗画\nadj. 风俗画的；以日常情景为主题的"
+          "phonetic": "[ˈʒɔnrə]",
+          "meaning": "n.类型,流派"
         },
         {
           "term": "graph",
-          "phonetic": "[ɡrɑːf]",
-          "phoneticUS": "[ɡræf]",
-          "meaning": "n. 图表；曲线图\nvt. 用曲线图表示"
+          "phonetic": "[ɡrɑ:f]",
+          "meaning": "n.图表,曲线图"
         },
         {
           "term": "graphic",
           "phonetic": "[ˈɡræfɪk]",
-          "phoneticUS": "[ˈɡræfɪk]",
-          "meaning": "adj. 形象的；图表的；绘画似的"
+          "meaning": "adj.绘画似的,图解的"
         },
         {
           "term": "header",
-          "phonetic": "[ˈhedə(r)]",
-          "phoneticUS": "[ˈhedər]",
-          "meaning": "n. 头球；页眉；数据头；收割台"
+          "phonetic": "[ˈhedə]",
+          "meaning": "n.首领,队长,收割台,页眉 标题,报头"
         },
         {
           "term": "heading",
           "phonetic": "[ˈhedɪŋ]",
-          "phoneticUS": "[ˈhedɪŋ]",
-          "meaning": "n. 标题；（足球）头球；信头\nv. 用头顶（head的ing形式）"
+          "meaning": "n.标题"
         },
         {
           "term": "highlight",
           "phonetic": "[ˈhaɪlaɪt]",
-          "phoneticUS": "[ˈhaɪlaɪt]",
-          "meaning": "n. 最精彩的部分；最重要的事情；加亮区\nvt. 突出；强调；使显著；加亮"
+          "meaning": "n.加亮区,精彩场面,最显著(重要)部分vt.加亮,使显著,以强光照射,突出"
         },
         {
           "term": "hypothesize",
           "phonetic": "[haɪˈpɒθəsaɪz]",
-          "phoneticUS": "[haɪˈpɑːθəsaɪz]",
-          "meaning": "vt. 假设，假定\nvi. 假设，假定"
+          "meaning": "v.假设,假定,猜测"
         },
         {
           "term": "identify",
           "phonetic": "[aɪˈdentɪfaɪ]",
-          "phoneticUS": "[aɪˈdentɪfaɪ]",
-          "meaning": "vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致"
+          "meaning": "vt.识别,鉴别,把...和...看成一样v.确定"
         },
         {
           "term": "illustrate",
           "phonetic": "[ˈɪləstreɪt]",
-          "phoneticUS": "[ˈɪləstreɪt]",
-          "meaning": "vi. 举例\nvt. 阐明，举例说明；图解"
+          "meaning": "vt.举例说明,图解,加插图于,阐明vi.举例"
         },
         {
           "term": "imitate",
           "phonetic": "[ˈɪmɪteɪt]",
-          "phoneticUS": "[ˈɪmɪteɪt]",
-          "meaning": "vt. 模仿，仿效；仿造，仿制"
+          "meaning": "vt.模仿,仿效,仿制,仿造v.模仿"
         },
         {
           "term": "imply",
           "phonetic": "[ɪmˈplaɪ]",
-          "phoneticUS": "[ɪmˈplaɪ]",
-          "meaning": "vt. 意味；暗示；隐含"
+          "meaning": "vt.暗示,意味"
         },
         {
           "term": "inclined",
           "phonetic": "[ɪnˈklaɪnd]",
-          "phoneticUS": "[ɪnˈklaɪnd]",
-          "meaning": "v. 使…倾向（incline的过去分词）\nadj. 趋向于…的"
+          "meaning": "倾向...的"
         },
         {
           "term": "include",
-          "phonetic": "[ɪnˈkluːd]",
-          "phoneticUS": "[ɪnˈkluːd]",
-          "meaning": "vt. 包含，包括"
+          "phonetic": "[ɪnˈklu:d]",
+          "meaning": "vt.包括,包含"
         },
         {
           "term": "incorporate",
-          "phonetic": "[ɪnˈkɔːpəreɪt]",
-          "phoneticUS": "[ɪnˈkɔːrpəreɪt]",
-          "meaning": "vt. 包含，吸收；体现；把……合并\nadj. 合并的；一体化的；组成公司的\nvi. 合并；混合；组成公司"
+          "phonetic": "[ɪnˈkɔ:pəreɪt]",
+          "meaning": "adj.合并的,结社的,一体化的vt.合并,使组成公司,具体表现vi.合并,混合,组成公司vt.[律]结社,使成为法人组织"
         },
         {
           "term": "indicate",
           "phonetic": "[ˈɪndɪkeɪt]",
-          "phoneticUS": "[ˈɪndɪkeɪt]",
-          "meaning": "vt. 表明；指出；预示；象征"
+          "meaning": "vt.指出,显示,象征,预示,需要,简要地说明"
         },
         {
           "term": "indirect",
-          "phonetic": "[ˌɪndəˈrekt; ˌɪndaɪˈrekt]",
-          "phoneticUS": "[ˌɪndəˈrektˌˌɪndaɪˈrekt]",
-          "meaning": "adj. 间接的；迂回的；非直截了当的"
+          "phonetic": "[ˌɪndəˈrekt]",
+          "meaning": "adj.间接的,迂回的"
         },
         {
           "term": "infer",
-          "phonetic": "[ɪnˈfɜː(r)]",
-          "phoneticUS": "[ɪnˈfɜːr]",
-          "meaning": "vi. 推断；作出推论\nvt. 推断；推论"
+          "phonetic": "[ɪnˈfɜ:]",
+          "meaning": "v.推断"
         },
         {
           "term": "influence",
-          "phonetic": "[ˈɪnfluəns]",
-          "phoneticUS": "[ˈɪnfluəns]",
-          "meaning": "n. 影响；势力；感化；有影响的人或事\nvt. 影响；改变"
+          "phonetic": "[ˈɪnflʊəns]",
+          "meaning": "n.影响,感化,势力,有影响的人(或事),(电磁)感应vt.影响,改变"
         },
         {
           "term": "inform",
-          "phonetic": "[ɪnˈfɔːm]",
-          "phoneticUS": "[ɪnˈfɔːrm]",
-          "meaning": "vi. 告发；告密\nvt. 通知；告诉；报告"
+          "phonetic": "[ɪnˈfɔ:m]",
+          "meaning": "v.(～ of/about) 通知,告诉,获悉,告知"
         },
         {
           "term": "inquire",
-          "phonetic": "[ɪnˈkwaɪə(r)]",
-          "phoneticUS": "[ɪnˈkwaɪər]",
-          "meaning": "vi. 询问；查究；询价\nvt. 询问；查究；问明"
+          "phonetic": "[ɪnˈkwaɪə]",
+          "meaning": "v.询问,问明,查究"
         },
         {
           "term": "instructions",
-          "phonetic": "[ɪn'strʌkʃənz]",
-          "phoneticUS": "[ɪnˈstrʌkʃnz]",
-          "meaning": "n. 指令；说明（instruction的复数形式）"
+          "phonetic": "[ɪnˈstrʌkʃənz]",
+          "meaning": ""
         },
         {
           "term": "integrate",
           "phonetic": "[ˈɪntɪɡreɪt]",
-          "phoneticUS": "[ˈɪntɪɡreɪt]",
-          "meaning": "n. 一体化；集成体\nadj. 整合的；完全的\nvi. 求积分；取消隔离；成为一体\nvt. 使…完整；使…成整体；求…的积分；表示…的总和"
+          "meaning": "vt.使成整体,使一体化,求...的积分v.结合"
         },
         {
           "term": "intent",
           "phonetic": "[ɪnˈtent]",
-          "phoneticUS": "[ɪnˈtent]",
-          "meaning": "n. 意图；目的；含义\nadj. 专心的；急切的；坚决的"
+          "meaning": "n.意图,目的,意向,[律](犯罪或侵权行为的)故意adj.专心的,决心的,热心的"
         },
         {
           "term": "intention",
-          "phonetic": "[ɪnˈtenʃ(ə)n]",
-          "phoneticUS": "[ɪnˈtenʃn]",
-          "meaning": "n. 意图；目的；意向；愈合"
+          "phonetic": "[ɪnˈtenʃən]",
+          "meaning": "n.意图,目的"
         },
         {
           "term": "interact",
           "phonetic": "[ˌɪntərˈækt]",
-          "phoneticUS": "[ˌɪntərˈækt]",
-          "meaning": "n. 幕间剧；幕间休息\nvt. 互相影响；互相作用\nvi. 互相影响；互相作用"
+          "meaning": "vi.互相作用,互相影响"
         },
         {
           "term": "intermittent",
           "phonetic": "[ˌɪntəˈmɪtənt]",
-          "phoneticUS": "[ˌɪntərˈmɪtənt]",
-          "meaning": "adj. 间歇的；断断续续的；间歇性"
+          "meaning": "adj.间歇的,断断续续的"
         },
         {
           "term": "interpret",
-          "phonetic": "[ɪnˈtɜːprət]",
-          "phoneticUS": "[ɪnˈtɜːrprət]",
-          "meaning": "vi. 解释；翻译\nvt. 说明；口译"
+          "phonetic": "[ɪnˈtɜ:prɪt]",
+          "meaning": "v.解释,说明,口译,通译,认为是...的意思"
         },
         {
           "term": "introduce",
-          "phonetic": "[ˌɪntrəˈdjuːs]",
-          "phoneticUS": "[ˌɪntrəˈduːs]",
-          "meaning": "vt. 介绍；引进；提出；采用"
+          "phonetic": "[ˌɪntrəˈdju:s]",
+          "meaning": "vt.介绍,传入,引进,提出"
         },
         {
           "term": "introduction",
-          "phonetic": "[ˌɪntrəˈdʌkʃn]",
-          "phoneticUS": "[ˌɪntrəˈdʌkʃ(ə)n]",
-          "meaning": "n. 介绍；引进；采用；入门；传入"
+          "phonetic": "[ˌɪntrəˈdʌkʃən]",
+          "meaning": "n.介绍,传入,初步,导言,绪论,入门"
         },
         {
           "term": "invariably",
-          "phonetic": "[ɪnˈveəriəbli]",
-          "phoneticUS": "[ɪnˈveriəbli]",
-          "meaning": "adv. 总是；不变地；一定地"
+          "phonetic": "[ɪnˈveərɪəblɪ]",
+          "meaning": "adv.不变地,总是n.总是"
         },
         {
           "term": "investigate",
           "phonetic": "[ɪnˈvestɪɡeɪt]",
-          "phoneticUS": "[ɪnˈvestɪɡeɪt]",
-          "meaning": "v. 调查；研究"
+          "meaning": "v.调查,研究"
         },
         {
           "term": "involve",
           "phonetic": "[ɪnˈvɒlv]",
-          "phoneticUS": "[ɪnˈvɑːlv]",
-          "meaning": "vt. 包含；牵涉；使陷于；潜心于"
+          "meaning": "vt.包括,笼罩,潜心于,使陷于"
         },
         {
           "term": "irony",
-          "phonetic": "[ˈaɪrəni]",
-          "phoneticUS": "[ˈaɪrəni]",
-          "meaning": "n. 讽刺；反语；具有讽刺意味的事\nadj. 铁的；似铁的"
+          "phonetic": "[ˈaɪrənɪ]",
+          "meaning": "n.反话,讽刺,讽刺之事"
         },
         {
           "term": "irrelevant",
-          "phonetic": "[ɪˈreləvənt]",
-          "phoneticUS": "[ɪˈreləvənt]",
-          "meaning": "adj. 不相干的；不切题的"
+          "phonetic": "[ɪˈrelɪvənt]",
+          "meaning": "adj.不相关的adj.不相关的,不切题的"
         },
         {
           "term": "isolate",
           "phonetic": "[ˈaɪsəleɪt]",
-          "phoneticUS": "[ˈaɪsəleɪt]",
-          "meaning": "n. [生物] 隔离种群\nvt. 使隔离；使孤立；使绝缘\nadj. 隔离的；孤立的\nvi. 隔离；孤立"
+          "meaning": "vt.使隔离,使孤立,使绝缘,离析n.隔离种群"
         },
         {
           "term": "italics",
           "phonetic": "[ɪˈtælɪks]",
-          "phoneticUS": "[ɪˈtælɪks]",
-          "meaning": "n. [印刷] 斜体字，斜体"
+          "meaning": "n.斜体字"
         },
         {
           "term": "judge",
           "phonetic": "[dʒʌdʒ]",
-          "phoneticUS": "[dʒʌdʒ]",
-          "meaning": "vt. 判断；审判\nn. 法官；裁判员\nvi. 审判；判决"
+          "meaning": ""
         },
         {
           "term": "key",
-          "phonetic": "[kiː]",
-          "phoneticUS": "[kiː]",
-          "meaning": "n. （打字机等的）键；关键；钥匙\nvt. 键入；锁上；调节…的音调；提供线索\nvi. 使用钥匙\nadj. 关键的"
+          "phonetic": "[ki:]",
+          "meaning": "n.钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害vt.调节...的音调,锁上,插上栓,提供线索vi.使用钥匙n.[乐]键,调,基调"
         },
         {
           "term": "label",
-          "phonetic": "[ˈleɪb(ə)l]",
-          "phoneticUS": "[ˈleɪbl]",
-          "meaning": "vt. 标注；贴标签于\nn. 标签；商标；签条"
+          "phonetic": "[ˈleɪbl]",
+          "meaning": "n.标签,签条,商标,标志vt.贴标签于,指...为,分类,标注 [计] 加上或修改磁盘的标签"
         },
         {
           "term": "likely",
-          "phonetic": "[ˈlaɪkli]",
-          "phoneticUS": "[ˈlaɪkli]",
-          "meaning": "adj. 很可能的；合适的；有希望的\nadv. 很可能；或许"
+          "phonetic": "[ˈlaɪklɪ]",
+          "meaning": "adj.很可能的,合适的,可靠的,有希望的adv.或许,很可能"
         },
         {
           "term": "list",
           "phonetic": "[lɪst]",
-          "phoneticUS": "[lɪst]",
-          "meaning": "n. [计] 列表；清单；目录\nvi. 列于表上\nvt. 列出；记入名单内"
+          "meaning": "n.目录,名单,列表,序列,数据清单,明细表,条纹,[总称]各种上市证券vt.列出,列于表上,记入名单内,装布条vi.列于表上"
         },
         {
           "term": "literal",
           "phonetic": "[ˈlɪtərəl]",
-          "phoneticUS": "[ˈlɪtərəl]",
-          "meaning": "adj. 文字的；逐字的；无夸张的"
+          "meaning": "adj.文字的,照字面上的,无夸张的"
         },
         {
           "term": "locate",
           "phonetic": "[ləʊˈkeɪt]",
-          "phoneticUS": "[ˈloʊkeɪt]",
-          "meaning": "vt. 位于；查找…的地点\nvi. 定位；定居"
+          "meaning": "vt.查找...的地点,使...坐落于,位于v.定位,位于"
         },
         {
           "term": "logical",
-          "phonetic": "[ˈlɒdʒɪk(ə)l]",
-          "phoneticUS": "[ˈlɑːdʒɪkl]",
-          "meaning": "adj. 合逻辑的，合理的；逻辑学的"
+          "phonetic": "[ˈlɒdʒɪkəl]",
+          "meaning": "adj.合乎逻辑的,合理的"
         },
         {
           "term": "main",
           "phonetic": "[meɪn]",
-          "phoneticUS": "[meɪn]",
-          "meaning": "n. 主要部分，要点；体力；总管道\nadj. 主要的，最重要的；全力的"
+          "meaning": "n.主要部分,体力,力量,大陆,要点,干线adj.主要的,重要的,全力的n.[计] 主群组"
         },
         {
           "term": "margin",
-          "phonetic": "[ˈmɑːdʒɪn]",
-          "phoneticUS": "[ˈmɑːrdʒɪn]",
-          "meaning": "n. 边缘；利润，余裕；页边的空白\nvt. 加边于；加旁注于"
+          "phonetic": "[ˈmɑ:dʒɪn]",
+          "meaning": "n.页边的空白,(湖、池等的)边缘,极限,利润,差数,(时间、金额等的)富余vt.加边于,加旁注于"
         },
         {
           "term": "mean",
-          "phonetic": "[miːn]",
-          "phoneticUS": "[miːn]",
-          "meaning": "adj. 平均的；卑鄙的；低劣的；吝啬的\nvt. 意味；想要；意欲\nn. 平均值\nvi. 用意"
+          "phonetic": "[mi:n]",
+          "meaning": "adj.低劣的,卑鄙的,普通的,吝啬的,简陋的,平均的,惭愧的,不舒服的vt.意谓,想要,预定vi.用意,有意义n.平均数,中间,中庸"
         },
         {
           "term": "measure",
-          "phonetic": "[ˈmeʒə(r)]",
-          "phoneticUS": "[ˈmeʒər]",
-          "meaning": "n. 测量；措施；程度；尺寸\nvt. 测量；估量；权衡\nvi. 测量；估量"
+          "phonetic": "[ˈmeʒə]",
+          "meaning": "n.尺寸,量度器,量度标准,方法,测量,措施vt.测量,测度,估量,分派,权衡,调节vi.量"
         },
         {
           "term": "metaphor",
-          "phonetic": "[ˈmetəfə(r); ˈmetəfɔː(r)]",
-          "phoneticUS": "[ˈmetəfərˌˈmetəfɔːr]",
-          "meaning": "n. 暗喻，隐喻；比喻说法"
+          "phonetic": "[ˈmetəfə]",
+          "meaning": "n.[修辞]隐喻,暗喻,比喻说话"
         },
         {
           "term": "method",
           "phonetic": "[ˈmeθəd]",
-          "phoneticUS": "[ˈmeθəd]",
-          "meaning": "n. 方法；条理；类函数\nadj. 使用体验派表演方法的"
+          "meaning": "n.方法"
         },
         {
           "term": "model",
-          "phonetic": "[ˈmɒd(ə)l]",
-          "phoneticUS": "[ˈmɑːdl]",
-          "meaning": "n. 模型；典型；模范；模特儿；样式\nvt. 模拟；塑造；模仿\nvi. 做模型；做模特儿\nadj. 模范的；作模型用的"
+          "phonetic": "[ˈmɒdl]",
+          "meaning": "n.样式,型,模范,典型,模型,原型,模特儿vt.模仿v.模拟"
         },
         {
           "term": "modify",
           "phonetic": "[ˈmɒdɪfaɪ]",
-          "phoneticUS": "[ˈmɑːdɪfaɪ]",
-          "meaning": "vt. 修改，修饰；更改\nvi. 修改"
+          "meaning": "vt.更改,修改v.修改"
         },
         {
           "term": "monitor",
-          "phonetic": "[ˈmɒnɪtə(r)]",
-          "phoneticUS": "[ˈmɑːnɪtər]",
-          "meaning": "n. 监视器；监听器；监控器；显示屏；班长\nvt. 监控"
+          "phonetic": "[ˈmɒnɪtə]",
+          "meaning": "n.班长,监听器,监视器,监控器vt.监控v.监控"
         },
         {
           "term": "motivation",
-          "phonetic": "[ˌməʊtɪˈveɪʃn]",
-          "phoneticUS": "[ˌmoʊtɪˈveɪʃn]",
-          "meaning": "n. 动机；积极性；推动"
+          "phonetic": "[ˌməʊtɪˈveɪʃən]",
+          "meaning": "n.动机"
         },
         {
           "term": "narrative",
           "phonetic": "[ˈnærətɪv]",
-          "phoneticUS": "[ˈnærətɪv]",
-          "meaning": "n. 叙述；故事；讲述\nadj. 叙事的，叙述的；叙事体的"
+          "meaning": "adj.叙述性的n.叙述"
         },
         {
           "term": "narrator",
-          "phonetic": "[nəˈreɪtə(r)]",
-          "phoneticUS": "[ˈnæreɪtər]",
-          "meaning": "n. 叙述者；解说员"
+          "phonetic": "[nəˈreɪtə]",
+          "meaning": ""
         },
         {
           "term": "never",
-          "phonetic": "[ˈnevə(r)]",
-          "phoneticUS": "[ˈnevər]",
-          "meaning": "adv. 从未；决不"
+          "phonetic": "[ˈnevə]",
+          "meaning": "adv.决不,从未"
         },
         {
           "term": "notation",
-          "phonetic": "[nəʊˈteɪʃn]",
-          "phoneticUS": "[noʊˈteɪʃn]",
-          "meaning": "n. 符号；乐谱；注释；记号法"
+          "phonetic": "[nəʊˈteɪʃən]",
+          "meaning": "n.符号"
         },
         {
           "term": "note",
           "phonetic": "[nəʊt]",
-          "phoneticUS": "[noʊt]",
-          "meaning": "n. 笔记；音符；票据；注解；纸币；便笺；照会；调子\nvt. 注意；记录；注解"
+          "meaning": "n.笔记,短信,(外交)照会,注解,注释,票据,纸币,音符vt.注意,记录,笔记"
         },
         {
           "term": "notice",
           "phonetic": "[ˈnəʊtɪs]",
-          "phoneticUS": "[ˈnoʊtɪs]",
-          "meaning": "n. 通知，布告；注意；公告\nvt. 通知；注意到；留心\nvi. 引起注意"
+          "meaning": "n.通知,布告,注意v.注意到"
         },
         {
           "term": "objective",
           "phonetic": "[əbˈdʒektɪv]",
-          "phoneticUS": "[əbˈdʒektɪv]",
-          "meaning": "adj. 客观的；目标的；宾格的\nn. 目的；目标；[光] 物镜；宾格"
+          "meaning": "n.目标,目的,(显微镜的)(接)物镜,[语法]宾格adj.客观的,[语法]宾格的"
         },
         {
           "term": "observe",
-          "phonetic": "[əbˈzɜːv]",
-          "phoneticUS": "[əbˈzɜːrv]",
-          "meaning": "vt. 庆祝\nvt. 观察；遵守；说；注意到；评论\nvi. 观察；说；注意到；评论"
+          "phonetic": "[əbˈzɜ:v]",
+          "meaning": "vt.观察,观测,遵守,评述,说"
         },
         {
           "term": "occur",
-          "phonetic": "[əˈkɜː(r)]",
-          "phoneticUS": "[əˈkɜːr]",
-          "meaning": "vi. 发生；出现；存在"
+          "phonetic": "[əˈkɜ:]",
+          "meaning": "vi.发生,出现"
         },
         {
           "term": "opinion",
           "phonetic": "[əˈpɪnjən]",
-          "phoneticUS": "[əˈpɪnjən]",
-          "meaning": "n. 意见；主张"
+          "meaning": "n.意见,看法,主张,判断,评价"
         },
         {
           "term": "oppose",
           "phonetic": "[əˈpəʊz]",
-          "phoneticUS": "[əˈpoʊz]",
-          "meaning": "vt. 反对；对抗，抗争\nvi. 反对"
+          "meaning": "vt.反对,使对立,使对抗,抗争vi.反对"
         },
         {
           "term": "optional",
-          "phonetic": "[ˈɒpʃən(ə)l]",
-          "phoneticUS": "[ˈɑːpʃən(ə)l]",
-          "meaning": "adj. 可选择的，随意的\nn. 选修科目"
+          "phonetic": "[ˈɒpʃənəl]",
+          "meaning": "adj.可选择的,随意的"
         },
         {
           "term": "order",
-          "phonetic": "[ˈɔːdə(r)]",
-          "phoneticUS": "[ˈɔːrdər]",
-          "meaning": "n. 命令；顺序；规则；[贸易] 定单\nvt. 命令；整理；定购\nvi. 命令；定货"
+          "phonetic": "[ˈɔ:də]",
+          "meaning": "n.次序,顺序,正常(工作)状态,秩序,会议规则,命令,定购,定单vt.命令,定购,定制"
         },
         {
           "term": "organize",
-          "phonetic": "[ˈɔːɡənaɪz]",
-          "phoneticUS": "[ˈɔːrɡənaɪz]",
-          "meaning": "vt. 组织；使有系统化；给予生机；组织成立工会等\nvi. 组织起来；成立组织"
+          "phonetic": "[ˈɔ:ɡənaɪz]",
+          "meaning": "vt.组织,使有机化,给予生机vi.组织起来"
         },
         {
           "term": "origins",
           "phonetic": "[ˈɒrɪdʒɪnz]",
-          "phoneticUS": "['ɔridʒinz]",
-          "meaning": "n. 起源（origin的复数）"
+          "meaning": ""
         },
         {
           "term": "outline",
           "phonetic": "[ˈaʊtlaɪn]",
-          "phoneticUS": "[ˈaʊtlaɪn]",
-          "meaning": "n. 轮廓；大纲；概要；略图\nvt. 概述；略述；描画…轮廓"
+          "meaning": "n.大纲,轮廓,略图,外形,要点,概要vt.描画轮廓,略述"
         },
         {
           "term": "pace",
           "phonetic": "[peɪs]",
-          "phoneticUS": "[peɪs]",
-          "meaning": "n. 一步；步速；步伐；速度\nvi. 踱步；缓慢而行\nvt. 踱步于；用步测"
+          "meaning": "n.(一)步,速度,步调,步法,步态vi.踱步,缓慢的走vt.用步测,踱步于,(马)溜花蹄"
         },
         {
           "term": "paraphrase",
           "phonetic": "[ˈpærəfreɪz]",
-          "phoneticUS": "[ˈpærəfreɪz]",
-          "meaning": "n. 释义；解释；意译\nvt. 释义"
+          "meaning": "v.解释n.解释"
         },
         {
           "term": "participation",
-          "phonetic": "[pɑːˌtɪsɪˈpeɪʃn]",
-          "phoneticUS": "[pɑːrˌtɪsɪˈpeɪʃn]",
-          "meaning": "n. 参与；分享；参股"
+          "phonetic": "[pɑ:ˌtɪsɪˈpeɪʃən]",
+          "meaning": "n.分享,参与"
         },
         {
           "term": "passage",
           "phonetic": "[ˈpæsɪdʒ]",
-          "phoneticUS": "[ˈpæsɪdʒ]",
-          "meaning": "n. 一段（文章）；走廊；通路"
+          "meaning": "n.通过,经过,通道,通路,(一)段,(一)节"
         },
         {
           "term": "pattern",
-          "phonetic": "[ˈpæt(ə)n]",
-          "phoneticUS": "[ˈpætərn]",
-          "meaning": "n. 模式；图案；样品\nvt. 模仿；以图案装饰\nvi. 形成图案"
+          "phonetic": "[ˈpætən]",
+          "meaning": "n.模范,式样,模式,样品,格调,图案vt.模仿,仿造,以图案装饰vi.形成图案"
         },
         {
           "term": "perform",
-          "phonetic": "[pəˈfɔːm]",
-          "phoneticUS": "[pərˈfɔːrm]",
-          "meaning": "vt. 执行；完成；演奏\nvi. 执行，机器运转；表演"
+          "phonetic": "[pəˈfɔ:m]",
+          "meaning": "vt.履行,执行,表演,演出v.完成任务"
         },
         {
           "term": "perspective",
           "phonetic": "[pəˈspektɪv]",
-          "phoneticUS": "[pərˈspektɪv]",
-          "meaning": "n. 观点；远景；透视图\nadj. 透视的"
+          "meaning": "n.透视画法,透视图,远景,前途,观点,看法,观点,观察"
         },
         {
           "term": "persuade",
           "phonetic": "[pəˈsweɪd]",
-          "phoneticUS": "[pərˈsweɪd]",
-          "meaning": "vt. 说服，劝说；使某人相信；劝某人做（不做）某事\nadj. 空闲的，有闲的\nvi. 说服；被说服"
+          "meaning": "v.说服,劝说,(使)相信,劝某人做(不做)某事"
         },
         {
           "term": "place",
           "phonetic": "[pleɪs]",
-          "phoneticUS": "[pleɪs]",
-          "meaning": "n. 地方；住所；座位\nvt. 放置；任命；寄予\nvi. 名列前茅；取得名次"
+          "meaning": "n.地方,地点,位置,职位,处境,住所,地位vt.放置,寄予,任命vi.名次列前"
         },
         {
           "term": "plagiarism",
           "phonetic": "[ˈpleɪdʒərɪzəm]",
-          "phoneticUS": "[ˈpleɪdʒərɪzəm]",
-          "meaning": "n. 剽窃；剽窃物"
+          "meaning": "n.剽窃,剽窃物"
         },
         {
           "term": "plan",
           "phonetic": "[plæn]",
-          "phoneticUS": "[plæn]",
-          "meaning": "n. 计划；平面图\nvt. 计划；设计；打算\nvi. 计划；打算"
+          "meaning": "n.计划,设计图,平面图vt.计划,设计"
         },
         {
           "term": "plausible",
-          "phonetic": "[ˈplɔːzəb(ə)l]",
-          "phoneticUS": "[ˈplɔːzəbl]",
-          "meaning": "adj. 貌似可信的，花言巧语的；貌似真实的，貌似有理的"
+          "phonetic": "[ˈplɔ:zəbl]",
+          "meaning": "adj.似是而非的"
         },
         {
           "term": "plot",
           "phonetic": "[plɒt]",
-          "phoneticUS": "[plɑːt]",
-          "meaning": "n. 情节；图；阴谋\nvt. 密谋；绘图；划分；标绘\nvi. 密谋；策划；绘制"
+          "meaning": "n.小块土地,地区图,图,秘密计划(特指阴谋),(小说的)情节.结构vt.划分,绘图,密谋vi.密谋,策划"
         },
         {
           "term": "point",
-          "phonetic": "[pɔɪnt]",
-          "phoneticUS": "[pɔɪnt]",
-          "meaning": "n. 要点；得分；标点；[机] 尖端\nvt. 指向；弄尖；加标点于\nvi. 表明；指向"
+          "phonetic": "[pɒɪnt]",
+          "meaning": "n.点,尖端,分数,要点,分数vt.弄尖,指向,指出,瞄准,加标点于vi.指,指向,表明"
         },
         {
           "term": "point of view",
-          "phonetic": "[ˌpɔɪnt əv ˈvjuː]",
-          "phoneticUS": "[ˌpɔɪnt əv ˈvjuː]",
-          "meaning": "n. 观点；态度；意见；看法"
+          "phonetic": "[pɒɪnt ɒv vju:]",
+          "meaning": ""
         },
         {
           "term": "portray",
-          "phonetic": "[pɔːˈtreɪ]",
-          "phoneticUS": "[pɔːrˈtreɪ]",
-          "meaning": "vt. 描绘；扮演"
+          "phonetic": "[pɔ:ˈtreɪ]",
+          "meaning": "v.描绘"
         },
         {
           "term": "possible",
-          "phonetic": "[ˈpɒsəb(ə)l]",
-          "phoneticUS": "[ˈpɑːsəbl]",
-          "meaning": "n. 可能性；合适的人；可能的事物\nadj. 可能的；合理的；合适的"
+          "phonetic": "[ˈpɒsəbl]",
+          "meaning": "adj.可能的,可能存在或发生的"
         },
         {
           "term": "preclude",
-          "phonetic": "[prɪˈkluːd]",
-          "phoneticUS": "[prɪˈkluːd]",
-          "meaning": "vt. 排除；妨碍；阻止"
+          "phonetic": "[prɪˈklu:d]",
+          "meaning": "n.排除"
         },
         {
           "term": "predict",
           "phonetic": "[prɪˈdɪkt]",
-          "phoneticUS": "[prɪˈdɪkt]",
-          "meaning": "vi. 作出预言；作预料，作预报\nvt. 预报，预言；预知"
+          "meaning": "v.预知,预言,预报"
         },
         {
           "term": "prefix",
-          "phonetic": "[ˈpriːfɪks]",
-          "phoneticUS": "[ˈpriːfɪks]",
-          "meaning": "n. 前缀\nvt. 加前缀；将某事物加在前面"
+          "phonetic": "[ˈpri:fɪks]",
+          "meaning": "n.[语]前缀,(人名前的)称谓(如Mr. Dr. Sir等)"
         },
         {
           "term": "prepare",
-          "phonetic": "[prɪˈpeə(r)]",
-          "phoneticUS": "[prɪˈper]",
-          "meaning": "vt. 准备；使适合；装备；起草\nvi. 预备；做好思想准备"
+          "phonetic": "[prɪˈpeə]",
+          "meaning": "v.准备,预备,有能力而且愿意"
         },
         {
           "term": "presume",
-          "phonetic": "[prɪˈzjuːm]",
-          "phoneticUS": "[prɪˈzuːm]",
-          "meaning": "vi. 相信；擅自行为\nvt. 假定；推测；擅自；意味着"
+          "phonetic": "[prɪˈzju:m]",
+          "meaning": "vt.假定,假设,认为"
         },
         {
           "term": "preview",
-          "phonetic": "[ˈpriːvjuː]",
-          "phoneticUS": "[ˈpriːvjuː]",
-          "meaning": "n. 预览；试映；事先查看\nvt. 预览；预演；事先查看"
+          "phonetic": "[ˈpri:vju:]",
+          "meaning": "n.事先查看,[计]预览vt.事先查看,预展,预演"
         },
         {
           "term": "previous",
-          "phonetic": "[ˈpriːviəs]",
-          "phoneticUS": "[ˈpriːviəs]",
-          "meaning": "adj. 以前的；早先的；过早的\nadv. 在先；在…以前"
+          "phonetic": "[ˈpri:vɪəs]",
+          "meaning": "adj.在前的,早先的adv.在...以前 返回上一级菜单"
         },
         {
           "term": "primary",
-          "phonetic": "[ˈpraɪməri]",
-          "phoneticUS": "[ˈpraɪmeri]",
-          "meaning": "n. 原色；最主要者\nadj. 主要的；初级的；基本的"
+          "phonetic": "[ˈpraɪmərɪ]",
+          "meaning": "adj.第一位的,主要的,初步的,初级的,原来的,根源的"
         },
         {
           "term": "prior",
-          "phonetic": "[ˈpraɪə(r)]",
-          "phoneticUS": "[ˈpraɪər]",
-          "meaning": "adj. 优先的；在先的，在前的\nadv. 在前，居先"
+          "phonetic": "[ˈpraɪə]",
+          "meaning": "adj.优先的,在前的n.预先adv.在"
         },
         {
           "term": "probably",
-          "phonetic": "[ˈprɒbəbli]",
-          "phoneticUS": "[ˈprɑːbəbli]",
-          "meaning": "adv. 大概；或许；很可能"
+          "phonetic": "[ˈprɒbəblɪ]",
+          "meaning": "adv.大概,或许"
         },
         {
           "term": "procedure",
-          "phonetic": "[prəˈsiːdʒə(r)]",
-          "phoneticUS": "[prəˈsiːdʒər]",
-          "meaning": "n. 程序，手续；步骤"
+          "phonetic": "[prəˈsi:dʒə]",
+          "meaning": "n.程序,手续"
         },
         {
           "term": "process",
-          "phonetic": "[prəˈses; ˈprəʊses]",
-          "phoneticUS": "[prəˈses；ˈprɑːses]",
-          "meaning": "n. 过程，进行；方法，步骤；作用；程序；推移\nadj. 经过特殊加工（或处理）的\nvt. 处理；加工\nvi. 列队前进"
+          "phonetic": "[ˈprəʊses]",
+          "meaning": "n.过程,作用,方法,程序,步骤,进行,推移vt.加工,处理"
         },
         {
           "term": "produce",
-          "phonetic": "[prəˈdjuːs]",
-          "phoneticUS": "[prəˈduːs]",
-          "meaning": "n. 农产品，产品\nvt. 生产；引起；创作；生育，繁殖\nvi. 生产，创作"
+          "phonetic": "[prəˈdju:s]",
+          "meaning": "n.产物,农产品vt.提出,出示,生产,制造,结(果实),引起,招致,创作"
         },
         {
           "term": "profile",
           "phonetic": "[ˈprəʊfaɪl]",
-          "phoneticUS": "[ˈproʊfaɪl]",
-          "meaning": "n. 侧面；轮廓；外形；剖面；简况\nvt. 描…的轮廓；扼要描述\nvi. 给出轮廓"
+          "meaning": "n.剖面,侧面,外形,轮廓"
         },
         {
           "term": "project",
           "phonetic": "[ˈprɒdʒekt]",
-          "phoneticUS": "[ˈprɑːdʒekt]",
-          "meaning": "n. 工程；计划；事业\nvt. 设计；计划；发射；放映\nvi. 设计；计划；表达；投射"
+          "meaning": "n.计划,方案,事业,企业,工程v.设计,计划,投射,放映,射出,发射(导弹等),凸出"
         },
         {
           "term": "prompt",
           "phonetic": "[prɒmpt]",
-          "phoneticUS": "[prɑːmpt]",
-          "meaning": "n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格\nadj. 敏捷的，迅速的；立刻的\nvt. 提示；促进；激起；（给演员）提白\nadv. 准时地"
+          "meaning": "n.提示,付款期限vt.提示,鼓动,促使,(给演员)提白adj.敏捷的,迅速的,即时的adv.准时地"
         },
         {
           "term": "proofread",
-          "phonetic": "[ˈpruːfriːd]",
-          "phoneticUS": "[ˈpruːfriːd]",
-          "meaning": "vt. 校对，校勘\nvi. 做校对工作"
+          "phonetic": "[ˈpru:fri:d]",
+          "meaning": "vt.校正,校对"
         },
         {
           "term": "property",
-          "phonetic": "[ˈprɒpəti]",
-          "phoneticUS": "[ˈprɑːpərti]",
-          "meaning": "n. 性质，性能；财产；所有权"
+          "phonetic": "[ˈprɒpətɪ]",
+          "meaning": "n.财产,所有物,所有权,性质,特性,(小)道具"
         },
         {
           "term": "propose",
           "phonetic": "[prəˈpəʊz]",
-          "phoneticUS": "[prəˈpoʊz]",
-          "meaning": "vi. 建议；求婚；打算\nvt. 建议；打算，计划；求婚"
+          "meaning": "vt.计划,建议,向...提议,求(婚)vi.打算,求婚"
         },
         {
           "term": "prose",
           "phonetic": "[prəʊz]",
-          "phoneticUS": "[proʊz]",
-          "meaning": "n. 散文；单调\nadj. 散文的；平凡的；乏味的\nvt. 把…写成散文\nvi. 写散文；乏味地讲话"
+          "meaning": "n.散文"
         },
         {
           "term": "prove",
-          "phonetic": "[pruːv]",
-          "phoneticUS": "[pruːv]",
-          "meaning": "vi. 证明是\nvt. 证明；检验；显示"
+          "phonetic": "[pru:v]",
+          "meaning": "vt.证明,证实,检验,考验vi.原来(是),证明(是)"
         },
         {
           "term": "purpose",
-          "phonetic": "[ˈpɜːpəs]",
-          "phoneticUS": "[ˈpɜːrpəs]",
-          "meaning": "n. 目的；用途；意志\nvt. 决心；企图；打算"
+          "phonetic": "[ˈpɜ:pəs]",
+          "meaning": "n.目的,意图,用途,效果,决心,意志vt.打算,企图,决心"
         },
         {
           "term": "quotation",
-          "phonetic": "[kwəʊˈteɪʃn]",
-          "phoneticUS": "[kwoʊˈteɪʃn]",
-          "meaning": "n. [贸易] 报价单；引用语；引证"
+          "phonetic": "[kwəʊˈteɪʃən]",
+          "meaning": "n.引用语,价格,报价单,行情表"
         },
         {
           "term": "quote",
           "phonetic": "[kwəʊt]",
-          "phoneticUS": "[kwoʊt]",
-          "meaning": "n. 引用\nvi. 报价；引用；引证\nvt. 报价；引述；举证"
+          "meaning": "vt.引用,引证,提供,提出,报(价)"
         },
         {
           "term": "rank",
           "phonetic": "[ræŋk]",
-          "phoneticUS": "[ræŋk]",
-          "meaning": "n. 排；等级；军衔；队列\nadj. 讨厌的；恶臭的；繁茂的\nvt. 排列；把…分等\nvi. 列为；列队"
+          "meaning": "n.等级,横列,阶级adj.繁茂的,恶臭的,讨厌的,下流的vt.排列,归类于,把...分等vi.列为,列队n.[数] 秩"
         },
         {
           "term": "rare",
-          "phonetic": "[reə(r)]",
-          "phoneticUS": "[rer]",
-          "meaning": "adj. 稀有的；稀薄的；半熟的\nadj. 杰出的；极度的；非常好的\nadv. 非常；极其\nvi. 用后腿站起；渴望"
+          "phonetic": "[reə]",
+          "meaning": "adj.稀罕的,杰出的,珍贵的,(肉类)半熟的adv.非常"
         },
         {
           "term": "rarely",
-          "phonetic": "[ˈreəli]",
-          "phoneticUS": "[ˈrerli]",
-          "meaning": "adv. 很少地；难得；罕有地"
+          "phonetic": "[ˈreəlɪ]",
+          "meaning": "adv.很少地,罕有地"
         },
         {
           "term": "reaction",
-          "phonetic": "[riˈækʃn]",
-          "phoneticUS": "[riˈækʃn]",
-          "meaning": "n. 反应，感应；反动，复古；反作用"
+          "phonetic": "[ri:ˈækʃn]",
+          "meaning": "n.反应,反作用,反动(力)"
         },
         {
           "term": "recall",
-          "phonetic": "[rɪˈkɔːl]",
-          "phoneticUS": "[rɪˈkɔːl]",
-          "meaning": "n. 召回；回忆；撤消\nvt. 召回；回想起，记起；取消"
+          "phonetic": "[rɪˈkɔ:l]",
+          "meaning": "vt.回忆,回想,记起,取消n.召回"
         },
         {
           "term": "reduce",
-          "phonetic": "[rɪˈdjuːs]",
-          "phoneticUS": "[rɪˈduːs]",
-          "meaning": "vi. 减少；缩小；归纳为\nvt. 减少；降低；使处于；把…分解"
+          "phonetic": "[rɪˈdju:s]",
+          "meaning": "vt.减少,缩小,简化,还原"
         },
         {
           "term": "refer",
-          "phonetic": "[rɪˈfɜː(r)]",
-          "phoneticUS": "[rɪˈfɜːr]",
-          "meaning": "vt. 涉及；委托；归诸于；使…求助于\nvi. 参考；涉及；提到；查阅"
+          "phonetic": "[rɪˈfɜ:]",
+          "meaning": "vt.提交,谈及,归诸于,指点把...提交,使求助于vi.提到,涉及,查阅,咨询"
         },
         {
           "term": "reflect",
           "phonetic": "[rɪˈflekt]",
-          "phoneticUS": "[rɪˈflekt]",
-          "meaning": "vt. 反映；反射，照出；表达；显示;反省\nvi. 反射，映现；深思"
+          "meaning": "v.反射,反映,表现,反省,细想"
         },
         {
           "term": "regular",
-          "phonetic": "[ˈreɡjələ(r)]",
-          "phoneticUS": "[ˈreɡjələr]",
-          "meaning": "n. 常客；正式队员；中坚分子\nadj. 定期的；有规律的；合格的；整齐的；普通的\nadv. 定期地；经常地"
+          "phonetic": "[ˈregjələ(r)]",
+          "meaning": "adj.规则的,有秩序的,经常的,(花)整齐的,常备军的,等边的,合格的,定期的n.正规军,正式队员adv.经常地n.正常体"
         },
         {
           "term": "relate",
           "phonetic": "[rɪˈleɪt]",
-          "phoneticUS": "[rɪˈleɪt]",
-          "meaning": "vt. 叙述；使…有联系\nvi. 涉及；认同；符合；与…有某种联系"
+          "meaning": "vt.叙述,讲,使联系,发生关系"
         },
         {
           "term": "relationship",
-          "phonetic": "[rɪˈleɪʃnʃɪp]",
-          "phoneticUS": "[rɪˈleɪʃnʃɪp]",
-          "meaning": "n. 关系；关联"
+          "phonetic": "[rɪˈleɪʃənʃɪp]",
+          "meaning": "n.关系,关联"
         },
         {
           "term": "relevant",
           "phonetic": "[ˈreləvənt]",
-          "phoneticUS": "[ˈreləvənt]",
-          "meaning": "adj. 相关的；切题的；中肯的；有重大关系的；有意义的，目的明确的"
+          "meaning": "adj.有关的,相应的"
         },
         {
           "term": "rephrase",
-          "phonetic": "[ˌriːˈfreɪz]",
-          "phoneticUS": "[ˌriːˈfreɪz]",
-          "meaning": "vt. 改述；重新措辞"
+          "phonetic": "[ri:ˈfreɪz]",
+          "meaning": "vt.改述,改撰"
         },
         {
           "term": "report",
-          "phonetic": "[rɪˈpɔːt]",
-          "phoneticUS": "[rɪˈpɔːrt]",
-          "meaning": "n. 报告；报道；成绩单\nvt. 报告；报导；使报到\nvi. 报告；报到；写报导"
+          "phonetic": "[rɪˈpɔ:t]",
+          "meaning": "n.报告,传说,谣言,声誉,名声,爆炸声v.报导,汇报,报到,告发"
         },
         {
           "term": "represent",
           "phonetic": "[ˌreprɪˈzent]",
-          "phoneticUS": "[ˌreprɪˈzent]",
-          "meaning": "vt. 代表；表现；描绘；回忆；再赠送\nvi. 代表；提出异议"
+          "meaning": "vt.表现,描绘,声称,象征,扮演,回忆,再赠送,再上演vi.提出异议"
         },
         {
           "term": "representative",
-          "phonetic": "[ˌreprɪˈzentətɪv]",
-          "phoneticUS": "[ˌreprɪˈzentətɪv]",
-          "meaning": "n. 代表；典型；众议员\nadj. 典型的，有代表性的；代议制的"
+          "phonetic": "[reprɪˈzentətɪv]",
+          "meaning": "n.代表adj.典型的,有代表性的"
         },
         {
           "term": "request",
           "phonetic": "[rɪˈkwest]",
-          "phoneticUS": "[rɪˈkwest]",
-          "meaning": "n. 请求；需要\nvt. 要求，请求"
+          "meaning": "vt.请求,要求n.请求,要求,邀请"
         },
         {
           "term": "require",
-          "phonetic": "[rɪˈkwaɪə(r)]",
-          "phoneticUS": "[rɪˈkwaɪər]",
-          "meaning": "vt. 需要；要求；命令"
+          "phonetic": "[rɪˈkwaɪə]",
+          "meaning": "vt.需要,要求,命令"
         },
         {
           "term": "requisite",
           "phonetic": "[ˈrekwɪzɪt]",
-          "phoneticUS": "[ˈrekwɪzɪt]",
-          "meaning": "n. 必需品\nadj. 必备的，必不可少的；需要的"
+          "meaning": "adj.需要的,必不可少的,必备的n.必需品"
         },
         {
           "term": "respond",
-          "phonetic": "[rɪˈspɒnd]",
-          "phoneticUS": "[rɪˈspɑːnd]",
-          "meaning": "n. 应答；唱和\nvi. 回答；作出反应；承担责任\nvt. 以…回答"
+          "phonetic": "[rɪsˈpɒnd]",
+          "meaning": "v.回答,响应,作出反应vi.有反应"
         },
         {
           "term": "responsible",
-          "phonetic": "[rɪˈspɒnsəb(ə)l]",
-          "phoneticUS": "[rɪˈspɑːnsəbl]",
-          "meaning": "adj. 负责的，可靠的；有责任的"
+          "phonetic": "[rɪsˈpɒnsəbl]",
+          "meaning": "adj.有责任的,可靠的,可依赖的,负责的"
         },
         {
           "term": "restate",
-          "phonetic": "[ˌriːˈsteɪt]",
-          "phoneticUS": "[ˌriːˈsteɪt]",
-          "meaning": "vt. 重申；重新叙述；重讲"
+          "phonetic": "[ri:ˈsteɪt]",
+          "meaning": "vt.重新叙述,重申"
         },
         {
           "term": "results",
           "phonetic": "[rɪˈzʌlts]",
-          "phoneticUS": "[rɪˈzʌlts]",
-          "meaning": "n. 结果；成绩（result的复数）\nv. 结果发生；终归（result的三单形式）"
+          "meaning": ""
         },
         {
           "term": "reveal",
-          "phonetic": "[rɪˈviːl]",
-          "phoneticUS": "[rɪˈviːl]",
-          "meaning": "n. 揭露；暴露；门侧，窗侧\nvt. 显示；透露；揭露；泄露"
+          "phonetic": "[rɪˈvi:l]",
+          "meaning": "vt.展现,显示,揭示,暴露"
         },
         {
           "term": "review",
-          "phonetic": "[rɪˈvjuː]",
-          "phoneticUS": "[rɪˈvjuː]",
-          "meaning": "n. 回顾；复习；评论；检讨；检阅\nvt. 回顾；检查；复审\nvi. 回顾；复习功课；写评论"
+          "phonetic": "[rɪˈvju:]",
+          "meaning": "vt.回顾,复习n.回顾,复习,评论"
         },
         {
           "term": "revise",
           "phonetic": "[rɪˈvaɪz]",
-          "phoneticUS": "[rɪˈvaɪz]",
-          "meaning": "n. 修订；校订\nvi. 修订；校订；复习功课\nvt. 修正；复习；校订"
+          "meaning": "vt.修订,校订,修正,修改"
         },
         {
           "term": "root",
-          "phonetic": "[ruːt]",
-          "phoneticUS": "[ruːt]",
-          "meaning": "n. 根；根源；词根；祖先\nvt. 生根，固定；根源在于\nvi. 生根；根除"
+          "phonetic": "[ru:t]",
+          "meaning": "n.根,根部,根本,根源v.(使)生根,(使)扎根,使立定不动,坚定不移,确立"
         },
         {
           "term": "rule",
-          "phonetic": "[ruːl]",
-          "phoneticUS": "[ruːl]",
-          "meaning": "n. 统治；规则\nvt. 统治；规定；管理；裁决；支配\nvi. 统治；管辖；裁定"
+          "phonetic": "[ru:l]",
+          "meaning": "n.规则,惯例,统治,章程,破折号,准则,标准,控制vt.规定,统治,支配,裁决vi.统治,管辖,裁定n.规则,水线"
         },
         {
           "term": "scan",
           "phonetic": "[skæn]",
-          "phoneticUS": "[skæn]",
-          "meaning": "n. 扫描；浏览；审视；细看\nvt. 扫描；浏览；细看；详细调查；标出格律\nvi. 扫描；扫掠"
+          "meaning": "v.细看,审视,浏览,扫描n.扫描"
         },
         {
           "term": "score",
-          "phonetic": "[skɔː(r)]",
-          "phoneticUS": "[skɔːr]",
-          "meaning": "n. 分数；二十；配乐；刻痕\nvt. 获得；评价；划线，刻划；把…记下\nvi. 得分；记分；刻痕"
+          "phonetic": "[skɔ:]",
+          "meaning": "n.得分,乐谱,抓痕,二十,终点线,刻痕,帐目,起跑线vt.把...记下,刻划,划线,获得,评价vi.记分,刻痕,得分"
         },
         {
           "term": "sequence",
-          "phonetic": "[ˈsiːkwəns]",
-          "phoneticUS": "[ˈsiːkwəns]",
-          "meaning": "n. [数][计] 序列；顺序；续发事件\nvt. 按顺序排好"
+          "phonetic": "[ˈsi:kwəns]",
+          "meaning": "n.次序,顺序,序列"
         },
         {
           "term": "series",
-          "phonetic": "[ˈsɪəriːz]",
-          "phoneticUS": "[ˈsɪriːz]",
-          "meaning": "n. 系列，连续；[电] 串联；级数；丛书"
+          "phonetic": "[ˈsɪəri:z]",
+          "meaning": "n.连续,系列,丛书,级数"
         },
         {
           "term": "set",
           "phonetic": "[set]",
-          "phoneticUS": "[set]",
-          "meaning": "n. [数] 集合；一套；布景；[机] 装置\nadj. 固定的；规定的；固执的\nvi. (日,月)落沉；凝固；结果\nvt. 树立；点燃；点缀；"
+          "meaning": "v.放,置,移动到,使(人或事物处于某种状态),提出,树立,规定,调整;n.一套,一副,一批,接受机,装置,趋势,布景;adj.固定的,规定的,坚决的,固执的,事先做好的;Secure Electronics Transations Protocol,安全电子商务协议"
         },
         {
           "term": "setting",
           "phonetic": "[ˈsetɪŋ]",
-          "phoneticUS": "[ˈsetɪŋ]",
-          "meaning": "n. 环境；安装；布置；[天] 沉落\nv. 放置；沉没；使…处于某位置（set的ing形式）"
+          "meaning": "n.安置,安装,(太阳)落山,(固定东西的)框架,底座"
         },
         {
           "term": "show",
           "phonetic": "[ʃəʊ]",
-          "phoneticUS": "[ʃoʊ]",
-          "meaning": "n. 显示；表演；炫耀\nvt. 显示；说明；演出；展出\nvi. 显示；说明；指示"
+          "meaning": "n.表示,展览,炫耀,外观,假装v.出示,指示,引导,说明,显示,展出,放映"
         },
         {
           "term": "signal",
-          "phonetic": "[ˈsɪɡnəl]",
-          "phoneticUS": "[ˈsɪɡnəl]",
-          "meaning": "n. 信号；暗号；导火线\nadj. 显著的；作为信号的\nvt. 标志；用信号通知；表示\nvi. 发信号"
+          "phonetic": "[ˈsɪɡnl]",
+          "meaning": "n.信号adj.信号的v.发信号,用信号通知"
         },
         {
           "term": "significance",
           "phonetic": "[sɪɡˈnɪfɪkəns]",
-          "phoneticUS": "[sɪɡˈnɪfɪkəns]",
-          "meaning": "n. 意义；重要性；意思"
+          "meaning": "n.意义,重要性"
         },
         {
           "term": "simile",
-          "phonetic": "[ˈsɪməli]",
-          "phoneticUS": "[ˈsɪməli]",
-          "meaning": "n. 明喻；直喻"
+          "phonetic": "[ˈsɪmɪlɪ]",
+          "meaning": "n.[修辞]明喻,明喻的说法,明喻的词语用法"
         },
         {
           "term": "skim",
           "phonetic": "[skɪm]",
-          "phoneticUS": "[skɪm]",
-          "meaning": "n. 撇；撇去的东西；表层物；瞒报所得的收入\nadj. 脱脂的；撇去浮沫的；表层的\nvt. 略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）\nvi. 浏览；掠过"
+          "meaning": "v.撇去"
         },
         {
           "term": "solve",
           "phonetic": "[sɒlv]",
-          "phoneticUS": "[sɑːlv]",
-          "meaning": "vt. 解决；解答；溶解\nvi. 作解答"
+          "meaning": "vt.解决,解答"
         },
         {
           "term": "source",
-          "phonetic": "[sɔːs]",
-          "phoneticUS": "[sɔːrs]",
-          "meaning": "n. 来源；水源；原始资料"
+          "phonetic": "[sɔ:s]",
+          "meaning": "n.来源,水源,消息来源,原始资料,发起者 源,源极"
         },
         {
           "term": "spatial",
-          "phonetic": "[ˈspeɪʃ(ə)l]",
-          "phoneticUS": "[ˈspeɪʃl]",
-          "meaning": "adj. 空间的；存在于空间的；受空间条件限制的"
+          "phonetic": "[ˈspeɪʃəl]",
+          "meaning": "adj.空间的"
         },
         {
           "term": "specific",
           "phonetic": "[spəˈsɪfɪk]",
-          "phoneticUS": "[spəˈsɪfɪk]",
-          "meaning": "n. 特性；细节；特效药\nadj. 特殊的，特定的；明确的；详细的；[药] 具有特效的"
+          "meaning": "n.特效药,细节adj.详细而精确的,明确的,特殊的,特效的,[生物]种的"
         },
         {
           "term": "speculate",
-          "phonetic": "[ˈspekjuleɪt]",
-          "phoneticUS": "[ˈspekjuleɪt]",
-          "meaning": "vi. 推测；投机；思索\nvt. 推断"
+          "phonetic": "[ˈspekjuˌleɪt]",
+          "meaning": "vi.推测,思索,做投机买卖"
         },
         {
           "term": "stance",
           "phonetic": "[stæns]",
-          "phoneticUS": "[stæns]",
-          "meaning": "n. 立场；姿态；位置；准备击球姿势"
+          "meaning": "n.姿态"
         },
         {
           "term": "standard",
           "phonetic": "[ˈstændəd]",
-          "phoneticUS": "[ˈstændərd]",
-          "meaning": "n. 标准；水准；旗；度量衡标准\nadj. 标准的；合规格的；公认为优秀的"
+          "meaning": "n.旗,军旗,标准,规格,本位adj.标准的,权威,第一流的"
         },
         {
           "term": "state",
           "phonetic": "[steɪt]",
-          "phoneticUS": "[steɪt]",
-          "meaning": "n. 国家；州；情形\nadj. 国家的；州的；正式的\nvt. 规定；声明；陈述"
+          "meaning": "n.情形,状态,国家,政府,州adj.国家的,国有的,国营的,州的,正式的,典礼用的vt.声明,陈述,规定"
         },
         {
           "term": "statement",
           "phonetic": "[ˈsteɪtmənt]",
-          "phoneticUS": "[ˈsteɪtmənt]",
-          "meaning": "n. 声明；陈述，叙述；报表，清单"
+          "meaning": "n.声明,陈述,综述"
         },
         {
           "term": "strategy",
-          "phonetic": "[ˈstrætədʒi]",
-          "phoneticUS": "[ˈstrætədʒi]",
-          "meaning": "n. 战略，策略"
+          "phonetic": "[ˈstrætədʒɪ]",
+          "meaning": "n.策略,军略"
         },
         {
           "term": "structure",
-          "phonetic": "[ˈstrʌktʃə(r)]",
-          "phoneticUS": "[ˈstrʌktʃər]",
-          "meaning": "n. 结构；构造；建筑物\nvt. 组织；构成；建造"
+          "phonetic": "[ˈstrʌktʃə]",
+          "meaning": "n.结构,构造,建筑物vt.建筑,构成,组织"
         },
         {
           "term": "study",
-          "phonetic": "[ˈstʌdi]",
-          "phoneticUS": "[ˈstʌdi]",
-          "meaning": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功"
+          "phonetic": "[ˈstʌdɪ]",
+          "meaning": "n.学习,研究,学科,试作,论文,求学,努力,书房vt.学习,攻读,研究,考虑,计划vi.学习,试图"
         },
         {
           "term": "style",
           "phonetic": "[staɪl]",
-          "phoneticUS": "[staɪl]",
-          "meaning": "n. 风格；时尚；类型；字体\nvt. 设计；称呼；使合潮流\nvi. 设计式样；用刻刀作装饰画"
+          "meaning": "n.风格,时尚,文体,风度,类型,字体vt.称呼,设计,使合潮流 使铁笔作装饰画"
         },
         {
           "term": "subject",
-          "phonetic": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
-          "phoneticUS": "[ˈsʌbdʒɪkt; ˈsʌbdʒekt]",
-          "meaning": "n. 主题；科目；[语] 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…"
+          "phonetic": "[ˈsʌbdʒɪkt]",
+          "meaning": "n.题目,主题,科目,学科,国民,[语法]主语adj.受他国统治的,未独立的,受制于...的,受...影响的,以...为条件的vt.使屈从于...,使隶属"
         },
         {
           "term": "subjective",
           "phonetic": "[səbˈdʒektɪv]",
-          "phoneticUS": "[səbˈdʒektɪv]",
-          "meaning": "adj. 主观的；个人的；自觉的"
+          "meaning": "adj.主观的,个人的"
         },
         {
           "term": "subsequent",
           "phonetic": "[ˈsʌbsɪkwənt]",
-          "phoneticUS": "[ˈsʌbsɪkwənt]",
-          "meaning": "adj. 后来的，随后的"
+          "meaning": "adj.后来的,并发的"
         },
         {
           "term": "substitute",
-          "phonetic": "[ˈsʌbstɪtjuːt]",
-          "phoneticUS": "[ˈsʌbstɪtuːt]",
-          "meaning": "n. 代用品；代替者\nvi. 替代\nvt. 代替"
+          "phonetic": "[ˈsʌbstɪtju:t]",
+          "meaning": "n.代用品,代替者,替代品v.代替,替换,替代"
         },
         {
           "term": "succinct",
           "phonetic": "[səkˈsɪŋkt]",
-          "phoneticUS": "[səkˈsɪŋkt]",
-          "meaning": "adj. 简洁的；简明的；紧身的"
+          "meaning": "adj.简洁的,紧身的,压缩在小范围内的"
         },
         {
           "term": "suggest",
           "phonetic": "[səˈdʒest]",
-          "phoneticUS": "[səˈdʒestˌsəɡˈdʒest]",
-          "meaning": "vt. 提议，建议；启发；使人想起；显示；暗示"
+          "meaning": "vt.建议,提出,使想起,暗示"
         },
         {
           "term": "sum",
           "phonetic": "[sʌm]",
-          "phoneticUS": "[sʌm]",
-          "meaning": "n. 金额；总数\nvt. 总结；合计\nvi. 概括"
+          "meaning": "n.总数,和,金额,算术题"
         },
         {
           "term": "summarize",
           "phonetic": "[ˈsʌməraɪz]",
-          "phoneticUS": "[ˈsʌməraɪz]",
-          "meaning": "vt. 总结；概述\nvi. 作总结；作概括"
+          "meaning": "v.概述,总结,摘要而言"
         },
         {
           "term": "summary",
-          "phonetic": "[ˈsʌməri]",
-          "phoneticUS": "[ˈsʌməri]",
-          "meaning": "n. 概要，摘要，总结\nadj. 简易的；扼要的"
+          "phonetic": "[ˈsʌmərɪ]",
+          "meaning": "n.摘要,概要"
         },
         {
           "term": "support",
-          "phonetic": "[səˈpɔːt]",
-          "phoneticUS": "[səˈpɔːrt]",
-          "meaning": "n. 支持，维持；支援，供养；支持者，支撑物\nvt. 支持，支撑，支援；扶持，帮助；赡养，供养"
+          "phonetic": "[səˈpɔ:t]",
+          "meaning": "vt.支撑,扶持,支持,支援,拥护,维持,赡养,忍受n.支撑,支持,支援,维持,赡养,支持者,支柱"
         },
         {
           "term": "survey",
-          "phonetic": "[ˈsɜːveɪ]",
-          "phoneticUS": "[ˈsɜːrveɪ]",
-          "meaning": "n. 调查；测量；审视；纵览\nvt. 调查；勘测；俯瞰\nvi. 测量土地"
+          "phonetic": "[ˈsɜ:veɪ]",
+          "meaning": "n.测量,调查,俯瞰,概观,纵览,视察vt.调查(收入,民意等) 测量,勘定,审视,视察,俯瞰,通盘考虑vi.测量土地"
         },
         {
           "term": "symbolize",
           "phonetic": "[ˈsɪmbəlaɪz]",
-          "phoneticUS": "[ˈsɪmbəlaɪz]",
-          "meaning": "vt. 象征；用符号表现\nvi. 采用象征；使用符号；作为…的象征"
+          "meaning": "vt.象征,用符号表现vi.作为...的象征,采用象征,使用符号"
         },
         {
           "term": "synonym",
           "phonetic": "[ˈsɪnənɪm]",
-          "phoneticUS": "[ˈsɪnənɪm]",
-          "meaning": "n. 同义词；同义字"
+          "meaning": "n.同义字"
         },
         {
           "term": "synthesize",
-          "phonetic": "[ˈsɪnθəsaɪz]",
-          "phoneticUS": "[ˈsɪnθəsaɪz]",
-          "meaning": "vt. 合成；综合\nvi. 合成；综合"
+          "phonetic": "[ˈsɪnθɪsaɪz]",
+          "meaning": "v.综合,合成"
         },
         {
           "term": "table",
-          "phonetic": "[ˈteɪb(ə)l]",
-          "phoneticUS": "[ˈteɪbl]",
-          "meaning": "n. 桌子；表格；平地层\nvt. 制表；搁置；嵌合\nadj. 桌子的"
+          "phonetic": "[ˈteɪbl]",
+          "meaning": "n.桌子,餐桌,工作台,平地层,石板,表格adj.桌子的,台子的vt.搁置,嵌合,制表"
         },
         {
           "term": "technique",
-          "phonetic": "[tekˈniːk]",
-          "phoneticUS": "[tekˈniːk]",
-          "meaning": "n. 技巧，技术；手法"
+          "phonetic": "[tekˈni:k]",
+          "meaning": "n.技术,技巧,方法,表演法,手法"
         },
         {
           "term": "term",
-          "phonetic": "[tɜːm]",
-          "phoneticUS": "[tɜːrm]",
-          "meaning": "n. 术语；学期；期限；条款；(代数式等的)项\nvt. 把…叫做"
+          "phonetic": "[tɜ:m]",
+          "meaning": "n.学期,期限,期间,条款,条件,术语"
         },
         {
           "term": "test",
           "phonetic": "[test]",
-          "phoneticUS": "[test]",
-          "meaning": "n. 试验；检验\nvt. 试验；测试\nvi. 试验；测试"
+          "meaning": "n.测试,试验,检验v.测试,试验,检验"
         },
         {
           "term": "theme",
-          "phonetic": "[θiːm]",
-          "phoneticUS": "[θiːm]",
-          "meaning": "n. 主题；主旋律；题目\nadj. 以奇想主题布置的"
+          "phonetic": "[θi:m]",
+          "meaning": "n.(谈话,写作等的)题目,主题,学生的作文,作文题,[音乐] 主题,主题曲,主旋律"
         },
         {
           "term": "thesis",
-          "phonetic": "[ˈθiːsɪs]",
-          "phoneticUS": "[ˈθiːsɪs]",
-          "meaning": "n. 论文；论点"
+          "phonetic": "[ˈθi:sɪs]",
+          "meaning": "n.论题,论文"
         },
         {
           "term": "timeline",
           "phonetic": "[ˈtaɪmlaɪn]",
-          "phoneticUS": "[ˈtaɪmlaɪn]",
-          "meaning": "n. 时间轴，时间线；大事年表"
+          "meaning": ""
         },
         {
           "term": "tone",
           "phonetic": "[təʊn]",
-          "phoneticUS": "[toʊn]",
-          "meaning": "n. 语气；色调；音调；音色\nvt. 增强；用某种调子说\nvi. 颜色调和；呈现悦目色调"
+          "meaning": "n.音调,音质,语调,色调,状况,品质,语气,气氛vt.调和,增强,以特殊腔调说,配合,定音调vi.颜色调和"
         },
         {
           "term": "topic",
           "phonetic": "[ˈtɒpɪk]",
-          "phoneticUS": "[ˈtɑːpɪk]",
-          "meaning": "n. 主题（等于theme）；题目；一般规则；总论"
+          "meaning": "n.话题,主题"
         },
         {
           "term": "trace",
           "phonetic": "[treɪs]",
-          "phoneticUS": "[treɪs]",
-          "meaning": "n. 痕迹，踪迹；微量；[仪] 迹线；缰绳\nvt. 追踪，查探；描绘；回溯\nvi. 追溯；沿路走"
+          "meaning": "n.痕迹,踪迹,微量,迹线,缰绳vt.描绘,映描,画轮廓,追踪,回溯,探索vi.上溯,沿路走"
         },
         {
           "term": "trait",
           "phonetic": "[treɪt]",
-          "phoneticUS": "[treɪt]",
-          "meaning": "n. 特性，特点；品质；少许"
+          "meaning": "n.显著的特点,特性"
         },
         {
           "term": "transition",
-          "phonetic": "[trænˈzɪʃ(ə)n]",
-          "phoneticUS": "[trænˈzɪʃnˌtrænˈsɪʃn]",
-          "meaning": "n. 过渡；转变；[分子生物] 转换；变调"
+          "phonetic": "[trænˈzɪʃn]",
+          "meaning": "n.转变,转换,跃迁,过渡,变调"
         },
         {
           "term": "translate",
-          "phonetic": "[trænzˈleɪt]",
-          "phoneticUS": "[trænzˈleɪt; trænsˈleɪt]",
-          "meaning": "vt. 翻译；转化；解释；转变为；调动\nvi. 翻译"
+          "phonetic": "[trænsˈleɪt]",
+          "meaning": "vt.翻译,解释,转化,转变为,调动vi.翻译,能被译出"
         },
         {
           "term": "typically",
-          "phonetic": "[ˈtɪpɪkli]",
-          "phoneticUS": "[ˈtɪpɪkli]",
-          "meaning": "adv. 代表性地；作为特色地"
+          "phonetic": "[ˈtɪpɪkəlɪ]",
+          "meaning": "adv.代表性地,作为特色地"
         },
         {
           "term": "unique",
-          "phonetic": "[juˈniːk]",
-          "phoneticUS": "[juˈniːk]",
-          "meaning": "n. 独一无二的人或物\nadj. 独特的，稀罕的；[数] 唯一的，独一无二的"
+          "phonetic": "[ju:ˈni:k]",
+          "meaning": "adj.唯一的,独特的"
         },
         {
           "term": "utilize",
-          "phonetic": "[ˈjuːtəlaɪz]",
-          "phoneticUS": "[ˈjuːtəlaɪz]",
-          "meaning": "vt. 利用"
+          "phonetic": "[ˈju:təlaɪz]",
+          "meaning": "vt.利用"
         },
         {
           "term": "valid",
           "phonetic": "[ˈvælɪd]",
-          "phoneticUS": "[ˈvælɪd]",
-          "meaning": "adj. 有效的；有根据的；合法的；正当的"
+          "meaning": "adj.[律]有效的,有根据的,正当的,正确的"
         },
         {
           "term": "variation",
-          "phonetic": "[ˌveəriˈeɪʃn]",
-          "phoneticUS": "[ˌveriˈeɪʃn]",
-          "meaning": "n. 变化；[生物] 变异，变种"
+          "phonetic": "[ˌveərɪˈeɪʃən]",
+          "meaning": "n.变更,变化,变异,变种,[音]变奏,变调"
         },
         {
           "term": "vary",
-          "phonetic": "[ˈveəri]",
-          "phoneticUS": "[ˈveri]",
-          "meaning": "vi. 变化；变异；违反\nvt. 改变；使多样化；变奏"
+          "phonetic": "[ˈveərɪ]",
+          "meaning": "vt.改变,变更,使多样化vi.变化,不同,违反"
         },
         {
           "term": "verify",
           "phonetic": "[ˈverɪfaɪ]",
-          "phoneticUS": "[ˈverɪfaɪ]",
-          "meaning": "vt. 核实；查证"
+          "meaning": "vt.检验,校验,查证,核实 [计] 打开或关闭文件的读写校验"
         },
         {
           "term": "viewpoint",
-          "phonetic": "[ˈvjuːpɔɪnt]",
-          "phoneticUS": "[ˈvjuːpɔɪnt]",
-          "meaning": "n. 观点，看法；视角"
+          "phonetic": "[ˈvju:ˌpɒɪnt]",
+          "meaning": "n.观点"
         },
         {
           "term": "voice",
-          "phonetic": "[vɔɪs]",
-          "phoneticUS": "[vɔɪs]",
-          "meaning": "n. 声音；嗓音；发言权；愿望\nvt. 表达；吐露"
+          "phonetic": "[vɒɪs]",
+          "meaning": "n.声音,嗓音,发音能力,意见,发言权,[语法]语态vt.表达,吐露"
         }
       ]
     }

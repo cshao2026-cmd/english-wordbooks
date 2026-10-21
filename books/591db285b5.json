@@ -1,514 +1,454 @@
 {
-  "id": "591db285b5",
   "title": "广东版三年级起点五年级下",
   "wordCount": 84,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "take a test",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "参加考试；参加测验；测试一下"
+          "phonetic": "[teɪk ə test]",
+          "meaning": ""
         },
         {
           "term": "play games",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "做游戏；玩游戏；捣鬼"
+          "phonetic": "[pleɪ geɪmz]",
+          "meaning": ""
         },
         {
           "term": "get a haircut",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "剪头发；理发；剪个短发"
+          "phonetic": "[ɡet ə ˈheə(r)kʌt]",
+          "meaning": ""
         },
         {
           "term": "see the doctor",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "v. 看医生"
+          "phonetic": "[si: ðə ˈdɒktə]",
+          "meaning": ""
         },
         {
           "term": "shop for clothes",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ʃɒp fɔ:r kləʊðz]",
+          "meaning": ""
         },
         {
           "term": "have a party",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "聚会；举行晚会；开聚会"
+          "phonetic": "[hæv ə ˈpɑ:tɪ]",
+          "meaning": ""
         },
         {
           "term": "write a letter",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 写信"
+          "phonetic": "[raɪt ə ˈletə]",
+          "meaning": ""
         },
         {
           "term": "meet some friends",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[mi:t səm frendz]",
+          "meaning": ""
         },
         {
           "term": "tonight",
           "phonetic": "[təˈnaɪt]",
-          "phoneticUS": "[təˈnaɪt]",
-          "meaning": "n. 今晚\nadv. 在今晚"
+          "meaning": "adv.今晚,今夜n.今晚"
         },
         {
           "term": "tomorrow",
           "phonetic": "[təˈmɒrəʊ]",
-          "phoneticUS": "[təˈmɑːroʊ]",
-          "meaning": "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）"
+          "meaning": "adv.明天见n.明天,未来"
         },
         {
           "term": "bored",
-          "phonetic": "[bɔːd]",
-          "phoneticUS": "[bɔːrd]",
-          "meaning": "v. 使厌烦（bore的过去式）；烦扰\nadj. 无聊的；无趣的；烦人的"
+          "phonetic": "[bɔ:d]",
+          "meaning": "adj.无聊的,无趣的,烦人的,"
         },
         {
           "term": "vacation",
-          "phonetic": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
-          "phoneticUS": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
-          "meaning": "n. 假期；（房屋）搬出\nvi. 休假，度假"
+          "phonetic": "[vəˈkeɪʃn]",
+          "meaning": "n.假期,休假,(房屋等的)腾出v.<美>度假,休假"
         },
         {
           "term": "go camping",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "去野营；去露营；宿营"
+          "phonetic": "[gəʊ ˈkæmpɪŋ]",
+          "meaning": ""
         },
         {
           "term": "like",
           "phonetic": "[laɪk]",
-          "phoneticUS": "[laɪk]",
-          "meaning": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像"
+          "meaning": "n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
         },
         {
           "term": "take photos",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "照相；拍照；拍照片"
-        },
+          "phonetic": "[teɪk ˈfəʊtəʊz]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "plan",
           "phonetic": "[plæn]",
-          "phoneticUS": "[plæn]",
-          "meaning": "n. 计划；平面图\nvt. 计划；设计；打算\nvi. 计划；打算"
+          "meaning": "n.计划,设计图,平面图vt.计划,设计"
         },
         {
           "term": "love",
           "phonetic": "[lʌv]",
-          "phoneticUS": "[lʌv]",
-          "meaning": "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕"
+          "meaning": "n.爱,热爱,爱情,爱好,性爱,情人,零vt.爱,热爱,爱好,爱慕vi.爱"
         },
         {
           "term": "ship",
           "phonetic": "[ʃɪp]",
-          "phoneticUS": "[ʃɪp]",
-          "meaning": "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员"
+          "meaning": "n.船,海船,舰v.装上船,航运,载运,在船上工作"
         },
         {
           "term": "train",
           "phonetic": "[treɪn]",
-          "phoneticUS": "[treɪn]",
-          "meaning": "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准"
+          "meaning": "n.火车,列车,行列,后果,顺序,长队,长袍(裙)拖地的部分,导火线vt.训练,培养,瞄准,(园艺)整枝vi.锻炼"
         },
         {
           "term": "bus",
           "phonetic": "[bʌs]",
-          "phoneticUS": "[bʌs]",
-          "meaning": "n. 公共汽车\n乘公共汽车"
+          "meaning": "n.公共汽车,总线"
         },
         {
           "term": "by",
           "phonetic": "[baɪ]",
-          "phoneticUS": "[baɪ]",
-          "meaning": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名"
+          "meaning": "prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
         },
         {
           "term": "by ship",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "乘船；乘轮船；坐轮船"
+          "phonetic": "[baɪ ʃɪp]",
+          "meaning": ""
         },
         {
           "term": "by plane",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "adv. 乘飞机"
+          "phonetic": "[baɪ pleɪn]",
+          "meaning": ""
         },
         {
           "term": "by bus",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 乘公共汽车"
+          "phonetic": "[baɪ bʌs]",
+          "meaning": ""
         },
         {
           "term": "by train",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 坐火车"
+          "phonetic": "[baɪ treɪn]",
+          "meaning": ""
         },
         {
           "term": "stay in a hotel",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[steɪ ɪn ə həʊˈtel]",
+          "meaning": ""
         },
         {
           "term": "stay with my aunt and uncle",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[steɪ wɪð maɪ ɑ:nt ənd ˈʌŋkəl]",
+          "meaning": ""
         },
         {
           "term": "go sightseeing",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "去观光；去观光旅行；出去观光"
+          "phonetic": "[ɡəʊ ˈsaitˌsi:ɪŋ]",
+          "meaning": ""
         },
         {
           "term": "Tibet",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 西藏（中国一自治区）"
+          "phonetic": "[tɪˈbet]",
+          "meaning": ""
         },
         {
           "term": "hurray",
           "phonetic": "[hʊˈreɪ]",
-          "phoneticUS": "[huˈreɪ]",
-          "meaning": "n. 万岁呼声；狂热\nvt. 向…欢呼（等于hurrah）\nint. 加油\nvi. 欢呼"
+          "meaning": "n.(=hurrah)万岁呼声,狂热"
         },
         {
           "term": "wolves",
-          "phonetic": "[wʊlvz]",
-          "phoneticUS": "[wʊlvz]",
-          "meaning": "n. 狼；贪婪者；色狼（wolf的复数）\nv. 大口地快吃；狼吞虎咽（wolf的单三形式）"
-        },
+          "phonetic": "[wulvz]",
+          "meaning": "n.贪婪者,色狼 pl.wolf的复数"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "have a picnic",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "举行野餐；去野餐；吃野餐"
+          "phonetic": "[hæv ə ˈpɪknɪk]",
+          "meaning": ""
         },
         {
           "term": "visit",
           "phonetic": "[ˈvɪzɪt]",
-          "phoneticUS": "[ˈvɪzɪt]",
-          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+          "meaning": "n.拜访,访问,游览,参观,(作客)逗留,视察,调查vt.拜访,访问,参观,视察,降临vi.访问,参观,闲谈"
         },
         {
           "term": "relatives",
           "phonetic": "[ˈrelətɪvz]",
-          "phoneticUS": "[ˈrelətɪvz]",
-          "meaning": "n. 亲属；[语] 关系词（relative的复数）"
+          "meaning": ""
         },
         {
           "term": "help",
           "phonetic": "[help]",
-          "phoneticUS": "[help]",
-          "meaning": "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待"
+          "meaning": "n.帮忙,补救办法,助手,治疗,<美>佣工vt.帮助,助长,接济,治疗,款待vi.有用,救命,招待 [计] 显示命令格式的简短概述"
         },
         {
           "term": "play with friends",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[pleɪ wɪð frendz]",
+          "meaning": ""
         },
         {
           "term": "make models",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[meɪk ˈmɒdlz]",
+          "meaning": ""
         },
         {
           "term": "surf the Internet",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "上网；网上冲浪；上网冲浪"
+          "phonetic": "[sɜ:f ðə ˈɪntənet]",
+          "meaning": ""
         },
         {
           "term": "read books",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "读书；看书；阅读"
+          "phonetic": "[ri:d ˈbuks]",
+          "meaning": ""
         },
         {
           "term": "next",
           "phonetic": "[nekst]",
-          "phoneticUS": "[nekst]",
-          "meaning": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后"
+          "meaning": "n.adj.下次的,其次的,与...连接,下一个adv.下一次,其次"
         },
         {
           "term": "during",
           "phonetic": "[ˈdjʊərɪŋ]",
-          "phoneticUS": "[ˈdʊrɪŋ]",
-          "meaning": "prep. 在…的时候，在…的期间"
+          "meaning": "prep.在...的期间,在...的时候"
         },
         {
           "term": "fruit",
-          "phonetic": "[fruːt]",
-          "phoneticUS": "[fruːt]",
-          "meaning": "n. 水果；产物\nvt. 使……结果实\nvi. 结果实"
+          "phonetic": "[fru:t]",
+          "meaning": "n.水果,果实,果类,成果vi.结果实"
         },
         {
           "term": "the Great Wall of China",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ði: greɪt wɔ:l əv ˈtʃaɪnə]",
+          "meaning": ""
         },
         {
           "term": "do tai chi",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
-        },
+          "phonetic": "[du: ˌtʌɪ ˈtʃi:]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "never",
-          "phonetic": "[ˈnevə(r)]",
-          "phoneticUS": "[ˈnevər]",
-          "meaning": "adv. 从未；决不"
+          "phonetic": "[ˈnevə]",
+          "meaning": "adv.决不,从未"
         },
         {
           "term": "sometimes",
           "phonetic": "[ˈsʌmtaɪmz]",
-          "phoneticUS": "[ˈsʌmtaɪmz]",
-          "meaning": "adv. 有时，间或"
+          "meaning": "adv.不时,有时"
         },
         {
           "term": "usually",
-          "phonetic": "[ˈjuːʒuəli]",
-          "phoneticUS": "[ˈjuːʒuəli; ˈjuːʒəli]",
-          "meaning": "adv. 通常，经常"
+          "phonetic": "[ˈju:ʒʊəlɪ]",
+          "meaning": "adv.通常,大抵"
         },
         {
           "term": "always",
-          "phonetic": "[ˈɔːlweɪz]",
-          "phoneticUS": "[ˈɔːlweɪz]",
-          "meaning": "adv. 永远，一直；总是；常常"
+          "phonetic": "[ˈɔ:lweɪz]",
+          "meaning": "adv.总是,永远,始终"
         },
         {
           "term": "subway",
           "phonetic": "[ˈsʌbweɪ]",
-          "phoneticUS": "[ˈsʌbweɪ]",
-          "meaning": "n. 地铁；地道\nvi. 乘地铁"
+          "meaning": "n.地道,<美> 地铁"
         },
         {
           "term": "taxi",
-          "phonetic": "[ˈtæksi]",
-          "phoneticUS": "[ˈtæksi]",
-          "meaning": "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行"
+          "phonetic": "[ˈtæksɪ]",
+          "meaning": "n.出租汽车v.乘坐出租汽车"
         },
         {
           "term": "bike",
           "phonetic": "[baɪk]",
-          "phoneticUS": "[baɪk]",
-          "meaning": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）"
+          "meaning": "n.脚踏车,自行车"
         },
         {
           "term": "take",
           "phonetic": "[teɪk]",
-          "phoneticUS": "[teɪk]",
-          "meaning": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额"
+          "meaning": "v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
         },
         {
           "term": "drive",
           "phonetic": "[draɪv]",
-          "phoneticUS": "[draɪv]",
-          "meaning": "n. 驱动器；驾车；[心理] 内驱力，推进力；快车道\nvi. 开车；猛击；飞跑\nvt. 推动，发动（机器等）；驾驶（马车，汽车等）；驱赶"
+          "meaning": "n.驾车,驱动器,快车道,推进力,驱使,动力,干劲,击球vt.开车,驱赶,推动、发动(机器等),驾驶(马车,汽车等)vi.开车,猛击,飞跑n.[计]驱动器"
         },
         {
           "term": "walk",
-          "phonetic": "[wɔːk]",
-          "phoneticUS": "[wɔːk]",
-          "meaning": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过"
+          "phonetic": "[wɔ:k]",
+          "meaning": "vi.步,行,走n.步行,散步,步,行道"
         },
         {
           "term": "woods",
-          "phonetic": "[wʊdz]",
-          "phoneticUS": "[wʊdz]",
-          "meaning": "n. [林] 树林；森林；木头（wood的复数）\nv. 供以木材；用森林覆盖（wood的第三人称单数）"
+          "phonetic": "[wudz]",
+          "meaning": "n.森林"
         },
         {
           "term": "look for",
-          "phonetic": "[ˈlʊk fɔː(r)]",
-          "phoneticUS": "[ˈlʊk fɔːr]",
-          "meaning": "v. 寻找；探索；渴望；盼望"
+          "phonetic": "[lʊk fɔ:]",
+          "meaning": ""
         },
         {
           "term": "candies",
           "phonetic": "[ˈkændɪz]",
-          "phoneticUS": "[ˈkændiz]",
-          "meaning": "n. 糖果，果饵（candy的复数）"
+          "meaning": ""
         },
         {
           "term": "find",
           "phonetic": "[faɪnd]",
-          "phoneticUS": "[faɪnd]",
-          "meaning": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得"
+          "meaning": "vt.找到,发现,感到,查明,得到,认为,见到...的存在vi.裁决n.发现 [计] 在文件中查找指定的字符串"
         },
         {
           "term": "lost",
           "phonetic": "[lɒst]",
-          "phoneticUS": "[lɔːst]",
-          "meaning": "adj. 失去的；丧失的；迷惑的\nv. 遗失（lose的过去分词）；失败"
-        },
+          "meaning": "adj.失去的,丧失的,错过的,迷惑的,不为人知的 vbl.lose的过去式和过去分词"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "once",
           "phonetic": "[wʌns]",
-          "phoneticUS": "[wʌns]",
-          "meaning": "adv. 一次；曾经\nconj. 一旦\nn. 一次，一回"
+          "meaning": "n.adv.一次,从前,曾经 conj.一旦"
         },
         {
           "term": "twice",
           "phonetic": "[twaɪs]",
-          "phoneticUS": "[twaɪs]",
-          "meaning": "adv. 两次；两倍"
+          "meaning": "adv.两次,两倍"
         },
         {
           "term": "three times",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "最好的时光；三次；三倍"
+          "phonetic": "[θri: taɪmz]",
+          "meaning": ""
         },
         {
           "term": "go fishing",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "去钓鱼；垂钓；我以前常去钓鱼"
+          "phonetic": "[ɡəʊ ˈfɪʃɪŋ]",
+          "meaning": ""
         },
         {
           "term": "go hiking",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "去远足；去徒步旅行；去徒步远足"
+          "phonetic": "[ɡəʊ ˈhaɪkɪŋ]",
+          "meaning": ""
         },
         {
           "term": "go ice-skating",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[ɡəʊ aɪs ˈskeɪtɪŋ]",
+          "meaning": ""
         },
         {
           "term": "go swimming",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 去游泳"
+          "phonetic": "[ɡəʊ ˈswɪmɪŋ]",
+          "meaning": ""
         },
         {
           "term": "often",
-          "phonetic": "[ˈɒf(ə)n]",
-          "phoneticUS": "[ˈɔːf(ə)n]",
-          "meaning": "adv. 常常，时常"
+          "phonetic": "[ˈɒfn]",
+          "meaning": "adv.常常,经常"
         },
         {
           "term": "fish",
           "phonetic": "[fɪʃ]",
-          "phoneticUS": "[fɪʃ]",
-          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+          "meaning": "n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
         },
         {
           "term": "favorite",
           "phonetic": "[ˈfeɪvərɪt]",
-          "phoneticUS": "[ˈfeɪvərɪt]",
-          "meaning": "n. 幸运儿；喜欢的事物；特别喜欢的人\nadj. 最喜爱的；中意的；宠爱的"
+          "meaning": "n.特别喜欢的人(或物),喜欢的事物,亲信,心腹,幸运儿adj.喜爱的,宠爱的,中意的"
         },
         {
           "term": "activity",
-          "phonetic": "[ækˈtɪvəti]",
-          "phoneticUS": "[ækˈtɪvəti]",
-          "meaning": "n. 活动；行动；活跃"
+          "phonetic": "[ækˈtɪvɪtɪ]",
+          "meaning": "n.活跃,活动性,行动,行为,[核]放射性"
         },
         {
           "term": "about",
           "phonetic": "[əˈbaʊt]",
-          "phoneticUS": "[əˈbaʊt]",
-          "meaning": "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处"
-        },
+          "meaning": "adv.附近,大约,转向,左右,周围;prep.在附近,关于,在...周围,忙于"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "habit",
           "phonetic": "[ˈhæbɪt]",
-          "phoneticUS": "[ˈhæbɪt]",
-          "meaning": "n. 习惯，习性；嗜好\nvt. 使穿衣"
+          "meaning": "n.习惯,习性"
         },
         {
           "term": "brush",
           "phonetic": "[brʌʃ]",
-          "phoneticUS": "[brʌʃ]",
-          "meaning": "n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴\nvi. 刷；擦过；掠过；（经过时）轻触\nvt. 刷；画；"
+          "meaning": "n.刷子,毛刷,画笔vt.刷,掸,拂"
         },
         {
           "term": "teeth",
-          "phonetic": "[tiːθ]",
-          "phoneticUS": "[tiːθ]",
-          "meaning": "n. 牙齿"
+          "phonetic": "[ti:θ]",
+          "meaning": "n.pl.牙齿"
         },
         {
           "term": "comb",
           "phonetic": "[kəʊm]",
-          "phoneticUS": "[koʊm]",
-          "meaning": "n. 梳子；蜂巢；鸡冠\nvt. 梳头发；梳毛\nvi. （浪）涌起"
+          "meaning": "n.梳子,梳,鸡冠,蜂巢vi.梳(发),搜索"
         },
         {
           "term": "hair",
-          "phonetic": "[heə(r)]",
-          "phoneticUS": "[her]",
-          "meaning": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维"
+          "phonetic": "[heə]",
+          "meaning": "n.头发,毛发,毛状物,绒毛,些微"
         },
         {
           "term": "finish",
           "phonetic": "[ˈfɪnɪʃ]",
-          "phoneticUS": "[ˈfɪnɪʃ]",
-          "meaning": "n. 结束；完美；回味（葡萄酒）\nvt. 完成；结束；用完\nvi. 结束，终止；终结"
+          "meaning": "n.完成,结束,磨光,末道漆,完美vt.完成,结束,用完,毁掉,使完美vi.结束,终结,停止,终止"
         },
         {
           "term": "pack",
           "phonetic": "[pæk]",
-          "phoneticUS": "[pæk]",
-          "meaning": "n. 包装；一群；背包；包裹；一副\nvt. 包装；压紧；捆扎；挑选；塞满\nvi. 挤；包装货物；被包装；群集"
+          "meaning": "n.包裹,<贬>一群,一副,背包,包装vt.包装,捆扎,塞满,压紧,挑选vi.包装货物,挤,群集,被包装 背包"
         },
         {
           "term": "schoolbag",
-          "phonetic": "[ˈskuːlbæɡ]",
-          "phoneticUS": "[ˈskuːlˌbæɡ]",
-          "meaning": "n. 书包"
+          "phonetic": "[ˈsku:lbæɡ]",
+          "meaning": "n.书包"
         },
         {
           "term": "hang up",
-          "phonetic": "[ˈhæŋ ʌp]",
-          "phoneticUS": "[hæŋ ʌp]",
-          "meaning": "v. 挂断电话；挂机；悬挂；耽搁"
+          "phonetic": "[hæŋ ʌp]",
+          "meaning": ""
         },
         {
           "term": "take out",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 取出；带出(散步等)；除去(污点等)；取得(专卖权等)"
+          "phonetic": "[teɪk aʊt]",
+          "meaning": ""
         },
         {
           "term": "trash",
           "phonetic": "[træʃ]",
-          "phoneticUS": "[træʃ]",
-          "meaning": "n. 垃圾；废物\nvt. 丢弃；修剪树枝"
+          "meaning": "n.无价值之物,无聊的作品,垃圾,废物"
         },
         {
           "term": "clean up",
-          "phonetic": "[ˈkliːn ʌp]",
-          "phoneticUS": "[ˈkliːn ʌp]",
-          "meaning": "na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利"
+          "phonetic": "[kli:n ʌp]",
+          "meaning": ""
         },
         {
           "term": "understand",
-          "phonetic": "[ˌʌndəˈstænd]",
-          "phoneticUS": "[ˌʌndərˈstænd]",
-          "meaning": "vi. 理解；懂得；熟悉\nvt. 理解；懂；获悉；推断；省略"
+          "phonetic": "[ʌndəˈstænd]",
+          "meaning": "v.懂,了解,听说,推定,以为,省略"
         }
       ]
     }

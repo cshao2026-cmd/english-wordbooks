@@ -1,412 +1,364 @@
 {
-  "id": "edf0af8b48",
   "title": "北师大版三年级起点三年级上",
   "wordCount": 67,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "what",
           "phonetic": "[wɒt]",
-          "phoneticUS": "[wʌt]",
-          "meaning": "pron. 什么；多么；多少\nadv. 到什么程度，在哪一方面\nadj. 什么；多么；何等\nint. 什么；多么"
+          "meaning": "pron.什么int.怎么,多么adj.什么adv.到什么程度,在哪一方面n.本质,实质,要素"
         },
         {
           "term": "is",
           "phonetic": "[ɪz]",
-          "phoneticUS": "[ɪz]",
-          "meaning": "v. 是（be的三单形式）\nn. 存在"
+          "meaning": "prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安"
         },
         {
           "term": "your",
-          "phonetic": "[jɔː(r); jə(r)]",
-          "phoneticUS": "[jʊr; jər]",
-          "meaning": "pron. 你的，你们的"
+          "phonetic": "[jɔ:(r)]",
+          "meaning": "pron.你的,你们的"
         },
         {
           "term": "name",
           "phonetic": "[neɪm]",
-          "phoneticUS": "[neɪm]",
-          "meaning": "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的"
+          "meaning": "n.名字,名称,姓名,名誉vt.命名,提名,叫出,指定adj.姓名的,据以取名的"
         },
         {
           "term": "hi",
           "phonetic": "[haɪ]",
-          "phoneticUS": "[haɪ]",
-          "meaning": "int. 嗨！（表示问候或用以唤起注意）"
+          "meaning": "int.嗨!(引人注意时的喊声,打招呼)"
         },
         {
           "term": "hello",
           "phonetic": "[həˈləʊ]",
-          "phoneticUS": "[həˈləʊ]",
-          "meaning": "n. 表示问候， 惊奇或唤起注意时的用语\nint. 喂；哈罗"
+          "meaning": "int.喂,哈罗"
         },
         {
           "term": "my",
           "phonetic": "[maɪ]",
-          "phoneticUS": "[maɪ]",
-          "meaning": "pron. 我的\nint. 哎呀（表示惊奇等）；喔唷"
+          "meaning": "pron.我的int.<口>嗳呀!啊呀! [域] Malaysia ,马来西亚"
         },
         {
           "term": "I",
           "phonetic": "[aɪ]",
-          "phoneticUS": "[aɪ]",
-          "meaning": "n. 碘元素；英语字母I\npron. 我"
+          "meaning": ""
         },
         {
           "term": "am",
-          "phonetic": "[əm; æm]",
-          "phoneticUS": "[əm; æm]",
-          "meaning": "abbr. 调幅\nv. 是"
+          "phonetic": "[æm]",
+          "meaning": "prep.是,在n.A.M.上午,午前 [域] Armenia ,亚美尼亚 [军] Amplitude Modulation,调幅 (AM) 调幅 (amplitude modulation)"
         },
         {
           "term": "and",
-          "phonetic": "[ənd]",
-          "phoneticUS": "[ənd; ən; n; ænd]",
-          "meaning": "conj. 和，与；就；而且；但是；然后"
+          "phonetic": "[ænd]",
+          "meaning": "conj.和,及,并,然后,接着又 /conj.及(或)"
         },
         {
           "term": "good morning",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "int. （上午见面时用语，非正式场合常说 Morning）早上好"
+          "phonetic": "[ɡud ˈmɔ:nɪŋ]",
+          "meaning": ""
         },
         {
           "term": "children",
           "phonetic": "[ˈtʃɪldrən]",
-          "phoneticUS": "[ˈtʃɪldrən]",
-          "meaning": "n. 孩子们（child的复数）"
+          "meaning": "n.(pl.)孩子,孩子们"
         },
         {
           "term": "goodbye",
-          "phonetic": "[ˌɡʊdˈbaɪ]",
-          "phoneticUS": "[ˌɡʊdˈbaɪ]",
-          "meaning": "int. 再见\n放弃\n告别"
+          "phonetic": "[ˌɡudˈbaɪ]",
+          "meaning": "int.再见"
         },
         {
           "term": "bye",
           "phonetic": "[baɪ]",
-          "phoneticUS": "[baɪ]",
-          "meaning": "n. 轮空；次要的东西\nint. 再见\nadj. 次要的"
-        },
+          "meaning": "n.枝节的问题,不重要或次要的东西adj.附属的"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "this",
           "phonetic": "[ðɪs]",
-          "phoneticUS": "[ðɪs]",
-          "meaning": "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么"
+          "meaning": "adj.这,这个,今,本 pron.这,这个"
         },
         {
           "term": "look",
           "phonetic": "[lʊk]",
-          "phoneticUS": "[lʊk]",
-          "meaning": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容"
+          "meaning": "n.看,注视,脸色,面容,外表vi.看,注意,朝着,好象,显得vt.打量,注视,用眼神(或脸色)表示,期待"
         },
         {
           "term": "a",
           "phonetic": "[ə]",
-          "phoneticUS": "[ə; eɪ]",
-          "meaning": "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. [物]安（ampere）"
+          "meaning": "n.(A)As 或 A's  安(ampere);(a) art.一;n.字母A /[军] Analog.Digital,模拟/数字 /(=account of) 帐上"
         },
         {
           "term": "deer",
-          "phonetic": "[dɪə(r)]",
-          "phoneticUS": "[dɪr]",
-          "meaning": "n. 鹿"
+          "phonetic": "[dɪə]",
+          "meaning": ""
         },
         {
           "term": "it",
           "phonetic": "[ɪt]",
-          "phoneticUS": "[ɪt]",
-          "meaning": "abbr. 信息技术information technology\nabbr. 意大利Italy；意大利的Italian"
+          "meaning": "pron.它;Italy,意大利;Information Technology,信息技术"
         },
         {
           "term": "tiger",
-          "phonetic": "[ˈtaɪɡə(r)]",
-          "phoneticUS": "[ˈtaɪɡər]",
-          "meaning": "n. 老虎；凶暴的人"
+          "phonetic": "[ˈtaɪɡə]",
+          "meaning": "n.[动]老虎,虎,凶暴的人"
         },
         {
           "term": "that",
           "phonetic": "[ðæt]",
-          "phoneticUS": "[ðæt]",
-          "meaning": "conj. 因为；以至于\nadj. 那；那个\npron. 那；那个\nadv. 那么；那样"
+          "meaning": "adj.那,那个 pron.那,那个 conj.引导从句"
         },
         {
           "term": "no",
           "phonetic": "[nəʊ]",
-          "phoneticUS": "[noʊ]",
-          "meaning": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号"
+          "meaning": "n.否定,投反对票者adj.没有,不许,反对adv.不,并不,毫不 [域] Norway ,挪威"
         },
         {
           "term": "not",
           "phonetic": "[nɒt]",
-          "phoneticUS": "[nɑːt]",
-          "meaning": "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）"
+          "meaning": "adv.不"
         },
         {
           "term": "cat",
           "phonetic": "[kæt]",
-          "phoneticUS": "[kæt]",
-          "meaning": "n. 猫，猫科动物"
+          "meaning": ""
         },
         {
           "term": "dog",
-          "phonetic": "[dɒɡ]",
-          "phoneticUS": "[dɔːɡ]",
-          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
+          "phonetic": "[dɒg]",
+          "meaning": "n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋vt.跟踪,尾随"
         },
         {
           "term": "cow",
           "phonetic": "[kaʊ]",
-          "phoneticUS": "[kaʊ]",
-          "meaning": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓"
+          "meaning": "n.母牛,大型母兽vt.威吓"
         },
         {
           "term": "panda",
           "phonetic": "[ˈpændə]",
-          "phoneticUS": "[ˈpændə]",
-          "meaning": "n. 熊猫；猫熊"
+          "meaning": "n.熊猫,黑白相间的熊类"
         },
         {
           "term": "horse",
-          "phonetic": "[hɔːs]",
-          "phoneticUS": "[hɔːrs]",
-          "meaning": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人"
-        },
+          "phonetic": "[hɔ:s]",
+          "meaning": "n.马,[总称]骑兵,脚架,马力vi.骑马,作弄人vt.使骑马,系马于"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "pass",
-          "phonetic": "[pɑːs]",
-          "phoneticUS": "[pæs]",
-          "meaning": "n. 及格；经过；护照；途径；传球\nvt. 通过；经过；传递\nvi. 经过；传递；变化；终止"
+          "phonetic": "[pɑ:s]",
+          "meaning": "n.经过,关口,途径,护照,通行证,入场券,传球,及格vt.通过,审查通过,忽略,传递vi.经过,变化,流通,宣判,被忽略,终止,传递,不叫牌"
         },
         {
           "term": "the",
           "phonetic": "[ðə]",
-          "phoneticUS": "[ðə; ði; ðiː]",
-          "meaning": "art. 这；那\nadv. 更加（用于比较级，最高级前）"
+          "meaning": "art.那"
         },
         {
           "term": "ball",
-          "phonetic": "[bɔːl]",
-          "phoneticUS": "[bɔːl]",
-          "meaning": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块"
+          "phonetic": "[bɔ:l]",
+          "meaning": "n.球,球状物,子弹,舞会,尽情地玩"
         },
         {
           "term": "play",
           "phonetic": "[pleɪ]",
-          "phoneticUS": "[pleɪ]",
-          "meaning": "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛"
+          "meaning": "n.游戏,比赛,运动,赌博,剧本v.玩,扮演,播放,进行比赛v.播放"
         },
         {
           "term": "football",
-          "phonetic": "[ˈfʊtbɔːl]",
-          "phoneticUS": "[ˈfʊtbɔːl]",
-          "meaning": "n. 足球，橄榄球\nvi. 踢足球；打橄榄球"
+          "phonetic": "[ˈfutbɔ:l]",
+          "meaning": "n.足球,橄榄球"
         },
         {
           "term": "OK",
           "phonetic": "[əʊˈkeɪ]",
-          "phoneticUS": "[ˌoʊ'keɪ]",
-          "meaning": "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意"
+          "meaning": ""
         },
         {
           "term": "catch",
           "phonetic": "[kætʃ]",
-          "phoneticUS": "[kætʃ]",
-          "meaning": "n. 捕捉；捕获物；窗钩\nvt. 赶上；抓住；感染；了解\nvi. 赶上；抓住"
+          "meaning": "n.捕捉,捕获物,(窗)钩v.捕获,赶上(车船等),发觉,感染(疾病)vi.抓住,燃着"
         },
         {
           "term": "kick",
           "phonetic": "[kɪk]",
-          "phoneticUS": "[kɪk]",
-          "meaning": "vt. 踢；反冲，朝后座\nn. 踢；反冲，后座力\nvi. 踢；反冲"
+          "meaning": "v.踢n.踢"
         },
         {
           "term": "throw",
           "phonetic": "[θrəʊ]",
-          "phoneticUS": "[θroʊ]",
-          "meaning": "n. 投掷；冒险\nvt. 投；抛；掷\nvi. 抛；投掷"
+          "meaning": "n.投,掷v.扔,抛,(指马)把骑者摔在地上,使苦恼,惊忧,投掷"
         },
         {
           "term": "who",
-          "phonetic": "[huː]",
-          "phoneticUS": "[huː]",
-          "meaning": "pron. 谁；什么人"
+          "phonetic": "[hu:]",
+          "meaning": "pron.谁,那...的(人)  世界卫生组织 WHO(the World Health Organization)"
         },
         {
           "term": "he",
-          "phonetic": "[hi; iː; i; hiː]",
-          "phoneticUS": "[hi; iː; i; hiː]",
-          "meaning": "n. 男孩，男人；它（雄性动物）\npron. 他"
+          "phonetic": "[hi:]",
+          "meaning": "pron.他n.男,雄 [军] High Explosive,高爆炸药 symb [化]氦 He(helium)"
         },
         {
           "term": "cousin",
           "phonetic": "[ˈkʌzn]",
-          "phoneticUS": "[ˈkʌzn]",
-          "meaning": "n. 堂兄弟姊妹；表兄弟姊妹"
+          "meaning": "n.堂兄弟姊妹,表兄弟姊妹"
         },
         {
           "term": "she",
-          "phonetic": "[ʃi]",
-          "phoneticUS": "[ʃi; ʃiː]",
-          "meaning": "n. 女人；雌性动物\npron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）"
+          "phonetic": "[ʃi:]",
+          "meaning": "pron.[主格]她"
         },
         {
           "term": "friend",
           "phonetic": "[frend]",
-          "phoneticUS": "[frend]",
-          "meaning": "n. 朋友；助手；赞助者"
-        },
+          "meaning": "n.朋友,赞助者,助手"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "family",
-          "phonetic": "[ˈfæməli]",
-          "phoneticUS": "[ˈfæməli]",
-          "meaning": "n. 家庭；亲属；家族；子女；[生]科；语族；[化]族\nadj. 家庭的；家族的；适合于全家的"
+          "phonetic": "[ˈfæməlɪ]",
+          "meaning": "n.家庭,家族,家属,亲属,子女,僚属adj.家庭的,家族的"
         },
         {
           "term": "mother",
-          "phonetic": "[ˈmʌðə(r)]",
-          "phoneticUS": "[ˈmʌðər]",
-          "meaning": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的"
+          "phonetic": "[ˈmʌðə]",
+          "meaning": "n.母亲,妈妈"
         },
         {
           "term": "father",
-          "phonetic": "[ˈfɑːðə(r)]",
-          "phoneticUS": "[ˈfɑːðər]",
-          "meaning": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲"
+          "phonetic": "[ˈfɑ:ðə]",
+          "meaning": "n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
         },
         {
           "term": "grandmother",
-          "phonetic": "[ˈɡrænmʌðə(r)]",
-          "phoneticUS": "[ˈɡrænmʌðər]",
-          "meaning": "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母"
+          "phonetic": "[ˈɡrændˌmʌðə]",
+          "meaning": "n.祖母"
         },
         {
           "term": "grandfather",
-          "phonetic": "[ˈɡrænfɑːðə(r)]",
-          "phoneticUS": "[ˈɡrænfɑːðər]",
-          "meaning": "n. 祖父；始祖\nvt. 不受新规定限制"
+          "phonetic": "[ˈɡrændˌfɑ:ðə]",
+          "meaning": "n.祖父,始祖"
         },
         {
           "term": "sister",
           "phonetic": "[ˈsɪstə(r)]",
-          "phoneticUS": "[ˈsɪstər]",
-          "meaning": "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的"
+          "meaning": "n.姐妹,姐,女会员,修女,妹vt.姐妹般对待"
         },
         {
           "term": "yes",
           "phonetic": "[jes]",
-          "phoneticUS": "[jes]",
-          "meaning": "n. 是（表示肯定）\nadv. 是, 是的"
+          "meaning": "adv.n.是"
         },
         {
           "term": "brother",
-          "phonetic": "[ˈbrʌðə(r)]",
-          "phoneticUS": "[ˈbrʌðər]",
-          "meaning": "n. 兄弟；同事；战友\nint. 我的老兄！"
+          "phonetic": "[ˈbrʌðə]",
+          "meaning": "n.兄弟"
         },
         {
           "term": "me",
-          "phonetic": "[mi; miː]",
-          "phoneticUS": "[mi; miː]",
-          "meaning": "pron. 我（宾格）\nn. 自我；极端自私的人；自我的一部分"
+          "phonetic": "[mi:]",
+          "meaning": "pron.我"
         },
         {
           "term": "aunt",
-          "phonetic": "[ɑːnt]",
-          "phoneticUS": "[ænt]",
-          "meaning": "n. 阿姨；姑妈；伯母；舅妈"
+          "phonetic": "[ɑ:nt]",
+          "meaning": "n.姑妈,伯母,舅妈,阿姨"
         },
         {
           "term": "uncle",
-          "phonetic": "[ˈʌŋk(ə)l]",
-          "phoneticUS": "[ˈʌŋkl]",
-          "meaning": "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父"
-        },
+          "phonetic": "[ˈʌŋkl]",
+          "meaning": "n.伯父,叔父,姨丈,援助者"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "his",
           "phonetic": "[hɪz]",
-          "phoneticUS": "[hɪz; ɪz]",
-          "meaning": "pron. 他的"
+          "meaning": "pron.他的"
         },
         {
           "term": "her",
-          "phonetic": "[hə(r)]",
-          "phoneticUS": "[hər; ɜːr; ər; hɜːr]",
-          "meaning": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）"
+          "phonetic": "[hɜ:]",
+          "meaning": "pron.她的,她"
         },
         {
           "term": "computer",
-          "phonetic": "[kəmˈpjuːtə(r)]",
-          "phoneticUS": "[kəmˈpjuːtər]",
-          "meaning": "n. 计算机；电脑；电子计算机"
+          "phonetic": "[kəmˈpju:tə]",
+          "meaning": "n.计算机,电脑"
         },
         {
           "term": "mom",
           "phonetic": "[mɒm]",
-          "phoneticUS": "[mɑːm]",
-          "meaning": "n. 妈妈"
+          "meaning": ""
         },
         {
           "term": "bag",
-          "phonetic": "[bæɡ]",
-          "phoneticUS": "[bæɡ]",
-          "meaning": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂"
+          "phonetic": "[bæg]",
+          "meaning": "n.袋子,猎获物"
         },
         {
           "term": "toy",
-          "phonetic": "[tɔɪ]",
-          "phoneticUS": "[tɔɪ]",
-          "meaning": "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待"
+          "phonetic": "[tɒɪ]",
+          "meaning": ""
         },
         {
           "term": "car",
-          "phonetic": "[kɑː(r)]",
-          "phoneticUS": "[kɑːr]",
-          "meaning": "n. 汽车；车厢"
+          "phonetic": "[kɑ:(r)]",
+          "meaning": "n.汽车,小汽车,车辆,客车,[铁]车厢"
         },
         {
           "term": "pencil box",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "铅笔盒；文具盒；你的铅笔盒"
+          "phonetic": "[ˈpensl bɒks]",
+          "meaning": ""
         },
         {
           "term": "bike",
           "phonetic": "[baɪk]",
-          "phoneticUS": "[baɪk]",
-          "meaning": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）"
+          "meaning": "n.脚踏车,自行车"
         },
         {
           "term": "for",
-          "phonetic": "[fə(r)]",
-          "phoneticUS": "[fər; fɔːr]",
-          "meaning": "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为"
+          "phonetic": "[fɔ:]",
+          "meaning": "prep.(表示目的)为了,因为,至于,对于,适合于 conj.因为"
         },
         {
           "term": "pencil",
-          "phonetic": "[ˈpens(ə)l]",
-          "phoneticUS": "[ˈpensl]",
-          "meaning": "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状"
+          "phonetic": "[ˈpensl]",
+          "meaning": "n.铅笔"
         },
         {
           "term": "crayon",
-          "phonetic": "[ˈkreɪən; ˈkreɪɒn]",
-          "phoneticUS": "[ˈkreɪən; ˈkreɪɑːn]",
-          "meaning": "n. 蜡笔，有色粉笔\nvt. 以蜡笔作画，用颜色粉笔画"
+          "phonetic": "[ˈkreɪən]",
+          "meaning": "n.有色粉笔,蜡笔,粉笔画"
         },
         {
           "term": "book",
           "phonetic": "[bʊk]",
-          "phoneticUS": "[bʊk]",
-          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
+          "meaning": "n.书,书籍,卷,篇,帐簿,名册,工作簿v.登记,预订,控告"
         },
         {
           "term": "ruler",
-          "phonetic": "[ˈruːlə(r)]",
-          "phoneticUS": "[ˈruːlər]",
-          "meaning": "n. 尺；统治者；[测] 划线板，划线的人"
+          "phonetic": "[ˈru:lə]",
+          "meaning": "n.统治者,管理者,尺,直尺n.标尺,划线板,划线的人"
         }
       ]
     }

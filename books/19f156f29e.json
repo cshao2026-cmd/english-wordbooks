@@ -1,616 +1,554 @@
 {
-  "id": "19f156f29e",
   "title": "闽教版三年级起点六年级上",
-  "wordCount": 101,
+  "wordCount": 102,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
+          "term": "game",
+          "phonetic": "[ɡeɪm]",
+          "meaning": "n.比赛,游戏,竞赛,[复]运动会,玩耍,比分,比赛规则,策略vi.赌博adj.勇敢的,有胆量的,关于野味的,跛的"
+        },
+        {
           "term": "Olympic Games",
-          "phonetic": "n. 奥林匹克运动会；奥运会",
-          "phoneticUS": "",
+          "phonetic": "[əˈlɪmpɪk geɪmz]",
           "meaning": ""
         },
         {
           "term": "take place",
-          "phonetic": "na. 发生；举行",
-          "phoneticUS": "",
+          "phonetic": "[teɪk pleɪs]",
           "meaning": ""
         },
         {
           "term": "Summer Olympics",
-          "phonetic": "夏季奥运会；体育；年夏季奥林匹克运动会",
-          "phoneticUS": "",
+          "phonetic": "[ˈsʌmə əʊˈlɪmpɪks]",
           "meaning": ""
         },
         {
           "term": "Winter Olympics",
-          "phonetic": "n. 【体】冬季奥林匹克运动会",
-          "phoneticUS": "",
+          "phonetic": "[ˈwɪntə əʊˈlɪmpɪks]",
           "meaning": ""
         },
         {
           "term": "ring",
-          "phonetic": "n. 戒指；铃声，钟声；拳击场；环形物\nvi. 按铃；敲钟；回响；成环形\nvt. 按铃；包围；敲钟；套住",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[rɪŋ]",
+          "meaning": "n.环,环形物,环状,铃声,声调,打电话,拳击场vt.包围,套住,按铃,敲钟vi.成环形,响,鸣,敲钟,回响,按铃"
         },
         {
           "term": "answer",
-          "phonetic": "n. 回答；答案；答辩\nvt. 回答；符合\nvi. 回答；符合",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈɑ:nsə]",
+          "meaning": "n.答案,回答,答辩,抗辩v.回答说,答复说,符合,反响,响应"
         },
         {
           "term": "hold",
-          "phonetic": "n. 控制；保留\nvi. 支持；有效；持续\nvt. 持有；拥有；保存；拘留；约束或控制\n又作“Hold住”使用，中英混用词汇，表示轻松掌控全局。\n[ 过去式 held 过去分词 held或holden 现在分词 holding ]",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[həʊld]",
+          "meaning": "n.把握,把持力,柄,控制,监禁,掌握,货舱vt.拿着,保存,支持,占据,持有,拥有vi.支持,保持,有效n.控制,保留"
         },
         {
           "term": "something",
-          "phonetic": "n. 重要的人；值得重视的事\nadj. 大约；有点象\nadv. 非常；有点；大约\npron. 某事；某物",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈsʌmθɪŋ]",
+          "meaning": "pron.某事,某物adj.有点象,大约"
         },
         {
           "term": "began",
-          "phonetic": "v. 开始；创建；着手于（begin的过去式）",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɪˈɡæn]",
+          "meaning": "vbl.begin的过去式"
         },
         {
           "term": "begin",
-          "phonetic": "vi. 开始；首先\nvt. 开始",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɪˈɡɪn]",
+          "meaning": "v.开始,首先"
         },
         {
           "term": "slogan",
-          "phonetic": "n. 标语；呐喊声",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈsləʊɡən]",
+          "meaning": "n.口号,标语"
         },
         {
           "term": "world",
-          "phonetic": "n. 世界；领域；世俗；全人类；物质生活",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[wɜ:ld]",
+          "meaning": "n.世界,...界,世事,世故,社会adj.世界的"
         },
         {
           "term": "dream",
-          "phonetic": "n. 梦想，愿望；梦\nadj. 梦的；理想的；不切实际的\nvt. 梦想；做梦；想到\nvi. 梦想；做梦，梦见；想到",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[dri:m]",
+          "meaning": "v.做梦,梦见,梦想,想到n.梦,梦想"
         },
         {
           "term": "strong",
-          "phonetic": "adj. 坚强的；强壮的；牢固的；擅长的\nadv. 强劲地；猛烈地",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[strɒŋ]",
+          "meaning": "adj.强,强壮的,坚固的,浓的,强烈的,强大的,强的,强硬的"
         },
         {
           "term": "together",
-          "phonetic": "adj. 新潮的；情绪稳定的，做事有效率的\nadv. 一起；同时；相互；连续地；总共",
-          "phoneticUS": "",
-          "meaning": ""
-        },
+          "phonetic": "[təˈɡeðə]",
+          "meaning": "adv.共同,一起,合起来,集拢地"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "between",
-          "phonetic": "prep. 在…之间\nadv. 在中间",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɪˈtwi:n]",
+          "meaning": "prep.在...之间,连接...,由...协力合作"
         },
         {
           "term": "woman",
-          "phonetic": "n. 妇女；女性；成年女子",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈwumən]",
+          "meaning": "n.女人,妇女,女仆adj.女人的,女性的,妇女的vt.为...配备妇女,使成女人腔"
         },
         {
           "term": "women",
-          "phonetic": "n. 女人（woman的复数）",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈwɪmɪn]",
+          "meaning": "n.pl.女人"
         },
         {
           "term": "healthy",
-          "phonetic": "adj. 健康的，健全的；有益于健康的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈhelθɪ]",
+          "meaning": "adj.健康的,健壮的,有益于健康的"
         },
         {
           "term": "exercise",
-          "phonetic": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈeksəsaɪz]",
+          "meaning": "n.练习,习题,训练,锻炼,演习v.训练,锻炼vt.行使,使担扰"
         },
         {
           "term": "always",
-          "phonetic": "adv. 永远，一直；总是；常常",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈɔ:lweɪz]",
+          "meaning": "adv.总是,永远,始终"
         },
         {
           "term": "often",
-          "phonetic": "adv. 常常，时常",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈɒfn]",
+          "meaning": "adv.常常,经常"
         },
         {
           "term": "sometimes",
-          "phonetic": "adv. 有时，间或",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈsʌmtaɪmz]",
+          "meaning": "adv.不时,有时"
         },
         {
           "term": "pass",
-          "phonetic": "n. 及格；经过；护照；途径；传球\nvt. 通过；经过；传递\nvi. 经过；传递；变化；终止",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[pɑ:s]",
+          "meaning": "n.经过,关口,途径,护照,通行证,入场券,传球,及格vt.通过,审查通过,忽略,传递vi.经过,变化,流通,宣判,被忽略,终止,传递,不叫牌"
         },
         {
           "term": "ball",
-          "phonetic": "n. 球；舞会\nvt. 捏成球形\nvi. 成团块",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɔ:l]",
+          "meaning": "n.球,球状物,子弹,舞会,尽情地玩"
         },
         {
           "term": "catch",
-          "phonetic": "n. 捕捉；捕获物；窗钩\nvt. 赶上；抓住；感染；了解\nvi. 赶上；抓住",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[kætʃ]",
+          "meaning": "n.捕捉,捕获物,(窗)钩v.捕获,赶上(车船等),发觉,感染(疾病)vi.抓住,燃着"
         },
         {
           "term": "cry",
-          "phonetic": "n. 叫喊；叫声；口号；呼叫\nvi. 哭；叫；喊\nvt. 叫喊；哭出；大声说",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[kraɪ]",
+          "meaning": "vi.哭,流泪v.叫,喊n.哭泣,哭声,叫喊,喊声"
         },
         {
           "term": "cheer",
-          "phonetic": "n. 欢呼；愉快；心情；令人愉快的事\nvt. 欢呼；使高兴；为…加油\nvi. 欢呼；感到高兴",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[tʃɪə]",
+          "meaning": "n.愉快,欢呼v.(使)快活,(对)欢呼"
         },
         {
           "term": "their",
-          "phonetic": "pron. 他们的，她们的；它们的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ðeə]",
+          "meaning": "pron.他们的,她们的,它们的"
         },
         {
           "term": "team",
-          "phonetic": "n. 队；组\nvt. 使合作\nvi. 合作",
-          "phoneticUS": "",
-          "meaning": ""
-        },
+          "phonetic": "[ti:m]",
+          "meaning": "n.队,组"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "bring",
-          "phonetic": "vt. 带来；促使；引起；使某人处于某种情况或境地",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[brɪŋ]",
+          "meaning": "vt.拿来,带来,产生,引起,提出(诉讼)vi.停下"
         },
         {
           "term": "basket",
-          "phonetic": "n. 篮子；（篮球比赛的）得分；一篮之量；篮筐\nvt. 装入篮",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɑ:skɪt]",
+          "meaning": "n.篮,一篮"
         },
         {
           "term": "glass",
-          "phonetic": "n. 玻璃；玻璃制品；镜子\nvt. 反映；给某物加玻璃\nvi. 成玻璃状",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ɡlɑ:s]",
+          "meaning": "n.玻璃,玻璃制品,玻璃杯,镜子,眼镜,望远镜,气压计,晴雨表vt.装玻璃于,反映vi.成玻璃状"
         },
         {
           "term": "candy",
-          "phonetic": "n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品\nadj. 新潮的（服饰）；甜言蜜语的\nvt. 用糖煮；使结晶为砂糖；美化\nvi. 糖煮；成为结晶",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈkændɪ]",
+          "meaning": "n.糖果,冰糖v.蜜饯,糖煮(水果)"
         },
         {
           "term": "bad",
-          "phonetic": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bæd]",
+          "meaning": "adj.劣质的,有害的,坏的,不利的,不健康的,严重的"
         },
         {
           "term": "teeth",
-          "phonetic": "n. 牙齿",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ti:θ]",
+          "meaning": "n.pl.牙齿"
         },
         {
           "term": "tooth",
-          "phonetic": "n. 牙齿\nvt. 给……装齿\nvi. 啮合",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[tu:θ]",
+          "meaning": "n.牙齿"
         },
         {
           "term": "keep",
-          "phonetic": "vt. 保持；经营；遵守；饲养\nvi. 保持；继续不断\nn. 保持；生计；生活费",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ki:p]",
+          "meaning": "n.保持,保养,生计,监狱,[史]要塞vt.保持,保存,遵守,经营,看守,拘留,维持,记(日记,帐等)vi.保持,继续不断"
         },
         {
           "term": "body",
-          "phonetic": "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈbɒdɪ]",
+          "meaning": "n.身体,肉体,人,尸体,主要部分,团体,大量vt.赋以形体"
         },
         {
           "term": "food",
-          "phonetic": "n. 食物；养料",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[fu:d]",
+          "meaning": "n.食物,养料"
         },
         {
           "term": "menu",
-          "phonetic": "n. 菜单\n饭菜",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈmenju:]",
+          "meaning": "n.菜单"
         },
         {
           "term": "delicious",
-          "phonetic": "adj. 美味的；可口的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[dɪˈlɪʃəs]",
+          "meaning": "adj.美味的"
         },
         {
           "term": "any",
-          "phonetic": "adj. 任何的；所有的；丝毫\npron. 任何；任何一个；若干\nadv. 稍微；少许",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈenɪ]",
+          "meaning": "adj.任何的,任何一种,所有的 pron.无论那一个,任何"
         },
         {
           "term": "problem",
-          "phonetic": "n. 难题；引起麻烦的人\nadj. 成问题的；难处理的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈprɒbləm]",
+          "meaning": "n.问题,难题"
         },
         {
           "term": "salad",
-          "phonetic": "n. 色拉；尤指莴苣",
-          "phoneticUS": "",
-          "meaning": ""
-        },
+          "phonetic": "[ˈsæləd]",
+          "meaning": "n.色拉"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "daughter",
-          "phonetic": "n. 女儿；[遗][农学] 子代\nadj. 女儿的；子代的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈdɔ:tə]",
+          "meaning": "n.女儿adj.女儿的,如女儿的,关系如女儿的"
         },
         {
           "term": "son",
-          "phonetic": "n. 儿子；孩子（对年轻人的称呼）；男性后裔",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[sʌn]",
+          "meaning": "n.儿子,女婿,(长者对年轻男子的称呼)孩子,<基督教>圣子,耶稣基督"
         },
         {
           "term": "dress",
-          "phonetic": "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[dres]",
+          "meaning": "n.女服,童装,服装,衣服v.(给...)穿衣"
         },
         {
           "term": "pair",
-          "phonetic": "n. 一对，一双，一副\nvt. 把…组成一对",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[peə]",
+          "meaning": "n.一对,一双"
         },
         {
           "term": "shorts",
-          "phonetic": "n. 短裤",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ʃɔ:ts]",
+          "meaning": "n.短裤"
         },
         {
           "term": "cap",
-          "phonetic": "n. 盖；帽子\nvt. 覆盖；胜过；给…戴帽；加盖于\nvi. 脱帽致意",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[kæp]",
+          "meaning": "n.帽子,军帽,(瓶)帽,(笔)帽;vt.戴帽子,盖在...顶上;carrierless amplitude and phase,相幅载波"
         },
         {
           "term": "try it on",
-          "phonetic": "na. (老着面皮)试试看；摆架子",
-          "phoneticUS": "",
+          "phonetic": "[traɪ ɪt ɒn]",
           "meaning": ""
         },
         {
           "term": "trousers",
-          "phonetic": "n. 裤子，长裤",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈtraʊzəz]",
+          "meaning": "n.pl.裤子,长裤"
         },
         {
           "term": "clothes",
-          "phonetic": "n. 衣服",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[kləʊðz]",
+          "meaning": "n.衣服,[总称]被褥,各种衣服,<美俚>家丑"
         },
         {
           "term": "boring",
-          "phonetic": "n. 钻孔\nadj. 无聊的；令人厌烦的\nv. 钻孔；使厌烦；挖空（bore的ing形式）",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈbɔ:rɪŋ]",
+          "meaning": "n.钻(孔)adj.令人厌烦的"
         },
         {
           "term": "go shopping",
-          "phonetic": "na. 去买东西",
-          "phoneticUS": "",
+          "phonetic": "[ɡəʊ ˈʃɒpɪŋ]",
           "meaning": ""
-        },
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "housework",
-          "phonetic": "n. 家务事",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈhaʊswɜ:k]",
+          "meaning": "n.家务,劳动,家务事"
         },
         {
           "term": "those",
-          "phonetic": "adj. 那些的\npron. 那些（that的复数）",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ðəʊz]",
+          "meaning": "adj.pron.那些"
         },
         {
           "term": "dirty",
-          "phonetic": "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈdɜ:tɪ]",
+          "meaning": "adj.肮脏的,卑鄙的,下流的,暴风雨的,恶劣的(天气)vt.弄脏vi.变脏"
         },
         {
           "term": "sock",
-          "phonetic": "vt. 重击；给……穿袜\nn. 短袜；一击\nadv. 正着地；不偏不倚地\nadj. 非常成功的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[sɒk]",
+          "meaning": "n.短袜,鞋内衬底,轻软鞋,一击,零食vt.给...穿袜,重击,猛投,请...吃零食vi.爱吃零食adj.非常成功的adv.正着地,不偏不倚地"
         },
         {
           "term": "think",
-          "phonetic": "n. 想；想法\nadj. 思想的\nvi. 想；认为\nvt. 想；认为；想起；想像；打算",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[θɪŋk]",
+          "meaning": "v.想,思索,认为vt.认为,以为,预料"
         },
         {
           "term": "washing machine",
-          "phonetic": "n. 洗衣机",
-          "phoneticUS": "",
+          "phonetic": "[ˈwɒʃɪŋ məˈʃi:n]",
           "meaning": ""
         },
         {
           "term": "box",
-          "phonetic": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɒks]",
+          "meaning": "n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
         },
         {
           "term": "bedroom",
-          "phonetic": "n. 卧室\nadj. 两性关系的；城郊住宅区的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈbedru:m]",
+          "meaning": "n.卧室"
         },
         {
           "term": "floor",
-          "phonetic": "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[flɔ:]",
+          "meaning": "n.(房间,走廊等的)地面,地板,基底,(室内的)场地,层,海底,议员席vt.在...上铺(地板),击倒,(被困难)难倒"
         },
         {
           "term": "water",
-          "phonetic": "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈwɔ:tə]",
+          "meaning": "n.水,雨水,海水,水位,水面,流体vt.喷淋,供以水,注入水,使湿vi.流泪,加水adj.水的,水上的,水生的,含水的"
         },
         {
           "term": "plant",
-          "phonetic": "n. 工厂，车间；植物；设备；庄稼\nvt. 种植；培养；栽培；安置\nvi. 种植",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[plɑ:nt]",
+          "meaning": "n.植物,庄稼,工厂,车间,设备vt.种植,栽培,培养,安置vi.种植"
         },
         {
           "term": "a piece of cake",
-          "phonetic": "na. 轻而易举的事",
-          "phoneticUS": "",
+          "phonetic": "[ə pi:s ɒv keɪk]",
           "meaning": ""
         },
         {
           "term": "toilet",
-          "phonetic": "n. 厕所，盥洗室；梳妆，打扮\nvt. 给…梳妆打扮\nvi. 梳妆，打扮",
-          "phoneticUS": "",
-          "meaning": ""
-        },
+          "phonetic": "[ˈtɔɪlət]",
+          "meaning": "n.盥洗室,梳洗"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "usually",
-          "phonetic": "adv. 通常，经常",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈju:ʒʊəlɪ]",
+          "meaning": "adv.通常,大抵"
         },
         {
           "term": "half",
-          "phonetic": "n. 一半；半场；半学年\nadj. 一半的；不完全的；半途的\nadv. 一半地；部分地",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[hɑ:f]",
+          "meaning": "n.一半,半时,(球赛)半场,半学年adj.一半的,不完全的,半途的adv.一半地,部分地,相当的"
         },
         {
           "term": "past",
-          "phonetic": "n. 过去；往事\nprep. 越过；晚于\nadj. 过去的；结束的\nadv. 过；经过",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[pɑ:st]",
+          "meaning": "n.过去,往时adj.过去的,结束的 prep.越过,晚于 vbl.pass的过去分词"
         },
         {
           "term": "hour",
-          "phonetic": "n. 小时；钟头；课时；…点钟",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈaʊə]",
+          "meaning": "n.小时,钟头,...点钟,课时,(一段)时间"
         },
         {
           "term": "walk",
-          "phonetic": "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[wɔ:k]",
+          "meaning": "vi.步,行,走n.步行,散步,步,行道"
         },
         {
           "term": "get to school",
-          "phonetic": "到校；到达学校；到学校",
-          "phoneticUS": "",
+          "phonetic": "[ɡet tu: sku:l]",
           "meaning": ""
         },
         {
           "term": "seat",
-          "phonetic": "n. 座位；所在地；职位\nvt. 使…坐下；可容纳…的；使就职",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[si:t]",
+          "meaning": "n.座,座位,所在地,场所,席位vt.使坐下"
         },
         {
           "term": "last",
-          "phonetic": "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[lɑ:st]",
+          "meaning": "adj.最后的,临终的,末尾的,最近的,结论性的vi.持续,支持,维持vt.使维持,楦adv.最后,后来n.最后,末尾,临终,鞋楦头"
         },
         {
           "term": "last night",
-          "phonetic": "na. 昨晚；最后一夜",
-          "phoneticUS": "",
+          "phonetic": "[lɑ:st naɪt]",
           "meaning": ""
         },
         {
           "term": "little",
-          "phonetic": "adj. 小的；很少的；短暂的；小巧可爱的\nadv. 完全不\nn. 少许；没有多少；短时间",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈlɪtl]",
+          "meaning": "n.少许,一会儿,短时间adj.很少的,矮小的,短暂的,琐碎的adv.很少,稍微,完全不"
         },
         {
           "term": "fan",
-          "phonetic": "n. 迷；风扇；爱好者\nvt. 煽动；刺激；吹拂\nvi. 成扇形散开；飘动",
-          "phoneticUS": "",
-          "meaning": ""
-        },
+          "phonetic": "[fæn]",
+          "meaning": "n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
+        }
+      ]
+    },
+    {
+      "name": "Unit 7",
+      "words": [
         {
           "term": "Thanksgiving",
-          "phonetic": "n. 感恩",
-          "phoneticUS": "",
+          "phonetic": "[θæŋksˈɡɪvɪŋ]",
           "meaning": ""
         },
         {
           "term": "American",
-          "phonetic": "n. 美国人，美洲人；美国英语\nadj. 美国的，美洲的；地道美国式的",
-          "phoneticUS": "",
+          "phonetic": "[əˈmerɪkən]",
           "meaning": ""
         },
         {
           "term": "invite",
-          "phonetic": "n. 邀请\nvt. 邀请，招待；招致",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ɪnˈvaɪt]",
+          "meaning": "vt.邀请,引起n.邀请"
         },
         {
           "term": "join",
-          "phonetic": "vt. 参加；结合；连接\nvi. 加入；参加；结合\nn. 结合；连接；接合点",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[dʒɔɪn]",
+          "meaning": "vi.参加,结合,加入vt.连接,结合,参加,加入n.连接,结合,接合点 [计] 用子目录名取代驱动器符"
         },
         {
           "term": "yourselves",
-          "phonetic": "pron. 你们自己；你们本人（yourself的复数）",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[jɔ:ˈselvz]",
+          "meaning": "pron.pl.你们自己"
         },
         {
           "term": "help yourselves",
-          "phonetic": "无",
-          "phoneticUS": "",
+          "phonetic": "[help jɔ: ˈselvz]",
           "meaning": ""
         },
         {
           "term": "corn",
-          "phonetic": "n. （美）玉米；（英）谷物；[皮肤] 鸡眼\nvt. 腌；使成颗粒",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[kɔ:n]",
+          "meaning": "n.<美>玉米,<英>谷物,五谷,[医]鸡眼vt.腌(肉等)"
         },
         {
           "term": "soup",
-          "phonetic": "n. 汤，羹；马力\nvt. 加速；增加马力",
-          "phoneticUS": "",
+          "phonetic": "[su:p]",
           "meaning": ""
         },
         {
           "term": "hope",
-          "phonetic": "n. 希望；期望；信心\nvi. 希望；期待；信赖\nvt. 希望；期望",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[həʊp]",
+          "meaning": "n.希望,信心v.希望,盼望,期待,信赖"
         },
         {
           "term": "better",
-          "phonetic": "n. 长辈；较好者；打赌的人（等于bettor）\nadj. 较好的\nvt. 改善；胜过\nadv. 更好的；更多的；较大程度地\nvi. 变得较好",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈbetə]",
+          "meaning": "adj.较好的adv.更好的,更多的,更佳的"
         },
         {
           "term": "luck",
-          "phonetic": "n. 运气；幸运；带来好运的东西\nvi. 靠运气，走运；凑巧碰上",
-          "phoneticUS": "",
-          "meaning": ""
-        },
+          "phonetic": "[lʌk]",
+          "meaning": "n.运气,好运,幸运"
+        }
+      ]
+    },
+    {
+      "name": "Unit 8",
+      "words": [
         {
           "term": "moon",
-          "phonetic": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[mu:n]",
+          "meaning": "n.月球,月亮,卫星"
         },
         {
           "term": "shine",
-          "phonetic": "vt. 照射，擦亮；把…的光投向；（口）通过擦拭使…变得有光泽或光\nvi. 发出光；反射光，闪耀；出类拔萃，表现突出；露出；照耀；显露；出众\nn. 光亮，光泽；好天气；擦亮；晴天；擦皮鞋；鬼把戏或诡计",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ʃaɪn]",
+          "meaning": "v.照耀,发光vt.擦亮n.光泽,光亮"
         },
         {
           "term": "its",
-          "phonetic": "pron. 它的",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ɪts]",
+          "meaning": "pron.它的"
         },
         {
           "term": "sun",
-          "phonetic": "n. 太阳\nvt. 使晒\nvi. 晒太阳",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[sʌn]",
+          "meaning": "n.太阳,阳光,恒星vt.晒n.(Sun) 星期天(=Sunday) 美国Sun公司,主要生产SUN系列工作站和网络产品,是JAVA语言的创始者"
         },
         {
           "term": "real",
-          "phonetic": "n. 现实；实数\nadj. 实际的；真实的；实在的\nadv. 真正地；确实地",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈri:əl]",
+          "meaning": "adj.真的,真实的,不动产的"
         },
         {
           "term": "because",
-          "phonetic": "conj. 因为",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[bɪˈkɒz]",
+          "meaning": "conj.adv.因为"
         },
         {
           "term": "earth",
-          "phonetic": "n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴\nvt. 把（电线）[电] 接地；盖（土）；追赶入洞穴\nvi. 躲进地洞",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ɜ:θ]",
+          "meaning": "n.地球,陆地,泥土,洞穴,地球上的人类,尘世,[电]接地vt.埋入土中,把...赶入洞内,把...接地vi.躲入洞内"
         },
         {
           "term": "go around",
-          "phonetic": "na. 扑过去；兴冲冲开始干",
-          "phoneticUS": "",
+          "phonetic": "[gəʊ əˈraʊnd]",
           "meaning": ""
         },
         {
           "term": "Mid-Autumn Festival",
-          "phonetic": "《英汉医学词典》mid autumn festival\n中秋节",
-          "phoneticUS": "",
+          "phonetic": "[mɪd ˈɔ:təm ˈfestɪvəl]",
           "meaning": ""
         },
         {
           "term": "evening",
-          "phonetic": "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
-          "phoneticUS": "",
-          "meaning": ""
+          "phonetic": "[ˈi:vnɪŋ]",
+          "meaning": "n.傍晚,晚间,后期,(联欢性的)晚会"
         }
       ]
     }

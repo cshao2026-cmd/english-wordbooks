@@ -1,670 +1,589 @@
 {
-  "id": "b89ebe7ed1",
   "title": "教科版EEC三年级起点五年级上",
   "wordCount": 110,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "given name",
-          "phonetic": "[ˈɡɪv(ə)n neɪm]",
-          "phoneticUS": "[ˈɡɪvn neɪm]",
-          "meaning": "na. 名字"
+          "phonetic": "[ˈɡivən neim]",
+          "meaning": ""
         },
         {
           "term": "twins",
           "phonetic": "[twɪnz]",
-          "phoneticUS": "[twɪnz]",
-          "meaning": "n. 双生子，双胞胎（twin的复数）"
+          "meaning": ""
         },
         {
           "term": "China",
           "phonetic": "[ˈtʃaɪnə]",
-          "phoneticUS": "[ˈtʃaɪnə]",
-          "meaning": "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的"
+          "meaning": ""
         },
         {
           "term": "American",
           "phonetic": "[əˈmerɪkən]",
-          "phoneticUS": "[əˈmerɪkən]",
-          "meaning": "n. 美国人，美洲人；美国英语\nadj. 美国的，美洲的；地道美国式的"
+          "meaning": ""
         },
         {
           "term": "U.S.A.",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "美国"
+          "phonetic": "[ju: es ˈeɪ]",
+          "meaning": ""
         },
         {
           "term": "Australia",
-          "phonetic": "[ɒˈstreɪliə]",
-          "phoneticUS": "[ɔːˈstreɪliə]",
-          "meaning": "n. 澳大利亚，澳洲"
+          "phonetic": "[ɒsˈtreɪljə]",
+          "meaning": ""
         },
         {
           "term": "family name",
-          "phonetic": "[ˈfæməli neɪm]",
-          "phoneticUS": "[ˈfæməli neɪm]",
-          "meaning": "n. 姓"
+          "phonetic": "[ˈfæməlɪ neɪm]",
+          "meaning": ""
         },
         {
           "term": "Canada",
           "phonetic": "[ˈkænədə]",
-          "phoneticUS": "[ˈkænədə]",
-          "meaning": "n. 加拿大（北美洲国家）"
+          "meaning": ""
         },
         {
           "term": "Japan",
           "phonetic": "[dʒəˈpæn]",
-          "phoneticUS": "[dʒəˈpæn]",
-          "meaning": "n. 日本（东亚国家名）"
+          "meaning": ""
         },
         {
           "term": "Russia",
           "phonetic": "[ˈrʌʃə]",
-          "phoneticUS": "[ˈrʌʃə]",
-          "meaning": "n. 俄罗斯"
-        },
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "near",
-          "phonetic": "[nɪə(r)]",
-          "phoneticUS": "[nɪr]",
-          "meaning": "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于"
+          "phonetic": "[nɪə]",
+          "meaning": "adj.亲近的,亲密的,近,(车,马等)左侧的,吝啬的adv.(时间,空间方面)近,不远 prep.在...近旁,近...v.接近,走近"
         },
         {
           "term": "live",
-          "phonetic": "[lɪv; laɪv]",
-          "phoneticUS": "[lɪv; laɪv]",
-          "meaning": "adj. 活的；生动的；实况转播的；精力充沛的\nvt. 经历；度过\nvi. 活；居住；生存"
+          "phonetic": "[lɪv]",
+          "meaning": "adj.活的,生动的,精力充沛的,实况转播的,点燃的vi.活着,生活,居住,流在人们记忆中vt.过着,度过,经历adv.以实况地"
         },
         {
           "term": "a little",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 一点"
+          "phonetic": "[ə ˈlɪtl]",
+          "meaning": ""
         },
         {
           "term": "far",
-          "phonetic": "[fɑː(r)]",
-          "phoneticUS": "[fɑːr]",
-          "meaning": "n. 远方\nadj. 远的；久远的\nadv. 很；遥远地；久远地；到很远的距离；到很深的程度"
+          "phonetic": "[fɑ:]",
+          "meaning": "adj.(常用于书面语)远的,久远的,遥远的adv.(表示空间或时间上的距离)远,很远,遥远地,久远地,甚远地,很,很晚地n.远处,远方"
         },
         {
           "term": "by",
           "phonetic": "[baɪ]",
-          "phoneticUS": "[baɪ]",
-          "meaning": "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名"
+          "meaning": "prep.在附近,在旁边,经,由,依据,按照,通过,用adv.通过,经过,附近 [域] Belarus,白俄罗斯"
         },
         {
           "term": "sometimes",
           "phonetic": "[ˈsʌmtaɪmz]",
-          "phoneticUS": "[ˈsʌmtaɪmz]",
-          "meaning": "adv. 有时，间或"
+          "meaning": "adv.不时,有时"
         },
         {
           "term": "take",
           "phonetic": "[teɪk]",
-          "phoneticUS": "[teɪk]",
-          "meaning": "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额"
+          "meaning": "v.拿,拿走,取,抓,占领,获得,接受,感受n.捕获量"
         },
         {
           "term": "subway",
           "phonetic": "[ˈsʌbweɪ]",
-          "phoneticUS": "[ˈsʌbweɪ]",
-          "meaning": "n. 地铁；地道\nvi. 乘地铁"
+          "meaning": "n.地道,<美> 地铁"
         },
         {
           "term": "minute",
           "phonetic": "[ˈmɪnɪt]",
-          "phoneticUS": "[ˈmɪnɪt]",
-          "meaning": "n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录\nvt. 将…记录下来\nadj. 微小的，详细的 [maɪˈnjuːt; US -ˈnuːt; maɪˋnut]"
+          "meaning": "n.分,分钟,片刻,一瞬间,备忘录,笔记vt.记录,摘录,测定时间adj.微小的,详细的,仔细而准确的"
         },
         {
           "term": "bus",
           "phonetic": "[bʌs]",
-          "phoneticUS": "[bʌs]",
-          "meaning": "n. 公共汽车\n乘公共汽车"
-        },
+          "meaning": "n.公共汽车,总线"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "dressed",
           "phonetic": "[drest]",
-          "phoneticUS": "[drest]",
-          "meaning": "v. 装饰；给…穿衣；布置（dress的过去分词）\nadj. 穿好衣服的；打扮好的；去内脏及分割加工好的（特指动物，如鱼，禽类等）"
+          "meaning": ""
         },
         {
           "term": "get dressed",
           "phonetic": "[ɡet drest]",
-          "phoneticUS": "[ɡet drest]",
-          "meaning": "v. 穿衣服"
+          "meaning": ""
         },
         {
           "term": "already",
-          "phonetic": "[ɔːlˈredi]",
-          "phoneticUS": "[ɔːlˈredi]",
-          "meaning": "adv. 已经，早已；先前"
+          "phonetic": "[ɔ:lˈredɪ]",
+          "meaning": "adv.已经"
         },
         {
           "term": "brush",
           "phonetic": "[brʌʃ]",
-          "phoneticUS": "[brʌʃ]",
-          "meaning": "n. 刷子；画笔；毛笔；争吵；与某人有效冲突；灌木丛地带；矮树丛；狐狸尾巴\nvi. 刷；擦过；掠过；（经过时）轻触\nvt. 刷；画；"
+          "meaning": "n.刷子,毛刷,画笔vt.刷,掸,拂"
         },
         {
           "term": "teeth",
-          "phonetic": "[tiːθ]",
-          "phoneticUS": "[tiːθ]",
-          "meaning": "n. 牙齿"
+          "phonetic": "[ti:θ]",
+          "meaning": "n.pl.牙齿"
         },
         {
           "term": "finish",
           "phonetic": "[ˈfɪnɪʃ]",
-          "phoneticUS": "[ˈfɪnɪʃ]",
-          "meaning": "n. 结束；完美；回味（葡萄酒）\nvt. 完成；结束；用完\nvi. 结束，终止；终结"
+          "meaning": "n.完成,结束,磨光,末道漆,完美vt.完成,结束,用完,毁掉,使完美vi.结束,终结,停止,终止"
         },
         {
           "term": "I'm finished.",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "无"
+          "phonetic": "[aɪm ˈfɪnɪʃt]",
+          "meaning": ""
         },
         {
           "term": "wait",
           "phonetic": "[weɪt]",
-          "phoneticUS": "[weɪt]",
-          "meaning": "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓"
+          "meaning": "v.(～ for)等待,等候n.等待,等待时间"
         },
         {
           "term": "downstairs",
-          "phonetic": "[ˌdaʊnˈsteəz]",
-          "phoneticUS": "[ˌdaʊnˈsterz]",
-          "meaning": "n. 楼下\nadj. 楼下的\nadv. 在楼下"
+          "phonetic": "[daʊnˈsteəz]",
+          "meaning": "adv.在楼下,往楼下,下楼"
         },
         {
           "term": "make the bed",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "铺床；整理床铺；整理被物"
+          "phonetic": "[meɪk ðə bed]",
+          "meaning": ""
         },
         {
           "term": "hurry",
-          "phonetic": "[ˈhʌri]",
-          "phoneticUS": "[ˈhɜːri]",
-          "meaning": "n. 匆忙，急忙\nv. 仓促（做某事）；催促；（朝某方向）迅速移动；迅速处理"
+          "phonetic": "[ˈhʌrɪ]",
+          "meaning": "v.(使)赶紧,(使)匆忙,加速n.匆忙,仓促"
         },
         {
           "term": "hurry up",
-          "phonetic": "['hʌrɪ ʌp]",
-          "phoneticUS": "['hɜːrɪ ʌp]",
-          "meaning": "na. 催促；赶快"
+          "phonetic": "[ˈhʌrɪ ʌp]",
+          "meaning": ""
         },
         {
           "term": "newspaper",
-          "phonetic": "[ˈnjuːzpeɪpə(r)]",
-          "phoneticUS": "[ˈnuːzpeɪpər]",
-          "meaning": "n. 报纸\n报社\n旧报纸"
+          "phonetic": "[ˈnju:speɪpə]",
+          "meaning": "n.报纸"
         },
         {
           "term": "study",
-          "phonetic": "[ˈstʌdi]",
-          "phoneticUS": "[ˈstʌdi]",
-          "meaning": "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功"
-        },
+          "phonetic": "[ˈstʌdɪ]",
+          "meaning": "n.学习,研究,学科,试作,论文,求学,努力,书房vt.学习,攻读,研究,考虑,计划vi.学习,试图"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "did",
           "phonetic": "[dɪd]",
-          "phoneticUS": "[dɪd]",
-          "meaning": "v. 做（do的过去式）"
+          "meaning": "vbl.do的过去式"
         },
         {
           "term": "was",
-          "phonetic": "[wəz; wɒz]",
-          "phoneticUS": "[wəz; wʌz]",
-          "meaning": "be的第一和第三人称单数过去式"
+          "phonetic": "[wɒz]",
+          "meaning": "vbl.be的过去式"
         },
         {
           "term": "win",
           "phonetic": "[wɪn]",
-          "phoneticUS": "[wɪn]",
-          "meaning": "n. 赢；胜利\nvt. 赢得；在…中获胜；劝诱\nvi. 赢；获胜；成功"
+          "meaning": "v.(获)胜,赢得,劝诱,取得胜利n.赢,胜利"
         },
         {
           "term": "homework",
-          "phonetic": "[ˈhəʊmwɜːk]",
-          "phoneticUS": "[ˈhoʊmwɜːrk]",
-          "meaning": "n. 家庭作业，课外作业"
+          "phonetic": "[ˈhəʊmwɜ:k]",
+          "meaning": "n.家庭作业,副业"
         },
         {
           "term": "do one's homework",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 做功课"
+          "phonetic": "[du: ˈwʌnz ˈhəʊmwɜ:k]",
+          "meaning": ""
         },
         {
           "term": "before",
-          "phonetic": "[bɪˈfɔː(r)]",
-          "phoneticUS": "[bɪˈfɔːr]",
-          "meaning": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前"
+          "phonetic": "[bɪˈfɔ:]",
+          "meaning": "adv.在前,以前 prep.在...之前 conj.在...之前,与其...宁可"
         },
         {
           "term": "dinner",
-          "phonetic": "[ˈdɪnə(r)]",
-          "phoneticUS": "[ˈdɪnər]",
-          "meaning": "n. 晚餐，晚宴；宴会；正餐"
+          "phonetic": "[ˈdɪnə]",
+          "meaning": "n.正餐,宴会"
         },
         {
           "term": "wash",
           "phonetic": "[wɒʃ]",
-          "phoneticUS": "[wɑːʃ]",
-          "meaning": "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀"
+          "meaning": "n.洗,洗涤,冲洗,洗涤剂,洼地,洗的衣服,冲积物vt.洗,洗涤,洗清,粉刷,冲出,弄湿,流过,镀金于vi.洗涤,洗澡,被冲蚀,漂浮adj.耐洗的,(证券交易)虚假的"
         },
         {
           "term": "aw",
-          "phonetic": "[ɔː]",
-          "phoneticUS": "[ɔː]",
-          "meaning": "int. 哦！噢！（表示抗议， 厌恶， 讨厌等）"
+          "phonetic": "[ɔ:]",
+          "meaning": "[域] Aruba,阿鲁巴"
         },
         {
           "term": "arrive",
           "phonetic": "[əˈraɪv]",
-          "phoneticUS": "[əˈraɪv]",
-          "meaning": "vi. 到达；成功；达成；出生"
+          "meaning": "vi.到达,抵达"
         },
         {
           "term": "went",
           "phonetic": "[went]",
-          "phoneticUS": "[went]",
-          "meaning": "v. 去，过去（go的过去式）"
+          "meaning": "vbl.go的过去式"
         },
         {
           "term": "borrow",
           "phonetic": "[ˈbɒrəʊ]",
-          "phoneticUS": "[ˈbɔːroʊ]",
-          "meaning": "vt. 借；借用\nvi. 借；借用；从其他语言中引入"
+          "meaning": "v.借,借入,借用"
         },
         {
           "term": "tennis",
           "phonetic": "[ˈtenɪs]",
-          "phoneticUS": "[ˈtenɪs]",
-          "meaning": "n. 网球（运动）"
+          "meaning": "n.网球运动adj.网球的,用于网球运动的vi.打网球"
         },
         {
           "term": "saw",
-          "phonetic": "[sɔː]",
-          "phoneticUS": "[sɔː]",
-          "meaning": "n. 锯子；谚语\nv. see的过去式\nvi. 锯；用锯；将某物锯成小块\nvt. 看见；明白，了解；锯；锯成；锯开"
+          "phonetic": "[sɔ:]",
+          "meaning": "n.锯v.锯 vbl.see的过去式"
         },
         {
           "term": "movie",
-          "phonetic": "[ˈmuːvi]",
-          "phoneticUS": "[ˈmuːvi]",
-          "meaning": "n. 电影；电影院；电影业\nadj. 电影的"
+          "phonetic": "[ˈmu:vɪ]",
+          "meaning": "n.电影"
         },
         {
           "term": "museum",
-          "phonetic": "[mjuˈziːəm]",
-          "phoneticUS": "[mjuˈziːəm]",
-          "meaning": "n. 博物馆"
+          "phonetic": "[mju:ˈzɪəm]",
+          "meaning": "n.博物馆"
         },
         {
           "term": "basketball",
-          "phonetic": "[ˈbɑːskɪtbɔːl]",
-          "phoneticUS": "[ˈbæskɪtbɔːl]",
-          "meaning": "n. 篮球；篮球运动"
-        },
+          "phonetic": "[ˈbɑ:skɪtbɔ:l]",
+          "meaning": "n.篮球,篮球运动"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "date",
           "phonetic": "[deɪt]",
-          "phoneticUS": "[deɪt]",
-          "meaning": "n. 日期；约会；年代；枣椰子\nvt. 确定…年代；和…约会\nvi. 过时；注明日期；始于（某一历史时期）"
+          "meaning": "n.日期,日子,(历史上某一)年代,时期,约会,枣椰子vt.约会,定日期vi.注明...的日期,过时 [计] 显示或设置系统日期"
         },
         {
           "term": "father",
-          "phonetic": "[ˈfɑːðə(r)]",
-          "phoneticUS": "[ˈfɑːðər]",
-          "meaning": "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲"
+          "phonetic": "[ˈfɑ:ðə]",
+          "meaning": "n.父亲,岳父,公(丈夫的父亲),祖先,前辈,长辈,神父,创始者vt.当...的父亲,保护,创立,治理,发明,培养"
         },
         {
           "term": "November",
-          "phonetic": "[nəʊˈvembə(r)]",
-          "phoneticUS": "[noʊˈvembər]",
-          "meaning": "n. 十一月"
+          "phonetic": "[nəʊˈvembə]",
+          "meaning": ""
         },
         {
           "term": "fifteenth",
-          "phonetic": "[ˌfɪfˈtiːnθ]",
-          "phoneticUS": "[ˌfɪfˈtiːnθ]",
-          "meaning": "adj. 第十五的；十五分之一的\nnum. 第十五"
+          "phonetic": "[ˌfɪfˈti:nθ]",
+          "meaning": "adj.第十五的"
         },
         {
           "term": "sixth",
           "phonetic": "[sɪksθ]",
-          "phoneticUS": "[sɪksθ]",
-          "meaning": "n. 月的第六日，（与the连用的）第六个；六分之一\nadj. （与 the 连用）第六的，第六个的；六分之一的"
+          "meaning": "num.第六,六分之一"
         },
         {
           "term": "when",
           "phonetic": "[wen]",
-          "phoneticUS": "[wen]",
-          "meaning": "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯"
+          "meaning": "conj.就在那个时候,在...的时候adv.什么时候,...的时候 pron.什么时侯,那时"
         },
         {
           "term": "September",
-          "phonetic": "[sepˈtembə(r)]",
-          "phoneticUS": "[sepˈtembər]",
-          "meaning": "n. 九月"
+          "phonetic": "[sepˈtembə]",
+          "meaning": ""
         },
         {
           "term": "join",
           "phonetic": "[dʒɔɪn]",
-          "phoneticUS": "[dʒɔɪn]",
-          "meaning": "vt. 参加；结合；连接\nvi. 加入；参加；结合\nn. 结合；连接；接合点"
+          "meaning": "vi.参加,结合,加入vt.连接,结合,参加,加入n.连接,结合,接合点 [计] 用子目录名取代驱动器符"
         },
         {
           "term": "eighth",
           "phonetic": "[eɪtθ]",
-          "phoneticUS": "[eɪtθ]",
-          "meaning": "num. 第八；八分之一\nadj. 第八的；八分之一的"
+          "meaning": "num.第八"
         },
         {
           "term": "teddy bear",
-          "phonetic": "[ˈtedi beə(r)]",
-          "phoneticUS": "[ˈtedi ber]",
-          "meaning": "n. 泰迪熊（一种柔软的毛绒玩具熊）"
+          "phonetic": "[ˈtedɪ beə(r)]",
+          "meaning": ""
         },
         {
           "term": "anyway",
-          "phonetic": "[ˈeniweɪ]",
-          "phoneticUS": "[ˈeniweɪ]",
-          "meaning": "adv. 无论如何，不管怎样；总之"
+          "phonetic": "[ˈenɪweɪ]",
+          "meaning": "adv.无论如何,总之"
         },
         {
           "term": "gift shop",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 礼品店"
+          "phonetic": "[ɡift ʃɔp]",
+          "meaning": ""
         },
         {
           "term": "January",
-          "phonetic": "[ˈdʒænjuəri]",
-          "phoneticUS": "[ˈdʒænjueri]",
-          "meaning": "n. 一月"
+          "phonetic": "[ˈdʒænjʊərɪ]",
+          "meaning": ""
         },
         {
           "term": "twenty-second",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "num. 第二十二"
+          "phonetic": "[ˈtwentɪ ˈsekənd]",
+          "meaning": ""
         },
         {
           "term": "March",
-          "phonetic": "[mɑːtʃ]",
-          "phoneticUS": "[mɑːrtʃ]",
-          "meaning": "n. 三月"
+          "phonetic": "[mɑ:tʃ]",
+          "meaning": ""
         },
         {
           "term": "fourteenth",
-          "phonetic": "[ˌfɔːˈtiːnθ]",
-          "phoneticUS": "[ˌfɔːrˈtiːnθ]",
-          "meaning": "num. 第十四\nn. 第十四；月的第十四日；十四分之一\nadj. 第十四的；第十四个的"
+          "phonetic": "[ˌfɔ:ˈti:nθ]",
+          "meaning": "num.第十四"
         },
         {
           "term": "June",
-          "phonetic": "[dʒuːn]",
-          "phoneticUS": "[dʒuːn]",
-          "meaning": "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+          "phonetic": "[dʒu:n]",
+          "meaning": ""
         },
         {
           "term": "thirteenth",
-          "phonetic": "[ˌθɜːˈtiːnθ]",
-          "phoneticUS": "[ˌθɜːrˈtiːnθ]",
-          "meaning": "n. 第十三；十三分之一\nadj. 第十三的；十三分之一的"
+          "phonetic": "[ˌθɜ:ˈti:nθ]",
+          "meaning": "num.第十三,十三分之一"
         },
         {
           "term": "thirtieth",
-          "phonetic": "[ˈθɜːtiəθ]",
-          "phoneticUS": "[ˈθɜːrtiəθ]",
-          "meaning": "n. 第三十；三十分之一\nadj. 第三十个的；三十分之一的\nnum. 第三十；三十分之一"
+          "phonetic": "[ˈθɜ:tɪəθ]",
+          "meaning": "num.第三十,三十分之一"
         },
         {
           "term": "August",
-          "phonetic": "[ˈɔːɡəst]",
-          "phoneticUS": "[ˈɔːɡəst]",
-          "meaning": "n. 八月（简写为Aug）\nadj. 威严的；令人敬畏的"
+          "phonetic": "[ˈɔ:ɡəst]",
+          "meaning": ""
         },
         {
           "term": "nineteenth",
-          "phonetic": "[ˌnaɪnˈtiːnθ]",
-          "phoneticUS": "[ˌnaɪnˈtiːnθ]",
-          "meaning": "num. 第十九；十九分之一"
+          "phonetic": "[ˌnaɪnˈti:nθ]",
+          "meaning": "num.第十九,十九分之一"
         },
         {
           "term": "twenty-third",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "num. 第二十三"
+          "phonetic": "[ˌtwentɪˈθɜ:d]",
+          "meaning": ""
         },
         {
           "term": "tie",
           "phonetic": "[taɪ]",
-          "phoneticUS": "[taɪ]",
-          "meaning": "n. 领带；平局；鞋带；领结；不分胜负\nvi. 打结；不分胜负；被用带（或绳子等）系住\nvt. 系；约束；打结；与…成平局"
+          "meaning": "n.带子,线,鞋带,不分胜负,关系,领带,领结,平局vt.系,打结,扎,约束,与...成平局vi.被用带(或绳子等)系住,结合,打结,不分胜负"
         },
         {
           "term": "July",
-          "phonetic": "[dʒʊˈlaɪ]",
-          "phoneticUS": "[dʒʊˈlaɪ]",
-          "meaning": "n. 七月"
+          "phonetic": "[dʒuˈlaɪ]",
+          "meaning": ""
         },
         {
           "term": "October",
-          "phonetic": "[ɒkˈtəʊbə(r)]",
-          "phoneticUS": "[ɑːkˈtoʊbər]",
-          "meaning": "n. [天] 十月"
+          "phonetic": "[ɒkˈtəʊbə]",
+          "meaning": ""
         },
         {
           "term": "December",
-          "phonetic": "[dɪˈsembə(r)]",
-          "phoneticUS": "[dɪˈsembər]",
-          "meaning": "n. 十二月"
+          "phonetic": "[dɪˈsembə]",
+          "meaning": ""
         },
         {
           "term": "April",
           "phonetic": "[ˈeɪprəl]",
-          "phoneticUS": "[ˈeɪprəl]",
-          "meaning": "n. 四月"
+          "meaning": ""
         },
         {
           "term": "May",
           "phonetic": "[meɪ]",
-          "phoneticUS": "[meɪ]",
-          "meaning": "aux. 可以，能够；可能，也许；祝，愿；会，能"
+          "meaning": ""
         },
         {
           "term": "mother",
-          "phonetic": "[ˈmʌðə(r)]",
-          "phoneticUS": "[ˈmʌðər]",
-          "meaning": "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的"
+          "phonetic": "[ˈmʌðə]",
+          "meaning": "n.母亲,妈妈"
         },
         {
           "term": "February",
-          "phonetic": "[ˈfebruəri]",
-          "phoneticUS": "[ˈfebrueri]",
-          "meaning": "n. 二月"
+          "phonetic": "[ˈfebrʊərɪ]",
+          "meaning": ""
         },
         {
           "term": "twelfth",
           "phonetic": "[twelfθ]",
-          "phoneticUS": "[twelfθ]",
-          "meaning": "n. 第十二；月的第十二日\nadj. 第十二的，第十二个的；十二分之一的"
-        },
+          "meaning": "num.第十二"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "size",
           "phonetic": "[saɪz]",
-          "phoneticUS": "[saɪz]",
-          "meaning": "n. 大小；尺寸\nadj. 一定尺寸的\nvt. 依大小排列\nvi. 可比拟"
+          "meaning": "n.大小,尺寸,(衣服等)尺码vt.依大小排列 /n.大小/移动"
         },
         {
           "term": "without",
-          "phonetic": "[wɪˈðaʊt]",
-          "phoneticUS": "[wɪˈðaʊt]",
-          "meaning": "prep. 没有；超过；在…外面\nn. 外部；外面\nadv. 户外；在外面；没有或不显示某事物"
+          "phonetic": "[wɪðˈaʊt]",
+          "meaning": "prep.没有,不,(表条件)如果没有,要没有adv.在外,在屋外"
         },
         {
           "term": "button",
-          "phonetic": "[ˈbʌt(ə)n]",
-          "phoneticUS": "[ˈbʌt(ə)n]",
-          "meaning": "n. 按钮；纽扣\nvt. 扣住；扣紧；在…上装纽扣\nvi. 扣住；装有纽扣；扣上纽扣"
+          "phonetic": "[ˈbʌtn]",
+          "meaning": "n.钮扣,[计]按钮v.扣住,扣紧"
         },
         {
           "term": "collar",
-          "phonetic": "[ˈkɒlə(r)]",
-          "phoneticUS": "[ˈkɑːlər]",
-          "meaning": "n. 衣领；颈圈\nvt. 抓住；给…上领子；给…套上颈圈"
+          "phonetic": "[ˈkɒlə]",
+          "meaning": ""
         },
         {
           "term": "a lot",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 许多\nadv. 常"
+          "phonetic": "[ə lɒt]",
+          "meaning": ""
         },
         {
           "term": "expensive",
           "phonetic": "[ɪkˈspensɪv]",
-          "phoneticUS": "[ɪkˈspensɪv]",
-          "meaning": "adj. 昂贵的；花钱的"
+          "meaning": "adj.花费的,昂贵的"
         },
         {
           "term": "only",
-          "phonetic": "[ˈəʊnli]",
-          "phoneticUS": "[ˈoʊnli]",
-          "meaning": "adv. 只，仅仅；不料\nadj. 唯一的，仅有的；最合适的\nconj. 但是；不过；可是"
+          "phonetic": "[ˈəʊnlɪ]",
+          "meaning": "adj.唯一的,单独的,最好的,最合适的adv.仅仅,只不过 conj.但是,可是"
         },
         {
           "term": "cheaper",
-          "phonetic": "[tʃiːpə]",
-          "phoneticUS": "[ˈtʃiːpər]",
-          "meaning": "adj. 成本更低，比较便宜的"
+          "phonetic": "[ˈtʃi:pər]",
+          "meaning": ""
         },
         {
           "term": "jacket",
           "phonetic": "[ˈdʒækɪt]",
-          "phoneticUS": "[ˈdʒækɪt]",
-          "meaning": "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹\nvt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打"
+          "meaning": "n.短上衣,夹克,(锅炉、水管等的)套,书籍的封面套纸,护封,马铃薯皮vt.给...穿夹克,给...装护套"
         },
         {
           "term": "pocket",
           "phonetic": "[ˈpɒkɪt]",
-          "phoneticUS": "[ˈpɑːkɪt]",
-          "meaning": "n. 口袋；钱；容器\nadj. 小型的，袖珍的；金钱上的\nvt. 隐藏；忍受；将…放入衣袋\nvi. 形成袋或囊"
+          "meaning": "n.衣袋,口袋,钱,财vt.装...在口袋里,隐藏(感情),据为己有,击...入袋adj.袖珍的,小型的"
         },
         {
           "term": "purple",
-          "phonetic": "[ˈpɜːp(ə)l]",
-          "phoneticUS": "[ˈpɜːrpl]",
-          "meaning": "n. 紫色；紫袍\nadj. 紫色的；帝王的；华而不实的\nvt. 使成紫色\nvi. 变成紫色"
+          "phonetic": "[ˈpɜ:pl]",
+          "meaning": "adj.紫色的n.紫色"
         },
         {
           "term": "zipper",
-          "phonetic": "[ˈzɪpə(r)]",
-          "phoneticUS": "[ˈzɪpər]",
-          "meaning": "[人名] 齐珀"
+          "phonetic": "[ˈzɪpə]",
+          "meaning": "n.拉练"
         },
         {
           "term": "sweater",
-          "phonetic": "[ˈswetə(r)]",
-          "phoneticUS": "[ˈswetər]",
-          "meaning": "n. 毛线衣，运动衫；大量出汗的人，发汗剂"
+          "phonetic": "[ˈswetə]",
+          "meaning": "n.厚运动衫,毛线衫"
         },
         {
           "term": "smaller",
-          "phonetic": "[smɔ:lə(r)]",
-          "phoneticUS": "[ˈsmɔːlər]",
-          "meaning": "adj. 较小，更小的"
+          "phonetic": "[sˈmɔ:lər]",
+          "meaning": ""
         },
         {
           "term": "bigger",
-          "phonetic": "[bɪgə(r)]",
-          "phoneticUS": "[bɪgə(r)]",
-          "meaning": "adj. 更大的（big的比较级）"
-        },
+          "phonetic": "[bɪgə]",
+          "meaning": "adj.大的,长大的"
+        }
+      ]
+    },
+    {
+      "name": "Unit 7",
+      "words": [
         {
           "term": "wear",
-          "phonetic": "[weə(r)]",
-          "phoneticUS": "[wer]",
-          "meaning": "n. 衣物；磨损；耐久性\nv. 穿着；用旧；耗损；面露"
+          "phonetic": "[weə]",
+          "meaning": "vt.穿,戴v.(～ out) 磨损,用旧,(～ out) 穿着"
         },
         {
           "term": "police",
-          "phonetic": "[pəˈliːs]",
-          "phoneticUS": "[pəˈliːs]",
-          "meaning": "n. 警察，警方；治安\nadj. 警察的；有关警察的\nvt. 监督；管辖；维持治安；为…配备警察"
+          "phonetic": "[pəˈli:s]",
+          "meaning": "n.警察队,警察机关,公安部门vt.管辖,维持治安adj.警察的,有关警察的"
         },
         {
           "term": "Take it easy.",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. “take things easy”的变体"
+          "phonetic": "[teɪk ɪt ˈi:zɪ]",
+          "meaning": ""
         },
         {
           "term": "boots",
-          "phonetic": "[buːts]",
-          "phoneticUS": "[buːts]",
-          "meaning": "n. 靴子（boot的复数）；（英）擦靴的仆役"
+          "phonetic": "[bu:ts]",
+          "meaning": "n.擦靴人"
         },
         {
           "term": "glasses",
-          "phonetic": "[ˈɡlɑːsɪz]",
-          "phoneticUS": "[ˈɡlæsɪz]",
-          "meaning": "n. [轻] 眼镜；玻璃（glass的复数形式）；双筒望远镜\nv. 把…装入玻璃容器内；给…装上玻璃（glass的第三人称单数形式）"
+          "phonetic": "[ˈglɑ:sɪz]",
+          "meaning": "n.眼镜"
         },
         {
           "term": "bought",
-          "phonetic": "[bɔːt]",
-          "phoneticUS": "[bɔːt]",
-          "meaning": "v. 买（buy的过去式和过去分词）"
+          "phonetic": "[bɔ:t]",
+          "meaning": "vbl.buy的过去式和过去分词adj.买来的"
         },
         {
           "term": "fountain pen",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 自来水笔"
+          "phonetic": "[ˈfaʊntən pen]",
+          "meaning": ""
         },
         {
           "term": "hairpin",
           "phonetic": "[ˈheəpɪn]",
-          "phoneticUS": "[ˈherpɪn]",
-          "meaning": "n. 簪；束发夹；夹发针"
+          "meaning": "n.发夹,束发夹,夹发针"
         },
         {
           "term": "anything",
-          "phonetic": "[ˈeniθɪŋ]",
-          "phoneticUS": "[ˈeniθɪŋ]",
-          "meaning": "pron. 任何事"
+          "phonetic": "[ˈenɪθɪŋ]",
+          "meaning": "pron.任何事"
         },
         {
           "term": "jeans",
-          "phonetic": "[dʒiːnz]",
-          "phoneticUS": "[dʒiːnz]",
-          "meaning": "n. 牛仔裤；工装裤"
+          "phonetic": "[dʒi:nz]",
+          "meaning": "n.斜纹布裤,牛仔裤"
         },
         {
           "term": "shorts",
-          "phonetic": "[ʃɔːts]",
-          "phoneticUS": "[ʃɔːrts]",
-          "meaning": "n. 短裤"
+          "phonetic": "[ʃɔ:ts]",
+          "meaning": "n.短裤"
         },
         {
           "term": "old",
           "phonetic": "[əʊld]",
-          "phoneticUS": "[oʊld]",
-          "meaning": "adj. 陈旧的，古老的；年老的\nn. 古时"
+          "meaning": "adj.年老的,老的,...岁的,陈旧的,古老的"
         },
         {
           "term": "take a walk",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 散步"
+          "phonetic": "[teɪk ə wɔ:k]",
+          "meaning": ""
         }
       ]
     }

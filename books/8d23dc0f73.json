@@ -1,478 +1,484 @@
 {
-  "id": "8d23dc0f73",
   "title": "北京版一年级起点二年级上",
   "wordCount": 78,
   "units": [
     {
-      "name": "整册",
+      "name": "Lesson 1",
       "words": [
         {
           "term": "what",
           "phonetic": "[wɒt]",
-          "phoneticUS": "[wʌt]",
-          "meaning": "pron. 什么；多么；多少\nadv. 到什么程度，在哪一方面\nadj. 什么；多么；何等\nint. 什么；多么"
+          "meaning": "pron.什么int.怎么,多么adj.什么adv.到什么程度,在哪一方面n.本质,实质,要素"
         },
         {
           "term": "day",
           "phonetic": "[deɪ]",
-          "phoneticUS": "[deɪ]",
-          "meaning": "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地"
+          "meaning": "n.天,白天,日子,白昼,黎明,工作日,节日,重要日子"
         },
         {
           "term": "it",
           "phonetic": "[ɪt]",
-          "phoneticUS": "[ɪt]",
-          "meaning": "abbr. 信息技术information technology\nabbr. 意大利Italy；意大利的Italian"
+          "meaning": "pron.它;Italy,意大利;Information Technology,信息技术"
         },
         {
           "term": "Tuesday",
-          "phonetic": "[ˈtjuːzdeɪ]",
-          "phoneticUS": "[ˈtuːzdeɪ]",
-          "meaning": "n. 星期二"
+          "phonetic": "[ˈtju:zdeɪ]",
+          "meaning": ""
         },
         {
           "term": "I",
           "phonetic": "[aɪ]",
-          "phoneticUS": "[aɪ]",
-          "meaning": "n. 碘元素；英语字母I\npron. 我"
-        },
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Lesson 2",
+      "words": [
         {
           "term": "Wednesday",
           "phonetic": "[ˈwenzdeɪ]",
-          "phoneticUS": "[ˈwenzdeɪ]",
-          "meaning": "n. 星期三"
+          "meaning": ""
         },
         {
           "term": "go",
-          "phonetic": "[ɡəʊ]",
-          "phoneticUS": "[ɡoʊ]",
-          "meaning": "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌\n[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]"
+          "phonetic": "[gəʊ]",
+          "meaning": "vi.离去,走,进行,变成,趋于,达到,求助于,诉诸vt.以...打赌,忍受,出产n.去,进行"
         },
         {
           "term": "on",
           "phonetic": "[ɒn]",
-          "phoneticUS": "[ɑːn]",
-          "meaning": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中"
-        },
+          "meaning": "prep.在...之上,依附于,临近,靠近,向,在...时候,关于,涉及adv.在上,向前,行动中,作用中"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 3",
+      "words": [
         {
           "term": "are",
-          "phonetic": "[ɑ:(r)]",
-          "phoneticUS": "[ər; ɑːr; er]",
-          "meaning": "v. 是（be的第二人称单复数现在式）\nn. 公亩"
+          "phonetic": "[ɑ:]",
+          "meaning": "prep.是,在,公亩"
         },
         {
           "term": "in",
           "phonetic": "[ɪn]",
-          "phoneticUS": "[ɪn]",
-          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+          "meaning": "prep.在...之内(上),在...期间,从事于,符合,穿着;adv.进入,朝里,在家,已到达(来临);adj.在里面的,执政的;n.执政者,入口;India,印度;In,元素铟(indium);Intelligent Network,智能网络"
         },
         {
           "term": "a",
           "phonetic": "[ə]",
-          "phoneticUS": "[ə; eɪ]",
-          "meaning": "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. [物]安（ampere）"
+          "meaning": "n.(A)As 或 A's  安(ampere);(a) art.一;n.字母A /[军] Analog.Digital,模拟/数字 /(=account of) 帐上"
         },
         {
           "term": "week",
-          "phonetic": "[wiːk]",
-          "phoneticUS": "[wiːk]",
-          "meaning": "n. 周，星期"
-        },
+          "phonetic": "[wi:k]",
+          "meaning": "n.星期,周"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 5",
+      "words": [
         {
           "term": "do",
-          "phonetic": "[duː; də; du; dəʊ]",
-          "phoneticUS": "[duː; də; du; doʊ]",
-          "meaning": "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情"
+          "phonetic": "[du:]",
+          "meaning": "v.做,实行,尽力,给予,可用,制作,算出,解答 [域] Dominican Republic ,多米尼加共和国"
         },
         {
           "term": "you",
-          "phonetic": "[ju]",
-          "phoneticUS": "[juː; jə]",
-          "meaning": "pron. 你；你们"
+          "phonetic": "[ju:]",
+          "meaning": "pron.你,你们"
         },
         {
           "term": "park",
-          "phonetic": "[pɑːk]",
-          "phoneticUS": "[pɑːrk]",
-          "meaning": "n. 公园；[交] 停车场\nvt. 停放；放置；寄存\nvi. 停放车辆"
+          "phonetic": "[pɑ:k]",
+          "meaning": "n.公园,停车场,炮场vt.停放(汽车等)"
         },
         {
           "term": "class",
-          "phonetic": "[klɑːs]",
-          "phoneticUS": "[klæs]",
-          "meaning": "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）"
+          "phonetic": "[klɑ:s]",
+          "meaning": "n.班级,阶级,社会等级,种类,(一节)课vt.把...分类(或分等级)"
         },
         {
           "term": "we",
-          "phonetic": "[wi; wiː]",
-          "phoneticUS": "[wi]",
-          "meaning": "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
-        },
+          "phonetic": "[wi:]",
+          "meaning": "pron.我们"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 6",
+      "words": [
         {
           "term": "to",
-          "phonetic": "[tə]",
-          "phoneticUS": "[tə; tu; tuː]",
-          "meaning": "prep. 到；向；（表示时间、方向）朝…方向\nadv. 向前；（门等）关上"
+          "phonetic": "[tu:]",
+          "meaning": "prep.向,往,给...,于...,直到...为止,在...之前,比,对,[表示程度、范围] 到,达 [域] Tonga ,汤加"
         },
         {
           "term": "the",
           "phonetic": "[ðə]",
-          "phoneticUS": "[ðə; ði; ðiː]",
-          "meaning": "art. 这；那\nadv. 更加（用于比较级，最高级前）"
+          "meaning": "art.那"
         },
         {
           "term": "Sunday",
           "phonetic": "[ˈsʌndeɪ]",
-          "phoneticUS": "[ˈsʌndeɪ]",
-          "meaning": "n. 星期日；礼拜日"
+          "meaning": ""
         },
         {
           "term": "zoo",
-          "phonetic": "[zuː]",
-          "phoneticUS": "[zuː]",
-          "meaning": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
-        },
+          "phonetic": "[zu:]",
+          "meaning": "n.动物园"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 7",
+      "words": [
         {
           "term": "Saturday",
           "phonetic": "[ˈsætədeɪ]",
-          "phoneticUS": "[ˈsætərdeɪ]",
-          "meaning": "n. 星期六"
+          "meaning": ""
         },
         {
           "term": "film",
           "phonetic": "[fɪlm]",
-          "phoneticUS": "[fɪlm]",
-          "meaning": "n. 电影；薄膜；胶卷；轻烟\nvt. 在…上覆以薄膜；把…拍成电影\nvi. 摄制电影；生薄膜；变得朦胧"
+          "meaning": "n.薄膜,膜层,胶卷,影片,薄雾,轻烟,电影vt.在...上覆以薄膜,拍成电影vi.生薄膜,变成朦胧,拍电影"
         },
         {
           "term": "grandma",
-          "phonetic": "[ˈɡrænmɑː]",
-          "phoneticUS": "[ˈɡrænmɑː]",
-          "meaning": "n. 奶奶；外婆"
+          "phonetic": "[ˈɡrænmɑ:]",
+          "meaning": "n.奶奶"
         },
         {
           "term": "grandmother",
-          "phonetic": "[ˈɡrænmʌðə(r)]",
-          "phoneticUS": "[ˈɡrænmʌðər]",
-          "meaning": "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母"
+          "phonetic": "[ˈɡrændˌmʌðə]",
+          "meaning": "n.祖母"
         },
         {
           "term": "grandpa",
-          "phonetic": "[ˈɡrænpɑː]",
-          "phoneticUS": "[ˈɡrænpɑː]",
-          "meaning": "n. 爷爷；外公"
+          "phonetic": "[ˈɡrænpɑ:]",
+          "meaning": "n.爷爷"
         },
         {
           "term": "grandfather",
-          "phonetic": "[ˈɡrænfɑːðə(r)]",
-          "phoneticUS": "[ˈɡrænfɑːðər]",
-          "meaning": "n. 祖父；始祖\nvt. 不受新规定限制"
+          "phonetic": "[ˈɡrændˌfɑ:ðə]",
+          "meaning": "n.祖父,始祖"
         },
         {
           "term": "or",
-          "phonetic": "[ɔː(r)]",
-          "phoneticUS": "[ɔːr]",
-          "meaning": "conj. 或，或者；还是"
-        },
+          "phonetic": "[ɔ:]",
+          "meaning": "conj.或,或者,还是 [军] Operational Requirement,作战需求 [军] Operations Research,运筹学研究"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 9",
+      "words": [
         {
           "term": "is",
           "phonetic": "[ɪz]",
-          "phoneticUS": "[ɪz]",
-          "meaning": "v. 是（be的三单形式）\nn. 存在"
+          "meaning": "prep.是 [域] Iceland ,冰岛 [军] Internal Security,治安"
         },
         {
           "term": "eleven",
-          "phonetic": "[ɪˈlev(ə)n]",
-          "phoneticUS": "[ɪˈlevn]",
-          "meaning": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的"
+          "phonetic": "[ɪˈlevn]",
+          "meaning": "n.十一"
         },
         {
           "term": "his",
           "phonetic": "[hɪz]",
-          "phoneticUS": "[hɪz; ɪz]",
-          "meaning": "pron. 他的"
+          "meaning": "pron.他的"
         },
         {
           "term": "her",
-          "phonetic": "[hə(r)]",
-          "phoneticUS": "[hər; ɜːr; ər; hɜːr]",
-          "meaning": "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）"
-        },
+          "phonetic": "[hɜ:]",
+          "meaning": "pron.她的,她"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 10",
+      "words": [
         {
           "term": "how many",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 多少"
+          "phonetic": "[haʊ ˈmenɪ]",
+          "meaning": ""
         },
         {
           "term": "pig",
           "phonetic": "[pɪɡ]",
-          "phoneticUS": "[pɪɡ]",
-          "meaning": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）"
+          "meaning": "n.猪,猪肉,贪婪的人v.生小猪,贪婪地吃"
         },
         {
           "term": "your",
-          "phonetic": "[jɔː(r); jə(r)]",
-          "phoneticUS": "[jʊr; jər]",
-          "meaning": "pron. 你的，你们的"
+          "phonetic": "[jɔ:(r)]",
+          "meaning": "pron.你的,你们的"
         },
         {
           "term": "sixteen",
-          "phonetic": "[ˌsɪksˈtiːn]",
-          "phoneticUS": "[ˌsɪksˈtiːn]",
-          "meaning": "num. 十六\nadj. 十六的，十六个的"
+          "phonetic": "[ˈsɪksˈti:n]",
+          "meaning": "num.十六"
         },
         {
           "term": "my",
           "phonetic": "[maɪ]",
-          "phoneticUS": "[maɪ]",
-          "meaning": "pron. 我的\nint. 哎呀（表示惊奇等）；喔唷"
+          "meaning": "pron.我的int.<口>嗳呀!啊呀! [域] Malaysia ,马来西亚"
         },
         {
           "term": "cow",
           "phonetic": "[kaʊ]",
-          "phoneticUS": "[kaʊ]",
-          "meaning": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓"
-        },
+          "meaning": "n.母牛,大型母兽vt.威吓"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 11",
+      "words": [
         {
           "term": "nineteen",
-          "phonetic": "[ˌnaɪnˈtiːn]",
-          "phoneticUS": "[ˌnaɪnˈtiːn]",
-          "meaning": "num. 十九"
+          "phonetic": "[ˈnaɪnˈti:n]",
+          "meaning": "num.十九"
         },
         {
           "term": "our",
-          "phonetic": "[ɑː(r)]",
-          "phoneticUS": "[ɑːr]",
-          "meaning": "pron. 我们的"
+          "phonetic": "[ˈaʊə(r)]",
+          "meaning": "pron.我们的"
         },
         {
           "term": "two",
-          "phonetic": "[tuː]",
-          "phoneticUS": "[tuː]",
-          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+          "phonetic": "[tu:]",
+          "meaning": "num.二,两个"
         },
         {
           "term": "three",
-          "phonetic": "[θriː]",
-          "phoneticUS": "[θriː]",
-          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+          "phonetic": "[θri:]",
+          "meaning": "num.三"
         },
         {
           "term": "after",
-          "phonetic": "[ˈɑːftə(r)]",
-          "phoneticUS": "[ˈæftər]",
-          "meaning": "conj. 在……之后\nprep. 在……之后\nadj. 以后的\nadv. 后来，以后"
-        },
+          "phonetic": "[ˈɑ:ftə]",
+          "meaning": "adv.prep.conj.在...之后,在...后面,模仿,与...一致,以...命名,后来的,后面的"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 13",
+      "words": [
         {
           "term": "elephant",
           "phonetic": "[ˈelɪfənt]",
-          "phoneticUS": "[ˈelɪfənt]",
-          "meaning": "n. 象；大号图画纸"
+          "meaning": "n.象,一种纸张的尺寸"
         },
         {
           "term": "yes",
           "phonetic": "[jes]",
-          "phoneticUS": "[jes]",
-          "meaning": "n. 是（表示肯定）\nadv. 是, 是的"
+          "meaning": "adv.n.是"
         },
         {
           "term": "four",
-          "phonetic": "[fɔː(r)]",
-          "phoneticUS": "[fɔːr]",
-          "meaning": "num. 四；四个\nadj. 四的；四个的"
-        },
+          "phonetic": "[fɔ:]",
+          "meaning": "num.四,四个,第四(卷,章,叶等)"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 14",
+      "words": [
         {
           "term": "baby",
-          "phonetic": "[ˈbeɪbi]",
-          "phoneticUS": "[ˈbeɪbi]",
-          "meaning": "n. 婴儿，婴孩；孩子气的人\nadj. 婴儿的；幼小的\nvt. 纵容，娇纵；把……当婴儿般对待"
+          "phonetic": "[ˈbeɪbɪ]",
+          "meaning": "n.婴孩"
         },
         {
           "term": "cat",
           "phonetic": "[kæt]",
-          "phoneticUS": "[kæt]",
-          "meaning": "n. 猫，猫科动物"
+          "meaning": ""
         },
         {
           "term": "thin",
           "phonetic": "[θɪn]",
-          "phoneticUS": "[θɪn]",
-          "meaning": "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地"
+          "meaning": "adj.薄的,细的,瘦的,稀少的,稀疏的,(液体、气体)稀薄的,淡的,空洞的vt.使变薄,使变细,使稀少,使淡vi.变薄,变细,稀少,变淡adv.薄地,稀疏地,微弱地n.细小部分"
         },
         {
           "term": "dog",
-          "phonetic": "[dɒɡ]",
-          "phoneticUS": "[dɔːɡ]",
-          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
-        },
+          "phonetic": "[dɒg]",
+          "meaning": "n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋vt.跟踪,尾随"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 15",
+      "words": [
         {
           "term": "toy",
-          "phonetic": "[tɔɪ]",
-          "phoneticUS": "[tɔɪ]",
-          "meaning": "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待"
+          "phonetic": "[tɒɪ]",
+          "meaning": ""
         },
         {
           "term": "monkey",
-          "phonetic": "[ˈmʌŋki]",
-          "phoneticUS": "[ˈmʌŋki]",
-          "meaning": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄"
+          "phonetic": "[ˈmʌŋkɪ]",
+          "meaning": "n.猴子"
         },
         {
           "term": "these",
-          "phonetic": "[ðiːz]",
-          "phoneticUS": "[ðiːz]",
-          "meaning": "adj. 这些的\npron. 这些"
+          "phonetic": "[ði:z]",
+          "meaning": "adj.pron.这些"
         },
         {
           "term": "them",
-          "phonetic": "[ðəm; ðem]",
-          "phoneticUS": "[ðəm; ðem]",
-          "meaning": "pron. 他们；它们；她们"
+          "phonetic": "[ðəm]",
+          "meaning": "pron.[they 的宾格] 他们,她们,它们"
         },
         {
           "term": "no",
           "phonetic": "[nəʊ]",
-          "phoneticUS": "[noʊ]",
-          "meaning": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号"
-        },
+          "meaning": "n.否定,投反对票者adj.没有,不许,反对adv.不,并不,毫不 [域] Norway ,挪威"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 17",
+      "words": [
         {
           "term": "ear",
-          "phonetic": "[ɪə(r)]",
-          "phoneticUS": "[ɪr]",
-          "meaning": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗"
+          "phonetic": "[ɪə]",
+          "meaning": "n.耳朵,倾听,听觉,听力,穗vi.抽穗"
         },
         {
           "term": "red",
           "phonetic": "[red]",
-          "phoneticUS": "[red]",
-          "meaning": "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的"
+          "meaning": "n.红色,红衣服,红颜料,赤字,亏空adj.红(色)的,革命的"
         },
         {
           "term": "eye",
           "phonetic": "[aɪ]",
-          "phoneticUS": "[aɪ]",
-          "meaning": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看"
+          "meaning": "n.眼睛,视力,眼光,观点,见解,眼状物,风吹来的方向,[气]风眼vt.看,注视,在...上打眼"
         },
         {
           "term": "hair",
-          "phonetic": "[heə(r)]",
-          "phoneticUS": "[her]",
-          "meaning": "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维"
-        },
+          "phonetic": "[heə]",
+          "meaning": "n.头发,毛发,毛状物,绒毛,些微"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 18",
+      "words": [
         {
           "term": "long",
           "phonetic": "[lɒŋ]",
-          "phoneticUS": "[lɔːŋ]",
-          "meaning": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终"
+          "meaning": "adj.长的,长期的,做多头的,高的vi.渴望,热望adv.长期地,始终n.长时间,(市场上)做多头的人,[语音]长音节"
         },
         {
           "term": "and",
-          "phonetic": "[ənd]",
-          "phoneticUS": "[ənd; ən; n; ænd]",
-          "meaning": "conj. 和，与；就；而且；但是；然后"
+          "phonetic": "[ænd]",
+          "meaning": "conj.和,及,并,然后,接着又 /conj.及(或)"
         },
         {
           "term": "short",
-          "phonetic": "[ʃɔːt]",
-          "phoneticUS": "[ʃɔːrt]",
-          "meaning": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地"
+          "phonetic": "[ʃɔ:t]",
+          "meaning": "n.简略,短路,短裤adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短adv.突然,缺乏,不足"
         },
         {
           "term": "me",
-          "phonetic": "[mi; miː]",
-          "phoneticUS": "[mi; miː]",
-          "meaning": "pron. 我（宾格）\nn. 自我；极端自私的人；自我的一部分"
-        },
+          "phonetic": "[mi:]",
+          "meaning": "pron.我"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 19",
+      "words": [
         {
           "term": "arm",
-          "phonetic": "[ɑːm]",
-          "phoneticUS": "[ɑːrm]",
-          "meaning": "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来"
+          "phonetic": "[ɑ:m]",
+          "meaning": "n.臂,臂状物,衣袖,海湾,武器vt.供给,提供,武装,装备vi.武装起来"
         },
         {
           "term": "leg",
           "phonetic": "[leɡ]",
-          "phoneticUS": "[leɡ]",
-          "meaning": "n. 腿；支柱"
+          "meaning": "n.腿,胫,旅程的一段vi.走,跑"
         },
         {
           "term": "body",
-          "phonetic": "[ˈbɒdi]",
-          "phoneticUS": "[ˈbɑːdi]",
-          "meaning": "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体"
+          "phonetic": "[ˈbɒdɪ]",
+          "meaning": "n.身体,肉体,人,尸体,主要部分,团体,大量vt.赋以形体"
         },
         {
           "term": "small",
-          "phonetic": "[smɔːl]",
-          "phoneticUS": "[smɔːl]",
-          "meaning": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地"
+          "phonetic": "[smɔ:l]",
+          "meaning": "adj.小的,少的"
         },
         {
           "term": "hand",
           "phonetic": "[hænd]",
-          "phoneticUS": "[hænd]",
-          "meaning": "n. 手，手艺；帮助；指针；插手\nvt. 传递，交给；支持；搀扶"
-        },
+          "meaning": "n.手,掌管,协助,支配,插手,指针,雇员,手艺vt.支持,搀扶,交给"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 21",
+      "words": [
         {
           "term": "thank",
           "phonetic": "[θæŋk]",
-          "phoneticUS": "[θæŋk]",
-          "meaning": "n. 感谢\nvt. 感谢\nint. 谢谢"
+          "meaning": "vt.感谢,用于表示强制的要求,用将来时"
         },
         {
           "term": "old",
           "phonetic": "[əʊld]",
-          "phoneticUS": "[oʊld]",
-          "meaning": "adj. 陈旧的，古老的；年老的\nn. 古时"
+          "meaning": "adj.年老的,老的,...岁的,陈旧的,古老的"
         },
         {
           "term": "eight",
           "phonetic": "[eɪt]",
-          "phoneticUS": "[eɪt]",
-          "meaning": "num. 八；八个；第八\nn. 八字形\nadj. 八的"
+          "meaning": "adj.八的 num.八,八个,第八n.八字形"
         },
         {
           "term": "cake",
           "phonetic": "[keɪk]",
-          "phoneticUS": "[keɪk]",
-          "meaning": "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状"
-        },
+          "meaning": "n.蛋糕,饼,块,"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 22",
+      "words": [
         {
           "term": "look",
           "phonetic": "[lʊk]",
-          "phoneticUS": "[lʊk]",
-          "meaning": "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容"
+          "meaning": "n.看,注视,脸色,面容,外表vi.看,注意,朝着,好象,显得vt.打量,注视,用眼神(或脸色)表示,期待"
         },
         {
           "term": "at",
-          "phonetic": "[ət]",
-          "phoneticUS": "[ət; æt]",
-          "meaning": "prep. 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；达；因为；朝；忙于\nn. 阿特（老挝货币基本单位att）；[化]砹（极不稳定放射性元素）\nabbr. 密封的（airtight）；气温（air temperature）"
+          "phonetic": "[æt]",
+          "meaning": "prep.在,于,向,对准,在...方面;Austria,奥地利"
         },
         {
           "term": "tree",
-          "phonetic": "[triː]",
-          "phoneticUS": "[triː]",
-          "meaning": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树"
+          "phonetic": "[tri:]",
+          "meaning": "n.树,木料,树状物vt.赶上树n.[计] 显示驱动器的子目录结构vi.爬上树,逃上树"
         },
         {
           "term": "big",
           "phonetic": "[bɪɡ]",
-          "phoneticUS": "[bɪɡ]",
-          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
-        },
+          "meaning": "adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 23",
+      "words": [
         {
           "term": "new",
-          "phonetic": "[njuː]",
-          "phoneticUS": "[nuː]",
-          "meaning": "adj. 新的，新鲜的；更新的；初见的\nadv. 新近"
+          "phonetic": "[nju:]",
+          "meaning": "adj.新的,初见的,更新的adv.新近"
         },
         {
           "term": "year",
           "phonetic": "[jɪə(r)]",
-          "phoneticUS": "[jɪr]",
-          "meaning": "n. 年；年度；历年；年纪；一年的期间；某年级的学生"
+          "meaning": "n.年,年龄,年岁"
         }
       ]
     }

@@ -1,466 +1,404 @@
 {
-  "id": "0eb58c4a6d",
   "title": "冀教版三年级起点三年级下",
   "wordCount": 76,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "farm",
-          "phonetic": "[fɑːm]",
-          "phoneticUS": "[fɑːrm]",
-          "meaning": "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场"
+          "phonetic": "[fɑ:m]",
+          "meaning": "n.农场,农庄,农田vt.耕种vi.种田,务农,经营农场,从事畜牧"
         },
         {
           "term": "farmer",
-          "phonetic": "[ˈfɑːmə(r)]",
-          "phoneticUS": "[ˈfɑːrmər]",
-          "meaning": "n. 农夫，农民"
+          "phonetic": "[ˈfɑ:mə]",
+          "meaning": "n.农夫,百姓,农民,农场主,承包主,牧场主,畜牧者"
         },
         {
           "term": "pig",
           "phonetic": "[pɪɡ]",
-          "phoneticUS": "[pɪɡ]",
-          "meaning": "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）"
+          "meaning": "n.猪,猪肉,贪婪的人v.生小猪,贪婪地吃"
         },
         {
           "term": "cow",
           "phonetic": "[kaʊ]",
-          "phoneticUS": "[kaʊ]",
-          "meaning": "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓"
+          "meaning": "n.母牛,大型母兽vt.威吓"
         },
         {
           "term": "sheep",
-          "phonetic": "[ʃiːp]",
-          "phoneticUS": "[ʃiːp]",
-          "meaning": "n. 羊，绵羊；胆小鬼"
+          "phonetic": "[ʃi:p]",
+          "meaning": "n.羊,绵羊,羞答答的人,胆小鬼,信徒"
         },
         {
           "term": "a",
           "phonetic": "[ə]",
-          "phoneticUS": "[ə; eɪ]",
-          "meaning": "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. [物]安（ampere）"
+          "meaning": "n.(A)As 或 A's  安(ampere);(a) art.一;n.字母A /[军] Analog.Digital,模拟/数字 /(=account of) 帐上"
         },
         {
           "term": "an",
           "phonetic": "[ən]",
-          "phoneticUS": "[ən; æn]",
-          "meaning": "art. 一（在元音音素前）"
+          "meaning": "art.一(在元音字母前代替不定代词a) [域] Netherlands Antilles ,荷兰属地"
         },
         {
           "term": "cat",
           "phonetic": "[kæt]",
-          "phoneticUS": "[kæt]",
-          "meaning": "n. 猫，猫科动物"
+          "meaning": ""
         },
         {
           "term": "dog",
-          "phonetic": "[dɒɡ]",
-          "phoneticUS": "[dɔːɡ]",
-          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
+          "phonetic": "[dɒg]",
+          "meaning": "n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋vt.跟踪,尾随"
         },
         {
           "term": "duck",
           "phonetic": "[dʌk]",
-          "phoneticUS": "[dʌk]",
-          "meaning": "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中"
+          "meaning": "n.鸭子,急忙蹲下,闪避,<俚> 人,家伙vi.没入水中,闪避vt.猛按...入水,躲避"
         },
         {
           "term": "fish",
           "phonetic": "[fɪʃ]",
-          "phoneticUS": "[fɪʃ]",
-          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+          "meaning": "n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
         },
         {
           "term": "bird",
-          "phonetic": "[bɜːd]",
-          "phoneticUS": "[bɜːrd]",
-          "meaning": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟"
+          "phonetic": "[bɜ:d]",
+          "meaning": "n.鸟,<俚>人vi.在野外观察或鉴别鸟类"
         },
         {
           "term": "animal",
-          "phonetic": "[ˈænɪm(ə)l]",
-          "phoneticUS": "[ˈænɪm(ə)l]",
-          "meaning": "n. 动物\n动物的"
+          "phonetic": "[ˈænɪməl]",
+          "meaning": "n.动物"
         },
         {
           "term": "horse",
-          "phonetic": "[hɔːs]",
-          "phoneticUS": "[hɔːrs]",
-          "meaning": "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人"
+          "phonetic": "[hɔ:s]",
+          "meaning": "n.马,[总称]骑兵,脚架,马力vi.骑马,作弄人vt.使骑马,系马于"
         },
         {
           "term": "yes",
           "phonetic": "[jes]",
-          "phoneticUS": "[jes]",
-          "meaning": "n. 是（表示肯定）\nadv. 是, 是的"
+          "meaning": "adv.n.是"
         },
         {
           "term": "no",
           "phonetic": "[nəʊ]",
-          "phoneticUS": "[noʊ]",
-          "meaning": "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号"
+          "meaning": "n.否定,投反对票者adj.没有,不许,反对adv.不,并不,毫不 [域] Norway ,挪威"
         },
         {
           "term": "in",
           "phonetic": "[ɪn]",
-          "phoneticUS": "[ɪn]",
-          "meaning": "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里"
+          "meaning": "prep.在...之内(上),在...期间,从事于,符合,穿着;adv.进入,朝里,在家,已到达(来临);adj.在里面的,执政的;n.执政者,入口;India,印度;In,元素铟(indium);Intelligent Network,智能网络"
         },
         {
           "term": "on",
           "phonetic": "[ɒn]",
-          "phoneticUS": "[ɑːn]",
-          "meaning": "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中"
+          "meaning": "prep.在...之上,依附于,临近,靠近,向,在...时候,关于,涉及adv.在上,向前,行动中,作用中"
         },
         {
           "term": "under",
-          "phonetic": "[ˈʌndə(r)]",
-          "phoneticUS": "[ˈʌndər]",
-          "meaning": "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方"
+          "phonetic": "[ˈʌndə]",
+          "meaning": "prep.在...之下,在...之内,在...领导下,低于,假借adv.在下"
         },
         {
           "term": "box",
           "phonetic": "[bɒks]",
-          "phoneticUS": "[bɑːks]",
-          "meaning": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击"
-        },
+          "meaning": "n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "zoo",
-          "phonetic": "[zuː]",
-          "phoneticUS": "[zuː]",
-          "meaning": "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
+          "phonetic": "[zu:]",
+          "meaning": "n.动物园"
         },
         {
           "term": "panda",
           "phonetic": "[ˈpændə]",
-          "phoneticUS": "[ˈpændə]",
-          "meaning": "n. 熊猫；猫熊"
+          "meaning": "n.熊猫,黑白相间的熊类"
         },
         {
           "term": "monkey",
-          "phonetic": "[ˈmʌŋki]",
-          "phoneticUS": "[ˈmʌŋki]",
-          "meaning": "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄"
+          "phonetic": "[ˈmʌŋkɪ]",
+          "meaning": "n.猴子"
         },
         {
           "term": "elephant",
           "phonetic": "[ˈelɪfənt]",
-          "phoneticUS": "[ˈelɪfənt]",
-          "meaning": "n. 象；大号图画纸"
+          "meaning": "n.象,一种纸张的尺寸"
         },
         {
           "term": "big",
           "phonetic": "[bɪɡ]",
-          "phoneticUS": "[bɪɡ]",
-          "meaning": "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地"
+          "meaning": "adj.大的,重要的,量大的,重要的adv.夸大地,顺利"
         },
         {
           "term": "small",
-          "phonetic": "[smɔːl]",
-          "phoneticUS": "[smɔːl]",
-          "meaning": "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地"
+          "phonetic": "[smɔ:l]",
+          "meaning": "adj.小的,少的"
         },
         {
           "term": "tiger",
-          "phonetic": "[ˈtaɪɡə(r)]",
-          "phoneticUS": "[ˈtaɪɡər]",
-          "meaning": "n. 老虎；凶暴的人"
+          "phonetic": "[ˈtaɪɡə]",
+          "meaning": "n.[动]老虎,虎,凶暴的人"
         },
         {
           "term": "bear",
-          "phonetic": "[beə(r)]",
-          "phoneticUS": "[ber]",
-          "meaning": "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑"
+          "phonetic": "[beə]",
+          "meaning": "n.熊v.负担,忍受,带给,具有,挤,向"
         },
         {
           "term": "long",
           "phonetic": "[lɒŋ]",
-          "phoneticUS": "[lɔːŋ]",
-          "meaning": "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终"
+          "meaning": "adj.长的,长期的,做多头的,高的vi.渴望,热望adv.长期地,始终n.长时间,(市场上)做多头的人,[语音]长音节"
         },
         {
           "term": "short",
-          "phonetic": "[ʃɔːt]",
-          "phoneticUS": "[ʃɔːrt]",
-          "meaning": "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地"
+          "phonetic": "[ʃɔ:t]",
+          "meaning": "n.简略,短路,短裤adj.短的,矮的,不足的,不够的,(智力等)弱的,浅薄的,松脆的,简短adv.突然,缺乏,不足"
         },
         {
           "term": "one",
           "phonetic": "[wʌn]",
-          "phoneticUS": "[wʌn]",
-          "meaning": "pron. 一个人；任何人\nadj. 一的；唯一的\nn. 一\nnum. 一；一个"
+          "meaning": "pron.一个人,任何人,一方 num.一,一个adj.一方的,某一,同样的"
         },
         {
           "term": "two",
-          "phonetic": "[tuː]",
-          "phoneticUS": "[tuː]",
-          "meaning": "num. 二\nn. 两个\nadj. 两个的"
+          "phonetic": "[tu:]",
+          "meaning": "num.二,两个"
         },
         {
           "term": "three",
-          "phonetic": "[θriː]",
-          "phoneticUS": "[θriː]",
-          "meaning": "num. 三\nn. 三，三个\nadj. 三的，三个的"
+          "phonetic": "[θri:]",
+          "meaning": "num.三"
         },
         {
           "term": "four",
-          "phonetic": "[fɔː(r)]",
-          "phoneticUS": "[fɔːr]",
-          "meaning": "num. 四；四个\nadj. 四的；四个的"
+          "phonetic": "[fɔ:]",
+          "meaning": "num.四,四个,第四(卷,章,叶等)"
         },
         {
           "term": "five",
           "phonetic": "[faɪv]",
-          "phoneticUS": "[faɪv]",
-          "meaning": "num. 五，五个\nn. 五，五个；五美元钞票\nadj. 五的；五个的"
+          "meaning": "num.五,五个(人或物)n.五个一组,<口>五厘息金的证券"
         },
         {
           "term": "six",
           "phonetic": "[sɪks]",
-          "phoneticUS": "[sɪks]",
-          "meaning": "num. 六，六个\nn. 六，六个"
+          "meaning": "num.六,六个"
         },
         {
           "term": "seven",
-          "phonetic": "[ˈsev(ə)n]",
-          "phoneticUS": "[ˈsev(ə)n]",
-          "meaning": "num. 七个，七\nn. 七个，七\nadj. 七的；七个的"
+          "phonetic": "[ˈsevən]",
+          "meaning": "num.七,七个"
         },
         {
           "term": "eight",
           "phonetic": "[eɪt]",
-          "phoneticUS": "[eɪt]",
-          "meaning": "num. 八；八个；第八\nn. 八字形\nadj. 八的"
+          "meaning": "adj.八的 num.八,八个,第八n.八字形"
         },
         {
           "term": "nine",
           "phonetic": "[naɪn]",
-          "phoneticUS": "[naɪn]",
-          "meaning": "n. 九，九个\nnum. 九；九个\nadj. 九的，九个的"
+          "meaning": "num.九,九个"
         },
         {
           "term": "ten",
           "phonetic": "[ten]",
-          "phoneticUS": "[ten]",
-          "meaning": "num. 十个，十"
+          "meaning": "num.十,十个"
         },
         {
           "term": "river",
-          "phonetic": "[ˈrɪvə(r)]",
-          "phoneticUS": "[ˈrɪvər]",
-          "meaning": "n. 河，江"
+          "phonetic": "[ˈrɪvə]",
+          "meaning": "n.河,江"
         },
         {
           "term": "tree",
-          "phonetic": "[triː]",
-          "phoneticUS": "[triː]",
-          "meaning": "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树"
+          "phonetic": "[tri:]",
+          "meaning": "n.树,木料,树状物vt.赶上树n.[计] 显示驱动器的子目录结构vi.爬上树,逃上树"
         },
         {
           "term": "grass",
-          "phonetic": "[ɡrɑːs]",
-          "phoneticUS": "[ɡræs]",
-          "meaning": "n. 草；草地，草坪\nvt. 放牧；使……长满草；使……吃草\nvi. 长草"
+          "phonetic": "[ɡrɑ:s]",
+          "meaning": "n.草"
         },
         {
           "term": "banana",
-          "phonetic": "[bəˈnɑːnə]",
-          "phoneticUS": "[bəˈnænə]",
-          "meaning": "n. 香蕉；喜剧演员；大鹰钩鼻"
-        },
+          "phonetic": "[bəˈnɑ:nə]",
+          "meaning": "n.香蕉"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "food",
-          "phonetic": "[fuːd]",
-          "phoneticUS": "[fuːd]",
-          "meaning": "n. 食物；养料"
+          "phonetic": "[fu:d]",
+          "meaning": "n.食物,养料"
         },
         {
           "term": "eat",
-          "phonetic": "[iːt]",
-          "phoneticUS": "[iːt]",
-          "meaning": "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀"
+          "phonetic": "[i:t]",
+          "meaning": "v.吃,腐蚀"
         },
         {
           "term": "drink",
           "phonetic": "[drɪŋk]",
-          "phoneticUS": "[drɪŋk]",
-          "meaning": "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯"
+          "meaning": "n.饮料,酒,酗酒,一口(或一些)饮料v.喝,喝酒,(植物、土壤等的)吸水,举杯庆贺"
         },
         {
           "term": "juice",
-          "phonetic": "[dʒuːs]",
-          "phoneticUS": "[dʒuːs]",
-          "meaning": "n. （水果）汁，液；果汁"
+          "phonetic": "[dʒu:s]",
+          "meaning": "n.(水果)汁,液"
         },
         {
           "term": "I",
           "phonetic": "[aɪ]",
-          "phoneticUS": "[aɪ]",
-          "meaning": "n. 碘元素；英语字母I\npron. 我"
+          "meaning": ""
         },
         {
           "term": "soup",
-          "phonetic": "[suːp]",
-          "phoneticUS": "[suːp]",
-          "meaning": "n. 汤，羹；马力\nvt. 加速；增加马力"
+          "phonetic": "[su:p]",
+          "meaning": ""
         },
         {
           "term": "noodle",
-          "phonetic": "[ˈnuːd(ə)l]",
-          "phoneticUS": "[ˈnuːd(ə)l]",
-          "meaning": "n. 面条；笨蛋"
+          "phonetic": "[ˈnu:dl]",
+          "meaning": "n.面条(常用复数),笨蛋,傻瓜"
         },
         {
           "term": "rice",
           "phonetic": "[raɪs]",
-          "phoneticUS": "[raɪs]",
-          "meaning": "n. 稻；米饭\nvt. 把…捣成米糊状"
+          "meaning": "n.稻,米"
         },
         {
           "term": "chicken",
           "phonetic": "[ˈtʃɪkɪn]",
-          "phoneticUS": "[ˈtʃɪkɪn]",
-          "meaning": "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的"
+          "meaning": "n.小鸡,小鸟,鸡肉"
         },
         {
           "term": "vegetable",
-          "phonetic": "[ˈvedʒtəb(ə)l]",
-          "phoneticUS": "[ˈvedʒtəbl]",
-          "meaning": "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的"
+          "phonetic": "[ˈvedʒtəbl]",
+          "meaning": "n.蔬菜,植物,生活呆板单调的人adj.蔬菜的,植物的"
         },
         {
           "term": "fruit",
-          "phonetic": "[fruːt]",
-          "phoneticUS": "[fruːt]",
-          "meaning": "n. 水果；产物\nvt. 使……结果实\nvi. 结果实"
+          "phonetic": "[fru:t]",
+          "meaning": "n.水果,果实,果类,成果vi.结果实"
         },
         {
           "term": "like",
           "phonetic": "[laɪk]",
-          "phoneticUS": "[laɪk]",
-          "meaning": "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像"
+          "meaning": "n.爱好,同样的人(或物)adj.相似的,同样的vt.喜欢,希望,愿意vi.喜欢,希望 prep.象,如同adv.可能"
         },
         {
           "term": "good",
-          "phonetic": "[ɡʊd]",
-          "phoneticUS": "[ɡʊd]",
-          "meaning": "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好"
+          "phonetic": "[gʊd]",
+          "meaning": "n.好,好事,慷慨的行为,好处,利益adj.优良的,上等的,虔诚的,愉快的,慈善的,好心的,有益的"
         },
         {
           "term": "milk",
           "phonetic": "[mɪlk]",
-          "phoneticUS": "[mɪlk]",
-          "meaning": "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶"
+          "meaning": "n.乳,牛奶v.挤(奶)"
         },
         {
           "term": "egg",
           "phonetic": "[eɡ]",
-          "phoneticUS": "[eɡ]",
-          "meaning": "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿"
+          "meaning": "n.蛋,鸡蛋,卵v.怂恿,怂恿"
         },
         {
           "term": "bread",
           "phonetic": "[bred]",
-          "phoneticUS": "[bred]",
-          "meaning": "n. 面包；生计\nvt. 在…上洒面包屑"
-        },
+          "meaning": "n.面包,生计"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "apple",
-          "phonetic": "[ˈæp(ə)l]",
-          "phoneticUS": "[ˈæpl]",
-          "meaning": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
+          "phonetic": "[ˈæpl]",
+          "meaning": "n.苹果,似苹果的果实"
         },
         {
           "term": "orange",
           "phonetic": "[ˈɒrɪndʒ]",
-          "phoneticUS": "[ˈɔrɪndʒ]",
-          "meaning": "adj. 橙色的；橘色的\nn. 橙；橙色；桔子"
+          "meaning": "n.柑,桔,橙,橙色"
         },
         {
           "term": "eleven",
-          "phonetic": "[ɪˈlev(ə)n]",
-          "phoneticUS": "[ɪˈlevn]",
-          "meaning": "num. 十一；十一个\nn. 十一；十一个\nadj. 十一的；十一个的"
+          "phonetic": "[ɪˈlevn]",
+          "meaning": "n.十一"
         },
         {
           "term": "twelve",
           "phonetic": "[twelv]",
-          "phoneticUS": "[twelv]",
-          "meaning": "num. 十二；十二个\nn. 十二；十二个\nadj. 十二的；十二个的"
+          "meaning": "num.十二"
         },
         {
           "term": "thirteen",
-          "phonetic": "[ˌθɜːˈtiːn]",
-          "phoneticUS": "[ˌθɜːrˈtiːn]",
-          "meaning": "n. 十三；十三岁；十三个\nnum. 十三\nadj. 十三的；十三个的"
+          "phonetic": "[θɜ:ˈti:n]",
+          "meaning": "num.十三"
         },
         {
           "term": "fourteen",
-          "phonetic": "[ˌfɔːˈtiːn]",
-          "phoneticUS": "[ˌfɔːrˈtiːn]",
-          "meaning": "num. 十四；十四个；第十四\nn. 十四的记号；十四岁；十四点钟；十五世纪"
+          "phonetic": "[ˈfɔ:ˈti:n]",
+          "meaning": "num.十四"
         },
         {
           "term": "fifteen",
-          "phonetic": "[ˌfɪfˈtiːn]",
-          "phoneticUS": "[ˌfɪfˈtiːn]",
-          "meaning": "n. 十五；十五个；十五人组成的橄榄球队\nnum. 十五\nadj. 十五的"
+          "phonetic": "[fɪfˈti:n]",
+          "meaning": "adj.十五"
         },
         {
           "term": "ice cream",
-          "phonetic": "[ˈaɪs kriːm]",
-          "phoneticUS": "[ˈaɪs kriːm]",
-          "meaning": "n. 【食】冰淇淋"
+          "phonetic": "[aɪs kri:m]",
+          "meaning": ""
         },
         {
           "term": "sixteen",
-          "phonetic": "[ˌsɪksˈtiːn]",
-          "phoneticUS": "[ˌsɪksˈtiːn]",
-          "meaning": "num. 十六\nadj. 十六的，十六个的"
+          "phonetic": "[ˈsɪksˈti:n]",
+          "meaning": "num.十六"
         },
         {
           "term": "seventeen",
-          "phonetic": "[ˌsev(ə)nˈtiːn]",
-          "phoneticUS": "[ˌsevnˈtiːn]",
-          "meaning": "n. 十七，十七个\nnum. 十七\nadj. 十七岁的；十七的，十七个的"
+          "phonetic": "[ˈsevənˈti:n]",
+          "meaning": "num.十七n.十七个"
         },
         {
           "term": "eighteen",
-          "phonetic": "[ˌeɪˈtiːn]",
-          "phoneticUS": "[ˌeɪˈtiːn]",
-          "meaning": "n. 十八，十八个\nnum. 十八\nadj. 十八个的，十八的"
+          "phonetic": "[ˈeɪˈti:n]",
+          "meaning": "adj.十八的,十八个的"
         },
         {
           "term": "nineteen",
-          "phonetic": "[ˌnaɪnˈtiːn]",
-          "phoneticUS": "[ˌnaɪnˈtiːn]",
-          "meaning": "num. 十九"
+          "phonetic": "[ˈnaɪnˈti:n]",
+          "meaning": "num.十九"
         },
         {
           "term": "twenty",
-          "phonetic": "[ˈtwenti]",
-          "phoneticUS": "[ˈtwenti]",
-          "meaning": "num. 二十\nn. 二十；二十年代\nadj. 二十的"
+          "phonetic": "[ˈtwentɪ]",
+          "meaning": "num.二十,二十个"
         },
         {
           "term": "please",
-          "phonetic": "[pliːz]",
-          "phoneticUS": "[pliːz]",
-          "meaning": "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴"
+          "phonetic": "[pli:z]",
+          "meaning": "adj.满足的vt.请v.使喜欢,中...的意,使满足,取悦"
         },
         {
           "term": "thanks",
           "phonetic": "[θæŋks]",
-          "phoneticUS": "[θæŋks]",
-          "meaning": "n. 谢谢（只用复数）\nint. 谢谢"
+          "meaning": "n.感谢;int.谢谢"
         },
         {
           "term": "welcome",
           "phonetic": "[ˈwelkəm]",
-          "phoneticUS": "[ˈwelkəm]",
-          "meaning": "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎"
+          "meaning": "n.欢迎vt.欢迎int.欢迎adj.受欢迎的"
         }
       ]
     }

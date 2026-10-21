@@ -1,244 +1,224 @@
 {
-  "id": "69f79db0ec",
   "title": "北京版一年级起点一年级上",
   "wordCount": 39,
   "units": [
     {
-      "name": "整册",
+      "name": "PICTURE DICTIONARY 62页",
       "words": [
         {
           "term": "star",
-          "phonetic": "[stɑː(r)]",
-          "phoneticUS": "[stɑːr]",
-          "meaning": "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角"
+          "phonetic": "[stɑ:]",
+          "meaning": "n.星,恒星,明星,名角"
         },
         {
           "term": "moon",
-          "phonetic": "[muːn]",
-          "phoneticUS": "[muːn]",
-          "meaning": "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度"
+          "phonetic": "[mu:n]",
+          "meaning": "n.月球,月亮,卫星"
         },
         {
           "term": "night",
           "phonetic": "[naɪt]",
-          "phoneticUS": "[naɪt]",
-          "meaning": "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的"
+          "meaning": "n.夜,夜晚,黑暗,死亡"
         },
         {
           "term": "lake",
-          "phonetic": "[leɪk]",
-          "phoneticUS": "[leɪk]",
-          "meaning": "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解"
+          "phonetic": "[ˈleɪk]",
+          "meaning": ""
         },
         {
           "term": "house",
           "phonetic": "[haʊs]",
-          "phoneticUS": "[haʊs]",
-          "meaning": "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住"
+          "meaning": "n.房子,住宅,库房,机构,家庭,家族,议院,剧场vt.给...房子住,收藏,覆盖vi.住,躲藏(up)"
         },
         {
           "term": "boat",
           "phonetic": "[bəʊt]",
-          "phoneticUS": "[boʊt]",
-          "meaning": "n. 小船；轮船\nvi. 划船"
+          "meaning": "n.小船,艇v.划船"
         },
         {
           "term": "key",
-          "phonetic": "[kiː]",
-          "phoneticUS": "[kiː]",
-          "meaning": "n. （打字机等的）键；关键；钥匙\nvt. 键入；锁上；调节…的音调；提供线索\nvi. 使用钥匙\nadj. 关键的"
+          "phonetic": "[ki:]",
+          "meaning": "n.钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害vt.调节...的音调,锁上,插上栓,提供线索vi.使用钥匙n.[乐]键,调,基调"
         },
         {
           "term": "car",
-          "phonetic": "[kɑː(r)]",
-          "phoneticUS": "[kɑːr]",
-          "meaning": "n. 汽车；车厢"
+          "phonetic": "[kɑ:(r)]",
+          "meaning": "n.汽车,小汽车,车辆,客车,[铁]车厢"
         },
         {
           "term": "gate",
           "phonetic": "[ɡeɪt]",
-          "phoneticUS": "[ɡeɪt]",
-          "meaning": "n. 大门；出入口；门道\nvt. 给…装大门"
-        },
+          "meaning": "n.大门"
+        }
+      ]
+    },
+    {
+      "name": "PICTURE DICTIONARY 63页",
+      "words": [
         {
           "term": "kite",
           "phonetic": "[kaɪt]",
-          "phoneticUS": "[kaɪt]",
-          "meaning": "n. 风筝\nvi. 使用空头支票；像风筝一样飞；轻快地移动\nvt. 骗钱；涂改（支票）"
+          "meaning": "n.风筝,(微风时使用的)高而轻的帆,<俚>[商]空头支票,试探性行动vi.象风筝一样飞,轻快地移动,使用空头支票vt.使上升,骗钱"
         },
         {
           "term": "girl",
-          "phonetic": "[ɡɜːl]",
-          "phoneticUS": "[ɡɜːrl]",
-          "meaning": "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔"
+          "phonetic": "[ɡɜ:l]",
+          "meaning": "n.女孩,少女,女仆,(商店等的)女工作人员"
         },
         {
           "term": "bike",
           "phonetic": "[baɪk]",
-          "phoneticUS": "[baɪk]",
-          "meaning": "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）"
+          "meaning": "n.脚踏车,自行车"
         },
         {
           "term": "uniform",
-          "phonetic": "[ˈjuːnɪfɔːm]",
-          "phoneticUS": "[ˈjuːnɪfɔːrm]",
-          "meaning": "n. 制服\nadj. 统一的；一致的；相同的；均衡的；始终如一的\nvt. 使穿制服；使成一样"
+          "phonetic": "[ˈju:nɪfɔ:m]",
+          "meaning": "adj.统一的,相同的,一致的,始终如一的,均衡的n.制服vt.使成一样,使穿制服"
         },
         {
           "term": "bag",
-          "phonetic": "[bæɡ]",
-          "phoneticUS": "[bæɡ]",
-          "meaning": "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂"
+          "phonetic": "[bæg]",
+          "meaning": "n.袋子,猎获物"
         },
         {
           "term": "cake",
           "phonetic": "[keɪk]",
-          "phoneticUS": "[keɪk]",
-          "meaning": "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状"
+          "meaning": "n.蛋糕,饼,块,"
         },
         {
           "term": "dish",
           "phonetic": "[dɪʃ]",
-          "phoneticUS": "[dɪʃ]",
-          "meaning": "n. 盘；餐具；一盘食物；外貌有吸引力的人\nvt. 盛于碟盘中；分发；使某人的希望破灭；说（某人）的闲话\nvi. 成碟状；闲谈"
+          "meaning": "n.盘,碟,盘装菜v.提出 碟形卫星天线"
         },
         {
           "term": "cup",
           "phonetic": "[kʌp]",
-          "phoneticUS": "[kʌp]",
-          "meaning": "n. 杯子；奖杯；酒杯\nvt. 使成杯状；为…拔火罐"
+          "meaning": "n.杯子,酒杯,奖杯vt.使成杯状,为...拔火罐"
         },
         {
           "term": "nut",
           "phonetic": "[nʌt]",
-          "phoneticUS": "[nʌt]",
-          "meaning": "n. 螺母，螺帽；坚果；难对付的人，难解的问题\nvi. 采坚果"
+          "meaning": "n.坚果,螺母,螺帽,难解的问题"
         },
         {
           "term": "spoon",
-          "phonetic": "[spuːn]",
-          "phoneticUS": "[spuːn]",
-          "meaning": "n. 匙，勺子；一杓的量\nvt. 用匙舀；使成匙状\nvi. 轻轻向上击"
-        },
+          "phonetic": "[spu:n]",
+          "meaning": "n.匙,调羹,勺子"
+        }
+      ]
+    },
+    {
+      "name": "PICTURE DICTIONARY 64页",
+      "words": [
         {
           "term": "eye",
           "phonetic": "[aɪ]",
-          "phoneticUS": "[aɪ]",
-          "meaning": "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看"
+          "meaning": "n.眼睛,视力,眼光,观点,见解,眼状物,风吹来的方向,[气]风眼vt.看,注视,在...上打眼"
         },
         {
           "term": "ear",
-          "phonetic": "[ɪə(r)]",
-          "phoneticUS": "[ɪr]",
-          "meaning": "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗"
+          "phonetic": "[ɪə]",
+          "meaning": "n.耳朵,倾听,听觉,听力,穗vi.抽穗"
         },
         {
           "term": "knee",
-          "phonetic": "[niː]",
-          "phoneticUS": "[niː]",
-          "meaning": "n. 膝盖，膝\nvt. 用膝盖碰"
+          "phonetic": "[ni:]",
+          "meaning": "n.膝,膝盖"
         },
         {
           "term": "foot",
           "phonetic": "[fʊt]",
-          "phoneticUS": "[fʊt]",
-          "meaning": "n. 脚；英尺；步调；末尾\nvt. 支付；给……换底\nvi. 步行；跳舞；总计"
+          "meaning": "n.足,底部,英尺,音步(英诗),步调,步兵,末尾vt.走在...上,支付,给...换底,结算vi.步行,跳舞,总计"
         },
         {
           "term": "bed",
           "phonetic": "[bed]",
-          "phoneticUS": "[bed]",
-          "meaning": "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层"
+          "meaning": "n.床,基础,路基,河底,海底,一堆,一层vt.安置,嵌入,使睡,栽种vi.上床,分层  教育学士 BEd(Bachelor of Education)"
         },
         {
           "term": "box",
           "phonetic": "[bɒks]",
-          "phoneticUS": "[bɑːks]",
-          "meaning": "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击"
+          "meaning": "n.盒子,箱,包厢,岗亭,一拳v.装...入盒中,打耳光,拳击"
         },
         {
           "term": "pen",
           "phonetic": "[pen]",
-          "phoneticUS": "[pen]",
-          "meaning": "n. 钢笔；作家；围栏\nvt. 写；关入栏中"
+          "meaning": "n.钢笔,围栏,围圈,作家vt.写,关入栏中"
         },
         {
           "term": "book",
           "phonetic": "[bʊk]",
-          "phoneticUS": "[bʊk]",
-          "meaning": "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记"
+          "meaning": "n.书,书籍,卷,篇,帐簿,名册,工作簿v.登记,预订,控告"
         },
         {
           "term": "coat",
           "phonetic": "[kəʊt]",
-          "phoneticUS": "[koʊt]",
-          "meaning": "n. 外套\nvt. 覆盖…的表面"
-        },
+          "meaning": "n.外套,(动物的)皮毛,(植物的)表皮,(漆等的)层,涂层vt.涂上,包上"
+        }
+      ]
+    },
+    {
+      "name": "PICTURE DICTIONARY 65页",
+      "words": [
         {
           "term": "UFO",
-          "phonetic": "[ˌjuː ef ˈəʊ; ˈjuːfəʊ]",
-          "phoneticUS": "[ˌjuː ef ˈoʊˌˈjuːfoʊ]",
-          "meaning": "abbr. 不明飞行物（Unidentified Flying Object）"
+          "phonetic": "[ˌju:efˈəʊ]",
+          "meaning": ""
         },
         {
           "term": "hut",
           "phonetic": "[hʌt]",
-          "phoneticUS": "[hʌt]",
-          "meaning": "n. 小屋；临时营房\nvt. 使住在小屋中；驻扎\nvi. 住在小屋中；驻扎"
+          "meaning": "n.小屋,棚屋"
         },
         {
           "term": "skirt",
-          "phonetic": "[skɜːt]",
-          "phoneticUS": "[skɜːrt]",
-          "meaning": "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕"
+          "phonetic": "[skɜ:t]",
+          "meaning": "n.裙子v.环绕"
         },
         {
           "term": "wood",
-          "phonetic": "[wʊd]",
-          "phoneticUS": "[wʊd]",
-          "meaning": "n. 木材；木制品；树林\nvt. 植林于；给…添加木柴\nvi. 收集木材"
-        },
+          "phonetic": "[wud]",
+          "meaning": "n.木头,木材,树木"
+        }
+      ]
+    },
+    {
+      "name": "PICTURE DICTIONARY 66页",
+      "words": [
         {
           "term": "bird",
-          "phonetic": "[bɜːd]",
-          "phoneticUS": "[bɜːrd]",
-          "meaning": "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟"
+          "phonetic": "[bɜ:d]",
+          "meaning": "n.鸟,<俚>人vi.在野外观察或鉴别鸟类"
         },
         {
           "term": "bee",
-          "phonetic": "[biː]",
-          "phoneticUS": "[biː]",
-          "meaning": "n. 蜜蜂，蜂；勤劳的人"
+          "phonetic": "[bi:]",
+          "meaning": ""
         },
         {
           "term": "deer",
-          "phonetic": "[dɪə(r)]",
-          "phoneticUS": "[dɪr]",
-          "meaning": "n. 鹿"
+          "phonetic": "[dɪə]",
+          "meaning": ""
         },
         {
           "term": "cat",
           "phonetic": "[kæt]",
-          "phoneticUS": "[kæt]",
-          "meaning": "n. 猫，猫科动物"
+          "meaning": ""
         },
         {
           "term": "dog",
-          "phonetic": "[dɒɡ]",
-          "phoneticUS": "[dɔːɡ]",
-          "meaning": "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随"
+          "phonetic": "[dɒg]",
+          "meaning": "n.狗,犬,类似犬的动物,卑鄙的人,小人,坏蛋vt.跟踪,尾随"
         },
         {
           "term": "fish",
           "phonetic": "[fɪʃ]",
-          "phoneticUS": "[fɪʃ]",
-          "meaning": "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取"
+          "meaning": "n.鱼,鱼肉,鱼类,接合板vt.钓,钓鱼,查出,用接合板连接vi.捕鱼,钓鱼,用钩捞取,间接探听,拉摸索寻找"
         },
         {
           "term": "mouse",
           "phonetic": "[maʊs]",
-          "phoneticUS": "[maʊs]",
-          "meaning": "n. 鼠标；老鼠；胆小羞怯的人\nvt. 探出\nvi. 捕鼠；窥探"
+          "meaning": "n.鼠,耗子v.搜寻"
         }
       ]
     }

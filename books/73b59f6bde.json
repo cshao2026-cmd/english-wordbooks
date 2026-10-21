@@ -1,316 +1,279 @@
 {
-  "id": "73b59f6bde",
   "title": "冀教版三年级起点六年级下",
   "wordCount": 51,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "sport",
-          "phonetic": "[spɔːt]",
-          "phoneticUS": "[spɔːrt]",
-          "meaning": "n. 运动；游戏；娱乐；运动会；玩笑\nadj. 运动的\nvt. 游戏；参加体育运动；夸耀\nvi. 游戏"
+          "phonetic": "[spɔ:t]",
+          "meaning": "n.运动,[pl.] 运动会"
         },
         {
           "term": "football",
-          "phonetic": "[ˈfʊtbɔːl]",
-          "phoneticUS": "[ˈfʊtbɔːl]",
-          "meaning": "n. 足球，橄榄球\nvi. 踢足球；打橄榄球"
+          "phonetic": "[ˈfutbɔ:l]",
+          "meaning": "n.足球,橄榄球"
         },
         {
           "term": "any",
-          "phonetic": "[ˈeni]",
-          "phoneticUS": "[ˈeni]",
-          "meaning": "adj. 任何的；所有的；丝毫\npron. 任何；任何一个；若干\nadv. 稍微；少许"
+          "phonetic": "[ˈenɪ]",
+          "meaning": "adj.任何的,任何一种,所有的 pron.无论那一个,任何"
         },
         {
           "term": "some",
           "phonetic": "[sʌm]",
-          "phoneticUS": "[sʌm; səm]",
-          "meaning": "adj. 一些；某个；大约；相当多的\npron. 一些；若干；其中的一部分；（数量不确切时用）有些人\nadv. 非常；相当；<美>稍微"
+          "meaning": "adj.一些,少许,若干,有些,大约,相当的 pron.一些,若干,有些,某些"
         },
         {
           "term": "wear",
-          "phonetic": "[weə(r)]",
-          "phoneticUS": "[wer]",
-          "meaning": "n. 衣物；磨损；耐久性\nv. 穿着；用旧；耗损；面露"
+          "phonetic": "[weə]",
+          "meaning": "vt.穿,戴v.(～ out) 磨损,用旧,(～ out) 穿着"
         },
         {
           "term": "or",
-          "phonetic": "[ɔː(r)]",
-          "phoneticUS": "[ɔːr]",
-          "meaning": "conj. 或，或者；还是"
+          "phonetic": "[ɔ:]",
+          "meaning": "conj.或,或者,还是 [军] Operational Requirement,作战需求 [军] Operations Research,运筹学研究"
         },
         {
           "term": "basketball",
-          "phonetic": "[ˈbɑːskɪtbɔːl]",
-          "phoneticUS": "[ˈbæskɪtbɔːl]",
-          "meaning": "n. 篮球；篮球运动"
+          "phonetic": "[ˈbɑ:skɪtbɔ:l]",
+          "meaning": "n.篮球,篮球运动"
         },
         {
           "term": "try",
           "phonetic": "[traɪ]",
-          "phoneticUS": "[traɪ]",
-          "meaning": "n. 尝试；努力；试验\nvt. 试图，努力；试验；审判；考验\nvi. 尝试；努力；试验"
+          "meaning": "n.尝试v.试,试图,努力,试验,磨难,考验,审问"
         },
         {
           "term": "heavy",
-          "phonetic": "[ˈhevi]",
-          "phoneticUS": "[ˈhevi]",
-          "meaning": "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地"
+          "phonetic": "[ˈhevɪ]",
+          "meaning": "adj.重的,繁重的,巨大的,沉重的,阴沉的adv.沉重地,笨重地,大量地n.重物,严肃角色"
         },
         {
           "term": "difficult",
           "phonetic": "[ˈdɪfɪkəlt]",
-          "phoneticUS": "[ˈdɪfɪkəlt]",
-          "meaning": "adj. 困难的；不随和的；执拗的"
+          "meaning": "adj.困难的,艰难的,(人)难相处的"
         },
         {
           "term": "easy",
-          "phonetic": "[ˈiːzi]",
-          "phoneticUS": "[ˈiːzi]",
-          "meaning": "adj. 容易的；舒适的\nvt. 发出停划命令\nadv. 不费力地，从容地\nvi. 停止划桨"
+          "phonetic": "[ˈi:zɪ]",
+          "meaning": "adj.容易的,安逸的,舒适的,宽裕的,小康的,从容的,宽容的,流畅的adv.不费力的,轻松,悠闲,慢慢地n.短暂的休息"
         },
         {
           "term": "hand",
           "phonetic": "[hænd]",
-          "phoneticUS": "[hænd]",
-          "meaning": "n. 手，手艺；帮助；指针；插手\nvt. 传递，交给；支持；搀扶"
+          "meaning": "n.手,掌管,协助,支配,插手,指针,雇员,手艺vt.支持,搀扶,交给"
         },
         {
           "term": "game",
           "phonetic": "[ɡeɪm]",
-          "phoneticUS": "[ɡeɪm]",
-          "meaning": "n. 游戏；比赛\nadj. 勇敢的\nvi. 赌博"
+          "meaning": "n.比赛,游戏,竞赛,[复]运动会,玩耍,比分,比赛规则,策略vi.赌博adj.勇敢的,有胆量的,关于野味的,跛的"
         },
         {
           "term": "ask",
-          "phonetic": "[ɑːsk]",
-          "phoneticUS": "[æsk]",
-          "meaning": "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求"
+          "phonetic": "[ɑ:sk]",
+          "meaning": "vi.询问,问,要求vt.问,要求,需要,邀请"
         },
         {
           "term": "very",
-          "phonetic": "[ˈveri]",
-          "phoneticUS": "[ˈveri]",
-          "meaning": "adv. 非常，很；完全\nadj. 恰好是，正是；甚至；十足的；特有的"
+          "phonetic": "[ˈverɪ]",
+          "meaning": "adv.很,甚,及其,非常,完全adj.真正的,真实的,恰好的,绝对的,十足的,特别的"
         },
         {
           "term": "answer",
-          "phonetic": "[ˈɑːnsə(r)]",
-          "phoneticUS": "[ˈænsər]",
-          "meaning": "n. 回答；答案；答辩\nvt. 回答；符合\nvi. 回答；符合"
+          "phonetic": "[ˈɑ:nsə]",
+          "meaning": "n.答案,回答,答辩,抗辩v.回答说,答复说,符合,反响,响应"
         },
         {
           "term": "policeman",
-          "phonetic": "[pəˈliːsmən]",
-          "phoneticUS": "[pəˈliːsmən]",
-          "meaning": "n. 警察，警员；[分化] 淀帚（橡皮头玻璃搅棒）"
-        },
+          "phonetic": "[pəˈli:smən]",
+          "meaning": "n.警察"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "healthy",
-          "phonetic": "[ˈhelθi]",
-          "phoneticUS": "[ˈhelθi]",
-          "meaning": "adj. 健康的，健全的；有益于健康的"
+          "phonetic": "[ˈhelθɪ]",
+          "meaning": "adj.健康的,健壮的,有益于健康的"
         },
         {
           "term": "strong",
           "phonetic": "[strɒŋ]",
-          "phoneticUS": "[strɔːŋ]",
-          "meaning": "adj. 坚强的；强壮的；牢固的；擅长的\nadv. 强劲地；猛烈地"
+          "meaning": "adj.强,强壮的,坚固的,浓的,强烈的,强大的,强的,强硬的"
         },
         {
           "term": "before",
-          "phonetic": "[bɪˈfɔː(r)]",
-          "phoneticUS": "[bɪˈfɔːr]",
-          "meaning": "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前"
+          "phonetic": "[bɪˈfɔ:]",
+          "meaning": "adv.在前,以前 prep.在...之前 conj.在...之前,与其...宁可"
         },
         {
           "term": "after",
-          "phonetic": "[ˈɑːftə(r)]",
-          "phoneticUS": "[ˈæftər]",
-          "meaning": "conj. 在……之后\nprep. 在……之后\nadj. 以后的\nadv. 后来，以后"
+          "phonetic": "[ˈɑ:ftə]",
+          "meaning": "adv.prep.conj.在...之后,在...后面,模仿,与...一致,以...命名,后来的,后面的"
         },
         {
           "term": "bad",
           "phonetic": "[bæd]",
-          "phoneticUS": "[bæd]",
-          "meaning": "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地"
+          "meaning": "adj.劣质的,有害的,坏的,不利的,不健康的,严重的"
         },
         {
           "term": "next",
           "phonetic": "[nekst]",
-          "phoneticUS": "[nekst]",
-          "meaning": "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后"
+          "meaning": "n.adj.下次的,其次的,与...连接,下一个adv.下一次,其次"
         },
         {
           "term": "often",
-          "phonetic": "[ˈɒf(ə)n]",
-          "phoneticUS": "[ˈɔːf(ə)n]",
-          "meaning": "adv. 常常，时常"
+          "phonetic": "[ˈɒfn]",
+          "meaning": "adv.常常,经常"
         },
         {
           "term": "exercise",
           "phonetic": "[ˈeksəsaɪz]",
-          "phoneticUS": "[ˈeksərsaɪz]",
-          "meaning": "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习"
+          "meaning": "n.练习,习题,训练,锻炼,演习v.训练,锻炼vt.行使,使担扰"
         },
         {
           "term": "minute",
           "phonetic": "[ˈmɪnɪt]",
-          "phoneticUS": "[ˈmɪnɪt]",
-          "meaning": "n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录\nvt. 将…记录下来\nadj. 微小的，详细的 [maɪˈnjuːt; US -ˈnuːt; maɪˋnut]"
+          "meaning": "n.分,分钟,片刻,一瞬间,备忘录,笔记vt.记录,摘录,测定时间adj.微小的,详细的,仔细而准确的"
         },
         {
           "term": "hour",
-          "phonetic": "[ˈaʊə(r)]",
-          "phoneticUS": "[ˈaʊər]",
-          "meaning": "n. 小时；钟头；课时；…点钟"
+          "phonetic": "[ˈaʊə]",
+          "meaning": "n.小时,钟头,...点钟,课时,(一段)时间"
         },
         {
           "term": "high",
           "phonetic": "[haɪ]",
-          "phoneticUS": "[haɪ]",
-          "meaning": "n. 高水平；天空；由麻醉品引起的快感；高压地带\nadj. 高的；高级的；崇高的；高音调的\nadv. 高；奢侈地"
-        },
+          "meaning": "n.高度,高处adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的adv.高度地,奢侈地,高价地"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "fan",
           "phonetic": "[fæn]",
-          "phoneticUS": "[fæn]",
-          "meaning": "n. 迷；风扇；爱好者\nvt. 煽动；刺激；吹拂\nvi. 成扇形散开；飘动"
+          "meaning": "n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
         },
         {
           "term": "close",
           "phonetic": "[kləʊz]",
-          "phoneticUS": "[kloʊz; kloʊs]",
-          "meaning": "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地"
+          "meaning": "v.关,关闭,结束,停止,使靠近,靠拢,会合,包围n.结束adj.近的,紧密的,精密的,齐根的,封闭的,亲密的,闷气的adv.接近,紧密地"
         },
         {
           "term": "angry",
-          "phonetic": "[ˈæŋɡri]",
-          "phoneticUS": "[ˈæŋɡri]",
-          "meaning": "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的"
+          "phonetic": "[ˈæŋɡrɪ]",
+          "meaning": "adj.生气的,愤怒的,狂暴的(风雨等)"
         },
         {
           "term": "lake",
-          "phonetic": "[leɪk]",
-          "phoneticUS": "[leɪk]",
-          "meaning": "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解"
+          "phonetic": "[ˈleɪk]",
+          "meaning": ""
         },
         {
           "term": "swim",
           "phonetic": "[swɪm]",
-          "phoneticUS": "[swɪm]",
-          "meaning": "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起"
+          "meaning": "n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
         },
         {
           "term": "swam",
           "phonetic": "[swæm]",
-          "phoneticUS": "[swæm]",
-          "meaning": "v. 游泳（swim的过去式）"
+          "meaning": "vbl.swim的过去式"
         },
         {
           "term": "ship",
           "phonetic": "[ʃɪp]",
-          "phoneticUS": "[ʃɪp]",
-          "meaning": "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员"
+          "meaning": "n.船,海船,舰v.装上船,航运,载运,在船上工作"
         },
         {
           "term": "visit",
           "phonetic": "[ˈvɪzɪt]",
-          "phoneticUS": "[ˈvɪzɪt]",
-          "meaning": "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈"
+          "meaning": "n.拜访,访问,游览,参观,(作客)逗留,视察,调查vt.拜访,访问,参观,视察,降临vi.访问,参观,闲谈"
         },
         {
           "term": "clever",
-          "phonetic": "[ˈklevə(r)]",
-          "phoneticUS": "[ˈklevər]",
-          "meaning": "adj. 聪明的；机灵的；熟练的\n[ 比较级cleverer 最高级 cleverest ]"
-        },
+          "phonetic": "[ˈklevə]",
+          "meaning": "adj.机灵的,聪明的"
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "find",
           "phonetic": "[faɪnd]",
-          "phoneticUS": "[faɪnd]",
-          "meaning": "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得"
+          "meaning": "vt.找到,发现,感到,查明,得到,认为,见到...的存在vi.裁决n.发现 [计] 在文件中查找指定的字符串"
         },
         {
           "term": "found",
           "phonetic": "[faʊnd]",
-          "phoneticUS": "[faʊnd]",
-          "meaning": "v. 找到（find的过去分词）\nvt. 创立，建立；创办"
+          "meaning": "v.建立,创立,创办,使有根据,铸造,熔制"
         },
         {
           "term": "get",
           "phonetic": "[ɡet]",
-          "phoneticUS": "[ɡet]",
-          "meaning": "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得；获得；受到；变成"
+          "meaning": "vt.获得,变成,收获,使得,挣得,受到(惩罚,打击等),染上,抓住vi.到达,成为,变得n.生殖,幼兽"
         },
         {
           "term": "got",
           "phonetic": "[ɡɒt]",
-          "phoneticUS": "[ɡɑːt]",
-          "meaning": "v. 得到，明白（get的过去式和过去分词）"
+          "meaning": "vbl.get 的过去式"
         },
         {
           "term": "party",
-          "phonetic": "[ˈpɑːti]",
-          "phoneticUS": "[ˈpɑːrti]",
-          "meaning": "n. 政党，党派；聚会，派对；当事人 [复数 parties]\nvi. 参加社交聚会 [ 过去式 partied 过去分词 partied 现在分词 partying ]"
+          "phonetic": "[ˈpɑ:tɪ]",
+          "meaning": "n.党,政党,随行人员,[律]当事人,社交会"
         },
         {
           "term": "tell",
           "phonetic": "[tel]",
-          "phoneticUS": "[tel]",
-          "meaning": "vt. 告诉，说；辨别；吩咐；断定\nvi. 讲述；告发，泄密；识别"
+          "meaning": "vt.告诉,说,吩咐,断定,知道vi.讲述,泄密,告发,表明,作证n.<方>讲的事,传闻"
         },
         {
           "term": "begin",
           "phonetic": "[bɪˈɡɪn]",
-          "phoneticUS": "[bɪˈɡɪn]",
-          "meaning": "vi. 开始；首先\nvt. 开始"
+          "meaning": "v.开始,首先"
         },
         {
           "term": "late",
           "phonetic": "[leɪt]",
-          "phoneticUS": "[leɪt]",
-          "meaning": "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期"
+          "meaning": "adj.迟的,晚(期)的,已故的,新近的adv.晚,迟,最近,在晚期"
         },
         {
           "term": "early",
-          "phonetic": "[ˈɜːli]",
-          "phoneticUS": "[ˈɜːrli]",
-          "meaning": "adj. 早期的；早熟的\nadv. 提早；在初期"
+          "phonetic": "[ˈɜ:lɪ]",
+          "meaning": "adj.早的,早熟的,及早的,早先的,早期的adv.早,在初期"
         },
         {
           "term": "cake",
           "phonetic": "[keɪk]",
-          "phoneticUS": "[keɪk]",
-          "meaning": "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状"
+          "meaning": "n.蛋糕,饼,块,"
         },
         {
           "term": "every",
-          "phonetic": "[ˈevri]",
-          "phoneticUS": "[ˈevri]",
-          "meaning": "adj. 每一的，每个的；每隔…的"
+          "phonetic": "[ˈevrɪ]",
+          "meaning": "adj.每一的,每个的,全部的,每隔...的"
         },
         {
           "term": "all",
-          "phonetic": "[ɔːl]",
-          "phoneticUS": "[ɔːl]",
-          "meaning": "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部"
+          "phonetic": "[ɔ:l]",
+          "meaning": "adj.全部的,所有的,整个的adv.完全,更加,越发 pron.全部"
         },
         {
           "term": "good-bye",
-          "phonetic": "[ˌɡʊd ˈbaɪ]",
-          "phoneticUS": "[ɡʊd baɪ]",
-          "meaning": "n. 告辞\nint. 再见"
+          "phonetic": "[ˈɡudˈbaɪ]",
+          "meaning": ""
         },
         {
           "term": "hear",
-          "phonetic": "[hɪə(r)]",
-          "phoneticUS": "[hɪr]",
-          "meaning": "vi. 听；听见\nvt. 听到，听；听说；审理"
+          "phonetic": "[hɪə]",
+          "meaning": "vt.听到,听说,听取,审理,允许vi.听见,听到"
         }
       ]
     }

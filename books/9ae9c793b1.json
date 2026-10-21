@@ -1,256 +1,239 @@
 {
-  "id": "9ae9c793b1",
   "title": "人教版一年级起点六年级下",
   "wordCount": 41,
   "units": [
     {
-      "name": "整册",
+      "name": "Unit 1",
       "words": [
         {
           "term": "live",
-          "phonetic": "[lɪv; laɪv]",
-          "phoneticUS": "[lɪv; laɪv]",
-          "meaning": "adj. 活的；生动的；实况转播的；精力充沛的\nvt. 经历；度过\nvi. 活；居住；生存"
+          "phonetic": "[lɪv]",
+          "meaning": "adj.活的,生动的,精力充沛的,实况转播的,点燃的vi.活着,生活,居住,流在人们记忆中vt.过着,度过,经历adv.以实况地"
         },
         {
           "term": "quite",
           "phonetic": "[kwaɪt]",
-          "phoneticUS": "[kwaɪt]",
-          "meaning": "adv. 很；相当；完全"
+          "meaning": "adv.相当,完全,十分,彻底"
         },
         {
           "term": "scarf",
-          "phonetic": "[skɑːf]",
-          "phoneticUS": "[skɑːrf]",
-          "meaning": "n. 围巾；嵌接，嵌接处；头巾领巾\nvt. 披嵌接；用围巾围"
+          "phonetic": "[skɑ:f]",
+          "meaning": "n.围巾,头巾领巾,嵌接,嵌接处,切口v.围(围巾),披(头巾)嵌接"
         },
         {
           "term": "airport",
-          "phonetic": "[ˈeəpɔːt]",
-          "phoneticUS": "[ˈerpɔːrt]",
-          "meaning": "n. 机场；航空站"
+          "phonetic": "[ˈeəpɔ:t]",
+          "meaning": "n.<主美>小型民用机场,私人飞机降落场"
         },
         {
           "term": "pupil",
-          "phonetic": "[ˈpjuːp(ə)l]",
-          "phoneticUS": "[ˈpjuːpl]",
-          "meaning": "n. 学生；[解剖] 瞳孔；未成年人"
+          "phonetic": "[ˈpju:pl]",
+          "meaning": "n.学生,小学生,瞳孔"
         },
         {
           "term": "arrive",
           "phonetic": "[əˈraɪv]",
-          "phoneticUS": "[əˈraɪv]",
-          "meaning": "vi. 到达；成功；达成；出生"
+          "meaning": "vi.到达,抵达"
         },
         {
           "term": "meet",
-          "phonetic": "[miːt]",
-          "phoneticUS": "[miːt]",
-          "meaning": "vt. 满足；遇见；对付\nvi. 相遇；接触\nn. 集会\nadj. 合适的；适宜的"
+          "phonetic": "[mi:t]",
+          "meaning": "n.会,集会adj.适宜的,合适的vt.遇见,(迎)接,与(某人目光)相遇,(赴约)和...会面,(经介绍)与...相识,对付vi.相遇,接触"
         },
         {
           "term": "wardrobe",
-          "phonetic": "[ˈwɔːdrəʊb]",
-          "phoneticUS": "[ˈwɔːrdroʊb]",
-          "meaning": "n. 衣柜；行头；全部戏装"
-        },
+          "phonetic": "[ˈwɔ:drəʊb]",
+          "meaning": "n.衣柜,衣厨,衣室,衣服,行头,剧装"
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "words": [
         {
           "term": "show ... around",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "v. 带…参观"
+          "phonetic": "[ʃəʊ əˈraʊnd]",
+          "meaning": ""
         },
         {
           "term": "Queen's Park",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "皇后公园；女王公园；女王公园酒店"
+          "phonetic": "[kwi:nz pɑ:k]",
+          "meaning": ""
         },
         {
           "term": "art gallery",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 美术馆；艺术展览馆"
+          "phonetic": "[ɑ:t ˈɡælərɪ]",
+          "meaning": ""
         },
         {
           "term": "public library",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 公立[公共]图书馆"
+          "phonetic": "[ˈpʌblɪk ˈlaɪbrərɪ]",
+          "meaning": ""
         },
         {
           "term": "downtown",
           "phonetic": "[ˌdaʊnˈtaʊn]",
-          "phoneticUS": "[ˌdaʊnˈtaʊn]",
-          "meaning": "n. 市中心区；三分线以外\nadj. 市中心的\nadv. 往闹市区；在市区"
+          "meaning": "adv.在市区,往市区adj.市区的"
         },
         {
           "term": "Lake Ontario",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 安大略湖"
+          "phonetic": "[ˈleɪk ɒnˈteərɪəʊ]",
+          "meaning": ""
         },
         {
           "term": "stadium",
-          "phonetic": "[ˈsteɪdiəm]",
-          "phoneticUS": "[ˈsteɪdiəm]",
-          "meaning": "n. 体育场；露天大型运动场"
-        },
+          "phonetic": "[ˈsteɪdɪəm]",
+          "meaning": "n.露天大型运动场"
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "words": [
         {
           "term": "volunteer",
-          "phonetic": "[ˌvɒlənˈtɪə(r)]",
-          "phoneticUS": "[ˌvɑːlənˈtɪr]",
-          "meaning": "n. 志愿者；志愿兵\nadj. 志愿的\nvt. 自愿\nvi. 自愿"
+          "phonetic": "[vɒlənˈtɪə]",
+          "meaning": "n.志愿者,志愿兵adj.志愿的,义务的,无偿的v.自愿"
         },
         {
           "term": "sandwich",
-          "phonetic": "[ˈsænwɪtʃ; ˈsænwɪdʒ]",
-          "phoneticUS": "[ˈsænwɪtʃ; ˈsænwɪdʒ]",
-          "meaning": "n. 三明治；夹心面包\nvt. 夹入；挤进；把...做成三明治"
+          "phonetic": "[ˈsænwɪtʃ]",
+          "meaning": "n.夹心面包,三明治vt.夹入中间v.做成三明治"
         },
         {
           "term": "top",
           "phonetic": "[tɒp]",
-          "phoneticUS": "[tɑːp]",
-          "meaning": "n. 顶部，顶端；上部；首席；陀螺\nadj. 最高的，顶上的；头等的\nvt. 超越，超过；给…加盖；达到…的顶端\nvi. 高出，超越；结束；达到顶点"
+          "meaning": "n.顶部,顶端,极点,顶蓬,陀螺,(常用复数)根菜植物的叶子,上部,盖子adj.最高的,顶上的,头等的vt.盖,戴,高耸,达到顶端,截去(植物)顶端,高过,超越vi.结束,完成,胜过"
         },
         {
           "term": "habit",
           "phonetic": "[ˈhæbɪt]",
-          "phoneticUS": "[ˈhæbɪt]",
-          "meaning": "n. 习惯，习性；嗜好\nvt. 使穿衣"
+          "meaning": "n.习惯,习性"
         },
         {
           "term": "idea",
           "phonetic": "[aɪˈdɪə]",
-          "phoneticUS": "[aɪˈdiːə]",
-          "meaning": "n. 想法；主意；概念"
+          "meaning": "n.想法,念头,意见,主意,思想,观念,概念"
         },
         {
           "term": "less",
           "phonetic": "[les]",
-          "phoneticUS": "[les]",
-          "meaning": "adv. 较少地；较小地；更小地\nadj. 较少的；较小的\nprep. 减去\nn. 较少；较小"
+          "meaning": "n.较少,较小adj.少的,小的adv.较少地,更小地,不及 prep.减去"
         },
         {
           "term": "at least",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 至少"
-        },
+          "phonetic": "[æt li:st]",
+          "meaning": ""
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "words": [
         {
           "term": "talk about",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 讲(某事)"
+          "phonetic": "[tɔ:k əˈbaʊt]",
+          "meaning": ""
         },
         {
           "term": "hockey",
-          "phonetic": "[ˈhɒki]",
-          "phoneticUS": "[ˈhɑːki]",
-          "meaning": "n. 曲棍球；冰球"
+          "phonetic": "[ˈhɒkɪ]",
+          "meaning": "n.曲棍球"
         },
         {
           "term": "together",
-          "phonetic": "[təˈɡeðə(r)]",
-          "phoneticUS": "[təˈɡeðər]",
-          "meaning": "adj. 新潮的；情绪稳定的，做事有效率的\nadv. 一起；同时；相互；连续地；总共"
+          "phonetic": "[təˈɡeðə]",
+          "meaning": "adv.共同,一起,合起来,集拢地"
         },
         {
           "term": "special",
-          "phonetic": "[ˈspeʃ(ə)l]",
-          "phoneticUS": "[ˈspeʃl]",
-          "meaning": "n. 特使，特派人员；特刊；特色菜；专车；特价商品\nadj. 特别的；专门的，专用的"
+          "phonetic": "[ˈspeʃəl]",
+          "meaning": "n.特派员,专车,专刊adj.特别的,特殊的,专门的,专用的"
         },
         {
           "term": "beaver",
-          "phonetic": "[ˈbiːvə(r)]",
-          "phoneticUS": "[ˈbiːvər]",
-          "meaning": "n. 海狸；海狸皮毛"
+          "phonetic": "[ˈbi:və]",
+          "meaning": "n.海狸(毛皮)"
         },
         {
           "term": "raccoon",
-          "phonetic": "[rəˈkuːn]",
-          "phoneticUS": "[ræˈkuːn]",
-          "meaning": "n. 浣熊；浣熊毛皮"
+          "phonetic": "[rəˈku:n]",
+          "meaning": "n.<美>[动]浣熊,浣熊毛皮"
         },
         {
           "term": "moose",
-          "phonetic": "[muːs]",
-          "phoneticUS": "[muːs]",
-          "meaning": "n. [脊椎] 驼鹿；麋\n[ 复数 moose ]"
-        },
+          "phonetic": "[mu:s]",
+          "meaning": "n.[动] 驼鹿(产于北美的一种大鹿)"
+        }
+      ]
+    },
+    {
+      "name": "Unit 5",
+      "words": [
         {
           "term": "countryside",
-          "phonetic": "[ˈkʌntrisaɪd]",
-          "phoneticUS": "[ˈkʌntrisaɪd]",
-          "meaning": "n. 农村，乡下；乡下的全体居民"
+          "phonetic": "[ˈkʌntrɪsaɪd]",
+          "meaning": "n.乡下地方,乡下居民"
         },
         {
           "term": "Thanksgiving",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 感恩"
+          "phonetic": "[θæŋksˈɡɪvɪŋ]",
+          "meaning": ""
         },
         {
           "term": "roast turkey",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 【食】烤火鸡"
+          "phonetic": "[rəʊst ˈtɜ:kɪ]",
+          "meaning": ""
         },
         {
           "term": "squirrel",
           "phonetic": "[ˈskwɪrəl]",
-          "phoneticUS": "[ˈskwɜːrəl]",
-          "meaning": "n. 松鼠；松鼠毛皮\nvt. 贮藏"
+          "meaning": "n.松鼠v.贮藏"
         },
         {
           "term": "swan",
           "phonetic": "[swɒn]",
-          "phoneticUS": "[swɑːn]",
-          "meaning": "n. 天鹅；天鹅星座\nvi. 游荡，闲荡"
+          "meaning": "n.天鹅,杰出的诗人、歌手,天鹅座"
         },
         {
           "term": "wild goose",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 【鸟】雁"
+          "phonetic": "[waɪld ɡu:s]",
+          "meaning": ""
         },
         {
           "term": "frog",
           "phonetic": "[frɒɡ]",
-          "phoneticUS": "[frɑːɡ]",
-          "meaning": "n. 青蛙；[铁路] 辙叉；饰扣\nvi. 捕蛙"
-        },
+          "meaning": "n.青蛙vi.捕蛙"
+        }
+      ]
+    },
+    {
+      "name": "Unit 6",
+      "words": [
         {
           "term": "English-Chinese dictionary",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "英汉字典；辞典；氏英字典"
+          "phonetic": "[ˈɪŋɡlɪʃ tʃaɪˈni:z ˈdɪkʃənərɪ]",
+          "meaning": ""
         },
         {
           "term": "shopping centre",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "n. 购物中心（集中一批商店，有时在同一建筑物内）"
+          "phonetic": "[ˈʃɒpɪŋ ˈsentə]",
+          "meaning": ""
         },
         {
           "term": "shopping mall",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "un. 商业区林荫路"
+          "phonetic": "[ˈʃɒpɪŋ mɔ:l]",
+          "meaning": ""
         },
         {
           "term": "amazing",
           "phonetic": "[əˈmeɪzɪŋ]",
-          "phoneticUS": "[əˈmeɪzɪŋ]",
-          "meaning": "adj. 令人惊异的\nv. 使吃惊（amaze的ing形式）"
+          "meaning": "adj.令人惊异的"
         },
         {
           "term": "hot pot",
-          "phonetic": "",
-          "phoneticUS": "",
-          "meaning": "na. 〈英〉马铃薯炖牛[羊]肉"
+          "phonetic": "[hɒt pɒt]",
+          "meaning": ""
         }
       ]
     }
