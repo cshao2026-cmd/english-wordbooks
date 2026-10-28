@@ -1,0 +1,24 @@
+name: Sync Wordbooks to R2
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Sync books to R2
+        uses: zhaijunxiao/r2-dir-sync@v1.0.1
+        with:
+          accountid: ${{ secrets.CF_ACCOUNT_ID }}
+          accesskeyid: ${{ secrets.CF_ACCESS_KEY }}
+          secretaccesskey: ${{ secrets.CF_SECRET_KEY }}
+          bucket: ${{ secrets.R2_BUCKET }}
+          source: ./books
+          destination: wordbooks
+          filenamePattern: ".*\.json$"
