@@ -12,13 +12,28 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         
-      - name: Sync books to R2
-        uses: zhaijunxiao/r2-dir-sync@v1.0.1
+      - name: Setup rclone
+        uses: actions/setup-go@v5
         with:
-          accountid: ${{ secrets.CF_ACCOUNT_ID }}
-          accesskeyid: ${{ secrets.CF_ACCESS_KEY }}
-          secretaccesskey: ${{ secrets.CF_SECRET_KEY }}
-          bucket: ${{ secrets.R2_BUCKET }}
-          source: ./books
-          destination: wordbooks
-          filenamePattern: ".*\.json$"
+          go-version: '1.22'
+          
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          
+      - name: Configure rclone
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf << 'EOF'
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.CF_ACCESS_KEY }}
+          secret_access_key = ${{ secrets.CF_SECRET_KEY }}
+          endpoint = https://${{ secrets.CF_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          acl = private
+          EOF
+          
+      - name: Sync files
+        run: |
+          rclone copy ./books r2:${{ secrets.R2_BUCKET }}/wordbooks --transfers 30 --checkers 20
