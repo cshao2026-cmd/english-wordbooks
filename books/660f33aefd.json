@@ -33,17 +33,17 @@
         {
           "term": "take some medicine",
           "phonetic": "[teɪk sʌm ˈmedsn]",
-          "meaning": ""
+          "meaning": "服药，用药，服用药物"
         },
         {
           "term": "see the dentist",
           "phonetic": "[si: ðə ˈdentɪst]",
-          "meaning": ""
+          "meaning": "看牙医，就医牙齿"
         },
         {
           "term": "stay in bed",
           "phonetic": "[steɪ ɪn bed]",
-          "meaning": ""
+          "meaning": "卧床，留在家中"
         },
         {
           "term": "should",
@@ -58,12 +58,12 @@
         {
           "term": "be careful",
           "phonetic": "[bi: ˈkeəfl]",
-          "meaning": ""
+          "meaning": "小心，谨慎，注意"
         },
         {
           "term": "next time",
           "phonetic": "[nekst taɪm]",
-          "meaning": ""
+          "meaning": "下次，再来，之后"
         },
         {
           "term": "dig",
@@ -98,22 +98,22 @@
         {
           "term": "turn left",
           "phonetic": "[tɜ:n left]",
-          "meaning": ""
+          "meaning": "向左转，左转"
         },
         {
           "term": "turn right",
           "phonetic": "[tɜ:n raɪt]",
-          "meaning": ""
+          "meaning": "向右转，右转"
         },
         {
           "term": "go straight",
           "phonetic": "[gəʊ streɪt]",
-          "meaning": ""
+          "meaning": "改邪归正，走上正途"
         },
         {
           "term": "across from",
           "phonetic": "[əˈkrɒs frɒm]",
-          "meaning": ""
+          "meaning": "对面，对面位置，对面方向"
         },
         {
           "term": "street",
@@ -128,12 +128,12 @@
         {
           "term": "traffic light",
           "phonetic": "[ˈtræfɪk laɪt]",
-          "meaning": ""
+          "meaning": "交通信号灯，交通指示灯"
         },
         {
           "term": "bus stop",
           "phonetic": "[bʌs stɒp]",
-          "meaning": ""
+          "meaning": "公共汽车站，车站，停靠点"
         },
         {
           "term": "find",
@@ -168,17 +168,17 @@
         {
           "term": "not enough",
           "phonetic": "[nɒt ɪˈnʌf]",
-          "meaning": ""
+          "meaning": "不足，不够，缺乏"
         },
         {
           "term": "plenty of",
           "phonetic": "[ˈplenti ɔv]",
-          "meaning": ""
+          "meaning": "很多，充足，丰富"
         },
         {
           "term": "too much",
           "phonetic": "[tu: mʌtʃ]",
-          "meaning": ""
+          "meaning": "过多，过分，过度"
         },
         {
           "term": "healthy",
@@ -218,17 +218,17 @@
         {
           "term": "a lot of",
           "phonetic": "[ə lɒt ɒv]",
-          "meaning": ""
+          "meaning": "很多，许多，大量"
         },
         {
           "term": "yuck",
           "phonetic": "[jʌk]",
-          "meaning": ""
+          "meaning": "恶心，讨厌，令人作呕"
         },
         {
           "term": "from now on",
           "phonetic": "[frəm naʊ ɒn]",
-          "meaning": ""
+          "meaning": "从此，以后，此后"
         },
         {
           "term": "only",
@@ -343,7 +343,7 @@
         {
           "term": "yucky",
           "phonetic": "[ˈjʌkɪ]",
-          "meaning": ""
+          "meaning": "恶心，讨厌，令人作呕"
         },
         {
           "term": "snowy",
@@ -358,12 +358,12 @@
         {
           "term": "Canada",
           "phonetic": "[ˈkænədə]",
-          "meaning": ""
+          "meaning": "加拿大，北美洲国家"
         },
         {
           "term": "Thailand",
           "phonetic": "[ˈtaɪlænd]",
-          "meaning": ""
+          "meaning": "泰国,东南亚国家"
         },
         {
           "term": "food",
@@ -373,7 +373,7 @@
         {
           "term": "Here comes ...",
           "phonetic": "[hɪə ˈkɒmz]",
-          "meaning": ""
+          "meaning": "即将到来，出现"
         },
         {
           "term": "circus",
@@ -398,7 +398,7 @@
         {
           "term": "planted",
           "phonetic": "[pla:ntɪd]",
-          "meaning": ""
+          "meaning": "种植，放置，安置"
         },
         {
           "term": "plant",
@@ -408,7 +408,7 @@
         {
           "term": "listened",
           "phonetic": "[ˈlɪsənd]",
-          "meaning": ""
+          "meaning": "听了，听见，收听"
         },
         {
           "term": "listen",
@@ -418,7 +418,7 @@
         {
           "term": "watched",
           "phonetic": "[wɒtʃt]",
-          "meaning": ""
+          "meaning": "观察，监视，注视"
         },
         {
           "term": "watch",
@@ -428,7 +428,7 @@
         {
           "term": "helped",
           "phonetic": "[helpt]",
-          "meaning": ""
+          "meaning": "帮助，协助，支持"
         },
         {
           "term": "help",
@@ -458,7 +458,7 @@
         {
           "term": "cooked",
           "phonetic": "[kukt]",
-          "meaning": ""
+          "meaning": "煮熟，烹饪，准备"
         },
         {
           "term": "cook",
@@ -468,7 +468,7 @@
         {
           "term": "called",
           "phonetic": "[kɔ:ld]",
-          "meaning": ""
+          "meaning": "称呼，命名，被称作"
         },
         {
           "term": "call",
@@ -493,7 +493,7 @@
         {
           "term": "the Tree Planting Day",
           "phonetic": "[ðə tri: ˈplɑ:ntɪŋ deɪ]",
-          "meaning": ""
+          "meaning": "植树节，树木种植日"
         },
         {
           "term": "last",
