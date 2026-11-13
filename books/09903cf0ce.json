@@ -13,7 +13,7 @@
         {
           "term": "Monday",
           "phonetic": "[ˈmʌndeɪ]",
-          "meaning": ""
+          "meaning": "星期一，工作日"
         },
         {
           "term": "day",
@@ -28,7 +28,7 @@
         {
           "term": "Tuesday",
           "phonetic": "[ˈtju:zdeɪ]",
-          "meaning": ""
+          "meaning": "星期二，周二"
         },
         {
           "term": "every",
@@ -38,17 +38,17 @@
         {
           "term": "Friday",
           "phonetic": "[ˈfraɪdeɪ]",
-          "meaning": ""
+          "meaning": "星期五，周五"
         },
         {
           "term": "Saturday",
           "phonetic": "[ˈsætədeɪ]",
-          "meaning": ""
+          "meaning": "周六，星期六"
         },
         {
           "term": "Sunday",
           "phonetic": "[ˈsʌndeɪ]",
-          "meaning": ""
+          "meaning": "星期日，周日"
         },
         {
           "term": "remember",
@@ -73,12 +73,12 @@
         {
           "term": "Wednesday",
           "phonetic": "[ˈwenzdeɪ]",
-          "meaning": ""
+          "meaning": "星期三，工作日"
         },
         {
           "term": "Thursday",
           "phonetic": "[ˈθɜ:zdeɪ]",
-          "meaning": ""
+          "meaning": "星期四，周四"
         },
         {
           "term": "visit",
@@ -108,7 +108,7 @@
         {
           "term": "... o'clock",
           "phonetic": "[əˈklɒk]",
-          "meaning": ""
+          "meaning": "几点，钟点"
         },
         {
           "term": "time",
@@ -128,7 +128,7 @@
         {
           "term": "have dinner",
           "phonetic": "[hæv ˈdɪnə]",
-          "meaning": ""
+          "meaning": "吃饭，进餐，用晚餐"
         },
         {
           "term": "fix",
@@ -193,22 +193,22 @@
         {
           "term": "get up",
           "phonetic": "[ɡet ʌp]",
-          "meaning": ""
+          "meaning": "起床，站立，起床去"
         },
         {
           "term": "have lunch",
           "phonetic": "[hæv lʌntʃ]",
-          "meaning": ""
+          "meaning": "吃午餐，用餐"
         },
         {
           "term": "go to bed",
           "phonetic": "[ɡəʊ tu: bed]",
-          "meaning": ""
+          "meaning": "上床睡觉，睡觉，就寝"
         },
         {
           "term": "do homework",
           "phonetic": "[du: ˈhəʊmwɜ:k]",
-          "meaning": ""
+          "meaning": "做作业，完成作业"
         }
       ]
     },
@@ -218,12 +218,12 @@
         {
           "term": "let's",
           "phonetic": "[lets]",
-          "meaning": ""
+          "meaning": "让我们，咱们，咱们一起"
         },
         {
           "term": "go to a movie",
           "phonetic": "[gəʊ tu: ə ˈmu:vɪ]",
-          "meaning": ""
+          "meaning": "去看电影，看电影"
         },
         {
           "term": "start",
@@ -243,7 +243,7 @@
         {
           "term": "amusement park",
           "phonetic": "[ˌəˈmju:zmənt pɑ:k]",
-          "meaning": ""
+          "meaning": "游乐园，主题公园"
         },
         {
           "term": "museum",
@@ -273,37 +273,37 @@
         {
           "term": "by bus",
           "phonetic": "[baɪ bʌs]",
-          "meaning": ""
+          "meaning": "乘坐，公交，公共交通"
         },
         {
           "term": "go to the library",
           "phonetic": "[gəʊ tu: ðə ˈlaɪbrərɪ]",
-          "meaning": ""
+          "meaning": "去图书馆，借书，查阅资料"
         },
         {
           "term": "play sports",
           "phonetic": "[pleɪ spɔ:ts]",
-          "meaning": ""
+          "meaning": "参加运动，进行体育活动"
         },
         {
           "term": "play games",
           "phonetic": "[pleɪ geɪmz]",
-          "meaning": ""
+          "meaning": "玩游戏，逗乐"
         },
         {
           "term": "by bike",
           "phonetic": "[baɪ baɪk]",
-          "meaning": ""
+          "meaning": "骑自行车，步行，骑行"
         },
         {
           "term": "by car",
           "phonetic": "[baɪ kɑ:(r)]",
-          "meaning": ""
+          "meaning": "乘坐汽车，驾车"
         },
         {
           "term": "by taxi",
           "phonetic": "[baɪ ˈtæksɪ]",
-          "meaning": ""
+          "meaning": "乘出租车，搭乘出租车"
         }
       ]
     },
@@ -338,7 +338,7 @@
         {
           "term": "weather report",
           "phonetic": "[ˈweðə rɪˈpɔ:t]",
-          "meaning": ""
+          "meaning": "天气预报，气象预报"
         },
         {
           "term": "cloudy",
@@ -353,7 +353,7 @@
         {
           "term": "stay at home",
           "phonetic": "[steɪ æt həʊm]",
-          "meaning": ""
+          "meaning": "在家，居家"
         },
         {
           "term": "rainy",
