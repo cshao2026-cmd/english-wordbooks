@@ -8,17 +8,17 @@
         {
           "term": "first floor",
           "phonetic": "[fɜ:st flɔ:]",
-          "meaning": ""
+          "meaning": "一楼，楼层，层"
         },
         {
           "term": "second floor",
           "phonetic": "[ˈsekənd flɔ:]",
-          "meaning": ""
+          "meaning": "楼层二，二楼"
         },
         {
           "term": "teacher's office",
           "phonetic": "[ˈti:tʃəs ˈɒfɪs]",
-          "meaning": ""
+          "meaning": "教师办公室，教师办公室"
         },
         {
           "term": "library",
@@ -33,22 +33,22 @@
         {
           "term": "computer room",
           "phonetic": "[kəmˈpju:tə ru:m]",
-          "meaning": ""
+          "meaning": "计算机室，机房"
         },
         {
           "term": "art room",
           "phonetic": "[ɑ:t ru:m]",
-          "meaning": ""
+          "meaning": "美术教室，绘画室"
         },
         {
           "term": "music room",
           "phonetic": "[ˈmju:zɪk ru:m]",
-          "meaning": ""
+          "meaning": "音乐室，音乐教室"
         },
         {
           "term": "next to",
           "phonetic": "[nekst tu:]",
-          "meaning": ""
+          "meaning": "紧挨着，旁边，紧接着"
         },
         {
           "term": "homework",
@@ -83,7 +83,7 @@
         {
           "term": "English class",
           "phonetic": "[ˈɪŋglɪʃ klɑ:s]",
-          "meaning": ""
+          "meaning": "英语课，英语教学"
         },
         {
           "term": "lunch",
@@ -93,12 +93,12 @@
         {
           "term": "music class",
           "phonetic": "[ˈmju:zɪk klɑ:s]",
-          "meaning": ""
+          "meaning": "音乐课，音乐教学"
         },
         {
           "term": "PE class",
           "phonetic": "[pi: i: klɑ:s]",
-          "meaning": ""
+          "meaning": "体育课，体育活动"
         },
         {
           "term": "dinner",
@@ -108,22 +108,22 @@
         {
           "term": "get up",
           "phonetic": "[ɡet ʌp]",
-          "meaning": ""
+          "meaning": "起床，站立，起床去"
         },
         {
           "term": "go to school",
           "phonetic": "[ɡəʊ tu: sku:l]",
-          "meaning": ""
+          "meaning": "上学，去学校，就读"
         },
         {
           "term": "go home",
           "phonetic": "[ɡəʊ həʊm]",
-          "meaning": ""
+          "meaning": "回家，返回家，归家"
         },
         {
           "term": "go to bed",
           "phonetic": "[ɡəʊ tu: bed]",
-          "meaning": ""
+          "meaning": "上床睡觉，睡觉，就寝"
         },
         {
           "term": "over",
@@ -138,7 +138,7 @@
         {
           "term": "o'clock",
           "phonetic": "[əˈklɒk]",
-          "meaning": ""
+          "meaning": "时间点，几点"
         },
         {
           "term": "kid",
@@ -153,17 +153,17 @@
         {
           "term": "hurry up",
           "phonetic": "[ˈhʌrɪ ʌp]",
-          "meaning": ""
+          "meaning": "加快，急忙，催促"
         },
         {
           "term": "come on",
           "phonetic": "[ˈkʌmˌɒn]",
-          "meaning": ""
+          "meaning": "催促，加油，快点"
         },
         {
           "term": "just a minute",
           "phonetic": "[dʒʌst ə ˈmɪnɪt]",
-          "meaning": ""
+          "meaning": "稍等，等一下，片刻"
         }
       ]
     },
@@ -223,7 +223,7 @@
         {
           "term": "be careful",
           "phonetic": "[bi: ˈkeəfl]",
-          "meaning": ""
+          "meaning": "小心，注意，谨慎"
         },
         {
           "term": "weather",
@@ -233,12 +233,12 @@
         {
           "term": "New York",
           "phonetic": "[ˈnju: ˈjɔ:k]",
-          "meaning": ""
+          "meaning": "纽约，美国城市，国际金融中心"
         },
         {
           "term": "how about",
           "phonetic": "[haʊ əˈbaʊt]",
-          "meaning": ""
+          "meaning": "提议，建议，询问意见"
         },
         {
           "term": "degree",
@@ -253,22 +253,22 @@
         {
           "term": "London",
           "phonetic": "[ˈlʌndən]",
-          "meaning": ""
+          "meaning": "伦敦，英国首都，国际大都市"
         },
         {
           "term": "Moscow",
           "phonetic": "[ˈmɒskəʊ]",
-          "meaning": ""
+          "meaning": "莫斯科，俄罗斯首都，政治中心"
         },
         {
           "term": "Singapore",
           "phonetic": "[sɪŋɡəˈpɔ:]",
-          "meaning": ""
+          "meaning": "新加坡，东南亚国家"
         },
         {
           "term": "Sydney",
           "phonetic": "[ˈsɪdnɪ]",
-          "meaning": ""
+          "meaning": "悉尼，澳大利亚城市，港口"
         },
         {
           "term": "fly",
@@ -298,7 +298,7 @@
         {
           "term": "green beans",
           "phonetic": "[ɡri:n bi:nz]",
-          "meaning": ""
+          "meaning": "青豆，四季豆"
         },
         {
           "term": "carrot",
@@ -473,7 +473,7 @@
         {
           "term": "sunglasses",
           "phonetic": "[ˈsʌnɡlɑ:sɪs]",
-          "meaning": ""
+          "meaning": "太阳镜，遮阳镜"
         },
         {
           "term": "pretty",
@@ -498,7 +498,7 @@
         {
           "term": "try on",
           "phonetic": "[traɪ ɒn]",
-          "meaning": ""
+          "meaning": "试穿，试戴，试用"
         },
         {
           "term": "size",
@@ -508,7 +508,7 @@
         {
           "term": "of course",
           "phonetic": "[ɒv kɔ:s]",
-          "meaning": ""
+          "meaning": "当然，自然，无疑"
         },
         {
           "term": "too",
@@ -523,7 +523,7 @@
         {
           "term": "how much",
           "phonetic": "[haʊ mʌtʃ]",
-          "meaning": ""
+          "meaning": "多少，数量，程度"
         },
         {
           "term": "eighty",
